@@ -1,5 +1,5 @@
 [
-  {
+     {
     "id": 1,
     "linkurl": "scrum-master",
     "category": "Agile",
@@ -33,15 +33,5 @@
         "include": "16 PDUs"
       }
     ]
-  },
-  {
-    "id": 2,
-    "category": "ITIL",
-    "course": "ITIL® 4 Foundation"
-  },
-  {
-    "id": 3,
-    "category": "DevOps",
-    "course": "DevOps Foundation"
   }
 ]
