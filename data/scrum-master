@@ -5,7 +5,7 @@
    "course": "Scrum Master (SMC®)",
    "schedules": [
       { "idx": 1, "date": "Contacta a un asesor para saber próximas fechas" },
-      { "idx": "", "date": "" }
+      { "idx": 2, "date": "Entró el cambio" }
    ],
    "modality": "Profesor en Vivo | ELearning",
    "duration": "16 horas",
