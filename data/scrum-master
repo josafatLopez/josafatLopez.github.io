@@ -1,109 +1,104 @@
-[
-   {
-      "id": 1,
-      "linkurl": "scrum-master",
-      "category": "Agile",
-      "course": "Scrum Master (SMC®)",
-      "schedules": [
-         {
-            "idx": 1,
-            "date": "Contacta a un asesor para saber próximas fechas"
-         }
-      ],
-      "modality": "Profesor en Vivo | ELearning",
-      "duration": "16 horas",
-      "description": "Scrum es el marco de trabajo ágil más popular, se trata de un método adaptable, rápido, flexible, y eficaz, diseñado para ofrecer un valor significativo de forma rápida y durante todo el proyecto. Los Scrum Master Certified (SMC ™) son facilitadores que aseguran que el equipo de Scrum está provisto de un entorno propicio para completar el proyecto con éxito. Los Scrum Master facilitan, y enseñan prácticas de Scrum a todos los involucrados en el proyecto, remueve los impedimentos para el equipo, y asegura que los procesos Scrum se están siguiendo de manera correcta para el logro de objetivos.",
-      "logourl": "",
-      "includes": [
-         {
-            "idx": 1,
-            "include": "Material oficial acreditado para el participante por SCRUMstudy"
-         },
-         {
-            "idx": 2,
-            "include": "Ejercicios de revisión"
-         },
-         {
-            "idx": 3,
-            "include": "Copia digital de la guía SBOK™"
-         },
-         {
-            "idx": 4,
-            "include": "Diploma de finalización de curso"
-         },
-         {
-            "idx": 5,
-            "include": "Examen de certificación oficial por parte de SCRUMstudy"
-         },
-         {
-            "idx": 6,
-            "include": "16 PDUs"
-         }
-      ],
-      "benefits": [
-         {
-            "idx": 1,
-            "benefit": "Ser capaz de guiar y enseñar prácticas de Scrum a todos los involucrados en el proyecto, eliminar los obstáculos para el equipo y asegurar que los pasos se están siguiendo Scrum."
-         },
-         {
-            "idx": 2,
-            "benefit": "Obtener un entendimiento profundo de la filosofía y principios de Scrum."
-         },
-         {
-            "idx": 3,
-            "benefit": "Obtener un conocimiento práctico de Scrum, incluidos los roles, reuniones y artefactos."
-         },
-         {
-            "idx": 4,
-            "benefit": "Sentirse cómodo de implementar Scrum en las organizaciones, así como en la gestión de los problemas comunes."
-         },
-         {
-            "idx": 5,
-            "benefit": "Obtener el certificado de Scrum."
-         }
-      ],
-      "forwho": [
-         {
-            "idx": 1,
-            "qualities": "Cualquier persona que esté interesada en trabajar como Scrum Master."
-         },
-         {
-            "idx": 2,
-            "qualities": "Cualquier persona que ya sea un Scrum Master en su organización."
-         },
-         {
-            "idx": 3,
-            "qualities": "Un Scrum Master es un papel importante en cualquier equipo de Scrum y no tiene que ser un experto en tecnología para ser eficaz."
-         },
-         {
-            "idx": 4,
-            "qualities": "A pesar de que Scrum es muy popular en la industria de TI, Scrum puede ser utilizado de manera efectiva en cualquier tipo de industria."
-         }
-      ],
-      "exam": [
-         {
-            "idx": 1,
-            "characteristics": "Tiempo asignado: 120 minutos"
-         },
-         {
-            "idx": 2,
-            "characteristics": "Cantidad de preguntas: 100 opción múltiple"
-         },
-         {
-            "idx": 3,
-            "characteristics": "Calificación aprobatoria: 57% (57 respuestas correctas)"
-         },
-         {
-            "idx": 4,
-            "characteristics": "Formato: En línea o Papel; a libro cerrado"
-         },
-         {
-            "idx": 5,
-            "characteristics": "Prerrequisitos: Se recomienda haber completado el curso de Fundamentos de Scrum en línea que es de manera gratuita (acceso proporcionado a inscripción en el curso)."
-         }
-      ]
-   },
-   {
-      "linkurl": "invalid"
-   }
-]
+{
+   "id": 1,
+   "linkurl": "scrum-master",
+   "category": "Agile",
+   "course": "Scrum Master (SMC®)",
+   "schedules": [
+      {
+         "idx": 1,
+         "date": "Contacta a un asesor para saber próximas fechas"
+      }
+   ],
+   "modality": "Profesor en Vivo | ELearning",
+   "duration": "16 horas",
+   "description": "Scrum es el marco de trabajo ágil más popular, se trata de un método adaptable, rápido, flexible, y eficaz, diseñado para ofrecer un valor significativo de forma rápida y durante todo el proyecto. Los Scrum Master Certified (SMC ™) son facilitadores que aseguran que el equipo de Scrum está provisto de un entorno propicio para completar el proyecto con éxito. Los Scrum Master facilitan, y enseñan prácticas de Scrum a todos los involucrados en el proyecto, remueve los impedimentos para el equipo, y asegura que los procesos Scrum se están siguiendo de manera correcta para el logro de objetivos.",
+   "logourl": "",
+   "includes": [
+      {
+         "idx": 1,
+         "include": "Material oficial acreditado para el participante por SCRUMstudy"
+      },
+      {
+         "idx": 2,
+         "include": "Ejercicios de revisión"
+      },
+      {
+         "idx": 3,
+         "include": "Copia digital de la guía SBOK™"
+      },
+      {
+         "idx": 4,
+         "include": "Diploma de finalización de curso"
+      },
+      {
+         "idx": 5,
+         "include": "Examen de certificación oficial por parte de SCRUMstudy"
+      },
+      {
+         "idx": 6,
+         "include": "16 PDUs"
+      }
+   ],
+   "benefits": [
+      {
+         "idx": 1,
+         "benefit": "Ser capaz de guiar y enseñar prácticas de Scrum a todos los involucrados en el proyecto, eliminar los obstáculos para el equipo y asegurar que los pasos se están siguiendo Scrum."
+      },
+      {
+         "idx": 2,
+         "benefit": "Obtener un entendimiento profundo de la filosofía y principios de Scrum."
+      },
+      {
+         "idx": 3,
+         "benefit": "Obtener un conocimiento práctico de Scrum, incluidos los roles, reuniones y artefactos."
+      },
+      {
+         "idx": 4,
+         "benefit": "Sentirse cómodo de implementar Scrum en las organizaciones, así como en la gestión de los problemas comunes."
+      },
+      {
+         "idx": 5,
+         "benefit": "Obtener el certificado de Scrum."
+      }
+   ],
+   "forwho": [
+      {
+         "idx": 1,
+         "qualities": "Cualquier persona que esté interesada en trabajar como Scrum Master."
+      },
+      {
+         "idx": 2,
+         "qualities": "Cualquier persona que ya sea un Scrum Master en su organización."
+      },
+      {
+         "idx": 3,
+         "qualities": "Un Scrum Master es un papel importante en cualquier equipo de Scrum y no tiene que ser un experto en tecnología para ser eficaz."
+      },
+      {
+         "idx": 4,
+         "qualities": "A pesar de que Scrum es muy popular en la industria de TI, Scrum puede ser utilizado de manera efectiva en cualquier tipo de industria."
+      }
+   ],
+   "exam": [
+      {
+         "idx": 1,
+         "characteristics": "Tiempo asignado: 120 minutos"
+      },
+      {
+         "idx": 2,
+         "characteristics": "Cantidad de preguntas: 100 opción múltiple"
+      },
+      {
+         "idx": 3,
+         "characteristics": "Calificación aprobatoria: 57% (57 respuestas correctas)"
+      },
+      {
+         "idx": 4,
+         "characteristics": "Formato: En línea o Papel; a libro cerrado"
+      },
+      {
+         "idx": 5,
+         "characteristics": "Prerrequisitos: Se recomienda haber completado el curso de Fundamentos de Scrum en línea que es de manera gratuita (acceso proporcionado a inscripción en el curso)."
+      }
+   ]
+}
