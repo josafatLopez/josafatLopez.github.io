@@ -1,6 +1,7 @@
 [
    {
      "id" : 1,
+     "linkurl" : "scrum-master",
      "category" : "Agile",
      "course" : "Scrum Master (SMC®)",
      "schedules" : [
