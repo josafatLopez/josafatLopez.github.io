@@ -38,5 +38,61 @@
       { "idx": 3, "characteristics": "Calificación aprobatoria: 57% (57 respuestas correctas)" },
       { "idx": 4, "characteristics": "Formato: En línea o Papel; a libro cerrado" },
       { "idx": 5, "characteristics": "Prerrequisitos: Se recomienda haber completado el curso de Fundamentos de Scrum en línea que es de manera gratuita (acceso proporcionado a inscripción en el curso)." }
+   ],
+   "content": [
+      {
+         "idx" : 1,
+         "unit" : "Revisión a Agile", 
+         "topics" : [
+           "El origen de Agile",
+           "El Manifesto de Agile",
+           "Los Principios del Manifesto de Agile",
+           "Declaración de Interdependencia",
+           "Métodos Agiles",
+           "Gestión de proyectos Tradicional vs. Agile"
+         ]
+      },
+      {
+         "idx" : 2,
+         "unit" : "Vistazo a Scrum", 
+         "topics" : [
+           "Principios de Scrum",
+           "Aspectos de Scrum",
+           "Procesos de Scrum",
+           "Ventajas de Scrum"
+         ]
+      },
+      {
+         "idx" : 3,
+         "unit" : "Roles de Scrum", 
+         "topics" : [
+           "Roles centrales",
+           "Roles no centrales"
+         ]
+      },
+      {
+         "idx" : 4,
+         "unit" : "Fases de Scrum", 
+         "topics" : [
+           "Iniciar",
+           "Planear y Estimar",
+           "Implementar",
+           "Revisar y ver en retrospectiva",
+           "Liberar"
+         ]
+      },
+      {
+         "idx" : 5,
+         "unit" : "Adaptar Scrum", 
+         "topics" : [
+           "Adaptabilidad de Scrum",
+           "Scrum en Programas y Portafolios",
+           "Junta de Scrum de Scrums (SoS)",
+           "Transición a Scrum",
+           "Mapear los Roles Tradicionales a Scrum",
+           "Mantener el Involucramiento de los Stakeholders",
+           "Importancia del Apoyo Ejecutivo"
+         ]
+      }
    ]
 }
