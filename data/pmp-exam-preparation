@@ -84,7 +84,7 @@
       },
       {
          "idx" : 4,
-         "unit" : "Fases", 
+         "unit" : "Mantener al Equipo en el Camino", 
          "topics" : [
            { "idx":"4.1", "topic":"Liderar al Equipo" },
            { "idx":"4.2", "topic":"Soportar el Desempeño del Equipo" },
@@ -97,7 +97,7 @@
       },
       {
          "idx" : 5,
-         "unit" : "Adaptar", 
+         "unit" : "Mantener al Negocio en Mente", 
          "topics" : [
             { "idx":"5.1", "topic":"Gestionar los Requerimientos de Cumplimiento" },
             { "idx":"5.2", "topic":"Evaluar y Entregar el Valor y los Beneficios del Proyecto" },
@@ -108,7 +108,7 @@
       },
       {
          "idx" : 6,
-         "unit" : "Adaptar", 
+         "unit" : "Apéndice A: Mapear el Contenido del Curso con la Descripción del Contenido del Examen de PMP®", 
          "topics" : []
       }
    ]
