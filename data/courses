@@ -22,5 +22,11 @@
       "linkurl": "certified-ethical-hacker",
       "category": "Ciberseguridad",
       "course": "Certified Ethical Hacker v11 (CEH)"
+   },
+   {
+      "id": 5,
+      "linkurl": "information-security-foundation-iso-iec-27001",
+      "category": "Seguridad de la Información",
+      "course": "Information Security Foundation - ISO/IEC 27001"
    }
 ]

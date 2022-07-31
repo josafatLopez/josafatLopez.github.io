@@ -7,7 +7,7 @@
       { "idx": 1, "date": "Contacta a un asesor para saber próximas fechas" },
       { "idx": 2, "date": "" }
    ],
-   "modality": "Profesor en Vivo | ELearning",
+   "modality": "Profesor en Vivo",
    "duration": "40 horas",
    "description": "La credencial de CEH es la certificación más confiable de hackeo ético recomendada por empleadores mundialmente. Es la certificación de seguridad de la información más deseada y representa una de las ciber credenciales de mayor crecimiento requeridas por infraestructuras críticas y prestadores de servicios esenciales. Desde su presentación en 2003, es reconocida como un estándar dentro de la comunidad de seguridad de la información. CEH v11 continúa presentando las técnicas de hackeo más recientes y los exploits y las herramientas de hackeo más avanzadas utilizadas por hackers y profesionales en seguridad de la información actualmente. Las cinco fases de Ethical Hacking y la misión central original de CEH permanece valida y relevante actualmente. “Para vencer al hacker, se debe pensar como un hacker.”",
    "logourl": "",
@@ -41,16 +41,15 @@
       { "idx": 21, "benefit": "Cifrados de criptografía, Infraestructura de Llave Pública (PKI), criptografía." }
    ],
    "forwho": [
-      { "idx": 1, "qualities": "Cualquier" },
-      { "idx": 2, "qualities": "Administrador / Analista de Seguridad de la Información" },
-      { "idx": 3, "qualities": "Oficial de Seguridad de Aseguramiento de la Información" },
-      { "idx": 4, "qualities": "Especialista / Gestor de Seguridad de la Información" },
-      { "idx": 5, "qualities": "Gestor / Ingeniero de Seguridad de Sistemas de Información" },
-      { "idx": 6, "qualities": "Oficiales / Profesionales de Seguridad de la Información" },
-      { "idx": 7, "qualities": "Auditores de TI / en Seguridad de la Información" },
-      { "idx": 8, "qualities": "Analista de Vulnerabilidades / Amenazas / Riesgos" },
-      { "idx": 9, "qualities": "Administradores de Sistemas" },
-      { "idx": 10, "qualities": "Ingenieros y Administradores de Redes" }
+      { "idx": 1, "qualities": "Administrador / Analista de Seguridad de la Información" },
+      { "idx": 2, "qualities": "Oficial de Seguridad de Aseguramiento de la Información" },
+      { "idx": 3, "qualities": "Especialista / Gestor de Seguridad de la Información" },
+      { "idx": 4, "qualities": "Gestor / Ingeniero de Seguridad de Sistemas de Información" },
+      { "idx": 5, "qualities": "Oficiales / Profesionales de Seguridad de la Información" },
+      { "idx": 6, "qualities": "Auditores de TI / en Seguridad de la Información" },
+      { "idx": 7, "qualities": "Analista de Vulnerabilidades / Amenazas / Riesgos" },
+      { "idx": 8, "qualities": "Administradores de Sistemas" },
+      { "idx": 9, "qualities": "Ingenieros y Administradores de Redes" }
    ],
    "exam": [
       { "idx": 1, "characteristics": "Criterio de Elegibilidad: Para ser elegible para presentar el examen de EC-Council CEH, el candidato tiene dos opciones:" },

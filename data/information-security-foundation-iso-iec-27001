@@ -1,0 +1,140 @@
+{
+   "id": 5,
+   "linkurl": "information-security-foundation-iso-iec-27001",
+   "category": "Seguridad de la Información",
+   "course": "Information Security Foundation - ISO/IEC 27001",
+   "schedules": [
+      { "idx": 1, "date": "Contacta a un asesor para saber próximas fechas" },
+      { "idx": 2, "date": "" }
+   ],
+   "modality": "Profesor en Vivo",
+   "duration": "16 horas",
+   "description": "Las empresas deben proteger su información valiosa comenzando por informar y educar a sus empleados. Este curso introduce al participante a los términos básicos, conceptos, principios y controles de seguridad de la información, basado en la norma ISO/IEC 27001, que es la guía de prácticas para la seguridad de la información más ampliamente usado en el mundo. Este programa de formación hace que la gente en la organización esté consciente de su papel en la protección y gestión de información de forma segura, proporcionando las habilidades para identificar amenazas a la seguridad de la información y reaccionar a ellos correctamente.",
+   "logourl": "",
+   "courseincludes": [
+      { "idx": 1, "include": "Material oficial acreditado para el participante" },
+      { "idx": 2, "include": "Ejercicios de revisión" },
+      { "idx": 3, "include": "Exámenes de simulación" },
+      { "idx": 4, "include": "Diploma de finalización de curso" },
+      { "idx": 5, "include": "Examen de certificación oficial por parte de EXIN" },
+      { "idx": 6, "include": "16 PDUs" }
+   ],
+   "benefits": [
+      { "idx": 1, "benefit": "Aprender la importancia de la confidencialidad, integridad y disponibilidad de la información." },
+      { "idx": 2, "benefit": "Aprender los tipos de riesgos, amenazas y daños, las estrategias de riesgo disponibles y las medidas de seguridad que se pueden tomar." },
+      { "idx": 3, "benefit": "Obtenga una visión de las políticas de seguridad de una organización, incluyendo el código de conducta, la propiedad, los roles y responsabilidades." },
+      { "idx": 4, "benefit": "Ser capaz de reaccionar y gestionar los incidentes de seguridad." },
+      { "idx": 5, "benefit": "Aprender varias medidas de seguridad, físicas, técnicas y organizacionales." },
+      { "idx": 6, "benefit": "Tenga en cuenta las legislaciones y regulaciones más importantes." }
+   ],
+   "forwho": [
+      { "idx": 1, "qualities": "Todos los empleados, desde los trabajadores administrativos hasta el director general, se trata de información valiosa." }
+   ],
+   "exam": [
+      { "idx": 1, "characteristics": "Tiempo asignado: 60 minutos" },
+      { "idx": 2, "characteristics": "Cantidad de preguntas: 40 de opción múltiple" },
+      { "idx": 3, "characteristics": "Calificación aprobatoria: 65% (26 respuestas correctas)" },
+      { "idx": 4, "characteristics": "Formato: En línea o Papel; a libro cerrado" },
+      { "idx": 5, "characteristics": "Prerrequisitos: Se recomiendan por lo menos 4 horas de estudio personal durante el curso." }
+   ],
+   "content": [
+      {
+         "idx" : 1,
+         "unit" : "Introducción a la Seguridad de la Información", 
+         "topics" : [
+            { "idx":"1.1", "topic":"Información" },
+            { "idx":"1.2", "topic":"Gestión de la Información" },
+            { "idx":"1.3", "topic":"Aspectos de Confiabilidad" },
+            { "idx":"1.4", "topic":"Diseño de Sistemas de Información Seguros" },
+            { "idx":"1.5", "topic":"Información y Procesos Operativos" },
+            { "idx":"1.6", "topic":"Arquitectura de la Información" }
+         ]
+      },
+      {
+         "idx" : 2,
+         "unit" : "Amenazas y Riesgos", 
+         "topics" : [
+            { "idx":"2.1", "topic":"Gestión de Riesgos" },
+            { "idx":"2.2", "topic":"Análisis de Riesgos" },
+            { "idx":"2.3", "topic":"Amenazas" },
+            { "idx":"2.4", "topic":"Daño" },
+            { "idx":"2.5", "topic":"Estrategias" },
+            { "idx":"2.6", "topic":"Pautas para implementar medidas de seguridad" }
+         ]
+      },
+      {
+         "idx" : 3,
+         "unit" : "Enfoque y Organización", 
+         "topics" : [
+            { "idx":"3.1", "topic":"Política de Seguridad" },
+            { "idx":"3.2", "topic":"Organización de la Seguridad de la Información" },
+            { "idx":"3.3", "topic":"Código de Conducta" },
+            { "idx":"3.4", "topic":"Activos de Negocio" },
+            { "idx":"3.5", "topic":"Roles" },
+            { "idx":"3.6", "topic":"Gestión de Incidentes" }
+         ]
+      },
+      {
+         "idx" : 4,
+         "unit" : "Medidas de Seguridad", 
+         "topics" : [
+            { "idx":"4.1", "topic":"Tipos de Medidas de Seguridad" },
+            { "idx":"4.2", "topic":"Riesgos y Medidas de Seguridad" },
+            { "idx":"4.3", "topic":"Clasificación de la Información" },
+            { "idx":"4.4", "topic":"Medidas de Seguridad Física" },
+            { "idx":"4.5", "topic":"Medidas Técnicas" },
+            { "idx":"4.6", "topic":"Medidas de Seguridad Organizacional" }
+         ]
+      },
+      {
+         "idx" : 4,
+         "unit" : "Legislación y Regulaciones", 
+         "topics" : [
+            { "idx":"5.1", "topic":"Conformidad" },
+            { "idx":"5.2", "topic":"Importancia de la Legislaciones y las Regulaciones" },
+            { "idx":"5.3", "topic":"Legislación de la Seguridad de la Información" },
+            { "idx":"5.4", "topic":"Actos Legislativos" },
+            { "idx":"5.5", "topic":"Regulaciones de la Seguridad de la Información" },
+            { "idx":"5.6", "topic":"Medidas de Legislación y Regulaciones" }
+         ]
+      },
+      {
+         "idx" : 6,
+         "unit" : "Normas ISO/IEC 27000", 
+         "topics" : [
+           { "idx":"6.1", "topic":"Introducción" },
+           { "idx":"6.2", "topic":"ISO/IEC 27001" },
+           { "idx":"6.3", "topic":"ISO/IEC 27002" }
+         ]
+      },
+      {
+         "idx" : 7,
+         "unit" : "Esquema de Calificación", 
+         "topics" : [
+           { "idx":"7.1", "topic":"Esquema de Calificación" },
+           { "idx":"7.2", "topic":"Información para contactar a EXIN" }
+         ]
+      },
+      {
+         "idx" : 8,
+         "unit" : "Descripción del Examen", 
+         "topics" : [
+           { "idx":"8.1", "topic":"Formato del examen" },
+           { "idx":"8.2", "topic":"Contenido del examen de EXIN" },
+           { "idx":"8.3", "topic":"Consejos para contestar el examen" }
+         ]
+      },
+      {
+         "idx" : 9,
+         "unit" : "Repaso, Evaluación y Examinación", 
+         "topics" : [
+            { "idx":"9.1", "topic":"Repaso general" },
+            { "idx":"9.2", "topic":"Examen de preparación" },
+            { "idx":"9.3", "topic":"Revisión del examen de preparación" },
+            { "idx":"9.4", "topic":"Evaluación del curso" },
+            { "idx":"9.5", "topic":"Constancia del curso" },
+            { "idx":"9.6", "topic":"Examen de certificación" }
+         ]
+      }
+   ]
+}
