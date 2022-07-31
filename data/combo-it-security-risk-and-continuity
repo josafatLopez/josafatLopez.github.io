@@ -135,6 +135,137 @@
             { "idx":"1.9.5", "topic":"Constancia del curso" },
             { "idx":"1.9.6", "topic":"Examen de certificación" }
          ]
+      },
+      {
+         "idx" : 2.1,
+         "unit" : "Introducción y Definiciones (Continuidad del Negocio)", 
+         "topics" : [
+            { "idx":"2.1.1", "topic":"Introducción" },
+            { "idx":"2.1.2", "topic":"Alcance" },
+            { "idx":"2.1.3", "topic":"Referencias Normativas" },
+            { "idx":"2.1.4", "topic":"Términos y Definiciones" },
+            { "idx":"2.1.5", "topic":"Antecedentes" },
+            { "idx":"2.1.6", "topic":"Beneficios" }
+         ]
+      },
+      {
+         "idx" : 2.2,
+         "unit" : "Proceso de Gestión de Riesgos de Seguridad de la Información", 
+         "topics" : [
+            { "idx":"2.2.1", "topic":"Proceso de Gestión de Riesgos de Seguridad de la Información" },
+            { "idx":"2.2.2", "topic":"Actividades del Proceso de Gestión de Riesgos de Seguridad de la Información" }
+         ]
+      },
+      {
+         "idx" : 2.3,
+         "unit" : "Establecimiento del Contexto de Gestión de Riesgos de Seguridad de la Información", 
+         "topics" : [
+            { "idx":"2.3.1", "topic":"Consideraciones Generales" },
+            { "idx":"2.3.2", "topic":"Criterios" },
+            { "idx":"2.3.3", "topic":"Alcance y Fronteras" },
+            { "idx":"2.3.4", "topic":"Organización para la Gestión de Riesgos de Seguridad de la Información" }
+         ]
+      },
+      {
+         "idx" : 2.4,
+         "unit" : "Valoración de Riesgos de Seguridad de la Información", 
+         "topics" : [
+            { "idx":"2.4.1", "topic":"Descripción General de la Valoración de Riesgos de Seguridad de la Información" },
+            { "idx":"2.4.2", "topic":"Análisis de Riesgos" },
+            { "idx":"2.4.3", "topic":"Evaluación de Riesgos" }
+         ]
+      },
+      {
+         "idx" : 2.5,
+         "unit" : "Tratamiento de Riesgos de Seguridad de la Información", 
+         "topics" : [
+            { "idx":"2.5.1", "topic":"Descripción General del Tratamiento de Riesgos" },
+            { "idx":"2.5.2", "topic":"Reducción de Riesgos" },
+            { "idx":"2.5.3", "topic":"Retención de Riesgos" },
+            { "idx":"2.5.4", "topic":"Evasión de Riesgos" },
+            { "idx":"2.5.5", "topic":"Transferencia de Riesgos" },
+            { "idx":"2.5.6", "topic":"Aceptación de Riesgos" }
+         ]
+      },
+      {
+         "idx" : 2.6,
+         "unit" : "Monitoreo, Revisión y Comunicación de Riesgos de Seguridad de la Información", 
+         "topics" : [
+            { "idx":"2.6.1", "topic":"Monitoreo y Revisión" },
+            { "idx":"2.6.2", "topic":"Comunicación" }
+         ]
+      },
+      {
+         "idx" : 3.1,
+         "unit" : "Introducción a la Gestión de Riesgos de Seguridad de la Información", 
+         "topics" : [
+            { "idx":"3.1.1", "topic":"Objetivo del Sistema de Gestión de la Continuidad del Negocio" },
+            { "idx":"3.1.2", "topic":"El Modelo Planear-Hacer-Verificar-Actuar" },
+            { "idx":"3.1.3", "topic":"Definiciones" }
+         ]
+      },
+      {
+         "idx" : 3.2,
+         "unit" : "Planear el Sistema de Gestión de la Continuidad del Negocio", 
+         "topics" : [
+            { "idx":"3.2.1", "topic":"Entender la Organización y su Contexto" },
+            { "idx":"3.2.2", "topic":"Entender las Necesidades y las Expectativas de las Partes Interesadas" },
+            { "idx":"3.2.3", "topic":"La Importancia de los Requerimientos Regulatorios y Legales" },
+            { "idx":"3.2.4", "topic":"Determinar el Alcance del Sistema de Gestión de la Continuidad del Negocio" },
+            { "idx":"3.2.5", "topic":"Sistema de Gestión de la Continuidad del Negocio" },
+            { "idx":"3.2.6", "topic":"Liderazgo, Compromiso, Roles y Responsabilidades" },
+            { "idx":"3.2.7", "topic":"Gestión de Riesgos" },
+            { "idx":"3.2.8", "topic":"Definición de los Objetivos de Continuidad del Negocio" },
+            { "idx":"3.2.9", "topic":"Provisión de los Recursos" }
+         ]
+      },
+      {
+         "idx" : 3.3,
+         "unit" : "Implementar y Operar el Sistema de Gestión de la Continuidad del Negocio", 
+         "topics" : [
+            { "idx":"3.3.1", "topic":"Planeación y Control Operacional" },
+            { "idx":"3.3.2", "topic":"Análisis de Impacto al Negocio y Valoración de Riesgos" },
+            { "idx":"3.3.3", "topic":"Estrategia de Continuidad del Negocio" },
+            { "idx":"3.3.4", "topic":"Procedimientos de Continuidad del Negocio" },
+            { "idx":"3.3.5", "topic":"Ejercicios y Pruebas" }
+         ]
+      },
+      {
+         "idx" : 3.4,
+         "unit" : "Monitorear y Revisar el Sistema de Gestión de la Continuidad del Negocio", 
+         "topics" : [
+            { "idx":"3.4.1", "topic":"Monitoreo y Evaluación" },
+            { "idx":"3.4.2", "topic":"Auditoría Interna" },
+            { "idx":"3.4.3", "topic":"Revisión de la Dirección" }
+         ]
+      },
+      {
+         "idx" : 3.5,
+         "unit" : "Mantener y Mejorar el Sistema de Gestión de la Continuidad del Negocio", 
+         "topics" : [
+            { "idx":"3.5.1", "topic":"No Conformidad y Acción Correctiva" },
+            { "idx":"3.5.2", "topic":"Mejora Continua" }
+         ]
+      },
+      {
+         "idx" : 3.6,
+         "unit" : "Descripción del Examen", 
+         "topics" : [
+            { "idx":"3.6.1", "topic":"Formato del examen" },
+            { "idx":"3.6.2", "topic":"Consejos para contestar el examen" }
+         ]
+      },
+      {
+         "idx" : 3.7,
+         "unit" : "Revisión, Evaluación y Examinación", 
+         "topics" : [
+            { "idx":"3.7.1", "topic":"Revisión General" },
+            { "idx":"3.7.2", "topic":"Examen de Preparación" },
+            { "idx":"3.7.3", "topic":"Revisión del Examen de Preparación" },
+            { "idx":"3.7.4", "topic":"Evaluación del Curso" },
+            { "idx":"3.7.5", "topic":"Certificado del Curso" },
+            { "idx":"3.7.6", "topic":"Examen de Certificación" }
+         ]
       }
    ]
 }
