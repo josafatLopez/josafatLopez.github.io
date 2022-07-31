@@ -16,5 +16,11 @@
       "linkurl": "pmp-exam-preparation",
       "category": "PMI",
       "course": "PMI® Authorized PMP® Exam Prep Course"
+   },
+   {
+      "id": 4,
+      "linkurl": "certified-ethical-hacker",
+      "category": "Ciberseguridad",
+      "course": "Certified Ethical Hacker v11 (CEH)"
    }
 ]
