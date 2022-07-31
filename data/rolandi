@@ -38,7 +38,7 @@
                   "pallets": [
                      { "id": 10, "idx": 1, "disponibility": "0", "num": 10, "name": "Lomo" },
                      { "id": 11, "idx": 2, "disponibility": "0", "num": 11, "name": "Panceta" },
-                     { "id": 12, "idx": 3, "disponibility": "0", "num": 12, "name": "Jamón" }
+                     { "id": 12, "idx": 3, "disponibility": "1", "num": 12, "name": "Jamón" }
                   ]
                },
                {
