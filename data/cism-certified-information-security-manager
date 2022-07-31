@@ -1,0 +1,76 @@
+{
+   "id": 7,
+   "linkurl": "cism-certified-information-security-manager",
+   "category": "Seguridad de la Información",
+   "course": "CISM® (Certified Information Security Manager®)",
+   "schedules": [
+      { "idx": 1, "date": "Contacta a un asesor para saber próximas fechas" },
+      { "idx": 2, "date": "" }
+   ],
+   "modality": "Profesor en Vivo | ELearning",
+   "duration": "40 horas",
+   "description": "En un mundo donde el éxito empresarial depende cada vez más de los sistemas de información y de las tecnologías de la información, la confianza que tienen los clientes, empleados y otras partes interesadas en una empresa puede disiparse rápidamente en el caso de una brecha de seguridad de los datos. Las fallas en la seguridad pueden resultar en daños importantes a una empresa así como a su reputación. Para asegurar una alineación cada vez mayor entre los programas de seguridad de la información y sus metas y objetivos cada vez más amplios, cada vez más empresas y agencias de gobierno esperan y requieren, que sus profesionales en seguridad de la información tengan el certificado de Certified Information Security Manager® (CISM®).",
+   "logourl": "",
+   "courseincludes": [
+      { "idx": 1, "include": "Material oficial acreditado para el participante" },
+      { "idx": 2, "include": "Ejercicios de revisión" },
+      { "idx": 3, "include": "Examen de prueba™" },
+      { "idx": 4, "include": "Diploma de finalización de curso" },
+      { "idx": 5, "include": "Examen de certificación oficial por parte de ISACA" }
+   ],
+   "benefits": [
+      { "idx": 1, "benefit": "Demostrar un entendimiento del negocio." },
+      { "idx": 2, "benefit": "Comprender cómo gestionar y adaptar la tecnología a su empresa e industria." },
+      { "idx": 3, "benefit": "Demostrar su entendimiento y la relación entre el programa de seguridad de la información y las metas del negocio." },
+      { "idx": 4, "benefit": "Distinguirse como una persona que no solo tiene experiencia en seguridad de la información, sino también conocimiento y experiencia en el desarrollo y gestión de un programa de seguridad de la información." },
+      { "idx": 5, "benefit": "Ser reconocido por su competencia técnica, experiencia y apreciación de los objetivos del negocio." },
+      { "idx": 6, "benefit": "Obtener la capacidad de comprender y articular problemas desafiantes de gestión de seguridad y complejos que pueden impactar significativamente el éxito de una empresa." },
+      { "idx": 7, "benefit": "Ser reconocido dentro de los profesionales más calificados en los campos de gestión de riesgos y seguridad de la información." }
+   ],
+   "forwho": [
+      { "idx": 1, "qualities": "Gerentes de Seguridad de la Información" },
+      { "idx": 2, "qualities": "Aspirantes a Gerente de Seguridad de la Información" },
+      { "idx": 3, "qualities": "Consultores de TI" },
+      { "idx": 4, "qualities": "Consultores de Seguridad de la Información" },
+      { "idx": 5, "qualities": "Directores de Información" }
+   ],
+   "exam": [
+      { "idx": 1, "characteristics": "Fechas: ISACA programa tres temporadas en el año para programar el examen" },
+      { "idx": 2, "characteristics": "Tiempo asignado: 240 minutos" },
+      { "idx": 3, "characteristics": "Cantidad de preguntas: 150 de opción múltiple" },
+      { "idx": 4, "characteristics": "Formato: En línea o Papel; a libro cerrado" },
+      { "idx": 5, "characteristics": "Requerimientos de Elegibilidad: Cinco años o más de experiencia en gestión de seguridad de la información. Se permiten exenciones por un máximo de 2 años." },
+      { "idx": 6, "characteristics": "Idiomas disponibles: Inglés y español" },
+      { "idx": 6, "characteristics": "Calificación aprobatoria: La calificación del candidato se reporta como una calificación en escala. Una calificación en escala es una conversión de la calificación en bruto del candidato a una escala común. ISACA utiliza y reporta calificaciones en una escala común de 200 a 800. Por ejemplo, la calificación en escala de 800 representa una calificación perfecta con todas las preguntas contestadas correctamente; una calificación en escala de 200 es la calificación más baja posible y significa que únicamente una pequeña cantidad de preguntas fueron contestadas correctamente. Un candidato debe recibir una calificación de 450 o mayor para aprobar el examen)" }
+   ],
+   "content": [
+      {
+         "idx" : 1,
+         "unit" : "Dominio 1", 
+         "topics" : [
+           { "idx":"1.1", "topic":"Gobierno de Seguridad de la Información (24%)" }
+         ]
+      },
+      {
+         "idx" : 2,
+         "unit" : "Dominio 2", 
+         "topics" : [
+           { "idx":"2.1", "topic":"Gestión de Riesgos de Información (30%)" }
+         ]
+      },
+      {
+         "idx" : 3,
+         "unit" : "Dominio 3", 
+         "topics" : [
+           { "idx":"3.1", "topic":"Desarrollo y Gestión del Programa de Seguridad de la Información (27%)" }
+         ]
+      },
+      {
+         "idx" : 4,
+         "unit" : "Dominio 4", 
+         "topics" : [
+           { "idx":"4.1", "topic":"Information Security Incident Management (19%)" }
+         ]
+      }
+   ]
+}
