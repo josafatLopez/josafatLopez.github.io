@@ -39,6 +39,15 @@
    ],
    "content": [
       {
+         "idx" : "",
+         "unit" : "Días del curso", 
+         "topics" : [
+            { "idx":"1", "topic":"Días 1 y 2" },
+            { "idx":"2", "topic":"Día 3 y 4" },
+            { "idx":"3", "topic":"Día 5" }
+         ]
+      },
+      {
          "idx" : 1.1,
          "unit" : "Introducción a la Seguridad de la Información", 
          "topics" : [
