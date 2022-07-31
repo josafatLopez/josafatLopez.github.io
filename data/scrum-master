@@ -34,7 +34,7 @@
    ],
    "exam": [
       { "idx": 1, "characteristics": "Tiempo asignado: 120 minutos" },
-      { "idx": 2, "characteristics": "Cantidad de preguntas: 100 opción múltiple" },
+      { "idx": 2, "characteristics": "Cantidad de preguntas: 100 de opción múltiple" },
       { "idx": 3, "characteristics": "Calificación aprobatoria: 57% (57 respuestas correctas)" },
       { "idx": 4, "characteristics": "Formato: En línea o Papel; a libro cerrado" },
       { "idx": 5, "characteristics": "Prerrequisitos: Se recomienda haber completado el curso de Fundamentos de Scrum en línea que es de manera gratuita (acceso proporcionado a inscripción en el curso)." }

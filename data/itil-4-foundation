@@ -34,7 +34,7 @@
    ],
    "exam": [
       { "idx": 1, "characteristics": "Tiempo asignado: 60 minutos" },
-      { "idx": 2, "characteristics": "Cantidad de preguntas: 40 opción múltiple" },
+      { "idx": 2, "characteristics": "Cantidad de preguntas: 40 de opción múltiple" },
       { "idx": 3, "characteristics": "Calificación aprobatoria: 65% (26 respuestas correctas)" },
       { "idx": 4, "characteristics": "Formato: En línea o Papel; a libro cerrado" },
       { "idx": 5, "characteristics": "Prerrequisitos: Se recomiendan por lo menos 5 horas de estudio personal durante el curso." }

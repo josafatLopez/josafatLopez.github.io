@@ -28,5 +28,11 @@
       "linkurl": "information-security-foundation-iso-iec-27001",
       "category": "Seguridad de la Información",
       "course": "Information Security Foundation - ISO/IEC 27001"
+   },
+   {
+      "id": 6,
+      "linkurl": "combo-it-security-risk-and-continuity",
+      "category": "Combos",
+      "course": "Combo IT Security, Risk & Continuity"
    }
 ]
