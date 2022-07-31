@@ -7,7 +7,7 @@
       { "idx": 1, "date": "Contacta a un asesor para saber próximas fechas" },
       { "idx": 2, "date": "" }
    ],
-   "modality": "Profesor en Vivo | ELearning",
+   "modality": "Profesor en Vivo",
    "duration": "40 horas",
    "description": "En un mundo donde el éxito empresarial depende cada vez más de los sistemas de información y de las tecnologías de la información, la confianza que tienen los clientes, empleados y otras partes interesadas en una empresa puede disiparse rápidamente en el caso de una brecha de seguridad de los datos. Las fallas en la seguridad pueden resultar en daños importantes a una empresa así como a su reputación. Para asegurar una alineación cada vez mayor entre los programas de seguridad de la información y sus metas y objetivos cada vez más amplios, cada vez más empresas y agencias de gobierno esperan y requieren, que sus profesionales en seguridad de la información tengan el certificado de Certified Information Security Manager® (CISM®).",
    "logourl": "",
@@ -41,7 +41,7 @@
       { "idx": 4, "characteristics": "Formato: En línea o Papel; a libro cerrado" },
       { "idx": 5, "characteristics": "Requerimientos de Elegibilidad: Cinco años o más de experiencia en gestión de seguridad de la información. Se permiten exenciones por un máximo de 2 años." },
       { "idx": 6, "characteristics": "Idiomas disponibles: Inglés y español" },
-      { "idx": 6, "characteristics": "Calificación aprobatoria: La calificación del candidato se reporta como una calificación en escala. Una calificación en escala es una conversión de la calificación en bruto del candidato a una escala común. ISACA utiliza y reporta calificaciones en una escala común de 200 a 800. Por ejemplo, la calificación en escala de 800 representa una calificación perfecta con todas las preguntas contestadas correctamente; una calificación en escala de 200 es la calificación más baja posible y significa que únicamente una pequeña cantidad de preguntas fueron contestadas correctamente. Un candidato debe recibir una calificación de 450 o mayor para aprobar el examen)" }
+      { "idx": 7, "characteristics": "Calificación aprobatoria: La calificación del candidato se reporta como una calificación en escala. Una calificación en escala es una conversión de la calificación en bruto del candidato a una escala común. ISACA utiliza y reporta calificaciones en una escala común de 200 a 800. Por ejemplo, la calificación en escala de 800 representa una calificación perfecta con todas las preguntas contestadas correctamente; una calificación en escala de 200 es la calificación más baja posible y significa que únicamente una pequeña cantidad de preguntas fueron contestadas correctamente. Un candidato debe recibir una calificación de 450 o mayor para aprobar el examen)" }
    ],
    "content": [
       {

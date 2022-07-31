@@ -1,0 +1,52 @@
+{
+   "id": 8,
+   "linkurl": "certified-incident-handler",
+   "category": "Ciberseguridad",
+   "course": "Certified Incident Handler (ECIH)",
+   "schedules": [
+      { "idx": 1, "date": "Contacta a un asesor para saber próximas fechas" },
+      { "idx": 2, "date": "" }
+   ],
+   "modality": "Profesor en Vivo",
+   "duration": "24 horas",
+   "description": "SEl programa de Certificación para Administradores de Incidentes de EC - Council está diseñado para proporcionar las habilidades fundamentales para manejar y responder a los incidentes de seguridad informática dentro de un sistema de información. El curso se dirige a diversos principios y técnicas subyacentes para detectar y responder a las actuales y emergentes amenazas a la seguridad informática. Esta certificación proporcionará a los profesionales mayor aceptación en la industria como un administrador de incidentes experimentado. El curso abarca la informática forense y su papel en el manejo y respuesta a incidentes; y también cubre detalladamente los equipos de respuesta a incidentes, métodos de notificación de incidentes, y técnicas de recuperación de incidentes en detalle.",
+   "logourl": "",
+   "courseincludes": [],
+   "benefits": [
+      { "idx": 1, "benefit": "Los estudiantes aprenderán cómo manejar diferentes tipos de incidentes, metodologías de evaluación de riesgos, y varias leyes y políticas relacionadas con la administración de incidentes." },
+      { "idx": 2, "benefit": "Después de asistir al curso, serán capaces de crear políticas de responsabilidad y administración de incidentes y de lidiar con varios tipos de incidentes de seguridad informática." },
+      { "idx": 3, "benefit": "El programa de formación integral hará a los estudiantes competentes en el manejo y respuesta de varios incidentes de seguridad tales como incidentes en la red de seguridad, incidentes de códigos maliciosos y amenazas de ataque de información privilegiada." }
+   ],
+   "forwho": [
+      { "idx": 1, "qualities": "Administradores de Incidentes" },
+      { "idx": 2, "qualities": "Administradores de valoración de riesgos" },
+      { "idx": 3, "qualities": "Personas que realizan pruebas de penetración" },
+      { "idx": 4, "qualities": "Investigadores forenses cibernéticos" },
+      { "idx": 5, "qualities": "Auditores de evaluación de la vulnerabilidad" },
+      { "idx": 6, "qualities": "Administradores de sistemas e ingenieros en sistemas" },
+      { "idx": 7, "qualities": "Administradores de Firewall, administradores de red, administradores de TI" },
+      { "idx": 8, "qualities": "Los profesionales de TI y cualquiera que esté interesado en el manejo y respuesta a incidentes" }
+   ],
+   "exam": [
+      { "idx": 1, "characteristics": "Código de Examen: 212-89" },
+      { "idx": 2, "characteristics": "Número de Preguntas: 50" },
+      { "idx": 3, "characteristics": "Puntaje de Aprobación: 70%" },
+      { "idx": 4, "characteristics": "Duración del examen: 2 horas" },
+      { "idx": 5, "characteristics": "Formato del examen: Opción Múltiple" },
+      { "idx": 6, "characteristics": "Entrega: Centro de Examen de EC Council" },
+      { "idx": 7, "characteristics": "Prerrequisitos: El examen ECIH 212-89 se llevará a cabo en el último día del curso. Los estudiantes tienen que pasar el examen en línea para recibir la certificación CIH." }
+   ],
+   "content": [
+      { "idx" : 1, "unit" : "Introducción al Manejo y Respuesta de Incidentes",  "topics" : [] },
+      { "idx" : 2, "unit" : "Valoración de Riesgos",  "topics" : [] },
+      { "idx" : 3, "unit" : "Respuesta de Incidentes y Etapas de Manejo",  "topics" : [] },
+      { "idx" : 4, "unit" : "CSIRT",  "topics" : [] },
+      { "idx" : 5, "unit" : "Manejo de Incidentes de Seguridad de Red",  "topics" : [] },
+      { "idx" : 6, "unit" : "Manejo de Incidentes de Código Malintencionado",  "topics" : [] },
+      { "idx" : 7, "unit" : "Manejo de las Amenazas Internas",  "topics" : [] },
+      { "idx" : 8, "unit" : "Análisis Forense y Respuesta a Incidentes",  "topics" : [] },
+      { "idx" : 9, "unit" : "Reporte de Incidentes",  "topics" : [] },
+      { "idx" : 10, "unit" : "Recuperación de Incidentes",  "topics" : [] },
+      { "idx" : 11, "unit" : "Políticas de Seguridad y Leyes",  "topics" : [] }
+   ]
+}

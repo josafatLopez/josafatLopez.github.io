@@ -40,5 +40,11 @@
       "linkurl": "cism-certified-information-security-manager",
       "category": "Seguridad de la Información",
       "course": "CISM® (Certified Information Security Manager®)"
+   },
+   {
+      "id": 8,
+      "linkurl": "certified-incident-handler",
+      "category": "Ciberseguridad",
+      "course": "Certified Incident Handler (ECIH)"
    }
 ]
