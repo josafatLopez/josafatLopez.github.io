@@ -23,7 +23,7 @@
       { "idx": 3, "benefit": "Buscar un avance profesional al pasar a un puesto de trabajo de gerente de proyecto formal" }
    ],
    "forwho": [
-      { "idx": 1, "benefit": "Administradores de proyectos que están interesados en obtener la acreditación de Project Management Professional, aprobando el examen de PMP®" }
+      { "idx": 1, "qualities": "Administradores de proyectos que están interesados en obtener la acreditación de Project Management Professional, aprobando el examen de PMP®" }
    ],
    "exam": [
       { "idx": 0, "characteristics": "Global Lynx no aplica el examen de certificación, solo proporciona la orientación de los pasos para un registro exitoso ante el PMI con el fin de tomar el examen." },
