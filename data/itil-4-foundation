@@ -44,67 +44,67 @@
          "idx" : 1,
          "unit" : "Conceptos Clave", 
          "topics" : [
-           { "idx":"1.1", "topic":"Definiciones "},
-           { "idx":"1.2", "topic":"Conceptos clave sobre crear Valor con Servicios "},
-           { "idx":"1.3", "topic":"Conceptos Clave sobre las Relaciones del Servicio "}
+           { "idx":"1.1", "topic":"Definiciones" },
+           { "idx":"1.2", "topic":"Conceptos clave sobre crear Valor con Servicios" },
+           { "idx":"1.3", "topic":"Conceptos Clave sobre las Relaciones del Servicio" }
          ]
       },
       {
          "idx" : 2,
          "unit" : "Principios Guía de ITIL®", 
          "topics" : [
-           { "idx":"2.1", "topic":"Naturaleza, Uso e Interacción "},
-           { "idx":"2.2", "topic":"El Uso de los Principios Guía "}
+           { "idx":"2.1", "topic":"Naturaleza, Uso e Interacción" },
+           { "idx":"2.2", "topic":"El Uso de los Principios Guía" }
          ]
       },
       {
          "idx" : 3,
          "unit" : "Las Cuatro Dimensiones de la Gestión de Servicios", 
          "topics" : [
-           { "idx":"3.1", "topic":"Organizaciones y Gente "},
-           { "idx":"3.2", "topic":"Información y Tecnología "},
-           { "idx":"3.3", "topic":"Socios y Proveedores "},
-           { "idx":"3.4", "topic":"Procesos y Flujos de Valor "}
+           { "idx":"3.1", "topic":"Organizaciones y Gente" },
+           { "idx":"3.2", "topic":"Información y Tecnología" },
+           { "idx":"3.3", "topic":"Socios y Proveedores" },
+           { "idx":"3.4", "topic":"Procesos y Flujos de Valor" }
          ]
       },
       {
          "idx" : 4,
          "unit" : "Sistema de Valor de ITIL®", 
          "topics" : [
-           { "idx":"4.1", "topic":"Propósito "},
-           { "idx":"4.2", "topic":"Componentes "}
+           { "idx":"4.1", "topic":"Propósito" },
+           { "idx":"4.2", "topic":"Componentes" }
          ]
       },
       {
          "idx" : 5,
          "unit" : "Cadena del Valor del Servicio", 
          "topics" : [
-           { "idx":"5.1", "topic":"La Naturaleza Interconectada de la Cadena de Valor del Servicio y cómo Soporta a los Flujos de Valor "},
-           { "idx":"5.2", "topic":"Entradas, Salidas y Propósito de Cada Actividad de la Cadena de Valor "}
+           { "idx":"5.1", "topic":"La Naturaleza Interconectada de la Cadena de Valor del Servicio y cómo Soporta a los Flujos de Valor" },
+           { "idx":"5.2", "topic":"Entradas, Salidas y Propósito de Cada Actividad de la Cadena de Valor" }
          ]
       },
       {
          "idx" : 6,
          "unit" : "Revisión", 
          "topics" : [
-           { "idx":"6.1", "topic":"Gestión de la Seguridad de la Información "},
-           { "idx":"6.2", "topic":"Gestión de las Relaciones "},
-           { "idx":"6.3", "topic":"Gestión de Proveedores "},
-           { "idx":"6.4", "topic":"Gestión de la Disponibilidad "},
-           { "idx":"6.5", "topic":"Gestión de la Capacidad y el Desempeño "},
-           { "idx":"6.6", "topic":"Gestión de Activos de TI "},
-           { "idx":"6.7", "topic":"Gestión de la Continuidad del Servicio "},
-           { "idx":"6.8", "topic":"Gestión del Monitoreo y Eventos "},
-           { "idx":"6.9", "topic":"Gestión de Liberaciones "},
-           { "idx":"6.10", "topic":"Gestión de la Configuración del Servicio "},
-           { "idx":"6.11", "topic":"Gestión del Despliegue "},
-           { "idx":"6.12", "topic":"Mejora Continua "},
-           { "idx":"6.13", "topic":"Mejora Continua "},
-           { "idx":"6.14", "topic":"Gestión de Incidentes "},
-           { "idx":"6.15", "topic":"Gestión de Problemas "},
-           { "idx":"6.16", "topic":"Gestión de Solicitudes de Servicio "},
-           { "idx":"6.17", "topic":"Service desk "},
-           { "idx":"6.18", "topic":"Gestión del Nivel del Servicio "}
+           { "idx":"6.1", "topic":"Gestión de la Seguridad de la Información" },
+           { "idx":"6.2", "topic":"Gestión de las Relaciones" },
+           { "idx":"6.3", "topic":"Gestión de Proveedores" },
+           { "idx":"6.4", "topic":"Gestión de la Disponibilidad" },
+           { "idx":"6.5", "topic":"Gestión de la Capacidad y el Desempeño" },
+           { "idx":"6.6", "topic":"Gestión de Activos de TI" },
+           { "idx":"6.7", "topic":"Gestión de la Continuidad del Servicio" },
+           { "idx":"6.8", "topic":"Gestión del Monitoreo y Eventos" },
+           { "idx":"6.9", "topic":"Gestión de Liberaciones" },
+           { "idx":"6.10", "topic":"Gestión de la Configuración del Servicio" },
+           { "idx":"6.11", "topic":"Gestión del Despliegue" },
+           { "idx":"6.12", "topic":"Mejora Continua" },
+           { "idx":"6.13", "topic":"Mejora Continua" },
+           { "idx":"6.14", "topic":"Gestión de Incidentes" },
+           { "idx":"6.15", "topic":"Gestión de Problemas" },
+           { "idx":"6.16", "topic":"Gestión de Solicitudes de Servicio" },
+           { "idx":"6.17", "topic":"Service desk" },
+           { "idx":"6.18", "topic":"Gestión del Nivel del Servicio" }
          ]
       }
    ]
