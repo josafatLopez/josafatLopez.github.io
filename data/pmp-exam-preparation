@@ -1,0 +1,92 @@
+{
+   "id": 3,
+   "linkurl": "pmp-exam-preparation",
+   "category": "PMI",
+   "course": "PMI® Authorized PMP® Exam Prep Course",
+   "schedules": [
+      { "idx": 1, "date": "Contacta a un asesor para saber próximas fechas" },
+      { "idx": 2, "date": "" }
+   ],
+   "modality": "Profesor en Vivo | ELearning",
+   "duration": "35 horas",
+   "description": "Los directores de proyectos que tienen habilidades y experiencia comprobadas pueden encontrar oportunidades emocionantes y de alta visibilidad en una amplia gama de campos. Este curso está diseñado específicamente para brindarle el cuerpo práctico y comprobado de conocimientos y habilidades de gestión de proyectos que necesita para demostrar el dominio de la administración de proyectos en el trabajo. Este curso puede ser una parte importante de su preparación para el examen de certificación Project Management Professional (PMP) ®. Las habilidades y el conocimiento que gane en este curso lo ayudarán a evitar cometer errores costosos y a aumentar su ventaja competitiva en la profesión de dirección de proyectos. ",
+   "logourl": "",
+   "courseincludes": [
+      { "idx": 1, "include": "Material oficial acreditado para el participante" },
+      { "idx": 2, "include": "Ejercicios de revisión" },
+      { "idx": 3, "include": "Diploma de finalización de curso" },
+      { "idx": 4, "include": "Examen de certificación oficial por parte de PMI" }
+   ],
+   "benefits": [
+      { "idx": 1, "benefit": "Administradores de proyectos que están interesados en obtener la acreditación de Project Management Professional, aprobando el examen de PMP®" }
+   ],
+   "forwho": [
+      { "idx": 1, "qualities": "Cualquier persona que esté interesada en trabajar como Scrum Master." },
+      { "idx": 2, "qualities": "Cualquier persona que ya sea un Scrum Master en su organización." },
+      { "idx": 3, "qualities": "Un Scrum Master es un papel importante en cualquier equipo de Scrum y no tiene que ser un experto en tecnología para ser eficaz." },
+      { "idx": 4, "qualities": "A pesar de que Scrum es muy popular en la industria de TI, Scrum puede ser utilizado de manera efectiva en cualquier tipo de industria." }
+   ],
+   "exam": [
+      { "idx": 1, "characteristics": "Tiempo asignado: 120 minutos" },
+      { "idx": 2, "characteristics": "Cantidad de preguntas: 100 opción múltiple" },
+      { "idx": 3, "characteristics": "Calificación aprobatoria: 57% (57 respuestas correctas)" },
+      { "idx": 4, "characteristics": "Formato: En línea o Papel; a libro cerrado" },
+      { "idx": 5, "characteristics": "Prerrequisitos: Se recomienda haber completado el curso de Fundamentos de Scrum en línea que es de manera gratuita (acceso proporcionado a inscripción en el curso)." }
+   ],
+   "content": [
+      {
+         "idx" : 1,
+         "unit" : "Revisión a Agile", 
+         "topics" : [
+           { "idx":"1.1", "topic":"El origen de Agile "},
+           { "idx":"1.2", "topic":"El Manifesto de Agile "},
+           { "idx":"1.3", "topic":"Los Principios del Manifesto de Agile "},
+           { "idx":"1.4", "topic":"Declaración de Interdependencia "},
+           { "idx":"1.5", "topic":"Métodos Agiles "},
+           { "idx":"1.6", "topic":"Gestión de proyectos Tradicional vs. Agile "}
+         ]
+      },
+      {
+         "idx" : 2,
+         "unit" : "Vistazo a Scrum", 
+         "topics" : [
+           { "idx":"2.1", "topic":"Principios de Scrum "},
+           { "idx":"2.2", "topic":"Aspectos de Scrum "},
+           { "idx":"2.3", "topic":"Procesos de Scrum "},
+           { "idx":"2.4", "topic":"Ventajas de Scrum "}
+         ]
+      },
+      {
+         "idx" : 3,
+         "unit" : "Roles de Scrum", 
+         "topics" : [
+           { "idx":"3.1", "topic":"Roles centrales "},
+           { "idx":"3.2", "topic":"Roles no centrales "}
+         ]
+      },
+      {
+         "idx" : 4,
+         "unit" : "Fases de Scrum", 
+         "topics" : [
+           { "idx":"4.1", "topic":"Iniciar "},
+           { "idx":"4.2", "topic":"Planear y Estimar "},
+           { "idx":"4.3", "topic":"Implementar "},
+           { "idx":"4.4", "topic":"Revisar y ver en retrospectiva "},
+           { "idx":"4.5", "topic":"Liberar "}
+         ]
+      },
+      {
+         "idx" : 5,
+         "unit" : "Adaptar Scrum", 
+         "topics" : [
+           { "idx":"5.1", "topic":"Adaptabilidad de Scrum "},
+           { "idx":"5.2", "topic":"Scrum en Programas y Portafolios "},
+           { "idx":"5.3", "topic":"Junta de Scrum de Scrums (SoS) "},
+           { "idx":"5.4", "topic":"Transición a Scrum "},
+           { "idx":"5.5", "topic":"Mapear los Roles Tradicionales a Scrum "},
+           { "idx":"5.6", "topic":"Mantener el Involucramiento de los Stakeholders "},
+           { "idx":"5.7", "topic":"Importancia del Apoyo Ejecutivo "}
+         ]
+      }
+   ]
+}
