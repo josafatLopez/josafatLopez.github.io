@@ -56,42 +56,42 @@
          "idx" : 2,
          "unit" : "Vistazo a Scrum", 
          "topics" : [
-           { "idx":"1.1", "topic":"Principios de Scrum "},
-           { "idx":"1.1", "topic":"Aspectos de Scrum "},
-           { "idx":"1.1", "topic":"Procesos de Scrum "},
-           { "idx":"1.1", "topic":"Ventajas de Scrum "}
+           { "idx":"2.1", "topic":"Principios de Scrum "},
+           { "idx":"2.1", "topic":"Aspectos de Scrum "},
+           { "idx":"2.1", "topic":"Procesos de Scrum "},
+           { "idx":"2.1", "topic":"Ventajas de Scrum "}
          ]
       },
       {
          "idx" : 3,
          "unit" : "Roles de Scrum", 
          "topics" : [
-           { "idx":"1.1", "topic":"Roles centrales "},
-           { "idx":"1.1", "topic":"Roles no centrales "}
+           { "idx":"3.1", "topic":"Roles centrales "},
+           { "idx":"3.1", "topic":"Roles no centrales "}
          ]
       },
       {
          "idx" : 4,
          "unit" : "Fases de Scrum", 
          "topics" : [
-           { "idx":"1.1", "topic":"Iniciar "},
-           { "idx":"1.1", "topic":"Planear y Estimar "},
-           { "idx":"1.1", "topic":"Implementar "},
-           { "idx":"1.1", "topic":"Revisar y ver en retrospectiva "},
-           { "idx":"1.1", "topic":"Liberar "}
+           { "idx":"4.1", "topic":"Iniciar "},
+           { "idx":"4.1", "topic":"Planear y Estimar "},
+           { "idx":"4.1", "topic":"Implementar "},
+           { "idx":"4.1", "topic":"Revisar y ver en retrospectiva "},
+           { "idx":"4.1", "topic":"Liberar "}
          ]
       },
       {
          "idx" : 5,
          "unit" : "Adaptar Scrum", 
          "topics" : [
-           { "idx":"1.1", "topic":"Adaptabilidad de Scrum "},
-           { "idx":"1.1", "topic":"Scrum en Programas y Portafolios "},
-           { "idx":"1.1", "topic":"Junta de Scrum de Scrums (SoS) "},
-           { "idx":"1.1", "topic":"Transición a Scrum "},
-           { "idx":"1.1", "topic":"Mapear los Roles Tradicionales a Scrum "},
-           { "idx":"1.1", "topic":"Mantener el Involucramiento de los Stakeholders "},
-           { "idx":"1.1", "topic":"Importancia del Apoyo Ejecutivo "}
+           { "idx":"5.1", "topic":"Adaptabilidad de Scrum "},
+           { "idx":"5.1", "topic":"Scrum en Programas y Portafolios "},
+           { "idx":"5.1", "topic":"Junta de Scrum de Scrums (SoS) "},
+           { "idx":"5.1", "topic":"Transición a Scrum "},
+           { "idx":"5.1", "topic":"Mapear los Roles Tradicionales a Scrum "},
+           { "idx":"5.1", "topic":"Mantener el Involucramiento de los Stakeholders "},
+           { "idx":"5.1", "topic":"Importancia del Apoyo Ejecutivo "}
          ]
       }
    ]
