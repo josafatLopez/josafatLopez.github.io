@@ -1,20 +1,20 @@
 [
-  {
-    "id": 1,
-    "linkurl": "scrum-master",
-    "category": "Agile",
-    "course": "Scrum Master (SMC®)"
-  },
-  {
-    "id": 2,
-    "linkurl": "itil4-foundation",
-    "category": "ITIL",
-    "course": "ITIL® 4 Foundation"
-  },
-  {
-    "id": 3,
-    "linkurl": "devops-foundation",
-    "category": "DevOps",
-    "course": "DevOps Foundation"
-  }
+   {
+      "id": 1,
+      "linkurl": "itil-4-foundation",
+      "category": "ITIL",
+      "course": "ITIL® 4 Foundation"
+   },
+   {
+      "id": 2,
+      "linkurl": "scrum-master",
+      "category": "Agile",
+      "course": "Scrum Master (SMC®)"
+   },
+   {
+      "id": 3,
+      "linkurl": "devops-foundation",
+      "category": "DevOps",
+      "course": "DevOps Foundation"
+   }
 ]
