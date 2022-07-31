@@ -34,5 +34,11 @@
       "linkurl": "combo-it-security-risk-and-continuity",
       "category": "Combos",
       "course": "Combo IT Security, Risk & Continuity"
+   },
+   {
+      "id": 7,
+      "linkurl": "cism-certified-information-security-manager",
+      "category": "Seguridad de la Información",
+      "course": "CISM® (Certified Information Security Manager®)"
    }
 ]
