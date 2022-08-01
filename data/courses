@@ -117,22 +117,22 @@
       "id": 20,
       "linkurl": "togaf-bundle",
       "category": "Arquitectura",
-      "course": "TOGAF® 9 Training course - Bundle"
+      "course": "TOGAF® 9 Training Course - Bundle"
    },
    {
-      "id": "",
+      "id": 101,
       "linkurl": "combo-it-security-risk-and-continuity",
       "category": "Combos",
       "course": "Combo IT Security, Risk & Continuity"
    },
    {
-      "id": "",
+      "id": 102,
       "linkurl": "cism-certified-information-security-manager",
       "category": "Seguridad de la Información",
       "course": "CISM® (Certified Information Security Manager®)"
    },
    {
-      "id": "",
+      "id": 103,
       "linkurl": "certified-incident-handler",
       "category": "Ciberseguridad",
       "course": "Certified Incident Handler (ECIH)"
