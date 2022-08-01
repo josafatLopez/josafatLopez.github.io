@@ -1,0 +1,139 @@
+{
+   "id": 20,
+   "linkurl": "togaf-bundle",
+   "category": "Arquitectura",
+   "course": "TOGAF® 9 Training course - Bundle",
+   "schedules": [
+      { "idx": 1, "date": "Contacta a un asesor para saber próximas fechas" },
+      { "idx": 2, "date": "" }
+   ],
+   "modality": "Presencial | En línea con profesor en vivo",
+   "duration": "40 horas",
+   "description": "Este curso prepara a los candidatos para tomar los exámenes de TOGAF® 9 Training course; Foundation y TOGAF® 9 Training course; Certified (Nivel 1 & 2). Durante este curso los candidatos recibirán apoyo simultáneo para presentar estos dos exámenes.",
+   "logourl": "",
+   "courseincludes": [
+      { "idx": 1, "include": "Material oficial para el participante" },
+      { "idx": 2, "include": "Ejercicios de revisión" },
+      { "idx": 3, "include": "Examen de prueba" },
+      { "idx": 4, "include": "Diploma de finalización de curso" },
+      { "idx": 5, "include": "Examen de certificación oficial por parte de The Open Group" }
+   ],
+   "benefits": [
+      { "idx": 1, "benefit": "Adquirir los exámenes de TOGAF® 9 Training course; Foundation y TOGAF® 9 Training course" }
+   ],
+   "forwho": [
+      { "idx": 1, "qualities": "Arquitectos de organizaciones complejas que buscan un conjunto definido de procesos para apoyar en el gobierno y gestión de la organización de los equipos de arquitectura y varios proyectos de arquitectura." },
+      { "idx": 2, "qualities": "Arquitectos experimentados que buscan detalles en los elementos de ciertos procesos y prácticas de la arquitectura." },
+      { "idx": 3, "qualities": "Altos Directores como Directores de Proyectos y Directores de Servicios que buscan obtener un entendimiento completo de las prácticas de arquitectura." },
+      { "idx": 4, "qualities": "Arquitectos aspirantes que inician su Carrera deseando obtener un amplio conocimiento y ambas certificaciones relacionadas con Arquitectura Empresarial." }
+   ],
+   "exam": [
+      { "idx": 1, "characteristics": "FOUNDATION (NIVEL 1)" },
+      { "idx": 2, "characteristics": "Tiempo asignado: 60 minutos" },
+      { "idx": 3, "characteristics": "Cantidad de preguntas: 40 preguntas de opción múltiple" },
+      { "idx": 4, "characteristics": "Calificación aprobatoria: 55% (22 acumulados)." },
+      { "idx": 5, "characteristics": "Formato: En línea; a libro abierto" },
+      { "idx": 6, "characteristics": "Prerrequisitos: Ninguno" },
+      { "idx": 1, "characteristics": "CERTIFIED (NIVEL 2)" },
+      { "idx": 2, "characteristics": "Tiempo asignado: 60 minutos" },
+      { "idx": 3, "characteristics": "Cantidad de preguntas: 8 preguntas de opción múltiple basadas en escenarios" },
+      { "idx": 4, "characteristics": "Calificación aprobatoria: 60% (24 acumulados)" },
+      { "idx": 5, "characteristics": "Formato: En línea; a libro abierto, dentro del examen se encuentra una copia electrónica del libro de TOGAF® 9. No se permiten libros impresos" },
+      { "idx": 6, "characteristics": "Prerrequisitos: Ninguno, ya que se toman los dos cursos juntos" }
+   ],
+   "content": [
+      {
+         "idx" : 1,
+         "unit" : "Días 1 a 2½: Unidades", 
+         "topics" : [
+            { "idx":"1", "topic":"Introducción" },
+            { "idx":"2", "topic":"Conceptos" },
+            { "idx":"3", "topic":"Definiciones Generales" },
+            { "idx":"4", "topic":"Introducción al ADM" },
+            { "idx":"5", "topic":"Herramientas y Continuum empresarial" },
+            { "idx":"6", "topic":"Fases del ADM (Nivel 1)" },
+            { "idx":"7", "topic":"Técnicas y Pautas de ADM" },
+            { "idx":"8", "topic":"Gobierno de Arquitectura (Nivel 1)" },
+            { "idx":"9", "topic":"Visiones de Arquitectura" },
+            { "idx":"10", "topic":"Construcción de Bloques" },
+            { "idx":"11", "topic":"Entregables de ADM" },
+            { "idx":"12", "topic":"Modelos de Referencia de TOGAF (Nivel 1)" }
+         ]
+      },
+      {
+         "idx" : 2,
+         "unit" : "Días 2½ a 5: Fases", 
+         "topics" : []
+      },
+      {
+         "idx" : "F1",
+         "unit" : "Fase Preliminar", 
+         "topics" : [
+            { "idx":"1.1", "topic":"Gobierno de Arquitectura (Nivel 2)" },
+            { "idx":"1.2", "topic":"Técnica de Escenarios de Negocio" }
+         ]
+      },
+      {
+         "idx" : "F2",
+         "unit" : "Fase A: Visión de Arquitectura", 
+         "topics" : [
+            { "idx":"2.1", "topic":"Marco de Contenido de Arquitectura" },
+            { "idx":"2.1", "topic":"Gestión de Partes Interesadas" },
+            { "idx":"2.1", "topic":"Metamodelo del contenido de TOGAF®" },
+            { "idx":"2.1", "topic":"Técnicas de Soporte de Implementación de Arquitecturas" }
+         ]
+      },
+      {
+         "idx" : "F3",
+         "unit" : "Fase B: Arquitectura de Negocio", 
+         "topics" : []
+      },
+      {
+         "idx" : "F4",
+         "unit" : "Fase C: Arquitecturas de los Sistemas de Información", 
+         "topics" : [
+            { "idx":"4.1", "topic":"Arquitectura de los Datos" },
+            { "idx":"4.2", "topic":"Arquitectura de Aplicación" },
+            { "idx":"4.3", "topic":"Arquitectura de los Fundamentos de TOGAF®: Modelo de Referencia Técnica (Nivel 2)" },
+            { "idx":"4.4", "topic":"Modelo de Referencia de Infraestructura de la Información Integrada (Nivel 2)" }
+         ]
+      },
+      {
+         "idx" : "F5",
+         "unit" : "Fase D: Arquitectura de la Tecnología", 
+         "topics" : [
+           { "idx":"5.1", "topic":"Técnicas de Planificación y Migración" }
+         ]
+      },
+      {
+         "idx" : "F6",
+         "unit" : "Fase E: Oportunidades y Soluciones", 
+         "topics" : []
+      },
+      {
+         "idx" : "F7",
+         "unit" : "Fase F: Planificación de Migración", 
+         "topics" : []
+      },
+      {
+         "idx" : "F8",
+         "unit" : "Fase G: Gobierno de Implementación", 
+         "topics" : []
+      },
+      {
+         "idx" : "F9",
+         "unit" : "Fase H: Gestión de Cambio en la Arquitectura", 
+         "topics" : [
+           { "idx":"9.1", "topic":"Arquitectura" },
+            { "idx":"9.1", "topic":"Gestión de los Requerimientos de la Arquitectura de ADM" },
+            { "idx":"9.1", "topic":"División de la Arquitectura" },
+            { "idx":"9.1", "topic":"Repositorios de la Arquitectura" },
+            { "idx":"9.1", "topic":"Pautas para Adaptar el ADM: Iteraciones y Niveles" },
+            { "idx":"9.1", "topic":"Pautas para Adaptar el ADM: Seguridad" },
+            { "idx":"9.1", "topic":"Pautas para Adaptar el ADM: SOA" },
+            { "idx":"9.1", "topic":"Modelos de Madurez de la Arquitectura" },
+            { "idx":"9.1", "topic":"Marco de Habilidades de la Arquitectura" }
+         ]
+      }
+   ]
+}

@@ -2,7 +2,7 @@
    "id": 19,
    "linkurl": "togaf-certified",
    "category": "Arquitectura",
-   "course": "TOGAF® 9 Training course - Foundation",
+   "course": "TOGAF® 9 Training Course - Foundation",
    "schedules": [
       { "idx": 1, "date": "Contacta a un asesor para saber próximas fechas" },
       { "idx": 2, "date": "" }
@@ -19,7 +19,7 @@
       { "idx": 5, "include": "Examen de certificación oficial por parte de The Open Group" }
    ],
    "benefits": [
-      { "idx": 1, "benefit": "analizar y aplicar el conocimiento de TOGAF®" }
+      { "idx": 1, "benefit": "Analizar y aplicar el conocimiento de TOGAF®" }
    ],
    "forwho": [
       { "idx": 1, "qualities": "Personas que busquen un entendimiento más profundo de TOGAF® 9" },
@@ -32,7 +32,7 @@
    ],
    "exam": [
       { "idx": 1, "characteristics": "Tiempo asignado: 60 minutos" },
-      { "idx": 2, "characteristics": "8 preguntas de opción múltiple basadas en escenarios" },
+      { "idx": 2, "characteristics": "Cantidad de preguntas: 8 preguntas de opción múltiple basadas en escenarios" },
       { "idx": 3, "characteristics": "Calificación aprobatoria: 60% (24 acumulados)" },
       { "idx": 4, "characteristics": "Formato: En línea; a libro abierto, dentro del examen se encuentra una copia electrónica del libro de TOGAF® 9. No se permiten libros impresos" },
       { "idx": 5, "characteristics": "Prerrequisitos: Contar con la certificación de Fundamentos de TOGAF®" }

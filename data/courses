@@ -105,19 +105,19 @@
       "id": 18,
       "linkurl": "togaf-foundation",
       "category": "Arquitectura",
-      "course": "TOGAF® 9 Training course - Foundation"
+      "course": "TOGAF® 9 Training Course - Foundation"
    },
    {
       "id": 19,
       "linkurl": "togaf-certified",
       "category": "Arquitectura",
-      "course": "TOGAF® 9 Training course - Foundation"
+      "course": "TOGAF® 9 Training Course - Foundation"
    },
    {
-      "id": 10000,
-      "linkurl": "data",
+      "id": 20,
+      "linkurl": "togaf-bundle",
       "category": "Arquitectura",
-      "course": "data"
+      "course": "TOGAF® 9 Training course - Bundle"
    },
    {
       "id": "",
