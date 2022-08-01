@@ -125,14 +125,14 @@
          "unit" : "Fase H: Gestión de Cambio en la Arquitectura", 
          "topics" : [
            { "idx":"9.1", "topic":"Arquitectura" },
-            { "idx":"9.1", "topic":"Gestión de los Requerimientos de la Arquitectura de ADM" },
-            { "idx":"9.1", "topic":"División de la Arquitectura" },
-            { "idx":"9.1", "topic":"Repositorios de la Arquitectura" },
-            { "idx":"9.1", "topic":"Pautas para Adaptar el ADM: Iteraciones y Niveles" },
-            { "idx":"9.1", "topic":"Pautas para Adaptar el ADM: Seguridad" },
-            { "idx":"9.1", "topic":"Pautas para Adaptar el ADM: SOA" },
-            { "idx":"9.1", "topic":"Modelos de Madurez de la Arquitectura" },
-            { "idx":"9.1", "topic":"Marco de Habilidades de la Arquitectura" }
+            { "idx":"9.2", "topic":"Gestión de los Requerimientos de la Arquitectura de ADM" },
+            { "idx":"9.3", "topic":"División de la Arquitectura" },
+            { "idx":"9.4", "topic":"Repositorios de la Arquitectura" },
+            { "idx":"9.5", "topic":"Pautas para Adaptar el ADM: Iteraciones y Niveles" },
+            { "idx":"9.6", "topic":"Pautas para Adaptar el ADM: Seguridad" },
+            { "idx":"9.7", "topic":"Pautas para Adaptar el ADM: SOA" },
+            { "idx":"9.8", "topic":"Modelos de Madurez de la Arquitectura" },
+            { "idx":"9.9", "topic":"Marco de Habilidades de la Arquitectura" }
          ]
       }
    ]
