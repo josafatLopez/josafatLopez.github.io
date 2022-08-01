@@ -31,18 +31,108 @@
    },
    {
       "id": 6,
+      "linkurl": "devops-foundation-peoplecert",
+      "category": "DevOps",
+      "course": "DevOps Fundamentals - People Cert"
+   },
+   {
+      "id": 7,
+      "linkurl": "devops-liderazgo-peoplecert",
+      "category": "DevOps",
+      "course": "DevOps Leadership - People Cert"
+   },
+   {
+      "id": 8,
+      "linkurl": "devops-foundation-exin",
+      "category": "DevOps",
+      "course": "DevOps Foundation - EXIN"
+   },
+   {
+      "id": 9,
+      "linkurl": "devops-master-exin",
+      "category": "DevOps",
+      "course": "DevOps Master"
+   },
+   {
+      "id": 10,
+      "linkurl": "devops-foundation-devops-institute",
+      "category": "DevOps",
+      "course": "DevOps Foundation - DevOps Institute"
+   },
+   {
+      "id": 11,
+      "linkurl": "devops-leader-devops-institute",
+      "category": "DevOps",
+      "course": "Líder de DevOps - DevOps Institute"
+   },
+   {
+      "id": 12,
+      "linkurl": "devops-site-reliability-engineering",
+      "category": "DevOps",
+      "course": "Site Reliability Engineering Foundation (SRE)"
+   },
+   {
+      "id": 13,
+      "linkurl": "devsecops-engineering",
+      "category": "DevOps",
+      "course": "DevSecOps Engineering (DSOE)"
+   },
+   {
+      "id": 14,
+      "linkurl": "devops-test-engineer",
+      "category": "DevOps",
+      "course": "DevOps Test Engineer (DTE)"
+   },
+   {
+      "id": 15,
+      "linkurl": "devops-capo",
+      "category": "DevOps",
+      "course": "Certified Agile Process Owner (CAPO)"
+   },
+   {
+      "id": 16,
+      "linkurl": "devops-casm",
+      "category": "DevOps",
+      "course": "Certified Agile Service Manager (CASM)"
+   },
+   {
+      "id": 17,
+      "linkurl": "devops-continuous-delivery-architect-cda",
+      "category": "DevOps",
+      "course": "Continuous Delivery Architect (CDA)"
+   },
+   {
+      "id": 18,
+      "linkurl": "togaf-foundation",
+      "category": "Arquitectura",
+      "course": "TOGAF® 9 Training course - Foundation"
+   },
+   {
+      "id": 10000,
+      "linkurl": "data",
+      "category": "Arquitectura",
+      "course": "data"
+   },
+   {
+      "id": 10000,
+      "linkurl": "data",
+      "category": "Arquitectura",
+      "course": "data"
+   },
+   {
+      "id": "",
       "linkurl": "combo-it-security-risk-and-continuity",
       "category": "Combos",
       "course": "Combo IT Security, Risk & Continuity"
    },
    {
-      "id": 7,
+      "id": "",
       "linkurl": "cism-certified-information-security-manager",
       "category": "Seguridad de la Información",
       "course": "CISM® (Certified Information Security Manager®)"
    },
    {
-      "id": 8,
+      "id": "",
       "linkurl": "certified-incident-handler",
       "category": "Ciberseguridad",
       "course": "Certified Incident Handler (ECIH)"

@@ -1,0 +1,51 @@
+{
+   "id": 18,
+   "linkurl": "togaf-foundation",
+   "category": "Arquitectura",
+   "course": "TOGAF® 9 Training course - Foundation",
+   "schedules": [
+      { "idx": 1, "date": "Contacta a un asesor para saber próximas fechas" },
+      { "idx": 2, "date": "" }
+   ],
+   "modality": "Presencial | En línea con profesor en vivo",
+   "duration": "20 horas",
+   "description": "Este curso proporciona una validación de que el candidato ha obtenido conocimiento sobre la terminología y los conceptos básicos de TOGAF® 9, y comprende los principios básicos de la Arquitectura Empresarial y de TOGAF®.",
+   "logourl": "",
+   "courseincludes": [
+      { "idx": 1, "include": "Material oficial para el participante" },
+      { "idx": 2, "include": "Ejercicios de revisión" },
+      { "idx": 3, "include": "Examen de prueba" },
+      { "idx": 4, "include": "Diploma de finalización de curso" },
+      { "idx": 5, "include": "Examen de certificación oficial por parte de The Open Group" }
+   ],
+   "benefits": [
+      { "idx": 1, "benefit": "Obtener conocimiento sobre la terminología y los conceptos básicos de TOGAF® 9" },
+      { "idx": 2, "benefit": "Comprender los principios básicos de la Arquitectura Empresarial y de TOGAF®." }
+   ],
+   "forwho": [
+      { "idx": 1, "qualities": "Directores Generales" },
+      { "idx": 2, "qualities": "Directores y Gerentes de Operaciones, Finanzas, TI y Soporte" },
+      { "idx": 3, "qualities": "Agentes de Cambio en la Organización y de área de negocio" },
+      { "idx": 4, "qualities": "Consultores y Arquitectos de Negocio" },
+      { "idx": 5, "qualities": "Administradores de Proyectos" },
+      { "idx": 6, "qualities": "Analistas, Diseñadores y Desarrolladores de Sistemas de Información" },
+      { "idx": 7, "qualities": "Administradores y Arquitectos de Bases de Datos y Sistemas de Negocio" },
+      { "idx": 8, "qualities": "Planificadores, Arquitectos, Diseñadores y Analistas de Redes y Sistemas de Telecomunicaciones" }
+   ],
+   "exam": [
+      { "idx": 1, "characteristics": "Tiempo asignado: 60 minutos" },
+      { "idx": 2, "characteristics": "Cantidad de preguntas: 40 de opción múltiple" },
+      { "idx": 3, "characteristics": "Calificación aprobatoria: 55% (22 acumulados)" },
+      { "idx": 4, "characteristics": "Formato: En línea; a libro cerrado" },
+      { "idx": 5, "characteristics": "Prerrequisitos: Ninguno" }
+   ],
+   "content": [
+      { "idx" : 1, "unit" : "Conceptos Básicos",  "topics" : [] },
+      { "idx" : 2, "unit" : "Conceptos Centrales",  "topics" : [] },
+      { "idx" : 3, "unit" : "Definiciones Generales",  "topics" : [] },
+      { "idx" : 4, "unit" : "Introducción al ADM",  "topics" : [] },
+      { "idx" : 5, "unit" : "Continuo de Empresa y Herramientas",  "topics" : [] },
+      { "idx" : 6, "unit" : "Fases del ADM (Nivel 1)",  "topics" : [] },
+      { "idx" : 7, "unit" : "Pautas y Técnicas del ADM",  "topics" : [] }
+   ]
+}
