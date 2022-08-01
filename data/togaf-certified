@@ -51,9 +51,9 @@
          "unit" : "Fase A: Visión de Arquitectura", 
          "topics" : [
             { "idx":"2.1", "topic":"Marco de Contenido de Arquitectura" },
-            { "idx":"2.1", "topic":"Gestión de Partes Interesadas" },
-            { "idx":"2.1", "topic":"Metamodelo del contenido de TOGAF®" },
-            { "idx":"2.1", "topic":"Técnicas de Soporte de Implementación de Arquitecturas" }
+            { "idx":"2.2", "topic":"Gestión de Partes Interesadas" },
+            { "idx":"2.3", "topic":"Metamodelo del contenido de TOGAF®" },
+            { "idx":"2.4", "topic":"Técnicas de Soporte de Implementación de Arquitecturas" }
          ]
       },
       {

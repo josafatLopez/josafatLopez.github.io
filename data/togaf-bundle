@@ -34,12 +34,12 @@
       { "idx": 4, "characteristics": "Calificación aprobatoria: 55% (22 acumulados)." },
       { "idx": 5, "characteristics": "Formato: En línea; a libro abierto" },
       { "idx": 6, "characteristics": "Prerrequisitos: Ninguno" },
-      { "idx": 1, "characteristics": "CERTIFIED (NIVEL 2)" },
-      { "idx": 2, "characteristics": "Tiempo asignado: 60 minutos" },
-      { "idx": 3, "characteristics": "Cantidad de preguntas: 8 preguntas de opción múltiple basadas en escenarios" },
-      { "idx": 4, "characteristics": "Calificación aprobatoria: 60% (24 acumulados)" },
-      { "idx": 5, "characteristics": "Formato: En línea; a libro abierto, dentro del examen se encuentra una copia electrónica del libro de TOGAF® 9. No se permiten libros impresos" },
-      { "idx": 6, "characteristics": "Prerrequisitos: Ninguno, ya que se toman los dos cursos juntos" }
+      { "idx": 7, "characteristics": "CERTIFIED (NIVEL 2)" },
+      { "idx": 8, "characteristics": "Tiempo asignado: 60 minutos" },
+      { "idx": 9, "characteristics": "Cantidad de preguntas: 8 preguntas de opción múltiple basadas en escenarios" },
+      { "idx": 10, "characteristics": "Calificación aprobatoria: 60% (24 acumulados)" },
+      { "idx": 11, "characteristics": "Formato: En línea; a libro abierto, dentro del examen se encuentra una copia electrónica del libro de TOGAF® 9. No se permiten libros impresos" },
+      { "idx": 12, "characteristics": "Prerrequisitos: Ninguno, ya que se toman los dos cursos juntos" }
    ],
    "content": [
       {
@@ -78,9 +78,9 @@
          "unit" : "Fase A: Visión de Arquitectura", 
          "topics" : [
             { "idx":"2.1", "topic":"Marco de Contenido de Arquitectura" },
-            { "idx":"2.1", "topic":"Gestión de Partes Interesadas" },
-            { "idx":"2.1", "topic":"Metamodelo del contenido de TOGAF®" },
-            { "idx":"2.1", "topic":"Técnicas de Soporte de Implementación de Arquitecturas" }
+            { "idx":"2.2", "topic":"Gestión de Partes Interesadas" },
+            { "idx":"2.3", "topic":"Metamodelo del contenido de TOGAF®" },
+            { "idx":"2.4", "topic":"Técnicas de Soporte de Implementación de Arquitecturas" }
          ]
       },
       {
