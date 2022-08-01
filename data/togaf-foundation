@@ -46,6 +46,11 @@
       { "idx" : 4, "unit" : "Introducción al ADM",  "topics" : [] },
       { "idx" : 5, "unit" : "Continuo de Empresa y Herramientas",  "topics" : [] },
       { "idx" : 6, "unit" : "Fases del ADM (Nivel 1)",  "topics" : [] },
-      { "idx" : 7, "unit" : "Pautas y Técnicas del ADM",  "topics" : [] }
+      { "idx" : 7, "unit" : "Pautas y Técnicas del ADM",  "topics" : [] },
+      { "idx" : 8, "unit" : "Gobierno de la Arquitectura (Nivel 1)",  "topics" : [] },
+      { "idx" : 9, "unit" : "Vista de Arquitectura, Puntos de Vista y Partes Interesadas",  "topics" : [] },
+      { "idx" : 10, "unit" : "Bloques de Construcción",  "topics" : [] },
+      { "idx" : 11, "unit" : "Entregables del ADM",  "topics" : [] },
+      { "idx" : 12, "unit" : "Modelos de referencia TOGAF®",  "topics" : [] }
    ]
 }
