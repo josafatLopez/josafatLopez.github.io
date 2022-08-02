@@ -42,7 +42,6 @@
       { "idx": 5, "characteristics": "No existen prerrequisitos para este curso" }
    ],
    "content": [
-      { "idx" : 1, "unit" : "Revisión", "topics" : [] },
       { "idx" : 1, "unit" : "Introducción al Sistema de Gestión de Continuidad del Negocio (BCMS)", "topics" : [] },
       { "idx" : 2, "unit" : "Beneficios del BCMS", "topics" : [] },
       { "idx" : 3, "unit" : "Conceptos de ISO 22301", "topics" : [] },
