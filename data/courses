@@ -222,6 +222,18 @@
       "course": "Process Design and Implementation"
    },
    {
+      "id": 38,
+      "linkurl": "siam-service-integration-and-management",
+      "category": "Integración de Servicios",
+      "course": "SIAM Foundation (Service Integration and Management)"
+   },
+   {
+      "id": 39,
+      "linkurl": "it-contracts-and-outsourcing-management",
+      "category": "Integración de Servicios",
+      "course": "IT Contracts and Outsourcing Management"
+   },
+   {
       "id": 101,
       "linkurl": "combo-it-security-risk-and-continuity",
       "category": "Combos",

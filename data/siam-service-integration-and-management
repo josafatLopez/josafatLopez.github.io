@@ -1,0 +1,157 @@
+{
+   "id": 38,
+   "linkurl": "siam-service-integration-and-management",
+   "category": "Integración de Servicios",
+   "course": "SIAM Foundation (Service Integration and Management)",
+   "schedules": [
+      { "idx": 1, "date": "Contacta a un asesor para saber próximas fechas" },
+      { "idx": 2, "date": "" }
+   ],
+   "modality": "Presencial | En línea con profesor en vivo",
+   "duration": "24 horas",
+   "description": "EXIN BCS SIAM™ Foundation es una certificación de nivel fundamentos. SIAM es una metodología utilizada para gestionar múltiples prestadores de servicios e integrarlos para proporcionar una única organización de TI orientada al negocio. El curso de EXIN BCS SIAM™ Foundation pone a prueba el conocimiento y entendimiento del candidato sobre la terminología y los principios básicos.",
+   "logourl": "",
+   "courseincludes": [
+      { "idx": 2, "include": "Ejercicios de revisión" },
+      { "idx": 3, "include": "Exámenes de simulación™" },
+      { "idx": 4, "include": "Diploma de finalización de curso" },
+      { "idx": 5, "include": "Examen de certificación oficial por parte de EXIN" }
+   ],
+   "benefits": [
+      { "idx": 1, "benefit": "Aprender la terminología y los principios básicos de SIAM™." },
+      { "idx": 2, "benefit": "Comprender los Beneficios de SIAM™." },
+      { "idx": 3, "benefit": "Conocer cuáles son los retos y los riesgos que se enfrentará uno al emprender una implementación de SIAM™." },
+      { "idx": 4, "benefit": "Conocer y comprender cuáles son las estructuras de una implementación de SIAM™." },
+      { "idx": 5, "benefit": "Aprender sobre las consideraciones, herramientas y gobierno de SIAM™." },
+      { "idx": 6, "benefit": "Conocer sobre los procesos usados en un Ecosistema - SIAM™." }
+   ],
+   "forwho": [
+      { "idx": 1, "qualities": "Profesionales que tengan interés en las prácticas de la Gestión e Integración del Servicio o quieran implementar esta metodología en una organización." },
+      { "idx": 2, "qualities": "Profesionales que ya estén trabajando con los procesos de ITSM." },
+      { "idx": 3, "qualities": "Proveedores que quieran implementar modelos de Gestión e Integración de Servicios." }
+   ],
+   "exam": [
+      { "idx": 1, "characteristics": "Idioma: Inglés" },
+      { "idx": 2, "characteristics": "Tiempo asignado: 60 minutos" },
+      { "idx": 3, "characteristics": "Cantidad de preguntas: 40 de opción múltiple" },
+      { "idx": 4, "characteristics": "Calificación aprobatoria: 65% (26 respuestas correctas)" },
+      { "idx": 5, "characteristics": "Formato: En línea o Papel; a libro cerrado" },
+      { "idx": 6, "characteristics": "Prerrequisitos: Evidencia de haber participado en un curso de Fundamentos de EXIN BCS SIAM™." }
+   ],
+   "content": [
+      {
+         "idx" : 1,
+         "unit" : "Introducción", 
+         "topics" : [
+           { "idx":"1.1", "topic":"SIAM Fundamentals" },
+           { "idx":"1.2", "topic":"SIAM Methodology" }
+         ]
+      },
+      {
+         "idx" : 2,
+         "unit" : "SIAM Roadmap", 
+         "topics" : [
+           { "idx":"2.1", "topic":"Implementation Key Stages" }
+         ]
+      },
+      {
+         "idx" : 3,
+         "unit" : "Roles and Responsibilities", 
+         "topics" : [
+            { "idx":"3.1", "topic":"Roles and Responsibilities" },
+            { "idx":"3.2", "topic":"Structural Elements" }
+         ]
+      },
+      {
+         "idx" : 4,
+         "unit" : "SIAM Practices", 
+         "topics" : [
+           { "idx":"4.1", "topic":"People Practices" },
+           { "idx":"4.2", "topic":"Process Practices" },
+           { "idx":"4.3", "topic":"Measurement Practices" },
+           { "idx":"4.4", "topic":"Technology Practices" }
+         ]
+      },
+      {
+         "idx" : 5,
+         "unit" : "Processes", 
+         "topics" : [
+            { "idx":"5.1", "topic":"What is a Process?" },
+            { "idx":"5.2", "topic":"Processes and the SIAM Ecosystem" },
+            { "idx":"5.3", "topic":"Service Portfolio Management" },
+            { "idx":"5.4", "topic":"Monitoring and Measuring" },
+            { "idx":"5.5", "topic":"Event Management" },
+            { "idx":"5.6", "topic":"Incident Management" },
+            { "idx":"5.7", "topic":"Problem Management" },
+            { "idx":"5.8", "topic":"Change and Release Management" },
+            { "idx":"5.9", "topic":"Configuration Management" },
+            { "idx":"5.10", "topic":" Service Level Management" },
+            { "idx":"5.11", "topic":" Supplier Management" },
+            { "idx":"5.12", "topic":" Contract Management" },
+            { "idx":"5.13", "topic":" Business Relationship Management" },
+            { "idx":"5.14", "topic":" Financial Management" },
+            { "idx":"5.15", "topic":" Information Security Management" },
+            { "idx":"5.16", "topic":" Continual Service Improvement" },
+            { "idx":"5.17", "topic":" Knowledge Management" },
+            { "idx":"5.18", "topic":" Toolset and Information Management" },
+            { "idx":"5.19", "topic":" Project Management" },
+            { "idx":"5.20", "topic":" Audit and Control" }
+         ]
+      },
+      {
+         "idx" : 6,
+         "unit" : "Challenges and Risks", 
+         "topics" : [
+           { "idx":"6.1", "topic":"Business Case" },
+           { "idx":"6.2", "topic":"Cultural Change" },
+           { "idx":"6.3", "topic":"Collaboration and Cooperation" },
+           { "idx":"6.4", "topic":"Cultural Fit" },
+           { "idx":"6.5", "topic":"Behaviors" },
+           { "idx":"6.6", "topic":"Level of Control and Ownership" },
+           { "idx":"6.7", "topic":"Security" },
+           { "idx":"6.8", "topic":"Measuring Success" },
+           { "idx":"6.9", "topic":"Trust" },
+           { "idx":"6.10", "topic":"Commercial Challenges" },
+           { "idx":"6.11", "topic":"Legacy Contracts" }
+         ]
+      },
+      {
+         "idx" : 7,
+         "unit" : "SIAM and other Practices", 
+         "topics" : [
+           { "idx":"7.1", "topic":"ITSM" },
+           { "idx":"7.2", "topic":"Lean" },
+           { "idx":"7.3", "topic":"COBIT" },
+           { "idx":"7.4", "topic":"DevOps" },
+           { "idx":"7.5", "topic":"Agile" }
+         ]
+      },
+      {
+         "idx" : 8,
+         "unit" : "Qualification Scheme", 
+         "topics" : [
+           { "idx":"8.1", "topic":"Qualification Scheme" }
+         ]
+      },
+      {
+         "idx" : 9,
+         "unit" : "Exam Description", 
+         "topics" : [
+           { "idx":"9.1", "topic":"Exam format" },
+           { "idx":"9.2", "topic":"Tips for answering the exam" }
+         ]
+      },
+      {
+         "idx" : 10,
+         "unit" : "Review, Evaluation and Examination", 
+         "topics" : [
+           { "idx":"10.1", "topic":"General review" },
+           { "idx":"10.2", "topic":"Sample Exam" },
+           { "idx":"10.3", "topic":"Sample Exam Review" },
+           { "idx":"10.4", "topic":"Certification Exam" },
+           { "idx":"10.5", "topic":"Course Evaluation" },
+           { "idx":"10.6", "topic":"Course Certificate" }
+         ]
+      }
+   ]
+}

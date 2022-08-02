@@ -1,0 +1,39 @@
+{
+   "id": 39,
+   "linkurl": "it-contracts-and-outsourcing-management",
+   "category": "Integración de Servicios",
+   "course": "IT Contracts and Outsourcing Management",
+   "schedules": [
+      { "idx": 1, "date": "Contacta a un asesor para saber próximas fechas" },
+      { "idx": 2, "date": "" }
+   ],
+   "modality": "Presencial | En línea con profesor en vivo",
+   "duration": "24 horas",
+   "description": "Este curso ayuda a comprender detalladamente el proceso de Outsourcing y la gestión de los contratos de TI, a fin de asegurar que éstos soporten los objetivos de negocio de la organización. Se basa en el cuerpo de conocimiento de la International Association of Outsourcing Professionals® (IAOP®) y adopta las mejores prácticas de la Information Technology Infrastructure Library (ITIL®) referentes a la gestión de proveedores y contratos de TI, proporcionando una guía adecuada para llevar a cabo una buena gestión del Outsourcing de TI en una organización.",
+   "logourl": "",
+   "courseincludes": [
+      { "idx": 1, "include": "Constancia de participación" }
+   ],
+   "benefits": [
+      { "idx": 1, "benefit": "Ayudar a los participantes a entender los elementos que conforman el proceso de Outsourcing, llevándolos a adoptar un enfoque estratégico del mismo." },
+      { "idx": 2, "benefit": "Explicar detalladamente las buenas prácticas para llevar a cabo una gestión eficaz de los proveedores y contratos de TI y para llevar a cabo la transición hacia un ambiente de TI subcontratado, manteniendo prácticas eficientes de gobierno y mejora continua del Outsourcing." }
+   ],
+   "forwho": [
+      { "idx": 1, "qualities": "Gerentes y directores de TI" },
+      { "idx": 2, "qualities": "Gerentes de proyectos" },
+      { "idx": 3, "qualities": "Gestores de la relación con el negocio" },
+      { "idx": 4, "qualities": "Proveedores de Outsourcing" },
+      { "idx": 5, "qualities": "Personal de TI involucrado en proyectos subcontratados" }
+   ],
+   "exam": [
+      { "idx": 1, "characteristics": "No existen prerrequisitos para este curso; sin embargo, se recomienda que el participante tenga conocimientos sobre gestión del servicio de TI, particularmente sobre la gestión de los proveedores durante la etapa de diseño del servicio." }
+   ],
+   "content": [
+      { "idx" : 1, "unit" : "El Outsourcing como Práctica de Gestión", "topics" : [] },
+      { "idx" : 2, "unit" : "El Proceso de Outsourcing de TI", "topics" : [] },
+      { "idx" : 3, "unit" : "Integración del Outsourcing de TI con la Estrategia del Negocio", "topics" : [] },
+      { "idx" : 4, "unit" : "Gestión del Outsourcing y de los Contratos de TI", "topics" : [] },
+      { "idx" : 5, "unit" : "Transición a un Ambiente de TI Subcontratado", "topics" : [] },
+      { "idx" : 6, "unit" : "Gobierno del Outsourcing", "topics" : [] }
+   ]
+}
