@@ -23,7 +23,7 @@
       { "idx": 5, "benefit": "Cultura de DevOps, liderazgo transformacional y estructura y equipos de DevOps" },
       { "idx": 6, "benefit": "Evolución de las Prácticas de DevOps y las 15 Prácticas Esenciales de DevOps" },
       { "idx": 7, "benefit": "Administración de Proyectos ‘Agile’ y Metodología de Scrum" },
-      { "idx": 7, "benefit": "Conceptos clave de tecnología de nube y virtualización, automatización para el canal de despliegues, y arquitectura para la entrega continua" }
+      { "idx": 8, "benefit": "Conceptos clave de tecnología de nube y virtualización, automatización para el canal de despliegues, y arquitectura para la entrega continua" }
    ],
    "forwho": [
       { "idx": 1, "qualities": "Esta certificación es el primer nivel (Fundamentos) del esquema de certificación de PeopleCert DevOps proporcionada por PeopleCert y está dirigida a cualquier persona que quiera convertirse en un miembro eficiente de un entorno de DevOps y requiere que los candidatos tengan y demuestren un sólido conocimiento y entendimiento de la terminología, los principios, las herramientas y las prácticas de DevOps, así como demostrar sus habilidades de aplicación sobre cómo usar las herramientas de manera eficaz y eficiente. La certificación también puede servirles a los candidatos que busquen una certificación personal." }

@@ -14,8 +14,7 @@
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
       { "idx": 2, "include": "Diploma de finalización de curso" },
-      { "idx": 3, "include": "Examen de certificación oficial por parte de People Cert" },
-      { "idx": 4, "include": "16 PDUs" }
+      { "idx": 3, "include": "Examen de certificación oficial por parte de People Cert" }
    ],
    "benefits": [
       { "idx": 1, "benefit": "Qué es el liderazgo y qué es el liderazgo para DevOps" },
