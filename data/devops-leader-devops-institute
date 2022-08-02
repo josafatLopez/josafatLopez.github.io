@@ -22,9 +22,9 @@
       { "idx": 3, "benefit": "Convertirse en un líder para la transformación de la organización" },
       { "idx": 4, "benefit": "Crear mapas de flujo de valor para mejorar la eficiencia en toda la organización" },
       { "idx": 5, "benefit": "Ser capaz de reorganizar y rediseñar equipos hacia una cultura de DevOps" },
-      { "idx": 3, "benefit": "Convertirse en un líder y agente de cambio transformacional activo" },
-      { "idx": 4, "benefit": "Conocer el amplio rango de herramienta que apoyan a una adopción de DevOps" },
-      { "idx": 5, "benefit": "Obtener la certificación de Líder de DevOps" }
+      { "idx": 6, "benefit": "Convertirse en un líder y agente de cambio transformacional activo" },
+      { "idx": 7, "benefit": "Conocer el amplio rango de herramienta que apoyan a una adopción de DevOps" },
+      { "idx": 8, "benefit": "Obtener la certificación de Líder de DevOps" }
    ],
    "forwho": [
       { "idx": 1, "qualities": "Cualquier persona que esté comenzando o liderando un programa de transformación cultural de DevOps" },
