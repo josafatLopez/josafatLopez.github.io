@@ -2,138 +2,106 @@
    "id": 11,
    "linkurl": "devops-leader-devops-institute",
    "category": "DevOps",
-   "course": "Líder de DevOps - DevOps Institute",
+   "course": "Devops Leader - DevOps Institute",
    "schedules": [
       { "idx": 1, "date": "Contacta a un asesor para saber próximas fechas" },
       { "idx": 2, "date": "" }
    ],
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "16 horas",
-   "description": "El curso de DevOps Foundation del DevOps Institute está diseñado para personas y equipos que desean aprender los movimientos organizacionales y profesionales que hacen hincapié en la comunicación, colaboración, integración y automatización con el fin de mejorar el flujo de trabajo entre los equipos de desarrollo de software y profesionales de operaciones de TI.",
+   "description": "El curso de Líder de DevOps es una experiencia práctica y única para los participantes que quieren tomar un enfoque de liderazgo transformacional y hacer un impacto dentro de su organización al implementar DevOps. Liderar a la gente a través de la transformación cultural requiere nuevas habilidades, pensamiento innovador y liderazgo transformacional. Los líderes deben alinearse y colaborar para derribar silos y evolucionar a la organización. El curso resalta las dinámicas humanas del cambio cultural y equipa a los participantes con prácticas, métodos y herramientas para comprometer a la gente a través del espectro de DevOps a través del uso de escenarios reales y casos de estudio.",
    "logourl": "",
    "courseincludes": [
-      { "idx": 1, "include": "Material oficial acreditado para el participante por EXIN" },
+      { "idx": 1, "include": "Material oficial acreditado para el participante por DevOps Institute" },
       { "idx": 2, "include": "Diploma de finalización de curso" },
       { "idx": 3, "include": "Examen de certificación oficial por parte de DevOps Institute" }
    ],
    "benefits": [
-      { "idx": 1, "benefit": "Entender los principios y prácticas de DevOps y adoptar el vocabulario de DevOps." },
-      { "idx": 2, "benefit": "Adquirir las habilidades necesarias para convertirse en un campeón del cambio e inspirar a otras personas a adoptar una cultura de colaboración." },
-      { "idx": 3, "benefit": "Entender los beneficios que DevOps ofrece para el negocio." },
-      { "idx": 4, "benefit": "Aprender las métricas de éxito de DevOps." },
-      { "idx": 5, "benefit": "Ser capaz de integrar DevOps con otras prácticas Ágiles, aprender las prácticas de ITSM." },
-      { "idx": 6, "benefit": "Mejorar el flujo de comunicación con otras áreas de la organización." },
-      { "idx": 7, "benefit": "Ser capaz de definir las prácticas de automatización para mejorar los flujos de las actividades de los procesos." },
-      { "idx": 8, "benefit": "Conocer los retos, riesgos y factores críticos de éxito de la adopción de DevOps." },
-      { "idx": 9, "benefit": "Obtener el certificado de DevOps Foundation." }
+      { "idx": 1, "benefit": "Comprender a detalle los aspectos que hacen a DevOps exitoso" },
+      { "idx": 2, "benefit": "Hacer uso de las capacidades de la organización de TI para alcanzar una adopción eficaz de DevOps" },
+      { "idx": 3, "benefit": "Convertirse en un líder para la transformación de la organización" },
+      { "idx": 4, "benefit": "Crear mapas de flujo de valor para mejorar la eficiencia en toda la organización" },
+      { "idx": 5, "benefit": "Ser capaz de reorganizar y rediseñar equipos hacia una cultura de DevOps" },
+      { "idx": 3, "benefit": "Convertirse en un líder y agente de cambio transformacional activo" },
+      { "idx": 4, "benefit": "Conocer el amplio rango de herramienta que apoyan a una adopción de DevOps" },
+      { "idx": 5, "benefit": "Obtener la certificación de Líder de DevOps" }
    ],
    "forwho": [
-      { "idx": 1, "qualities": "Personas involucradas en el desarrollo de software, operaciones de TI y/o administrador del servicio." },
-      { "idx": 2, "qualities": "Personas que requieren de un entendimiento detallado de los principios de DevOps." },
-      { "idx": 3, "qualities": "Profesionales de TI trabajando o a punto de entrar en el área de diseño del servicio ágil, y requieren de un entendimiento detallado de los conceptos involucrados en las interfaces ágiles y DevOps." },
-      { "idx": 4, "qualities": "Personas que requieren de un entendimiento del cambio de cultura asociada con la adopción de DevOps." }
+      { "idx": 1, "qualities": "Cualquier persona que esté comenzando o liderando un programa de transformación cultural de DevOps" },
+      { "idx": 2, "qualities": "Cualquier persona interesada en enfoques de cambio organizacional y liderazgo de TI moderno" },
+      { "idx": 3, "qualities": "Administradores de Negocios" },
+      { "idx": 4, "qualities": "Interesados de Negocios" },
+      { "idx": 5, "qualities": "Agentes de Cambios" },
+      { "idx": 6, "qualities": "Consultores" },
+      { "idx": 7, "qualities": "Consultores de DevOps" },
+      { "idx": 8, "qualities": "Ingenieros de DevOps" },
+      { "idx": 9, "qualities": "Directores de TI" },
+      { "idx": 10, "qualities": "Gestores de TI" },
+      { "idx": 11, "qualities": "Líderes de Equipos de TI" },
+      { "idx": 12, "qualities": "Coach de Lean" },
+      { "idx": 13, "qualities": "Profesionales" },
+      { "idx": 14, "qualities": "Dueños de Productos" },
+      { "idx": 15, "qualities": "Scrum Masters" },
+      { "idx": 16, "qualities": "Integradores de Sistemas" },
+      { "idx": 17, "qualities": "Proveedores de Herramientas" }
    ],
    "exam": [
-      { "idx": 1, "characteristics": "Tiempo asignado: 60 minutos" },
+      { "idx": 1, "characteristics": "Tiempo asignado: 90 minutos" },
       { "idx": 2, "characteristics": "Cantidad de preguntas: 40 de opción múltiple" },
       { "idx": 3, "characteristics": "Calificación aprobatoria: 65% (26 respuestas correctas)" },
-      { "idx": 4, "characteristics": "Formato: En línea o Papel; a libro cerrado" },
-      { "idx": 5, "characteristics": "Prerrequisitos: Tareas de lecturas asignadas en clase completes. Se recomiendan por lo menos 4 horas de estudio personal durante el curso." }
+      { "idx": 4, "characteristics": "Formato: En línea o en papel; a libro cerrado" },
+      { "idx": 5, "characteristics": "Prerrequisitos: Contar con el certificado de Fundamentos de DevOps (El certificado se debe presentar como evidencia para el registro al examen)." },
+      { "idx": 6, "characteristics": "Se recomiendan 4 horas de estudio personal durante el curso." }
    ],
    "content": [
       {
          "idx" : 1,
-         "unit" : "Explorando DevOps", 
-         "topics" : [
-           { "idx":"1.1", "topic":"Definiendo DevOps" },
-           { "idx":"1.2", "topic":"¿Porqué DevOps es Importante?" }
-         ]
+         "unit" : "Liderazgo Transformacional y de DevOps", 
+         "topics" : []
       },
       {
          "idx" : 2,
-         "unit" : "Principios Fundamentales de DevOps", 
-         "topics" : [
-           { "idx":"2.1", "topic":"Los Tres Caminos" },
-           { "idx":"2.2", "topic":"El Primer Camino" },
-           { "idx":"2.3", "topic":"Teoría de Restricciones" },
-           { "idx":"2.4", "topic":"El Segundo Camino" },
-           { "idx":"2.5", "topic":"El Tercer Camino" },
-           { "idx":"2.6", "topic":"Ingeniería del Caos" },
-           { "idx":"2.7", "topic":"Organizaciones que Aprenden" }
-         ]
+         "unit" : "Comportamientos desaprendidos", 
+         "topics" : []
       },
       {
          "idx" : 3,
-         "unit" : "Prácticas Clave de DevOps", 
-         "topics" : [
-           { "idx":"3.1", "topic":"Entrega Continua" },
-           { "idx":"3.2", "topic":"Ingeniería de Resiliencia y Confiabilidad del Site" },
-           { "idx":"3.3", "topic":"DevSecOps" },
-           { "idx":"3.4", "topic":"ChatOps" },
-           { "idx":"3.5", "topic":"Kanban" }
-         ]
+         "unit" : "Convertirse en una Organización de DevOps", 
+         "topics" : []
       },
       {
          "idx" : 4,
-         "unit" : "Marcos de Negocio y Tecnología", 
-         "topics" : [
-           { "idx":"4.1", "topic":"Agile" },
-           { "idx":"4.2", "topic":"ITSM" },
-           { "idx":"4.3", "topic":"Lean" },
-           { "idx":"4.4", "topic":"Cultura de Seguridad" },
-           { "idx":"4.5", "topic":"Organizaciones que Aprenden" },
-           { "idx":"4.6", "topic":"Sociocracia / Holocracia" },
-           { "idx":"4.7", "topic":"Financiamiento Continuo" }
-         ]
+         "unit" : "Medir para Aprender", 
+         "topics" : []
       },
       {
          "idx" : 5,
-         "unit" : "Modelos de Cultura, Conducta y Operación", 
-         "topics" : [
-           { "idx":"5.1", "topic":"Definiendo la Cultura" },
-           { "idx":"5.2", "topic":"Modelos de Conducta" },
-           { "idx":"5.3", "topic":"Modelos de Madurez Organizacional" },
-           { "idx":"5.4", "topic":"Modelos de Operación Objetivo" }
-         ]
+         "unit" : "Medir para Mejorar", 
+         "topics" : []
       },
       {
         "idx" : 6,
-        "unit" : "Automatizando y Arquitectura de herramientas de DevOps", 
-        "topics" : [
-          { "idx":"6.1", "topic":"CI/CD" },
-          { "idx":"6.2", "topic":"Infraestructura como Código" },
-          { "idx":"6.3", "topic":"Nube" },
-          { "idx":"6.4", "topic":"Contenedores y Microservicios" },
-          { "idx":"6.5", "topic":"Aprendizaje de Máquina" },
-          { "idx":"6.6", "topic":"Herramientas de DevOps" }
-        ]
+        "unit" : "Diseño Organizacional y Modelos Operativos al Objetivo", 
+        "topics" : []
      },
      {
         "idx" : 7,
-        "unit" : "Medición, Métricas y Reportes", 
-        "topics" : [
-          { "idx":"7.1", "topic":"La Importancia de la Medición" },
-          { "idx":"7.2", "topic":"Métricas de DevOps" },
-          { "idx":"7.3", "topic":"Tiempos de dirigir/ciclos de cambio" },
-          { "idx":"7.4", "topic":"Métricas Dirigidas por Valor" }
-        ]
+        "unit" : "Visión de Socialización y de Articulación", 
+        "topics" : []
      },
      {
         "idx" : 8,
-        "unit" : "Compartir, Sombra y Evolucionar", 
-        "topics" : [
-          { "idx":"8.1", "topic":"DevOps Days" },
-          { "idx":"8.2", "topic":"DevOps en la Empresa" },
-          { "idx":"8.3", "topic":"Roles" },
-          { "idx":"8.4", "topic":"Liderazgo de DevOps" },
-          { "idx":"8.5", "topic":"Consideraciones Organizacionales" },
-          { "idx":"8.6", "topic":"Iniciando" },
-          { "idx":"8.7", "topic":"Retos, Riesgos y Factores Críticos de Éxito" }
-        ]
+        "unit" : "Mantener el ímpetu y la Energía", 
+        "topics" : []
      },
      {
         "idx" : 9,
-        "unit" : "Revisión de Examen", 
+        "unit" : "Fuentes de Información Adicionales", 
+        "topics" : []
+     },
+     {
+        "idx" : 10,
+        "unit" : "Preparación para el examen", 
         "topics" : []
      }
    ]
