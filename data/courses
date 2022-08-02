@@ -168,6 +168,24 @@
       "course": "Líder Ágil"
    },
    {
+      "id": 29,
+      "linkurl": "business-continuity-management-foundation",
+      "category": "Continuidad del Negocio",
+      "course": "Business Continuity Management Foundation"
+   },
+   {
+      "id": 30,
+      "linkurl": "iso-22301-lead-implementer",
+      "category": "Continuidad del Negocio",
+      "course": "ISO 22301 Lead Implementer"
+   },
+   {
+      "id": 31,
+      "linkurl": "iso-22301-lead-auditor",
+      "category": "Continuidad del Negocio",
+      "course": "ISO 22301 Lead Auditor"
+   },
+   {
       "id": 101,
       "linkurl": "combo-it-security-risk-and-continuity",
       "category": "Combos",

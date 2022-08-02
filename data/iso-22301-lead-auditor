@@ -1,0 +1,108 @@
+{
+   "id": 31,
+   "linkurl": "iso-22301-lead-auditor",
+   "category": "Continuidad del Negocio",
+   "course": "ISO 22301 Lead Auditor",
+   "schedules": [
+      { "idx": 1, "date": "Contacta a un asesor para saber próximas fechas" },
+      { "idx": 2, "date": "" }
+   ],
+   "modality": "Presencial | En línea con profesor en vivo",
+   "duration": "40 horas",
+   "description": "El curso de Auditor Líder de ISO 22301 le enseña las funciones y responsabilidades de un Auditor Interno, Auditor Externo y un Auditor Líder de ISO 22301, incluyendo la forma de relacionar sus hallazgos de auditoría a la política y objetivos de la organización y presentar su evaluación global a la alta dirección. Enseña los requerimientos de la norma ISO 22301 y explica los principios del sistema de Gestión de Continuidad del Negocio.",
+   "logourl": "",
+   "courseincludes": [
+      { "idx": 1, "include": "Material oficial acreditado para el participante" },
+      { "idx": 2, "include": "Ejercicios de revisión" },
+      { "idx": 3, "include": "Examen de simulación" },
+      { "idx": 4, "include": "Diploma de finalización de curso" },
+      { "idx": 5, "include": "Examen de certificación oficial por parte de ERCA" }
+   ],
+   "benefits": [
+      { "idx": 1, "benefit": "Realizar auditorías contra los requerimientos de ISO 22301 y dirigidas de acuerdo con ISO 19011 y contribuir con la mejora continua del sistema de gestión." },
+      { "idx": 2, "benefit": "Describir con referencia al ciclo de Planificar, Hacer, Verificar, Actuar (PDCA), el propósito, estructura y requerimientos de ISO 22301 desde el punto de vista de un auditor." },
+      { "idx": 3, "benefit": "Describir las responsabilidades de un auditor y describir el rol de la auditoría en el mantenimiento y mejora de los sistemas de gestión." }
+   ],
+   "forwho": [
+      { "idx": 1, "qualities": "Personal de prestadores de servicios internos así como externos en un rol definido de ISO 22301 o que tengan interés en estas norma." },
+      { "idx": 2, "qualities": "Dirección y personal de todas las divisiones corporativas, particularmente directores de gestión de la calidad e individuos interesados en realizar auditorías." }
+   ],
+   "exam": [
+      { "idx": 1, "characteristics": "Tiempo asignado: 120 minutos" },
+      { "idx": 2, "characteristics": "Cantidad de preguntas: 10 preguntas de opción múltiple, 6 preguntas abiertas y 3 escenarios de caso" },
+      { "idx": 3, "characteristics": "Calificación aprobatoria: 70%" },
+      { "idx": 4, "characteristics": "Formato: En papel el último día del curso" },
+      { "idx": 5, "characteristics": "Prerrequisitos: No existe un prerrequisito formal para esta certificación, sin embargo se recomienda tener conocimiento previo sobre la norma ISO 22301 o haber cursado el curso de Fundamentos de Continuidad del Negocio con base en ISO 22301." }
+   ],
+   "content": [
+      {
+         "idx" : 1,
+         "unit" : "Introducción y Definiciones", 
+         "topics" : [
+           { "idx":"1.1", "topic":"Objetivo del Sistema de Gestión de la Continuidad del Negocio" },
+           { "idx":"1.2", "topic":"El Modelo Planear-Hacer-Verificar-Actuar" },
+           { "idx":"1.3", "topic":"Definiciones" }
+         ]
+      },
+      {
+         "idx" : 2,
+         "unit" : "Sistema de Gestión de la Continuidad del Negocio", 
+         "topics" : [
+           { "idx":"2.1", "topic":"Entender la Organización y su Contexto" },
+           { "idx":"2.2", "topic":"Entender las Necesidades y las Expectativas de las Partes Interesadas" },
+           { "idx":"2.3", "topic":"La Importancia de los Requerimientos Regulatorios y Legales" },
+           { "idx":"2.4", "topic":"Determinar el Alcance del Sistema de Gestión de la Continuidad del Negocio" },
+           { "idx":"2.5", "topic":"Sistema de Gestión de la Continuidad del Negocio" },
+           { "idx":"2.6", "topic":"Liderazgo, Compromiso, Roles y Responsabilidades" },
+           { "idx":"2.7", "topic":"Gestión de Riesgos" },
+           { "idx":"2.8", "topic":"Definición de los Objetivos de Continuidad del Negocio" },
+           { "idx":"2.9", "topic":"Provisión de los Recursos" }
+         ]
+      },
+      {
+         "idx" : 3,
+         "unit" : "Implementar y Operar el Sistema de Gestión de la Continuidad del Negocio", 
+         "topics" : [
+           { "idx":"3.1", "topic":"Planeación y Control Operacional" },
+           { "idx":"3.2", "topic":"Análisis de Impacto al Negocio y Valoración de Riesgos" },
+           { "idx":"3.3", "topic":"Estrategia de Continuidad del Negocio" },
+           { "idx":"3.4", "topic":"Procedimientos de Continuidad del Negocio" },
+           { "idx":"3.5", "topic":"Ejercicios y Pruebas" }
+         ]
+      },
+      {
+         "idx" : 4,
+         "unit" : "Conceptos básicos de auditoría", 
+         "topics" : [
+           { "idx":"4.1", "topic":"Introducción a ISO 19011:2018" },
+           { "idx":"4.2", "topic":"Términos y definiciones" }
+         ]
+      },
+      {
+         "idx" : 5,
+         "unit" : "Gestionar Programas de Auditoría para un ISMS & Principios de Auditoría", 
+         "topics" : [
+           { "idx":"5.1", "topic":"General" },
+           { "idx":"5.2", "topic":"Establecer Objetivos del Programa de Auditoría" },
+           { "idx":"5.3", "topic":"Determinar y Evaluar los Riesgos y Oportunidades del Programa de Auditoría" },
+           { "idx":"5.4", "topic":"Establecer el programa de auditoría" },
+           { "idx":"5.5", "topic":"Implementar un Programa de Auditoría" },
+           { "idx":"5.6", "topic":"Monitorear el programa de auditoría" },
+           { "idx":"5.7", "topic":"Revisar y mejorar el programa de auditoría" }
+         ]
+      },
+      {
+         "idx" : 6,
+         "unit" : "Conducir una Auditoria", 
+         "topics" : [
+           { "idx":"6.1", "topic":"General" },
+           { "idx":"6.2", "topic":"Iniciar auditoría" },
+           { "idx":"6.3", "topic":"Preparar las actividades de la auditoría" },
+           { "idx":"6.4", "topic":"Realización de actividades de auditoría" },
+           { "idx":"6.5", "topic":"Preparar y distribuir el reporte de auditoría" },
+           { "idx":"6.6", "topic":"Completar la auditoría" },
+           { "idx":"6.7", "topic":"Realización de seguimiento de auditoría" }
+         ]
+      }
+   ]
+}

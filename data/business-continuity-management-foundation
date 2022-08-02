@@ -1,0 +1,113 @@
+{
+   "id": 29,
+   "linkurl": "business-continuity-management-foundation",
+   "category": "Continuidad del Negocio",
+   "course": "Business Continuity Management Foundation",
+   "schedules": [
+      { "idx": 1, "date": "Contacta a un asesor para saber próximas fechas" },
+      { "idx": 2, "date": "" }
+   ],
+   "modality": "Presencial | En línea con profesor en vivo",
+   "duration": "24 horas",
+   "description": "Este curso ayuda a comprender de manera amplia el ciclo de vida de implementación de un Sistema de Gestión de la Continuidad del Negocio (BCMS), con base en los requerimientos especificados por la norma ISO 22301. Ayuda a los participantes a comprender, mediante el uso de escenarios y casos prácticos, la importancia de contar con un Sistema de Gestión de la Continuidad del Negocio que permita continuar con la operación del negocio en caso de que ocurra un desastre o cualquier contingencia que impida la ejecución normal del negocio.",
+   "logourl": "",
+   "courseincludes": [
+      { "idx": 1, "include": "Material oficial acreditado para el participante" },
+      { "idx": 2, "include": "Ejercicios de revisión" },
+      { "idx": 3, "include": "Examen de simulación" },
+      { "idx": 4, "include": "Diploma de finalización de curso" },
+      { "idx": 5, "include": "Examen de certificación oficial por parte de EXIN" }
+   ],
+   "benefits": [
+      { "idx": 1, "benefit": "Aprender los conceptos básicos sobre la continuidad del negocio." },
+      { "idx": 2, "benefit": "Comprender la norma ISO 222301 como el conjunto de guías y lineamientos para la gestión de la continuidad del negocio." },
+      { "idx": 3, "benefit": "Obtener el conocimiento claro de un Sistema de Gestión de la Continuidad del Negocio (BCMS) y su ciclo de vida." },
+      { "idx": 4, "benefit": "Obtener el certificado en Fundamentos de la Continuidad del Negocio con base en ISO 22301." }
+   ],
+   "forwho": [
+      { "idx": 1, "qualities": "Todas las personas en la organización que procesen información." },
+      { "idx": 2, "qualities": "Negocios pequeños e independientes para los cuales es necesario un conocimiento básico de la continuidad del negocio." },
+      { "idx": 3, "qualities": "Responsables de la continuidad del negocio y/o del servicio de TI." }
+   ],
+   "exam": [
+      { "idx": 1, "characteristics": "Tiempo asignado: 60 minutos" },
+      { "idx": 2, "characteristics": "Cantidad de preguntas: 40 de opción múltiple" },
+      { "idx": 3, "characteristics": "Calificación aprobatoria: 65% (26 respuestas correctas)" },
+      { "idx": 4, "characteristics": "Formato: En línea o Papel; a libro cerrado" },
+      { "idx": 5, "characteristics": "Se recomiendan por lo menos 4 horas de estudio personal durante el curso" }
+   ],
+   "content": [
+      {
+         "idx" : 1,
+         "unit" : "Introducción y Definiciones", 
+         "topics" : [
+           { "idx":"1.1", "topic":"Objetivo del Sistema de Gestión de la Continuidad del Negocio" },
+           { "idx":"1.2", "topic":"El Modelo Planear-Hacer-Verificar-Actuar" },
+           { "idx":"1.3", "topic":"Definiciones" }
+         ]
+      },
+      {
+         "idx" : 2,
+         "unit" : "Planear el Sistema de Gestión de la Continuidad del Negocio", 
+         "topics" : [
+           { "idx":"2.1", "topic":"Entender la Organización y su Contexto" },
+           { "idx":"2.2", "topic":"Entender las Necesidades y las Expectativas de las Partes Interesadas" },
+           { "idx":"2.3", "topic":"La Importancia de los Requerimientos Regulatorios y Legales" },
+           { "idx":"2.4", "topic":"Determinar el Alcance del Sistema de Gestión de la Continuidad del Negocio" },
+           { "idx":"2.5", "topic":"Sistema de Gestión de la Continuidad del Negocio" },
+           { "idx":"2.6", "topic":"Liderazgo, Compromiso, Roles y Responsabilidades" },
+           { "idx":"2.7", "topic":"Gestión de Riesgos" },
+           { "idx":"2.8", "topic":"Definición de los Objetivos de Continuidad del Negocio" },
+           { "idx":"2.9", "topic":"Provisión de los Recursos" }
+         ]
+      },
+      {
+         "idx" : 3,
+         "unit" : "Implementar y Operar el Sistema de Gestión de la Continuidad del Negocio", 
+         "topics" : [
+           { "idx":"3.1", "topic":"Planeación y Control Operacional" },
+           { "idx":"3.2", "topic":"Análisis de Impacto al Negocio y Valoración de Riesgos" },
+           { "idx":"3.3", "topic":"Estrategia de Continuidad del Negocio" },
+           { "idx":"3.4", "topic":"Procedimientos de Continuidad del Negocio" },
+           { "idx":"3.5", "topic":"Ejercicios y Pruebas" }
+         ]
+      },
+      {
+         "idx" : 4,
+         "unit" : "Monitorear y Revisar el Sistema de Gestión de la Continuidad del Negocio", 
+         "topics" : [
+           { "idx":"4.1", "topic":"Monitoreo y Evaluación" },
+           { "idx":"4.2", "topic":"Auditoría Interna" },
+           { "idx":"4.3", "topic":"Revisión de la Dirección" }
+         ]
+      },
+      {
+         "idx" : 5,
+         "unit" : "Mantener y Mejorar el Sistema de Gestión de la Continuidad del Negocio", 
+         "topics" : [
+            { "idx":"5.1", "topic":"No Conformidad y Acción Correctiva" },
+            { "idx":"5.2", "topic":"Mejora Continua" }
+         ]
+      },
+      {
+         "idx" : 6,
+         "unit" : "Descripción del Examen", 
+         "topics" : [
+            { "idx":"6.1", "topic":"Formato del examen" },
+            { "idx":"6.2", "topic":"Consejos para contestar el examen" }
+         ]
+      },
+      {
+         "idx" : 7,
+         "unit" : "Revisión, Evaluación y Examinación", 
+         "topics" : [
+           { "idx":"7.1", "topic":"Revisión General" },
+           { "idx":"7.2", "topic":"Examen de Preparación" },
+           { "idx":"7.3", "topic":"Revisión del Examen de Preparación" },
+           { "idx":"7.4", "topic":"Evaluación del Curso" },
+           { "idx":"7.5", "topic":"Certificado del Curso" },
+           { "idx":"7.6", "topic":"Examen de Certificación" }
+         ]
+      }
+   ]
+}

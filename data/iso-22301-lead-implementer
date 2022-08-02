@@ -1,0 +1,59 @@
+{
+   "id": 30,
+   "linkurl": "iso-22301-lead-implementer",
+   "category": "Continuidad del Negocio",
+   "course": "ISO 22301 Lead Implementer",
+   "schedules": [
+      { "idx": 1, "date": "Contacta a un asesor para saber próximas fechas" },
+      { "idx": 2, "date": "" }
+   ],
+   "modality": "Presencial | En línea con profesor en vivo",
+   "duration": "40 horas",
+   "description": "El curso de Implementación de un Sistema de Gestión de Continuidad del Negocio con base en ISO/IEC 22301 muestra los pasos a seguir para liderar un proyecto de implementación de los requerimientos de ISO 22301, así como la elaboración de un DRP (Plan de Recuperación en Caso de Desastres) y BCP (Plan de Continuidad del Negocio).",
+   "logourl": "",
+   "courseincludes": [
+      { "idx": 1, "include": "Material oficial acreditado para el participante" },
+      { "idx": 2, "include": "Ejercicios de revisión" },
+      { "idx": 3, "include": "Examen de simulación" },
+      { "idx": 4, "include": "Diploma de finalización de curso" },
+      { "idx": 5, "include": "Examen de certificación oficial por parte de ERCA" }
+   ],
+   "benefits": [
+      { "idx": 1, "benefit": "Conocer los requerimientos de la norma ISO 22301 y la forma de implementarlos." },
+      { "idx": 2, "benefit": "Comprender los roles y responsabilidades del auditor a un Sistema de Gestión de Continuidad del Negocio." },
+      { "idx": 3, "benefit": "Comprender la diferencia entre un DRP y un BCP." },
+      { "idx": 4, "benefit": "Entender cómo diseñar, implementar, madurar, monitorear y mejorar el BCMS." },
+      { "idx": 5, "benefit": "Conocer cómo realizar una gestión de riesgos para un BCMS." }
+   ],
+   "forwho": [
+      { "idx": 1, "qualities": "Gerentes de Continuidad del Negocio." },
+      { "idx": 2, "qualities": "Consultores de Continuidad del Negocio." },
+      { "idx": 3, "qualities": "Auditores de Continuidad del Negocio." },
+      { "idx": 4, "qualities": "Dueños de Procesos de Continuidad del Negocio." },
+      { "idx": 5, "qualities": "Personal encargado de la implementación, administración y quienes participen en un Sistema de Gestión de Continuidad del Negocio." },
+      { "idx": 6, "qualities": "Personal a cargo del DRP y BCP." },
+      { "idx": 7, "qualities": "Analistas de Seguridad de la Información y Continuidad del Negocio." }
+   ],
+   "exam": [
+      { "idx": 1, "characteristics": "Tiempo asignado: 60 minutos" },
+      { "idx": 2, "characteristics": "Cantidad de preguntas: 40 de opción múltiple" },
+      { "idx": 3, "characteristics": "Calificación aprobatoria: 70%" },
+      { "idx": 4, "characteristics": "Formato: En papel el último día del curso" },
+      { "idx": 5, "characteristics": "No existen prerrequisitos para este curso" }
+   ],
+   "content": [
+      { "idx" : 1, "unit" : "Revisión", "topics" : [] },
+      { "idx" : 1, "unit" : "Introducción al Sistema de Gestión de Continuidad del Negocio (BCMS)", "topics" : [] },
+      { "idx" : 2, "unit" : "Beneficios del BCMS", "topics" : [] },
+      { "idx" : 3, "unit" : "Conceptos de ISO 22301", "topics" : [] },
+      { "idx" : 4, "unit" : "Requerimientos dentro de ISO 22301", "topics" : [] },
+      { "idx" : 5, "unit" : "Opciones de implementación para crear un BCMS Certificado", "topics" : [] },
+      { "idx" : 6, "unit" : "Prácticas de ITIL", "topics" : [] },
+      { "idx" : 7, "unit" : "Planeación de Proyectos de Implementación de la norma ISO 22301", "topics" : [] },
+      { "idx" : 8, "unit" : "Estructura de Trabajo para Implementación de la norma ISO 22301", "topics" : [] },
+      { "idx" : 9, "unit" : "Riesgos en un BCMS", "topics" : [] },
+      { "idx" : 10, "unit" : "Monitoreo y control del BCMS", "topics" : [] },
+      { "idx" : 11, "unit" : "Auditorías a un BCMS", "topics" : [] },
+      { "idx" : 12, "unit" : "Examen de Certificación", "topics" : [] }
+   ]
+}
