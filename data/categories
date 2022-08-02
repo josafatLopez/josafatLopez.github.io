@@ -19,9 +19,7 @@
          { "id": 10, "linkurl": "devops-foundation-devops-institute", "course": "DevOps Foundation - DevOps Institute" },
          { "id": 11, "linkurl": "devops-leader-devops-institute", "course": "Devops Leader - DevOps Institute" },
          { "id": 12, "linkurl": "devops-site-reliability-engineering", "course": "Site Reliability Engineering Foundation (SRE)" },
-         { "id": 13, "linkurl": "devsecops-engineering", "course": "DevSecOps Engineering (DSOE)" },
-         { "id": 14, "linkurl": "devops-test-engineer", "course": "DevOps Test Engineer (DTE)" },
-         { "id": 15, "linkurl": "devops-capo", "course": "Certified Agile Process Owner (CAPO)" },
+         { "id": 13, "linkurl": "devsecops-foundation", "course": "DevSecOps Foundation" },
          { "id": 16, "linkurl": "devops-casm", "course": "Certified Agile Service Manager (CASM)" },
          { "id": 17, "linkurl": "devops-continuous-delivery-architect-cda", "course": "Continuous Delivery Architect (CDA)" }
       ]

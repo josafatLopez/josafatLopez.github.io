@@ -9,86 +9,222 @@
    ],
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "16 horas",
-   "description": "Scrum es el marco de trabajo ágil más popular, se trata de un método adaptable, rápido, flexible, y eficaz, diseñado para ofrecer un valor significativo de forma rápida y durante todo el proyecto.\n Los Scrum Master Certified (SMC ™) son facilitadores que aseguran que el equipo de Scrum está provisto de un entorno propicio para completar el proyecto con éxito. Los Scrum Master facilitan, y enseñan prácticas de Scrum a todos los involucrados en el proyecto, remueve los impedimentos para el equipo, y asegura que los procesos Scrum se están siguiendo de manera correcta para el logro de objetivos.",
+   "description": "Al ser equivalente a una persona certificada en Scrum Master de forma operativa, el certificado en Agile Service Manager (CASM) es el responsable de asegurar la gestión del servicio de manera Ágil a través de teoría, prácticas y reglas que son entendibles.",
    "logourl": "",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
       { "idx": 2, "include": "Diploma de finalización de curso" }
    ],
    "benefits": [
-      { "idx": 1, "benefit": "Ser capaz de guiar y enseñar prácticas de Scrum a todos los involucrados en el proyecto, eliminar los obstáculos para el equipo y asegurar que los pasos se están siguiendo Scrum." },
-      { "idx": 2, "benefit": "Obtener un entendimiento profundo de la filosofía y principios de Scrum." },
-      { "idx": 3, "benefit": "Obtener un conocimiento práctico de Scrum, incluidos los roles, reuniones y artefactos." },
-      { "idx": 4, "benefit": "Sentirse cómodo de implementar Scrum en las organizaciones, así como en la gestión de los problemas comunes." },
-      { "idx": 5, "benefit": "Obtener el certificado de Scrum." }
+      { "idx": 1, "benefit": "Aplicar e integrar el pensamiento Agile en los procesos de gestión de servicios y proyectos de diseño de procesos." },
+      { "idx": 2, "benefit": "Mejorar la efectividad y eficiencia de TI." },
+      { "idx": 3, "benefit": "Habilitar la entrega de valor continuo al hacer frente a los requerimientos cambiantes." },
+      { "idx": 4, "benefit": "Trabajar en conjunto con el Scrum Master para inculcar el pensamiento Agile en toda la organización." },
+      { "idx": 5, "benefit": "Integrar las prácticas de ITSM con Scrum, Kanban, Lean y DevOps." },
+      { "idx": 6, "benefit": "Desarrollar habilidades de la metodología Agile para la mejora y diseño de procesos." },
+      { "idx": 7, "benefit": "Obtener el certificado Certified Agile Service Manager (CASM)." }
    ],
    "forwho": [
-      { "idx": 1, "qualities": "Cualquier persona que esté interesada en trabajar como Scrum Master." },
-      { "idx": 2, "qualities": "Cualquier persona que ya sea un Scrum Master en su organización." },
-      { "idx": 3, "qualities": "Un Scrum Master es un papel importante en cualquier equipo de Scrum y no tiene que ser un experto en tecnología para ser eficaz." },
-      { "idx": 4, "qualities": "A pesar de que Scrum es muy popular en la industria de TI, Scrum puede ser utilizado de manera efectiva en cualquier tipo de industria." }
+      { "idx": 1, "qualities": "Personas que impulsan a SCRUM." },
+      { "idx": 2, "qualities": "Cualquier persona interesada en aprender acerca de la metodología Agile y Scrum desde una perspectiva de productos y procesos." },
+      { "idx": 3, "qualities": "Empleados y administradores responsables del diseño, reingeniería o mejora de procesos." },
+      { "idx": 4, "qualities": "Consultores que guían a sus clientes a través de iniciativas de mejora de procesos." },
+      { "idx": 5, "qualities": "Proveedores internos y externos." },
+      { "idx": 6, "qualities": "Interesados en los procesos." }
    ],
    "exam": [
-      { "idx": 1, "characteristics": "Tiempo asignado: 120 minutos" },
-      { "idx": 2, "characteristics": "Cantidad de preguntas: 100 de opción múltiple" },
-      { "idx": 3, "characteristics": "Calificación aprobatoria: 57% (57 respuestas correctas)" },
+      { "idx": 1, "characteristics": "Tiempo asignado: 60 minutos" },
+      { "idx": 2, "characteristics": "Cantidad de preguntas: 40 de opción múltiple" },
+      { "idx": 3, "characteristics": "Calificación aprobatoria: 65% (26 respuestas correctas)" },
       { "idx": 4, "characteristics": "Formato: En línea o Papel; a libro cerrado" },
-      { "idx": 5, "characteristics": "Prerrequisitos: Se recomienda haber completado el curso de Fundamentos de Scrum en línea que es de manera gratuita (acceso proporcionado a inscripción en el curso)." }
+      { "idx": 5, "characteristics": "Prerrequisitos: Estar familiarizado con los procesos de gestión del servicio y ITIL (recomendado). Revisar la guía de “Scrum Guide™ y la guía de “The Agile Service Management Guide” (ambas proporcionadas durante el registro del curso). Se recomiendan por lo menos 4 horas de estudio personal durante el curso." }
    ],
    "content": [
       {
          "idx" : 1,
-         "unit" : "Revisión a Agile", 
-         "topics" : [
-           { "idx":"1.1", "topic":"El origen de Agile" },
-           { "idx":"1.2", "topic":"El Manifesto de Agile" },
-           { "idx":"1.3", "topic":"Los Principios del Manifesto de Agile" },
-           { "idx":"1.4", "topic":"Declaración de Interdependencia" },
-           { "idx":"1.5", "topic":"Métodos Agiles" },
-           { "idx":"1.6", "topic":"Gestión de proyectos Tradicional vs. Agile" }
-         ]
+         "unit" : "Introducción al curso", 
+         "topics" : []
       },
       {
          "idx" : 2,
-         "unit" : "Vistazo a Scrum", 
+         "unit" : "¿Por qué Agile?", 
          "topics" : [
-           { "idx":"2.1", "topic":"Principios de Scrum" },
-           { "idx":"2.2", "topic":"Aspectos de Scrum" },
-           { "idx":"2.3", "topic":"Procesos de Scrum" },
-           { "idx":"2.4", "topic":"Ventajas de Scrum" }
+           { "idx":"2.1", "topic":"El reto TI hoy en día" }
          ]
       },
       {
          "idx" : 3,
-         "unit" : "Roles de Scrum", 
+         "unit" : "¿Qué significa “ser agile”?", 
          "topics" : [
-           { "idx":"3.1", "topic":"Roles centrales" },
-           { "idx":"3.2", "topic":"Roles no centrales" }
+           { "idx":"3.1", "topic":"¿Qué es Agile?" },
+           { "idx":"3.2", "topic":"El Manifiesto de Agile" },
+           { "idx":"3.3", "topic":"Los principios de Agile" },
+           { "idx":"3.4", "topic":"¿Qué se necesita para “Ser Agile”?" },
+           { "idx":"3.5", "topic":"Ejercicio: Revisión de los valores de Agile" }
          ]
       },
       {
          "idx" : 4,
-         "unit" : "Fases de Scrum", 
+         "unit" : "Prácticas de Agile", 
          "topics" : [
-           { "idx":"4.1", "topic":"Iniciar" },
-           { "idx":"4.2", "topic":"Planear y Estimar" },
-           { "idx":"4.3", "topic":"Implementar" },
-           { "idx":"4.4", "topic":"Revisar y ver en retrospectiva" },
-           { "idx":"4.5", "topic":"Liberar" }
+           { "idx":"4.1", "topic":"Scrum" },
+           { "idx":"4.2", "topic":"Kanban" },
+           { "idx":"4.3", "topic":"Lean" },
+           { "idx":"4.4", "topic":"ITIL/ITSM" },
+           { "idx":"4.5", "topic":"DevOps" },
+           { "idx":"4.6", "topic":"Integración continua" },
+           { "idx":"4.7", "topic":"Entrega continua" },
+           { "idx":"4.8", "topic":"Ejercicio: Aprovechamiento de múltiples marcos de trabajo" }
          ]
       },
       {
          "idx" : 5,
-         "unit" : "Adaptar Scrum", 
+         "unit" : "¿Qué es la gestión del servicio Agile (Agile SM)?", 
          "topics" : [
-           { "idx":"5.1", "topic":"Adaptabilidad de Scrum" },
-           { "idx":"5.2", "topic":"Scrum en Programas y Portafolios" },
-           { "idx":"5.3", "topic":"Junta de Scrum de Scrums (SoS)" },
-           { "idx":"5.4", "topic":"Transición a Scrum" },
-           { "idx":"5.5", "topic":"Mapear los Roles Tradicionales a Scrum" },
-           { "idx":"5.6", "topic":"Mantener el Involucramiento de los Stakeholders" },
-           { "idx":"5.7", "topic":"Importancia del Apoyo Ejecutivo" }
+           { "idx":"5.1", "topic":"Definición y valor" },
+           { "idx":"5.2", "topic":"Dos aspectos de Agile SM" }
          ]
+      },
+      {
+         "idx" : 6,
+         "unit" : "Diseño de procesos básicos", 
+         "topics" : [
+           { "idx":"6.1", "topic":"Los elementos de un proceso" },
+           { "idx":"6.2", "topic":"Los 10 pasos para el diseño de un proceso" }
+         ]
+      },
+      {
+         "idx" : 7,
+         "unit" : "Un enfoque ágil para el diseño de un proceso", 
+         "topics" : [
+           { "idx":"7.1", "topic":"Características de un proceso Agile" },
+           { "idx":"7.2", "topic":"¿Cuánto es suficiente?" },
+           { "idx":"7.3", "topic":"Mínimo producto viable" }
+         ]
+      },
+      {
+         "idx" : 8,
+         "unit" : "Fundamentos Scrum", 
+         "topics" : [
+           { "idx":"8.1", "topic":"Pilares, valores y componentes de Scrum" },
+           { "idx":"8.2", "topic":"Términos Importantes" }
+         ]
+      },
+      {
+         "idx" : 9,
+         "unit" : "Roles de Scrum", 
+         "topics" : [
+           { "idx":"9.1", "topic":"Product owner" },
+           { "idx":"9.2", "topic":"Scrum Master" },
+           { "idx":"9.3", "topic":"Team" }
+         ]
+      },
+      {
+         "idx" : 10,
+         "unit" : "Artefactos de Scrum", 
+         "topics" : [
+           { "idx":"10.1", "topic":"Product Backlog" },
+           { "idx":"10.2", "topic":"Increment" },
+           { "idx":"10.3", "topic":"Product backlog refinement" },
+           { "idx":"10.4", "topic":"Sprint Backlog" },
+           { "idx":"10.5", "topic":"Burndown chart" }
+         ]
+      },
+      {
+         "idx" : 11,
+         "unit" : "Artefactos de la gestión de servicios Agile", 
+         "topics" : [
+           { "idx":"11.1", "topic":"Proceso de Backlog"}
+         ]
+      },
+      {
+         "idx" : 12,
+         "unit" : "Historias de usuario y procesos de ITSM", 
+         "topics" : [
+           { "idx":"12.1", "topic":"Process increment"},
+           { "idx":"12.2", "topic":"Listado de tareas (Sprint Backlog en un contexto Agile SM)" },
+           { "idx":"12.3", "topic":"Gráfico de trabajos pendientes (contexto Agile SM)" },
+           { "idx":"12.4", "topic":"Ejercicio: Escribir una historia de usuario significativa" }
+         ]
+      },
+      {
+         "idx" : 13,
+         "unit" : "Eventos de Scrum", 
+         "topics" : [
+           { "idx":"13.1", "topic":"Fijación de tiempos (TimeBoxes)" },
+           { "idx":"13.2", "topic":"Reunión de planeación de liberación (Release planning meeting)" },
+           { "idx":"13.3", "topic":"Reunión de planeación del sprint (Sprint planning meeting)" },
+           { "idx":"13.4", "topic":"Reunión diaria (Daily Scrum)" },
+           { "idx":"13.5", "topic":"Revisión del Sprint (Sprint Review)" },
+           { "idx":"13.6", "topic":"Ver en retrospectiva el Sprint (Sprint Retrospective)" },
+           { "idx":"13.7", "topic":"Definición de hecho" }
+         ]
+      },
+      {
+         "idx" : 14,
+         "unit" : "¿Qué es la gestión del servicio Agile (Agile SM)?", 
+         "topics" : [
+           { "idx":"14.1", "topic":"Definición y valor" },
+           { "idx":"14.2", "topic":"Dos aspectos de Agile SM" }
+         ]
+      },
+      {
+         "idx" : 15,
+         "unit" : "Eventos de la gestión del servicio Agile", 
+         "topics" : [
+           { "idx":"15.1", "topic":"Reunión de planeación del proceso (Process planning meeting)" },
+           { "idx":"15.2", "topic":"Reunión de la planeación del Sprint (Sprint planning meeting)" }
+         ]
+      },
+      {
+         "idx" : 16,
+         "unit" : "Sprint estratégicos y actividades del proceso", 
+         "topics" : [
+           { "idx":"16.1", "topic":"Definición de Hecho para el proceso de Sprints" },
+           { "idx":"16.2", "topic":"Reunión diaria (Daily Scrum) en un contexto de Agile SM" },
+           { "idx":"16.3", "topic":"Revisión del Sprint (en un contexto Agile SM)" },
+           { "idx":"16.4", "topic":"Retrospectiva del Sprint (en un contexto Agile SM)" }
+         ]
+      },
+      {
+         "idx" : 17,
+         "unit" : "Mejora del proceso Agile", 
+         "topics" : [
+           { "idx":"17.1", "topic":"Auditoría de mejora para el proceso Agile" },
+           { "idx":"17.2", "topic":"EL Process Backlog como un registro de mejora (CSI)" },
+           { "idx":"17.3", "topic":"CSI, Sprints y el Plan‐Do‐Check‐Act" },
+           { "idx":"17.4", "topic":"Ejercicio: evaluación del proceso de Agile" }
+         ]
+      },
+      {
+         "idx" : 18,
+         "unit" : "Tecnologías para la gestión del servicio Agile", 
+         "topics" : []
+      },
+      {
+         "idx" : 19,
+         "unit" : "Alineación de la gestión del servicio Agile y el desarrollo de software Agile", 
+         "topics" : []
+      },
+      {
+         "idx" : 20,
+         "unit" : "Empezar con la gestión del servicio Agile", 
+         "topics" : []
+      },
+      {
+         "idx" : 21,
+         "unit" : "Resumen", 
+         "topics" : []
+      },
+      {
+         "idx" : 22,
+         "unit" : "Fuentes adicionales de información", 
+         "topics" : []
+      },
+      {
+         "idx" : 23,
+         "unit" : "Preparación del examen", 
+         "topics" : []
       }
    ]
 }

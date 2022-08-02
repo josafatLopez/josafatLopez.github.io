@@ -1,0 +1,99 @@
+{
+   "id": 13,
+   "linkurl": "devsecops-foundation",
+   "category": "DevOps",
+   "course": "DevSecOps Foundation",
+   "schedules": [
+      { "idx": 1, "date": "Contacta a un asesor para saber próximas fechas" },
+      { "idx": 2, "date": "" }
+   ],
+   "modality": "Presencial | En línea con profesor en vivo",
+   "duration": "16 horas",
+   "description": "A las organizaciones de TI cada vez se les pide hacer más con menos. DevOps ha mostrado un valor inmenso para los negocios y la seguridad es un componente integral que debe ser incorporado en la estrategia. Este curso explica cómo las prácticas de seguridad de DevOps difieren de otros enfoques de seguridad.",
+   "logourl": "",
+   "courseincludes": [
+      { "idx": 1, "include": "Material oficial acreditado para el participante" },
+      { "idx": 2, "include": "Diploma de finalización de curso" }
+   ],
+   "benefits": [
+      { "idx": 1, "benefit": "Aprender de qué manera los roles de DevSecOps se ajustan a la cultura y la organización." },
+      { "idx": 2, "benefit": "Integrar a la seguridad en los flujos de trabajo de la Mejora Continua." },
+      { "idx": 3, "benefit": "Comprender la utilización de ‘seguridad como código’ con la intención de hacer a la seguridad y el cumplimiento de consumibles como un servicio." },
+      { "idx": 4, "benefit": "Saber de qué manera integrar programas de seguridad en prácticas de DevOps." },
+      { "idx": 5, "benefit": "Ser capaz de usar datos y seguridad como los principales medios para proteger a la organización y al cliente." },
+      { "idx": 6, "benefit": "Habilitar prácticas de DevSecOps para soportar la transformación organizacional con la meta definitiva de aumentar la productividad, reducir los riesgos y optimizar los costos en la organización." },
+      { "idx": 7, "benefit": "Obtener el certificado de DevSecOps Engineering certification." }
+   ],
+   "forwho": [
+      { "idx": 1, "qualities": "Cualquier persona involucrada o interesada en aprender sobre automatización y estrategias de DevSecOps" },
+      { "idx": 2, "qualities": "Equipos de Cumplimiento" },
+      { "idx": 3, "qualities": "Personal de Entrega" },
+      { "idx": 4, "qualities": "Ingenieros de DevOps" },
+      { "idx": 5, "qualities": "Gestores de TI" },
+      { "idx": 6, "qualities": "Gestores, Practicantes y Profesionales en Seguridad de TI" },
+      { "idx": 7, "qualities": "Personal de Soporte y Mantenimiento" },
+      { "idx": 8, "qualities": "Prestadores de Servicios Gestionados" },
+      { "idx": 9, "qualities": "Gestores de Productos y Proyectos" },
+      { "idx": 10, "qualities": "Equipos de Aseguramiento de Calidad" },
+      { "idx": 11, "qualities": "Gestores de Liberaciones" },
+      { "idx": 12, "qualities": "Scrum Masters" },
+      { "idx": 13, "qualities": "Ingenieros de Confiabilidad del Sitio" },
+      { "idx": 14, "qualities": "Ingenieros de Software" },
+      { "idx": 15, "qualities": "Personal de Pruebas" }
+   ],
+   "exam": [
+      { "idx": 1, "characteristics": "Tiempo asignado: 90 minutos" },
+      { "idx": 2, "characteristics": "Cantidad de preguntas: 40 preguntas de opción múltiple" },
+      { "idx": 3, "characteristics": "Calificación aprobatoria: 65% (26 respuestas correctas)" },
+      { "idx": 4, "characteristics": "Formato de Preguntas: En línea o en papel, se presenta el último día del curso" },
+      { "idx": 5, "characteristics": "Prerequisitos: Contar con el certificado de Fundamentos de DevOps (El certificado se debe presentar como evidencia para el registro al examen)." },
+      { "idx": 6, "characteristics": "Se recomiendan 4 horas de estudio personal durante el curso." }
+   ],
+   "content": [
+      {
+         "idx" : 1,
+         "unit" : "¿Por qué DevSecOps?", 
+         "topics" : []
+      },
+      {
+         "idx" : 2,
+         "unit" : "Cultura y Gestión", 
+         "topics" : []
+      },
+      {
+         "idx" : 3,
+         "unit" : "Consideraciones Estratégicas", 
+         "topics" : []
+      },
+      {
+         "idx" : 4,
+         "unit" : "Consideraciones de Seguridad Generales", 
+         "topics" : []
+      },
+      {
+         "idx" : 5,
+         "unit" : "IAM: Identity & Access Management", 
+         "topics" : []
+      },
+      {
+         "idx" : 6,
+         "unit" : "Seguridad de Aplicaciones", 
+         "topics" : []
+      },
+      {
+         "idx" : 7,
+         "unit" : "Seguridad de Operaciones", 
+         "topics" : []
+      },
+      {
+         "idx" : 8,
+         "unit" : "Gobierno, Riesgos, Cumplimiento y Auditoría", 
+         "topics" : []
+      },
+      {
+         "idx" : 9,
+         "unit" : "Registro, Monitoreo y Respuestas", 
+         "topics" : []
+      }
+   ]
+}

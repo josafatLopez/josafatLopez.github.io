@@ -73,21 +73,9 @@
    },
    {
       "id": 13,
-      "linkurl": "devsecops-engineering",
+      "linkurl": "devsecops-foundation",
       "category": "DevOps",
-      "course": "DevSecOps Engineering (DSOE)"
-   },
-   {
-      "id": 14,
-      "linkurl": "devops-test-engineer",
-      "category": "DevOps",
-      "course": "DevOps Test Engineer (DTE)"
-   },
-   {
-      "id": 15,
-      "linkurl": "devops-capo",
-      "category": "DevOps",
-      "course": "Certified Agile Process Owner (CAPO)"
+      "course": "DevSecOps Foundation"
    },
    {
       "id": 16,

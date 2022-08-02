@@ -16,79 +16,82 @@
       { "idx": 2, "include": "Diploma de finalización de curso" }
    ],
    "benefits": [
-      { "idx": 1, "benefit": "Ser capaz de guiar y enseñar prácticas de Scrum a todos los involucrados en el proyecto, eliminar los obstáculos para el equipo y asegurar que los pasos se están siguiendo Scrum." },
-      { "idx": 2, "benefit": "Obtener un entendimiento profundo de la filosofía y principios de Scrum." },
-      { "idx": 3, "benefit": "Obtener un conocimiento práctico de Scrum, incluidos los roles, reuniones y artefactos." },
-      { "idx": 4, "benefit": "Sentirse cómodo de implementar Scrum en las organizaciones, así como en la gestión de los problemas comunes." },
-      { "idx": 5, "benefit": "Obtener el certificado de Scrum." }
+      { "idx": 1, "benefit": "Aprender la historia de SRE y su surgimiento en Google." },
+      { "idx": 2, "benefit": "Aprender la inter-relación de SRE con DevOps y otros marcos populares." },
+      { "idx": 3, "benefit": "Conocer los principios subyacentes detrás de SRE." },
+      { "idx": 4, "benefit": "Comprender los Objetivos de Nivel del Servicio (SLOs) y su enfoque en el Usuario." },
+      { "idx": 5, "benefit": "Comprender los Indicadores de Nivel del Servicio (SLIs)." },
+      { "idx": 6, "benefit": "Identificar trabajo duro y su efecto en la productividad de la organización." },
+      { "idx": 7, "benefit": "Definir algunos pasos prácticos que pueden ayudar a eliminar el trabajo duro." },
+      { "idx": 8, "benefit": "Comprender la capacidad de observación como algo para indicar la salud de un servicio." },
+      { "idx": 9, "benefit": "Familiarizarse con la importancia de la seguridad, técnicas de automatización y herramientas de SRE." },
+      { "idx": 10, "benefit": "Aprender más sobre anti-fragilidad, nuestro enfoque hacia la falla y las pruebas de fallas." },
+      { "idx": 11, "benefit": "Comprender el impacto organizacional que trae la incorporación de SRE." }
    ],
    "forwho": [
-      { "idx": 1, "qualities": "Cualquier persona que esté interesada en trabajar como Scrum Master." },
-      { "idx": 2, "qualities": "Cualquier persona que ya sea un Scrum Master en su organización." },
-      { "idx": 3, "qualities": "Un Scrum Master es un papel importante en cualquier equipo de Scrum y no tiene que ser un experto en tecnología para ser eficaz." },
-      { "idx": 4, "qualities": "A pesar de que Scrum es muy popular en la industria de TI, Scrum puede ser utilizado de manera efectiva en cualquier tipo de industria." }
+      { "idx": 1, "qualities": "Cualquier persona interesada en enfoques de cambio organizacional y liderazgo de TI" },
+      { "idx": 2, "qualities": "Gestores de Negocio" },
+      { "idx": 3, "qualities": "Stakeholders de Negocio" },
+      { "idx": 4, "qualities": "Agentes de Cambio" },
+      { "idx": 5, "qualities": "Consultores" },
+      { "idx": 6, "qualities": "Profesionales de DevOps" },
+      { "idx": 7, "qualities": "Directores de TI" },
+      { "idx": 8, "qualities": "Gestores de TI" },
+      { "idx": 9, "qualities": "Líderes de Equipos de TI" },
+      { "idx": 10, "qualities": "Dueños de Producto" },
+      { "idx": 11, "qualities": "Scrum Masters" },
+      { "idx": 12, "qualities": "Ingenieros de Software" },
+      { "idx": 13, "qualities": "Ingenieros de Confiabilidad del Sitio" },
+      { "idx": 14, "qualities": "Integradores del Sistema" },
+      { "idx": 15, "qualities": "Proveedores de Herramientas" }
    ],
    "exam": [
-      { "idx": 1, "characteristics": "Tiempo asignado: 120 minutos" },
-      { "idx": 2, "characteristics": "Cantidad de preguntas: 100 de opción múltiple" },
-      { "idx": 3, "characteristics": "Calificación aprobatoria: 57% (57 respuestas correctas)" },
-      { "idx": 4, "characteristics": "Formato: En línea o Papel; a libro cerrado" },
-      { "idx": 5, "characteristics": "Prerrequisitos: Se recomienda haber completado el curso de Fundamentos de Scrum en línea que es de manera gratuita (acceso proporcionado a inscripción en el curso)." }
+      { "idx": 1, "characteristics": "Tiempo asignado: 60 minutos" },
+      { "idx": 2, "characteristics": "Cantidad de preguntas: 40 preguntas de opción múltiple" },
+      { "idx": 3, "characteristics": "Calificación aprobatoria: 65% (26 respuestas correctas)" },
+      { "idx": 4, "characteristics": "Formato de Preguntas: En línea o en papel; a libro cerrado" },
+      { "idx": 5, "characteristics": "Prerequisitos: No existen prerrequisitos formales para este curso. Se recomiendan por lo menos 4 horas de estudio personal durante el curso." }
    ],
    "content": [
       {
          "idx" : 1,
-         "unit" : "Revisión a Agile", 
-         "topics" : [
-           { "idx":"1.1", "topic":"El origen de Agile" },
-           { "idx":"1.2", "topic":"El Manifesto de Agile" },
-           { "idx":"1.3", "topic":"Los Principios del Manifesto de Agile" },
-           { "idx":"1.4", "topic":"Declaración de Interdependencia" },
-           { "idx":"1.5", "topic":"Métodos Agiles" },
-           { "idx":"1.6", "topic":"Gestión de proyectos Tradicional vs. Agile" }
-         ]
+         "unit" : "Prácticas y Principios de SRE", 
+         "topics" : []
       },
       {
          "idx" : 2,
-         "unit" : "Vistazo a Scrum", 
-         "topics" : [
-           { "idx":"2.1", "topic":"Principios de Scrum" },
-           { "idx":"2.2", "topic":"Aspectos de Scrum" },
-           { "idx":"2.3", "topic":"Procesos de Scrum" },
-           { "idx":"2.4", "topic":"Ventajas de Scrum" }
-         ]
+         "unit" : "Presupuestos de Error y Objetivos de Nivel del Servicio", 
+         "topics" : []
       },
       {
          "idx" : 3,
-         "unit" : "Roles de Scrum", 
-         "topics" : [
-           { "idx":"3.1", "topic":"Roles centrales" },
-           { "idx":"3.2", "topic":"Roles no centrales" }
-         ]
+         "unit" : "Reducir el Trabajo Pesado", 
+         "topics" : []
       },
       {
          "idx" : 4,
-         "unit" : "Fases de Scrum", 
-         "topics" : [
-           { "idx":"4.1", "topic":"Iniciar" },
-           { "idx":"4.2", "topic":"Planear y Estimar" },
-           { "idx":"4.3", "topic":"Implementar" },
-           { "idx":"4.4", "topic":"Revisar y ver en retrospectiva" },
-           { "idx":"4.5", "topic":"Liberar" }
-         ]
+         "unit" : "Indicadores de Nivel del Servicio y Monitoreo", 
+         "topics" : []
       },
       {
          "idx" : 5,
-         "unit" : "Adaptar Scrum", 
-         "topics" : [
-           { "idx":"5.1", "topic":"Adaptabilidad de Scrum" },
-           { "idx":"5.2", "topic":"Scrum en Programas y Portafolios" },
-           { "idx":"5.3", "topic":"Junta de Scrum de Scrums (SoS)" },
-           { "idx":"5.4", "topic":"Transición a Scrum" },
-           { "idx":"5.5", "topic":"Mapear los Roles Tradicionales a Scrum" },
-           { "idx":"5.6", "topic":"Mantener el Involucramiento de los Stakeholders" },
-           { "idx":"5.7", "topic":"Importancia del Apoyo Ejecutivo" }
-         ]
+         "unit" : "Automatización y Herramientas de SRE", 
+         "topics" : []
+      },
+      {
+         "idx" : 6,
+         "unit" : "Anti-fragilidad y Aprendizaje de las Fallas", 
+         "topics" : []
+      },
+      {
+         "idx" : 7,
+         "unit" : "Impactos Organizacionales de SRE", 
+         "topics" : []
+      },
+      {
+         "idx" : 8,
+         "unit" : "SRE, Otros Marcos, Tendencias", 
+         "topics" : []
       }
    ]
 }
