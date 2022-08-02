@@ -14,9 +14,7 @@
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
       { "idx": 2, "include": "Ejercicios de revisión" },
-      { "idx": 3, "include": "Examen de simulación" },
-      { "idx": 4, "include": "Examen de certificación oficial por parte de PeopleCert (AXELOS)" },
-      { "idx": 5, "include": "21 PDUs" }
+      { "idx": 3, "include": "Examen de simulación" }
    ],
    "benefits": [
       { "idx": 1, "benefit": "ITIL® 4 ayudará a las organizaciones a alinear sus recursos humanos, digitales y físicos para competir en el complejo panorama moderno y adoptar estas tecnologías en sus operaciones de TI." },
