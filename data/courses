@@ -120,6 +120,54 @@
       "course": "TOGAF® 9 Training Course - Bundle"
    },
    {
+      "id": 21,
+      "linkurl": "agile-scrum-foundation",
+      "category": "Agile",
+      "course": "Agile SCRUM Foundation"
+   },
+   {
+      "id": 22,
+      "linkurl": "scrum-product-owner",
+      "category": "Agile",
+      "course": "Scrum Product Owner"
+   },
+   {
+      "id": 23,
+      "linkurl": "scrum-developer",
+      "category": "Agile",
+      "course": "Scrum Developer"
+   },
+   {
+      "id": 24,
+      "linkurl": "lean-it-foundation",
+      "category": "Agile",
+      "course": "Lean IT Foundation"
+   },
+   {
+      "id": 25,
+      "linkurl": "management-3-0",
+      "category": "Agile",
+      "course": "Management 3.0"
+   },
+   {
+      "id": 26,
+      "linkurl": "change-management-and-scrum-workshop",
+      "category": "Agile",
+      "course": "Change Management & SCRUM Workshop"
+   },
+   {
+      "id": 27,
+      "linkurl": "organizational-change-management",
+      "category": "Agile",
+      "course": "Organizational Change Management"
+   },
+   {
+      "id": 28,
+      "linkurl": "lider-agil",
+      "category": "Agile",
+      "course": "Líder Ágil"
+   },
+   {
       "id": 101,
       "linkurl": "combo-it-security-risk-and-continuity",
       "category": "Combos",
