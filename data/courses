@@ -234,6 +234,42 @@
       "course": "IT Contracts and Outsourcing Management"
    },
    {
+      "id": 40,
+      "linkurl": "itil-4-mp-transition",
+      "category": "ITIL",
+      "course": "ITIL® 4 Managing Professional - Transition"
+   },
+   {
+      "id": 41,
+      "linkurl": "itil-create-deliver-and-support",
+      "category": "ITIL",
+      "course": "ITIL® 4 - Create, Deliver and Support"
+   },
+   {
+      "id": 42,
+      "linkurl": "itil-drive-stakeholder-value",
+      "category": "ITIL",
+      "course": "ITIL® 4 Drive Stakeholder Value"
+   },
+   {
+      "id": 43,
+      "linkurl": "itil-high-velocity-it",
+      "category": "ITIL",
+      "course": "ITIL® 4 High Velocity IT"
+   },
+   {
+      "id": 44,
+      "linkurl": "itil-direct-plan-and-improve",
+      "category": "ITIL",
+      "course": "ITIL® 4 Direct, Plan and Improve"
+   },
+   {
+      "id": 45,
+      "linkurl": "itil-leader-digital-and-it-strategy",
+      "category": "ITIL",
+      "course": "ITIL® 4 Leader - Digital & IT Strategy"
+   },
+   {
       "id": 101,
       "linkurl": "combo-it-security-risk-and-continuity",
       "category": "Combos",

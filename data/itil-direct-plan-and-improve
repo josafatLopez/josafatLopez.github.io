@@ -1,14 +1,14 @@
 {
-   "id": 2,
-   "linkurl": "itil-4-foundation",
+   "id": 44,
+   "linkurl": "itil-direct-plan-and-improve",
    "category": "ITIL",
-   "course": "ITIL® 4 Foundation",
+   "course": "ITIL® 4 Direct, Plan and Improve",
    "schedules": [
       { "idx": 1, "date": "Contacta a un asesor para saber próximas fechas" },
       { "idx": 2, "date": "" }
    ],
-   "modality": "Profesor en Vivo | ELearning",
-   "duration": "21 horas",
+   "modality": "Presencial | En línea con profesor en vivo",
+   "duration": "20 horas",
    "description": "ITIL® ha sido por muchos años el principal marco de referencia mundialmente para la Gestión de Servicios de TI. En esta nueva versión, ITIL® 4 agrega temas relevantes a la Transformación Tecnológica, Cloud Computing y DevOps para habilitar las capacidades necesarias en las organizaciones de TI y hacer frente a la Revolución Digital. La Cuarta Revolución Industrial está marcada por tecnologías emergentes en campos como la robótica, la inteligencia artificial, la nanotecnología, el cómputo cuántico, la biotecnología, el Internet de las Cosas (IoT) y muchas más.",
    "logourl": "",
    "courseincludes": [
