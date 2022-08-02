@@ -1,0 +1,52 @@
+{
+   "id": 7,
+   "linkurl": "devops-leadership-peoplecert",
+   "category": "DevOps",
+   "course": "DevOps Leadership - People Cert",
+   "schedules": [
+      { "idx": 1, "date": "Contacta a un asesor para saber próximas fechas" },
+      { "idx": 2, "date": "" }
+   ],
+   "modality": "Presencial | En línea con profesor en vivo",
+   "duration": "24 horas",
+   "description": "La certificación PeopleCert Liderazgo de DevOps cubre las habilidades, prácticas y conocimiento avanzado sobre DevOps. El cuerpo de conocimiento que respalda estas habilidades se presenta en el material del curso oficial proporcionado por PeopleCert a las ATOs acreditadas. El propósito principal del syllabus es proveer una base para la acreditación de las personas involucradas con DevOps. Éste documenta los resultados de aprendizaje relacionados con la certificación y describe los requerimientos que se espera que un candidato cubra para demostrar que estos resultados de aprendizaje han sido logrados en el nivel de certificación específico.",
+   "logourl": "",
+   "courseincludes": [
+      { "idx": 1, "include": "Material oficial acreditado para el participante" },
+      { "idx": 2, "include": "Diploma de finalización de curso" },
+      { "idx": 3, "include": "Examen de certificación oficial por parte de People Cert" },
+      { "idx": 4, "include": "16 PDUs" }
+   ],
+   "benefits": [
+      { "idx": 1, "benefit": "Qué es el liderazgo y qué es el liderazgo para DevOps" },
+      { "idx": 2, "benefit": "Cómo guiar a una organización a través de una transformación de DevOps" },
+      { "idx": 3, "benefit": "Establecer la necesidad de urgencia para DevOps" },
+      { "idx": 4, "benefit": "Clarificar y alinear los objetivos del negocio" },
+      { "idx": 5, "benefit": "Crear una visión y una estrategia para la transformación" },
+      { "idx": 6, "benefit": "Identificar e influenciar a los stakeholders vitales" },
+      { "idx": 7, "benefit": "Guiar una cultura de equipos multifuncionales auto-organizados" },
+      { "idx": 8, "benefit": "Reunir, transmitir e implementar la retroalimentación" },
+      { "idx": 9, "benefit": "Habilitar el flujo a lo largo de la cadena de valor" },
+      { "idx": 10, "benefit": "ODividir el trabajo en iteraciones para acelerar el aprendizaje y la experimentación" },
+      { "idx": 11, "benefit": "Guiar hacia la entrega continua" },
+      { "idx": 12, "benefit": "Guiar una cultura de mejora continua" },
+      { "idx": 13, "benefit": "Guiar hacia la innovación" },
+      { "idx": 14, "benefit": "Mejorar la resiliencia y la sustentabilidad organizacional" }
+   ],
+   "forwho": [
+      { "idx": 1, "qualities": "Esta certificación es el Segundo nivel (Liderazgo) del esquema de certificación de PeopleCert DevOps y está dirigido a cualquiera que quiera convertirse en un miembro líder eficiente de un entorno de DevOps y requiere que los candidatos tengan y demuestren un conocimiento y entendimiento sólido de los términos, principios, herramientas y prácticas de DevOps, así como demostrar sus habilidades de aplicación sobre cómo usar las herramientas de forma eficaz y eficiente. La certificación también puede servir para los candidatos que busquen una certificación personal." }
+   ],
+   "exam": [
+      { "idx": 1, "characteristics": "Tiempo asignado: 60 minutos" },
+      { "idx": 2, "characteristics": "Cantidad de preguntas: 40 preguntas de opción múltiple" },
+      { "idx": 3, "characteristics": "Formato: En línea (El examen se programa después del curso)" },
+      { "idx": 4, "characteristics": "Prerrequisitos: Tener el certificado de Peoplecert de Fundamentos de DevOps." }
+   ],
+   "content": [
+      { "idx": 1, "unit":"Introducción al Liderazgo de DevOps", "topics" : [] },
+      { "idx": 2, "unit":"Clarificar y Alinear la Transformación de DevOps con la Entrega de Valor", "topics" : [] },
+      { "idx": 3, "unit":"Planear y Abordar la Transformación de DevOps", "topics" : [] },
+      { "idx": 4, "unit":"Comprometerse e Implementar el Paquete Completo de DevOps", "topics" : [] },
+      { "idx": 5, "unit":"Validar los Resultados y Sustentar la Transformación de DevOps", "topics" : [] }
+   ]
+}

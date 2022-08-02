@@ -31,13 +31,13 @@
    },
    {
       "id": 6,
-      "linkurl": "devops-foundation-peoplecert",
+      "linkurl": "devops-fundamentals-peoplecert",
       "category": "DevOps",
       "course": "DevOps Fundamentals - People Cert"
    },
    {
       "id": 7,
-      "linkurl": "devops-liderazgo-peoplecert",
+      "linkurl": "devops-leadership-peoplecert",
       "category": "DevOps",
       "course": "DevOps Leadership - People Cert"
    },

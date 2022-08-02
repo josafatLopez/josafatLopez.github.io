@@ -1,0 +1,49 @@
+{
+   "id": 6,
+   "linkurl": "devops-fundamentals-peoplecert",
+   "category": "DevOps",
+   "course": "DevOps Fundamentals - People Cert",
+   "schedules": [
+      { "idx": 1, "date": "Contacta a un asesor para saber próximas fechas" },
+      { "idx": 2, "date": "" }
+   ],
+   "modality": "Presencial | En línea con profesor en vivo",
+   "duration": "24 horas",
+   "description": "DevOps, un juego de palabras de “development” (desarrollo) y “operations” (operaciones), es una metodología de desarrollo de software que combina el desarrollo de software (Dev) con las operaciones (Ops) de tecnología de la información. La meta de DevOps es acortar el ciclo de vida del desarrollo de sistemas mientras se entregan liberaciones de software frecuentemente en alineación estrecha con los objetivos del negocio de manera más rápida, mejor y más barata. El enfoque de DevOps para trabajar cubre tres factores críticos de éxito: cambio cultural, mejora de prácticas y procesos, y aprovechamiento de las tecnologías de automatización. La certificación de PeopleCert Fundamentos de DevOps cubre el conocimiento fundamental requerido para que un candidato construya su conocimiento y sus habilidades con respecto a los principios y las prácticas de DevOps. Además, la certificación de PeopleCert Liderazgo de DevOps (que es el siguiente nivel de certificación) cubre habilidades, prácticas y conocimiento más avanzados sobre DevOps.",
+   "logourl": "",
+   "courseincludes": [
+      { "idx": 1, "include": "Material oficial acreditado para el participante" },
+      { "idx": 2, "include": "Diploma de finalización de curso" }
+   ],
+   "benefits": [
+      { "idx": 1, "benefit": "La Historia y la Necesidad de DevOps" },
+      { "idx": 2, "benefit": "Conceptos Clave de DevOps" },
+      { "idx": 3, "benefit": "Valor para el Negocio de DevOps" },
+      { "idx": 4, "benefit": "Conceptos detrás de C.A.L.M.S., Las Tres Formas, entrega continua, y el alcance del Paquete Completo" },
+      { "idx": 5, "benefit": "Cultura de DevOps, liderazgo transformacional y estructura y equipos de DevOps" },
+      { "idx": 6, "benefit": "Evolución de las Prácticas de DevOps y las 15 Prácticas Esenciales de DevOps" },
+      { "idx": 7, "benefit": "Administración de Proyectos ‘Agile’ y Metodología de Scrum" },
+      { "idx": 7, "benefit": "Conceptos clave de tecnología de nube y virtualización, automatización para el canal de despliegues, y arquitectura para la entrega continua" }
+   ],
+   "forwho": [
+      { "idx": 1, "qualities": "Esta certificación es el primer nivel (Fundamentos) del esquema de certificación de PeopleCert DevOps proporcionada por PeopleCert y está dirigida a cualquier persona que quiera convertirse en un miembro eficiente de un entorno de DevOps y requiere que los candidatos tengan y demuestren un sólido conocimiento y entendimiento de la terminología, los principios, las herramientas y las prácticas de DevOps, así como demostrar sus habilidades de aplicación sobre cómo usar las herramientas de manera eficaz y eficiente. La certificación también puede servirles a los candidatos que busquen una certificación personal." }
+   ],
+   "exam": [
+      { "idx": 1, "characteristics": "Tiempo asignado: 60 minutos" },
+      { "idx": 2, "characteristics": "Cantidad de preguntas: 40 preguntas de opción múltiple" },
+      { "idx": 3, "characteristics": "Formato: En línea (El examen se programa después del curso)" },
+      { "idx": 4, "characteristics": "Prerrequisitos: No existe un prerrequisito formal para esta certificación." }
+   ],
+   "content": [
+      { "idx" : 1, "unit":"Introducción a DevOps", "topics" : [] },
+      { "idx" : 2, "unit":"La Urgencia de DevOps", "topics" : [] },
+      { "idx" : 3, "unit":"Principios y Conceptos Clave de DevOps", "topics" : [] },
+      { "idx" : 4, "unit":"El Paquete Completo - Gente y Cultura", "topics" : [] },
+      { "idx" : 5, "unit":"El Paquete Completo - Procesos y Prácticas", "topics" : [] },
+      { "idx" : 6, "unit":"El Paquete Completo - Tecnología y Automatización", "topics" : [] },
+      { "idx" : 7, "unit":"Administración de Proyectos 'Agile'", "topics" : [] },
+      { "idx" : 8, "unit":"Scrum", "topics" : [] },
+      { "idx" : 9, "unit":"Gestión de Servicios de TI (ITSM)", "topics" : [] },
+      { "idx" : 10, "unit":"Virtualización", "topics" : [] }
+   ]
+}
