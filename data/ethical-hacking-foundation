@@ -1,0 +1,93 @@
+{
+   "id": 47,
+   "linkurl": "ethical-hacking-foundation",
+   "category": "Ciberseguridad",
+   "course": "Ethical Hacking Foundation",
+   "schedules": [
+      { "idx": 1, "date": "Contacta a un asesor para saber próximas fechas" },
+      { "idx": 2, "date": "" }
+   ],
+   "modality": "Presencial | En línea con profesor en vivo",
+   "duration": "16 horas",
+   "description": "La tecnología se está transformando rápidamente y está cambiando la forma en que hacemos negocios. Las empresas digitalizan toda su información de forma predeterminada, almacenan sus datos en la nube y utilizan software de código abierto. Esto plantea cuestiones de seguridad de la información relacionadas con la infraestructura de redes y sistemas. El módulo de Ethical Hacking Foundation de EXIN cubre los pasos básicos del hackeo ético: recolección de inteligencia, escaneo de redes / sistemas informáticos y penetración a sistemas. Se espera que los candidatos estén muy conscientes de la diferencia entre Hackeo legal e ilegal, y las consecuencias de su mal uso.Este curso incrementará su conocimiento y entendimiento sobre una filosofía enfocada a la ciberseguridad, así como su entusiasmo, dedicación y confianza en aplicar nuevas mejores prácticas en la ciberseguridad para mejorar su trabajo diario.",
+   "logourl": "",
+   "courseincludes": [
+      { "idx": 1, "include": "Material oficial acreditado para el participante" },
+      { "idx": 2, "include": "Ejercicios de revisión" },
+      { "idx": 3, "include": "Examen de simulación" },
+      { "idx": 4, "include": "Examen de certificación oficial por parte de EXIN" }
+   ],
+   "benefits": [
+      { "idx": 1, "benefit": "El propósito del hackeo ético es evaluar la seguridad de un sistema informático o red a través del descubrimiento y la explotación de vulnerabilidades de manera legal.Con más detalle, el candidato desarrollará una comprensión de los siguientes temas:" },
+      { "idx": 2, "benefit": "Detección de red (recopilación de información del tráfico de red)" },
+      { "idx": 3, "benefit": "Descifrar una clave WEP y WPA (2) de una red inalámbrica" },
+      { "idx": 4, "benefit": "Comprender la diferencia entre un DRP y un BCP." },
+      { "idx": 5, "benefit": "Escaneo de vulnerabilidades de red" },
+      { "idx": 6, "benefit": "Penetración básica de los sistemas informáticos." },
+      { "idx": 7, "benefit": "descifrado de contraseñas" },
+      { "idx": 8, "benefit": "Hackeo basado en la web, que contiene inyecciones SQL (SQLi), secuencias de comandos entre sitios (XSS), remoto" },
+      { "idx": 9, "benefit": "Inclusiones de archivos (RFI)" }
+   ],
+   "forwho": [
+      { "idx": 1, "qualities": "Oficiales de seguridad" },
+      { "idx": 2, "qualities": "Arquitectos de redes" },
+      { "idx": 3, "qualities": "Administradores de redes" },
+      { "idx": 4, "qualities": "Auditores de seguridad" },
+      { "idx": 5, "qualities": "Profesionales de seguridad" },
+      { "idx": 6, "qualities": "Programadores informáticos y expertos en redes" },
+      { "idx": 7, "qualities": "Gerentes que trabajan en el campo del hackeo ético" },
+      { "idx": 8, "qualities": "Cualquier persona interesada en mejorar y/o probar seguridad de una infraestructura de TI" },
+      { "idx": 9, "qualities": "El módulo también está destinado a hackers éticos (principiantes) que desean obtener la certificación y verificar sus conocimientos" }
+   ],
+   "exam": [
+      { "idx": 1, "characteristics": "Tiempo asignado: 60 minutos" },
+      { "idx": 2, "characteristics": "Cantidad de preguntas: 40 preguntas de opción múltiple" },
+      { "idx": 3, "characteristics": "Formato: En línea o en papel, se presenta el último día del curso idioma inglés" },
+      { "idx": 4, "characteristics": "Prerrequisitos: No existe un prerrequisito para presentar este examen." }
+   ],
+   "content": [
+      {
+         "idx" : 1,
+         "unit" : "Introducción al hackeo ético", 
+         "topics" : [
+           { "idx":"1.1", "topic":"Ética del hackeo" },
+           { "idx":"1.2", "topic":"Principios básicos" }
+         ]
+      },
+      {
+         "idx" : 2,
+         "unit" : "Ciclo de Vida del Producto Digital", 
+         "topics" : [
+           { "idx":"2.1", "topic":"Herramientas" },
+           { "idx":"2.2", "topic":"Extracción de información" }
+         ]
+      },
+      {
+         "idx" : 3,
+         "unit" : "Hackeo de redes inalámbricas", 
+         "topics" : [
+           { "idx":"3.1", "topic":"Preparación" },
+           { "idx":"3.1", "topic":"Aircrack-NG" }
+         ]
+      },
+      {
+         "idx" : 4,
+         "unit" : "Penetración a sistemas", 
+         "topics" : [
+            { "idx":"4.1", "topic":"Recolección de información" },
+            { "idx":"4.2", "topic":"Huellas digitales y vulnerabilidades" },
+            { "idx":"4.3", "topic":"Herramientas de software (Nmap,Metasploit)" },
+            { "idx":"4.4", "topic":"Explotación y post explotación" }
+         ]
+      },
+      {
+        "idx" : 5,
+        "unit" : "Hackeo basado en la web", 
+        "topics" : [
+           { "idx":"5.1", "topic":"Ataques a bases de datos" },
+           { "idx":"5.2", "topic":"Ataques del lado del cliente" },
+           { "idx":"5.3", "topic":"Ataques del lado del servidor" }
+        ]
+     }
+   ]
+}

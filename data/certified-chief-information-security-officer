@@ -1,0 +1,94 @@
+{
+   "id": 57,
+   "linkurl": "certified-chief-information-security-officer",
+   "category": "Ciberseguridad",
+   "course": "Certified Chief Information Security Officer (CCISO)",
+   "schedules": [
+      { "idx": 1, "date": "Contacta a un asesor para saber próximas fechas" },
+      { "idx": 2, "date": "" }
+   ],
+   "modality": "Presencial | En línea con profesor en vivo",
+   "duration": "40 horas",
+   "description": "El programa de CISO está diseñado para llevar a gerentes medios a un nivel de Líderes Ejecutivos y perfeccionar las habilidades de líderes existentes en seguridad de la información. CCISO no es un curso técnico, sino un curso de liderazgo diseñado específicamente para profesionales experimentados en Seguridad de la Información. El curso de CCISO cubre los cinco dominios de CCISO con escenarios tomados de la experiencia de CISOs que contribuyeron a la creación del Cuerpo de Conocimiento, curso y examen. Se espera que los candidatos estén muy conscientes de la diferencia entre Hackeo legal e ilegal, y las consecuencias de su mal uso. Este curso incrementará su conocimiento y entendimiento sobre una filosofía enfocada a la ciberseguridad, así como su entusiasmo, dedicación y confianza en aplicar nuevas mejores prácticas en la ciberseguridad para mejorar su trabajo diario.",
+   "logourl": "",
+   "courseincludes": [
+      { "idx": 1, "include": "Material oficial acreditado para el participante" },
+      { "idx": 2, "include": "Ejercicios de revisión" },
+      { "idx": 3, "include": "Diploma de finalización de curso" },
+      { "idx": 4, "include": "Examen de certificación oficial por parte de EC-Council" }
+   ],
+   "benefits": [
+      { "idx": 1, "benefit": "El CCISO tiene como objetivo cerrar la brecha entre los conocimientos de gestión ejecutiva que necesitan los CISO y los conocimientos técnicos que tienen muchos aspirantes a CISO." }
+   ],
+   "forwho": [
+      { "idx": 1, "qualities": "El programa de CCISO es para ejecutivos que buscan perfeccionar sus habilidades y aprender a alinear de mejor manera sus programas de seguridad de la información con las metas de la organización. CCISO se enfoca en exponer a gerentes medios a contenido de nivel ejecutivo, así como en alentar a CISOs existentes a mejorar continuamente sus propios procesos y programas.." }
+   ],
+   "exam": [
+      { "idx": 1, "characteristics": "CRITERIOS DE ELEGIBILIDAD: Para ser elegible para presentar el examen de CCISO, los candidatos que asisten a un curso de capacitación de CCISO deben aplicar a través de la Aplicación de Elegibilidad de CCISO, mostrando 5 años de experiencia en, por lo menos, 3 de los 5 Dominios de CCISO. Los estudiantes que no cumplan con los criterios de elegibilidad para el examen de CCISO pueden aplicar para el curso y examen de EISM (EC-Council Information Security Manager), y aplicar para el curso de CCISO una vez que cumplan con los requerimientos" },
+      { "idx": 2, "characteristics": "Consideraciones sobre el examen de certificación: El examen de certificación es en idioma inglés. Código de examen: 712-50. Se otorga certificado electrónico en caso de aprobar examen. El examen dura 150 minutos, consiste de 150 preguntas de opción múltiple y el porcentaje de aprobación es de 72% para obtener la certificación Ec-Council. Ec-Council da una duración de 1 año para presentar su examen de certificación, siempre y cuando la verificación no cambie las condiciones o versión. La certificación es gobernada y mantenida por Ec-Council." },
+      { "idx": 3, "characteristics": "Tiempo asignado: 150 minutos" },
+      { "idx": 4, "characteristics": "Cantidad de preguntas: 150 preguntas de opción múltiple" },
+      { "idx": 5, "characteristics": "Formato: En línea o en papel, se presenta el último día del curso" },
+      { "idx": 6, "characteristics": "Prerrequisitos: No existe un prerrequisito para presentar este examen." }
+   ],
+   "content": [
+      {
+         "idx" : 1,
+         "unit" : "Gestión de Riesgos y Gobierno", 
+         "topics" : [
+           { "idx":"1.1", "topic":"Definir, Implementar, Gestionar y Mantener un Programa de Gobierno de Seguridad" },
+           { "idx":"1.2", "topic":"Conductores de Seguridad de la Información" },
+           { "idx":"1.3", "topic":"Establecimiento de una estructura de seguridad de la información" },
+           { "idx":"1.4", "topic":"Leyes/Regulaciones/Normas como conductores de Procedimientos/Estándares/Políticas" },
+           { "idx":"1.5", "topic":"Gestionar un programa de cumplimiento de seguridad de la información en la empresa" },
+           { "idx":"1.6", "topic":"Introducción a la Gestión de Riesgos" }
+         ]
+      },
+      {
+         "idx" : 2,
+         "unit" : "Gestión de Auditorías, Cumplimiento y Controles de Seguridad de la Información", 
+         "topics" : [
+           { "idx":"2.1", "topic":"Controles de seguridad de la información" },
+           { "idx":"2.2", "topic":"Gestión del cumplimiento" },
+           { "idx":"2.3", "topic":"Pautas, buenas y mejores prácticas" },
+           { "idx":"2.4", "topic":"Gestión de Auditorías" }
+         ]
+      },
+      {
+         "idx" : 3,
+         "unit" : "Operaciones y Gestión del Programa de Seguridad", 
+         "topics" : [
+           { "idx":"3.1", "topic":"Gestión del programa" },
+           { "idx":"3.1", "topic":"Gesti+on de operaciones" }
+         ]
+      },
+      {
+         "idx" : 4,
+         "unit" : "Competencias Centrales de la Seguridad de la Informacións", 
+         "topics" : [
+            { "idx":"4.1", "topic":"Control de accesos" },
+            { "idx":"4.2", "topic":"Seguridad física" },
+            { "idx":"4.3", "topic":"Seguridad en la red" },
+            { "idx":"4.4", "topic":"Jefe certificado" },
+            { "idx":"4.5", "topic":"Protección del Endpoin" },
+            { "idx":"4.6", "topic":"Seguridad de aplicaciones" },
+            { "idx":"4.7", "topic":"Tecnologías de encriptación" },
+            { "idx":"4.8", "topic":"Seguridad de virtualización" },
+            { "idx":"4.9", "topic":"Seguridad del cloud computing" },
+            { "idx":"4.10", "topic":"Tecnologías transformadoras" }
+         ]
+      },
+      {
+         "idx" : 5,
+         "unit" : "Gestión de los Vendedores, Adquisiciones, Financiera y Planificación", 
+         "topics" : [
+           { "idx":"5.1", "topic":"lanificación estratégica" },
+           { "idx":"5.2", "topic":"Diseñar, desarrollar y gestionar un programa de seguridad de la información en la empresa" },
+           { "idx":"5.3", "topic":"Comprender la Arquitectura Empresarial (EA)" },
+           { "idx":"5.4", "topic":"Finanzas" },
+           { "idx":"5.5", "topic":"Adquisiciones" },
+           { "idx":"5.6", "topic":"Gestión de vendedores" }
+         ]
+      }
+   ]
+}

@@ -1,0 +1,50 @@
+{
+   "id": 59,
+   "linkurl": "iso-iec-27001-internal-auditor",
+   "category": "Seguridad de la Información",
+   "course": "ISO/IEC 27001 Internal Auditor",
+   "schedules": [
+      { "idx": 1, "date": "Contacta a un asesor para saber próximas fechas" },
+      { "idx": 2, "date": "" }
+   ],
+   "modality": "Presencial | En línea con profesor en vivo",
+   "duration": "24 horas",
+   "description": "Este curso prepara a los participantes para realizar auditorías de primera y segunda parte de Sistemas de Gestión de Seguridad de la Información basados en ISO/IEC 27001. Este programa de capacitación ayuda a los candidatos a mejorar continuamente sus capacidades personales, soportando así su desarrollo profesional continuo dentro de su organización.",
+   "logourl": "",
+   "courseincludes": [
+      { "idx": 1, "include": "Material en español e inglés e incluye teoría, ejercicios de práctica e información complementaria." },
+      { "idx": 2, "include": "Incluye un examen de conocimiento aplicado por Global Lynx." },
+      { "idx": 3, "include": "Se entrega una constancia de asistencia." }
+   ],
+   "benefits": [
+      { "idx": 1, "benefit": "Realizar auditorías internas contra los requerimientos de la norma ISO/IEC 27001 y los controles de ISO/IEC 27002, dirigidas de acuerdo con ISO 19011 y contribuir con la mejora continua del Sistema de Gestión de Seguridad de la Información." },
+      { "idx": 2, "benefit": "Describir con referencia al ciclo de Planificar, Hacer, Verificar, Actuar (PDCA), el propósito, estructura y requerimientos de ISO/IEC 27001 desde el punto de vista de un auditor interno." },
+      { "idx": 3, "benefit": "Describir las responsabilidades de un auditor interno y describir el rol de la auditoría interna en el mantenimiento y mejora de los sistemas de gestión." }
+   ],
+   "forwho": [
+      { "idx": 1, "qualities": "Personal de prestadores de servicios internos y externos con un rol definido de ISO/IEC 27001 o que tengan interés en éstas normas." },
+      { "idx": 2, "qualities": "Dirección y personal de todas las divisiones corporativas, particularmente directores de gestión de la calidad e individuos interesados en realizar auditorías." },
+      { "idx": 3, "qualities": "Nota: Se espera que los estudiantes tengan conocimiento de la Gestión de un Sistema de Seguridad de la Información y de ISO/IEC 27001 e ISO/IEC 27002 antes de asistir al curso." }
+   ],
+   "exam": [
+      { "idx": 1, "characteristics": "Se aplica a petición del cliente." },
+      { "idx": 2, "characteristics": "No extiende ninguna certificación avalada por alguna organización de ITSM." },
+      { "idx": 3, "characteristics": "Consta de 60 preguntas de opción múltiple." },
+      { "idx": 4, "characteristics": "Tiene una duración de 105 minutos." },
+      { "idx": 5, "characteristics": "Es a libro cerrado, teniendo únicamente las normas ISO/IEC 27001 e ISO/IEC 27002 como referencia." },
+      { "idx": 6, "characteristics": "Se requiere un mínimo de 65% para aprobar." },
+      { "idx": 7, "characteristics": "Se hace en papel." }
+   ],
+   "content": [
+      { "idx" : 1, "unit" : "Introducción",  "topics" : [] },
+      { "idx" : 2, "unit" : "Requerimientos para un Sistema de Gestión de Seguridad de la Información",  "topics" : [] },
+      { "idx" : 3, "unit" : "Conceptos Básicos de Auditoría",  "topics" : [] },
+      { "idx" : 4, "unit" : "Planificación de Programas de Auditoría para un ISMS",  "topics" : [] },
+      { "idx" : 5, "unit" : "Implementación de Auditorías Internas para un ISMS",  "topics" : [] },
+      { "idx" : 6, "unit" : "Medición, Monitoreo y Reporteo de Auditorías Internas",  "topics" : [] },
+      { "idx" : 7, "unit" : "Mejora de las Auditorías Internas para un ISMS",  "topics" : [] },
+      { "idx" : 8, "unit" : "Esquema de Calificación",  "topics" : [] },
+      { "idx" : 9, "unit" : "Descripción del Examen",  "topics" : [] },
+      { "idx" : 10, "unit" : "Repaso, Evaluación y Examinación",  "topics" : [] }
+   ]
+}

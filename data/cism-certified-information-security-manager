@@ -46,30 +46,85 @@
    "content": [
       {
          "idx" : 1,
-         "unit" : "Dominio 1", 
+         "unit" : "Gobierno de Seguridad de la Información", 
          "topics" : [
-           { "idx":"1.1", "topic":"Gobierno de Seguridad de la Información (24%)" }
+            { "idx":"1.0", "topic":"Introducción" },
+            { "idx":"1.1", "topic":"Visión General del Gobierno de la SI" },
+            { "idx":"1.2", "topic":"Gobierno Efectivo de la SI" },
+            { "idx":"1.3", "topic":"Roles y Responsabilidades" },
+            { "idx":"1.4", "topic":"Roles y Responsabilidades de Gestión de Riesgos" },
+            { "idx":"1.5", "topic":"Gobierno de Relaciones con Terceros " },
+            { "idx":"1.6", "topic":"Métricas de Gobierno de la SI" },
+            { "idx":"1.7", "topic":"Visión General de la Estrategia de la SI" },
+            { "idx":"1.8", "topic":"Objetivos de la Estrategia de SI" },
+            { "idx":"1.9", "topic":"Determinación del Estado Actual de la Seguridad" },
+            { "idx":"1.10", "topic":"Desarrollo de la Estrategia de SI" },
+            { "idx":"1.11", "topic":"Recursos de la Estrategia " },
+            { "idx":"1.12", "topic":"Restricciones de la Estrategia" },
+            { "idx":"1.13", "topic":"Plan de Acción para Implementar la Estrategia" }
          ]
       },
       {
          "idx" : 2,
-         "unit" : "Dominio 2", 
+         "unit" : "Gestión de Riesgos de la Información", 
          "topics" : [
-           { "idx":"2.1", "topic":"Gestión de Riesgos de Información (30%)" }
+            { "idx":"2.0", "topic":"Introducción" },
+            { "idx":"2.1", "topic":"Visión General la Gestión de Riesgos" },
+            { "idx":"2.2", "topic":"Estrategia de la Gestión de Riesgos" },
+            { "idx":"2.3", "topic":"Gestión Efectiva de Riesgos de la Información" },
+            { "idx":"2.4", "topic":"Conceptos de la Gestión de Riesgos de la Información" },
+            { "idx":"2.5", "topic":"Implementación de la Gestión de Riesgos" },
+            { "idx":"2.6", "topic":"Metodologías para la Evaluación y el Análisis de Riesgos" },
+            { "idx":"2.7", "topic":"Evaluación de Riesgos" },
+            { "idx":"2.8", "topic":"Clasificación de los Activos de Información" },
+            { "idx":"2.9", "topic":"Gestión del Riesgo Operativo" },
+            { "idx":"2.10", "topic":"Proveedores de Servicios Externos" },
+            { "idx":"2.11", "topic":"Integración de Gestión de Riesgos con los Procesos de Ciclo de Vida" },
+            { "idx":"2.12", "topic":"Niveles Mínimos de Controles de Seguridad o de Vida" },
+            { "idx":"2.13", "topic":"Monitoreo y Comunicación de Riesgos" },
+            { "idx":"2.14", "topic":"Capacitación y Concientización" },
+            { "idx":"2.15", "topic":"Documentación" }
          ]
       },
       {
          "idx" : 3,
-         "unit" : "Dominio 3", 
+         "unit" : "Desarrollo y Gestión del Programa de Seguridad de la Información", 
          "topics" : [
-           { "idx":"3.1", "topic":"Desarrollo y Gestión del Programa de Seguridad de la Información (27%)" }
+            { "idx":"3.0", "topic":"Introducción" },
+            { "idx":"3.1", "topic":"Visión General" },
+            { "idx":"3.2", "topic":"Objetivos del Programa de Seguridad de la Información" },
+            { "idx":"3.3", "topic":"Conceptos del Programa de Seguridad de la Información" },
+            { "idx":"3.4", "topic":"Alcance y Estatutos del Gobierno de la Seguridad de la Información" },
+            { "idx":"3.5", "topic":"El Marco General de la Gestión de la Seguridad de la Información" },
+            { "idx":"3.6", "topic":"Componentes del Marco de Seguridad de la Información" },
+            { "idx":"3.7", "topic":"Definición de un Plan de Acción para el Programa de Seguridad de la Información" },
+            { "idx":"3.8", "topic":"Infraestructura y Arquitectura de la Seguridad de la Información" },
+            { "idx":"3.9", "topic":"Implementación de la Arquitectura" },
+            { "idx":"3.10", "topic":"Gestión del Programa de Seguridad y Actividades Administrativas" },
+            { "idx":"3.11", "topic":"Servicios y Actividades Operacionales del Programa de Seguridad" },
+            { "idx":"3.12", "topic":"Controles y Contramedidas" },
+            { "idx":"3.13", "topic":"Métrica y Monitoreo del Programa de Seguridad" },
+            { "idx":"3.14", "topic":"Retos Comunes de la Gerencia de Seguridad de la Información" }
          ]
       },
       {
          "idx" : 4,
-         "unit" : "Dominio 4", 
+         "unit" : "Gestión de Incidentes de Seguridad de la Información", 
          "topics" : [
-           { "idx":"4.1", "topic":"Information Security Incident Management (19%)" }
+            { "idx":"4.0", "topic":"Introducción" },
+            { "idx":"4.1", "topic":"Visión General de la Gestión de Incidentes" },
+            { "idx":"4.2", "topic":"Procedimientos de la Gestión de Incidentes" },
+            { "idx":"4.3", "topic":"Organización de Gestión de Incidentes" },
+            { "idx":"4.4", "topic":"Recursos para la Gestión de Incidentes" },
+            { "idx":"4.5", "topic":"Objetivos de la Gestión de Incidentes" },
+            { "idx":"4.6", "topic":"Métricas e Indicadores de la Gestión de Incidentes" },
+            { "idx":"4.7", "topic":"Definición de los Procedimientos de Gestión de Incidentes" },
+            { "idx":"4.8", "topic":"Estado Actual de la Capacidad de Respuesta a Incidentes" },
+            { "idx":"4.9", "topic":"Desarrollo de un Plan de Respuesta a Incidentes" },
+            { "idx":"4.10", "topic":"Procedimientos de Continuidad del Negocio y Recuperación ante Desastres" },
+            { "idx":"4.11", "topic":"Pruebas a la Respuesta a Incidentes y a los Planes de Continuidad del Negocio/Recuperación ante Desastres" },
+            { "idx":"4.12", "topic":"Ejecución de los Planes de Respuesta y Recuperación" },
+            { "idx":"4.13", "topic":"Actividades e Investigaciones Posteriores al Incidente" }
          ]
       }
    ]

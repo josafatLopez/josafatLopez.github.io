@@ -1,0 +1,146 @@
+{
+   "id": 48,
+   "linkurl": "certified-network-defender",
+   "category": "Ciberseguridad",
+   "course": "Certified Network Defender (CND)",
+   "schedules": [
+      { "idx": 1, "date": "Contacta a un asesor para saber próximas fechas" },
+      { "idx": 2, "date": "" }
+   ],
+   "modality": "Presencial | En línea con profesor en vivo",
+   "duration": "40 horas",
+   "description": "El programa de certificación CND se enfoca en capacitar a Administradores de Redes para proteger, detectar, responder y predecir amenazas en la red. Esto se basa en el conocimiento típico y las habilidades de los Administradores de Redes sobre las políticas de seguridad, ubicaciones de sistemas, topología de redes, utilización y desempeño, tráfico y componentes de red.",
+   "logourl": "",
+   "courseincludes": [
+      { "idx": 1, "include": "Material oficial de EcCouncil para el participante" },
+      { "idx": 2, "include": "Ejercicios de revisión" },
+      { "idx": 3, "include": "Diploma de finalización de curso" },
+      { "idx": 4, "include": "Examen de certificación oficial por parte de EcCouncil" }
+   ],
+   "benefits": [
+      { "idx": 1, "benefit": "Obtener un entendimiento detallado y habilidad práctica para funcionar en situaciones de la vida real que involucren a la defensa de las redes." },
+      { "idx": 2, "benefit": "Obtener la profundidad técnica requerida para diseñar activamente una red segura en su organización" },
+      { "idx": 3, "benefit": "Entender de manera fundamental la construcción real de la transferencia de datos , tecnologías de red, tecnologías de software para comprender de qué manera operan las redes." },
+      { "idx": 4, "benefit": "Aprender cómo proteger, detectar y responder a los ataques a las redes." },
+      { "idx": 5, "benefit": "Aprender fundamentos de la defensa de las redes, la aplicación de controles de seguridad de las redes, protocolos, configuración de firewalls y VPNs." },
+      { "idx": 6, "benefit": "Aprender las complejidades del escaneo de las vulnerabilidades, análisis y firmas del tráfico de redes." },
+      { "idx": 7, "benefit": "Utilizar estas habilidades para fomentar la resiliencia y la continuidad de las operaciones durante ataques." }
+   ],
+   "forwho": [
+      { "idx": 1, "qualities": "Administradores de redes" },
+      { "idx": 2, "qualities": "Administradores de seguridad de redes" },
+      { "idx": 3, "qualities": "Ingenieros de Seguridad de Redes" },
+      { "idx": 4, "qualities": "Técnicos de Defensa de Redes" },
+      { "idx": 1, "qualities": "Analistas de CND" },
+      { "idx": 2, "qualities": "Analistas de Seguridad" },
+      { "idx": 3, "qualities": "Operadores de Seguridad" },
+      { "idx": 4, "qualities": "Cualquiera que esté involucrado en operaciones de redes" }
+   ],
+   "exam": [
+      { "idx": 1, "characteristics": "Cantidad de preguntas: 100" },
+      { "idx": 2, "characteristics": "Duración: 4 Horas" },
+      { "idx": 3, "characteristics": "Formato del Examen: Opción Múltiple" }
+   ],
+   "content": [
+      {
+         "idx" : 1,
+         "unit" : "Estrategias de Defensa y Ataques de Red", 
+         "topics" : []
+      },
+      {
+         "idx" : 2,
+         "unit" : "Seguridad Administrativa de Redes", 
+         "topics" : []
+      },
+      {
+         "idx" : 3,
+         "unit" : "Seguridad Técnica de Redes", 
+         "topics" : []
+      },
+      {
+         "idx" : 4,
+         "unit" : "Seguridad Perimetral de la Red", 
+         "topics" : []
+      },
+      {
+         "idx" : 5,
+         "unit" : "Seguridad Endpoint – Sistemas con Windows", 
+         "topics" : []
+      },
+      {
+         "idx" : 6,
+         "unit" : "Seguridad Endpoint – Sistemas con Linux", 
+         "topics" : []
+      },
+      {
+         "idx" : 7,
+         "unit" : "Seguridad Endpoint – Dispositivos Móviles", 
+         "topics" : []
+      },
+      {
+         "idx" : 8,
+         "unit" : "Seguridad Endpoint – Dispositivos IoT", 
+         "topics" : []
+      },
+      {
+         "idx" : 9,
+         "unit" : "Seguridad Administrativa de Aplicaciones", 
+         "topics" : []
+      },
+      {
+         "idx" : 10,
+         "unit" : "Seguridad de Datos", 
+         "topics" : []
+      },
+      {
+         "idx" : 11,
+         "unit" : "Seguridad Empresarial de Redes Virtuales", 
+         "topics" : []
+      },
+      {
+         "idx" : 12,
+         "unit" : "Seguridad Empresarial de Redes en la Nube", 
+         "topics" : []
+      },
+      {
+         "idx" : 13,
+         "unit" : "Seguridad Empresarial de Redes Inalámbricas", 
+         "topics" : []
+      },
+      {
+         "idx" : 14,
+         "unit" : "Monitoreo y Análisis de Tráfico de Redes", 
+         "topics" : []
+      },
+      {
+         "idx" : 15,
+         "unit" : "Monitoreo y Análisis de Registros de Red", 
+         "topics" : []
+      },
+      {
+         "idx" : 16,
+         "unit" : "Respuesta a Incidentes e Investigación Forense", 
+         "topics" : []
+      },
+      {
+         "idx" : 17,
+         "unit" : "Continuidad del Negocio y Recuperación en caso de Desastres", 
+         "topics" : []
+      },
+      {
+         "idx" : 18,
+         "unit" : "Anticipación a Riesgos con Gestión de Riesgos", 
+         "topics" : []
+      },
+      {
+         "idx" : 19,
+         "unit" : "Valoración de Amenazas con Análisis de Ataques a la Superficie", 
+         "topics" : []
+      },
+      {
+         "idx" : 20,
+         "unit" : "Predicción de Amenazas con Inteligencia de Ciber Amenazas", 
+         "topics" : []
+      }
+   ]
+}

@@ -1,0 +1,68 @@
+{
+   "id": 51,
+   "linkurl": "certified-encryption-specialist",
+   "category": "Ciberseguridad",
+   "course": "Certified Encryption Specialist (ECES)",
+   "schedules": [
+      { "idx": 1, "date": "Contacta a un asesor para saber próximas fechas" },
+      { "idx": 2, "date": "" }
+   ],
+   "modality": "Presencial | En línea con profesor en vivo",
+   "duration": "24 horas",
+   "description": "El curso ECES introduce a los estudiantes a la criptografía moderna de clave simétrica incluyendo los detalles de algoritmos tales como Feistel Networks, DES, y AES así como también una visión general de muchos otros algoritmos tales como Blowfish, Twofish, Skipjack, y otros. El curso también cubre criptografía asimétrica incluyendo descripciones minuciosas de RSA, Elgamal, Elliptic Curve, y DSA.",
+   "logourl": "",
+   "courseincludes": [
+      { "idx": 1, "include": "Material oficial acreditado para el participante" }
+   ],
+   "benefits": [
+      { "idx": 1, "benefit": "Conocerán lo básico de la teoría de la información tal como aplica a la criptografía." },
+      { "idx": 2, "benefit": "Desarrollarán habilidades para proteger datos críticos en las organizaciones por medio de la encriptación." },
+      { "idx": 3, "benefit": "Desarrollarán un entendimiento profundo sobre algoritmos de criptografía esenciales y sus aplicaciones." },
+      { "idx": 4, "benefit": "Tomarán decisiones informadas sobre aplicar tecnologías de encriptación." },
+      { "idx": 5, "benefit": "Ahorrarán tiempo y costos al evitar errores comunes en la implementación de tecnologías de encriptación eficazmente." },
+      { "idx": 6, "benefit": "Serán inducidos a desmenuzar los algoritmos incluyendo MD5, MD6, SHA, Gost, RIPMD 256 y otros." },
+      { "idx": 7, "benefit": "Dominarán conceptos significativos tales como difusión, confusión, y el principio de Kerkchoff’s" }
+   ],
+   "forwho": [
+      { "idx": 1, "qualities": "Personas que realizan pruebas de penetración" },
+      { "idx": 2, "qualities": "Especialistas en informática forense" },
+      { "idx": 3, "qualities": "Cualquiera interesado en seleccionar o implementar VPN’s o certificados digitales" },
+      { "idx": 4, "qualities": "Cualquiera interesado en operaciones de seguridad de la información" }
+   ],
+   "exam": [
+      { "idx": 1, "characteristics": "El examen de certificación tiene las siguientes características:" },
+      { "idx": 2, "characteristics": "Número de Preguntas: 50" },
+      { "idx": 3, "characteristics": "Puntaje de aprobación: 70%" },
+      { "idx": 4, "characteristics": "Duración del examen: 2 Horas" },
+      { "idx": 5, "characteristics": "Formato del examen: Opción Múltiple" },
+      { "idx": 6, "characteristics": "Entrega del examen: Portal de Examen de EC - Council" },
+      { "idx": 7, "characteristics": "Pre-requisitos: No se asume ningún conocimiento anterior de criptografía, y no se requiere conocimientos matemáticos más allá de álgebra básica." }
+   ],
+   "content": [
+      {
+         "idx" : 1,
+         "unit" : "Introducción e Historia de la Criptografía", 
+         "topics" : []
+      },
+      {
+         "idx" : 2,
+         "unit" : "La Criptografía Simétrica y resumen criptográfico", 
+         "topics" : []
+      },
+      {
+         "idx" : 3,
+         "unit" : "Teoría de los Números y Criptografía Asimétrica", 
+         "topics" : []
+      },
+      {
+         "idx" : 4,
+         "unit" : "Aplicaciones de la Criptografía", 
+         "topics" : []
+      },
+      {
+         "idx" : 5,
+         "unit" : "Criptoanálisis", 
+         "topics" : []
+      }
+   ]
+}

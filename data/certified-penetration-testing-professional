@@ -1,0 +1,113 @@
+{
+   "id": 54,
+   "linkurl": "certified-penetration-testing-professional",
+   "category": "Ciberseguridad",
+   "course": "Certified Penetration Testing Professional (CPENT)",
+   "schedules": [
+      { "idx": 1, "date": "Contacta a un asesor para saber próximas fechas" },
+      { "idx": 2, "date": "" }
+   ],
+   "modality": "Presencial | En línea con profesor en vivo",
+   "duration": "40 horas",
+   "description": "Certified Penetration Testing Professional o CPENT, reescribe los estándares de Desarrollo de habilidades de pruebas de penetración. El programa CPENT le enseña cómo llevar a cabo una prueba de penetración eficaz en el ambiente de red de una empresa que debe ser atacada, explotada, evadida y defendida. Si únicamente ha trabajado en redes planas, la práctica en vivo de CPENT le enseñará la forma de llevar sus habilidades al siguiente nivel mostrándole cómo hacer pruebas de penetración en sistemas IoT, sistemas OT, cómo programar sus propios exploits, crear sus propias herramientas, conducir explotaciones binarias avanzadas y personalizar scripts/exploits para convertirlos en los segmentos más recónditos de una red. El programa CPENT es el siguiente paso después de Certified Ethical Hacker (CEH) en la ruta para convertirse en Licensed Penetration Tester (LPT) Master. CPENT y sus predecesores, ahora retirados, EC-Council Certified Security Analyst (ECSA) y Advanced Penetration Tester (APT), son cursos que fueron diseñados para tomar los conceptos aprendidos en CEH y aplicarlos en metodologías probadas.",
+   "logourl": "",
+   "courseincludes": [
+      { "idx": 1, "include": "Material oficial acreditado para el participante" },
+      { "idx": 2, "include": "Ejercicios de revisión" },
+      { "idx": 3, "include": "Diploma de finalización de curso" },
+      { "idx": 4, "include": "Examen de certificación oficial por parte de EcCouncil" }
+   ],
+   "benefits": [
+      { "idx": 1, "benefit": "100% mapeado con el marco de NICE" },
+      { "idx": 2, "benefit": "Programa de Pruebas de Penetración 100% basado en metodologías" },
+      { "idx": 3, "benefit": "Fusiona tanto enfoques de pruebas de penetración manuales como automatizadas" },
+      { "idx": 4, "benefit": "Diseñado con las prácticas de pruebas de penetración más comunes ofrecidas por los mejores prestadores de servicios" },
+      { "idx": 5, "benefit": "Ajustado a los portales de trabajo más importantes. Roles de trabajo: Analista de Seguridad y Penetration Tester" },
+      { "idx": 6, "benefit": "Proporciona una experiencia del mundo real a través de un Campo de Pruebas de Penetración Avanzado" },
+      { "idx": 7, "benefit": "Proporciona a los candidatos pruebas de penetración estándares para su uso en el campo" }
+   ],
+   "forwho": [
+      { "idx": 1, "qualities": "Ethical Hackers" },
+      { "idx": 2, "qualities": "Penetration Testers" },
+      { "idx": 3, "qualities": "Administradores de Servidores de Redes" },
+      { "idx": 4, "qualities": "Administradores de Firewall" },
+      { "idx": 5, "qualities": "Testers de Seguridad" },
+      { "idx": 6, "qualities": "Administradores del Sistema y profesionales de Valoración de Riesgos" }
+   ],
+   "exam": [
+      { "idx": 1, "characteristics": "24 Horas que definirán su Carrera en las Pruebas de Penetración CPENT es un examen práctico vigilado remotamente, completamente en línea, que lo reta a través de un examen práctico extenuante basado en el desempeño con una duración de 24 horas. El examen está dividido en dos exámenes prácticos de 12 horas cada uno que probarán su perseverancia y enfoque al forzarlo a superarse a si mismo en cada reto nuevo. Tiene la opción de elegir ya sea dos exámenes de 12 horas o un examen de 24 horas." },
+      { "idx": 2, "characteristics": "Los candidatos que obtengan más del 70% obtendrán la certificación de CPENT. Los candidatos que obtengan más del 90% alcanzarán la prestigiosa credencial de LPT (Master)." }
+   ],
+   "content": [
+      {
+         "idx" : 1,
+         "unit" : "Introducción a las Pruebas de Penetración", 
+         "topics" : []
+      },
+      {
+         "idx" : 2,
+         "unit" : "Alcance y Compromiso de las Pruebas de Penetración", 
+         "topics" : []
+      },
+      {
+         "idx" : 3,
+         "unit" : "Open Source Intelligence (OSINT)", 
+         "topics" : []
+      },
+      {
+         "idx" : 4,
+         "unit" : "Pruebas de Penetración de Ingeniería Social", 
+         "topics" : []
+      },
+      {
+         "idx" : 5,
+         "unit" : "Pruebas de Penetración de Redes – Externas", 
+         "topics" : []
+      },
+      {
+         "idx" : 6,
+         "unit" : "Pruebas de Penetración de Redes – Internas", 
+         "topics" : []
+      },
+      {
+         "idx" : 7,
+         "unit" : "Pruebas de Penetración de Redes – Dispositivos del Perímetro", 
+         "topics" : []
+      },
+      {
+         "idx" : 8,
+         "unit" : "Pruebas de Penetración de Aplicaciones Web", 
+         "topics" : []
+      },
+      {
+         "idx" : 9,
+         "unit" : "Pruebas de Penetración Inalámbricas", 
+         "topics" : []
+      },
+      {
+         "idx" : 10,
+         "unit" : "Pruebas de Penetración IoT", 
+         "topics" : []
+      },
+      {
+         "idx" : 11,
+         "unit" : "Pruebas de Penetración OT/SCADA", 
+         "topics" : []
+      },
+      {
+         "idx" : 12,
+         "unit" : "Penetration Testing de Cloud", 
+         "topics" : []
+      },
+      {
+         "idx" : 13,
+         "unit" : "Explotación y Análisis Binario", 
+         "topics" : []
+      },
+      {
+         "idx" : 14,
+         "unit" : "Reporteo y Acciones Posteriores a las Prueba"
+      }
+      
+   ]
+}

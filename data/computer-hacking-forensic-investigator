@@ -1,0 +1,103 @@
+{
+   "id": 50,
+   "linkurl": "computer-hacking-forensic-investigator",
+   "category": "Ciberseguridad",
+   "course": "Computer Hacking Forensic Investigator (CHFI)",
+   "schedules": [
+      { "idx": 1, "date": "Contacta a un asesor para saber próximas fechas" },
+      { "idx": 2, "date": "" }
+   ],
+   "modality": "Presencial | En línea con profesor en vivo",
+   "duration": "24 horas",
+   "description": "CHFI es un curso comprensivo que cubre escenarios de investigación importantes, que permite a los estudiantes adquirir experiencia práctica. El programa proporciona una fuerte base de conocimiento de los conceptos clave y las prácticas en los dominios forenses relevantes en las organizaciones actualmente. Además, CHFI proporciona un firme entendimiento sobre los dominios de forense digital.",
+   "logourl": "",
+   "courseincludes": [
+      { "idx": 1, "include": "Material oficial acreditado para el participante" }
+   ],
+   "benefits": [
+      { "idx": 1, "benefit": "Este curso ayuda a los estudiantes a sobresalir en la adquisición de la evidencia digital, a manipular y analizar de una manera válida a efectos legales." },
+      { "idx": 2, "benefit": "Aceptable en un tribunal de justicia, estas habilidades dará lugar a procesamientos exitosos en diversos tipos de incidentes de seguridad, tales como las violaciones de datos, espionaje corporativo, las amenazas internas y otros casos complejos que implican sistemas informáticos." }
+   ],
+   "forwho": [
+      { "idx": 1, "qualities": "Todos los profesionales de TI involucrados con los sistemas de seguridad de la información, informática forense, y respuesta de incidentes." }
+   ],
+   "exam": [
+      { "idx": 1, "characteristics": "El examen de certificación tiene las siguientes características:" },
+      { "idx": 2, "characteristics": "Número de Preguntas: 150" },
+      { "idx": 3, "characteristics": "Puntaje de Aprobación: 70%" },
+      { "idx": 4, "characteristics": "Duración del Examen: 4 Horas" },
+      { "idx": 5, "characteristics": "Formato del Examen: Opción Múltiple" }
+   ],
+   "content": [
+      {
+         "idx" : 1,
+         "unit" : "Informática Forense en el Mundo Actual", 
+         "topics" : []
+      },
+      {
+         "idx" : 2,
+         "unit" : "Proceso de Investigación de la Informática Forense", 
+         "topics" : []
+      },
+      {
+         "idx" : 3,
+         "unit" : "Comprensión de Sistemas de Archivos y Discos Duros", 
+         "topics" : []
+      },
+      {
+         "idx" : 4,
+         "unit" : "Adquisición y Duplicación de Datos", 
+         "topics" : []
+      },
+      {
+         "idx" : 5,
+         "unit" : "Derrotar Técnicas Anti-forenses", 
+         "topics" : []
+      },
+      {
+        "idx" : 6,
+        "unit" : "Investigación Forense al Sistema Operativo", 
+        "topics" : []
+     },
+     {
+        "idx" : 7,
+        "unit" : "Investigación Forense a la Red", 
+        "topics" : []
+     },
+     {
+        "idx" : 8,
+        "unit" : "Investigación de Ataques a la red", 
+        "topics" : []
+     },
+     {
+        "idx" : 9,
+        "unit" : "Investigación Forense a Bases de Datos", 
+        "topics" : []
+     },
+     {
+        "idx" : 10,
+        "unit" : "Investigación Forense a la Nube", 
+        "topics" : []
+     },
+     {
+        "idx" : 11,
+        "unit" : "Investigación Forense a Malware", 
+        "topics" : []
+     },
+     {
+        "idx" : 12,
+        "unit" : "Investigación de Crímenes por Correo Electrónico", 
+        "topics" : []
+     },
+     {
+        "idx" : 13,
+        "unit" : "Investigación Forense a Dispositivos Móviles", 
+        "topics" : []
+     },
+     {
+        "idx" : 14,
+        "unit" : "Redacción y Presentación de Reportes Forenses", 
+        "topics" : []
+     }
+   ]
+}

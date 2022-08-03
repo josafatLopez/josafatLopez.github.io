@@ -1,0 +1,91 @@
+{
+   "id": 53,
+   "linkurl": "iso-27032-lead-cybersecurity-professional",
+   "category": "Ciberseguridad",
+   "course": "ISO/IEC 27032 Cybersecurity Professional",
+   "schedules": [
+      { "idx": 1, "date": "Contacta a un asesor para saber próximas fechas" },
+      { "idx": 2, "date": "" }
+   ],
+   "modality": "Presencial | En línea con profesor en vivo",
+   "duration": "24 horas",
+   "description": "El curso de Profesional en Ciberseguridad con base en ISO/IEC ISO 27032 ayudará a incrementar su conocimiento y entendimiento de una filosofía enfocada a ciberseguridad así como su entusiasmo, dedicación y confianza en aplicar nuevas mejores prácticas en la ciberseguridad para mejorar su trabajo diario.",
+   "logourl": "",
+   "courseincludes": [
+      { "idx": 1, "include": "Material oficial acreditado para el participante" },
+      { "idx": 2, "include": "Ejercicios de revisión" },
+      { "idx": 3, "include": "Diploma de finalización de curso" },
+      { "idx": 4, "include": "Examen de simulación" },
+      { "idx": 5, "include": "Examen de certificación oficial por parte de ERCA" }
+   ],
+   "benefits": [
+      { "idx": 1, "benefit": "Introducción a la Ciberseguridad" },
+      { "idx": 2, "benefit": "Amenazas y Riesgos" },
+      { "idx": 3, "benefit": "Enfoque y Organización" },
+      { "idx": 4, "benefit": "Medidas de Seguridad" },
+      { "idx": 5, "benefit": "Estándar ISO/IEC 27032 y otros relacionados" },
+      { "idx": 6, "benefit": "Legislación y Regulaciones." }
+   ],
+   "forwho": [
+      { "idx": 1, "qualities": "Toda persona en la organización que gestione información." },
+      { "idx": 2, "qualities": "El curso también es adecuado para negocios pequeños independientes para los que es necesario un conocimiento básico sobre la ciberseguridad." },
+      { "idx": 3, "qualities": "Este curso puede ser un buen inicio para nuevos profesionales en ciberseguridad." }
+   ],
+   "exam": [
+      { "idx": 1, "characteristics": "Tiempo asignado: 60 minutos" },
+      { "idx": 2, "characteristics": "Cantidad de preguntas: 35 de opción múltiple" },
+      { "idx": 3, "characteristics": "Calificación aprobatoria: 60%" },
+      { "idx": 4, "characteristics": "En papel el último día del curso" },
+      { "idx": 5, "characteristics": "No existen prerrequisitos. Se recomienda tener un conocimiento previo de la norma ISO/IEC 27001:2018." }
+   ],
+   "content": [
+      {
+         "idx" : 1,
+         "unit" : "Introducción a la ciberseguridad de acuerdo con ISO/IEC 27032", 
+         "topics" : [
+         { "idx":"1.1", "topic":"Marco de trabajo" },
+         { "idx":"1.2", "topic":"Principios ISO" },
+         { "idx":"1.3", "topic":"Introducción a ISO 27032" },
+         { "idx":"1.4", "topic":"Alcance y conceptos" },
+         { "idx":"1.5", "topic":"Programa de ciberseguridad" },
+         { "idx":"1.6", "topic":"Analizando la organización" },
+         { "idx":"1.7", "topic":"Liderazgo" }
+         ]
+      },
+      {
+         "idx" : 2,
+         "unit" : "Políticas, gestión de riesgos y mecanismos de ataque en Ciberseguridad", 
+         "topics" : [
+         { "idx":"2.1", "topic":"Políticas de seguridad cibernética" },
+         { "idx":"2.1", "topic":"Gestión de riesgos de seguridad" },
+         { "idx":"2.1", "topic":"Mecanismos de ataque" }
+         ]
+      },
+      {
+         "idx" : 3,
+         "unit" : "Controles de ciberseguridad, intercambio de información y coordinación", 
+         "topics" : [
+         { "idx":"3.1", "topic":"Controles de ciberseguridad" },
+         { "idx":"3.2", "topic":"Compartir información y coordinación" },
+         { "idx":"3.3", "topic":"Formación y sensibilización" }
+         ]
+      },
+      {
+         "idx" : 4,
+         "unit" : "Gestión de incidentes, seguimiento y mejora continua", 
+         "topics" : [
+            { "idx":"4.1", "topic":"Continuidad del negocio" },
+            { "idx":"4.2", "topic":"Gestión de incidentes" },
+            { "idx":"4.3", "topic":"Respuesta a incidentes" },
+            { "idx":"4.4", "topic":"Pruebas de ciberseguridad" },
+            { "idx":"4.5", "topic":"Medición del desempeño" },
+            { "idx":"4.6", "topic":"Mejora continua" }
+         ]
+      },
+      {
+         "idx" : 5,
+         "unit" : "Repaso, Evaluación y Examinación", 
+         "topics" : []
+      }
+   ]
+}

@@ -82,5 +82,35 @@
          { "id": 44, "linkurl": "itil-direct-plan-and-improve", "course": "ITIL® 4 Direct, Plan and Improve" },
          { "id": 45, "linkurl": "itil-leader-digital-and-it-strategy", "course": "ITIL® 4 Leader - Digital & IT Strategy" }
       ]
+   },
+   {
+      "category" : "Ciberseguridad",
+      "courses": [
+         { "id": 46, "linkurl": "cyber-it-security-foundation", "course": "Cyber and IT Security Foundation" },
+         { "id": 47, "linkurl": "ethical-hacking-foundation", "course": "Ethical Hacking Foundation" },
+         { "id": 4, "linkurl": "certified-ethical-hacker", "course": "Certified Ethical Hacker v11 (CEH)" },
+         { "id": 48, "linkurl": "certified-network-defender", "course": "Certified Network Defender (CND)" },
+         { "id": 49, "linkurl": "certified-incident-handler", "course": "Certified Incident Handler (ECIH)" },
+         { "id": 50, "linkurl": "computer-hacking-forensic-investigator", "course": "Computer Hacking Forensic Investigator (CHFI)" },
+         { "id": 51, "linkurl": "certified-encryption-specialist", "course": "Certified Encryption Specialist (ECES)" },
+         { "id": 52, "linkurl": "iso-27032-lead-cybersecurity-manager", "course": "ISO/IEC 27032 Lead Cybersecurity Manager" },
+         { "id": 53, "linkurl": "iso-27032-lead-cybersecurity-professional", "course": "ISO/IEC 27032 Cybersecurity Professional" },
+         { "id": 54, "linkurl": "certified-penetration-testing-professional", "course": "Certified Penetration Testing Professional (CPENT)" },
+         { "id": 55, "linkurl": "certified-application-security-engineer", "course": "Certified Application Security Engineer (CASE) .Net" },
+         { "id": 56, "linkurl": "certified-application-security-engineer-java", "course": "Certified Application Security Engineer (CASE) Java" },
+         { "id": 57, "linkurl": "certified-chief-information-security-officer", "course": "Certified Chief Information Security Officer (CCISO)" }
+      ]
+   },
+   {
+      "category" : "Seguridad de la Información",
+      "courses": [
+         { "id": 5, "linkurl": "information-security-foundation-iso-iec-27001", "course": "Information Security Foundation - ISO/IEC 27001" },
+         { "id": 58, "linkurl": "iso-iec-27001-lead-implementer", "course": "ISO/IEC 27001 Lead Implementer" },
+         { "id": 59, "linkurl": "iso-iec-27001-internal-auditor", "course": "ISO/IEC 27001 Internal Auditor" },
+         { "id": 60, "linkurl": "iso-iec-27001-lead-auditor", "course": "SO/IEC 27001 Lead Auditor" },
+         { "id": 61, "linkurl": "cism-certified-information-security-manager", "course": "CISM® (Certified Information Security Manager®)" },
+         { "id": 62, "linkurl": "certified-information-systems-security-professional", "course": "CISSP® Certified Information Systems Security Professional" },
+         { "id": 63, "linkurl": "certified-cloud-security-professional", "course": "Certified Cloud Security Professional (CCSP®)" }
+      ]
    }
 ]

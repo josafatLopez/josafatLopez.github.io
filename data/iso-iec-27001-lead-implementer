@@ -1,0 +1,58 @@
+{
+   "id": 58,
+   "linkurl": "iso-iec-27001-lead-implementer",
+   "category": "Seguridad de la Información",
+   "course": "ISO/IEC 27001 Lead Implementer",
+   "schedules": [
+      { "idx": 1, "date": "Contacta a un asesor para saber próximas fechas" },
+      { "idx": 2, "date": "" }
+   ],
+   "modality": "Presencial | En línea con profesor en vivo",
+   "duration": "24 horas",
+   "description": "El curso de Implementación de un Sistema de Gestión de Seguridad de la Información con base en ISO/IEC 27001 muestra los pasos a seguir para liderar un proyecto de implementación de los requerimientos de ISO/IEC 27001, así como los controles en el Anexo A de esta norma, de manera exitosa.",
+   "logourl": "",
+   "courseincludes": [
+      { "idx": 1, "include": "Material oficial acreditado para el participante" },
+      { "idx": 2, "include": "Ejercicios de revisión" },
+      { "idx": 3, "include": "Diploma de finalización de curso" },
+      { "idx": 4, "include": "Examen de certificación oficial por parte de ERCA" }
+   ],
+   "benefits": [
+      { "idx": 1, "benefit": "Conocer los requerimientos de los controles del anexo A del estándar ISO/IEC 27001." },
+      { "idx": 2, "benefit": "Comprender la relación entre ISO/IEC 27001 e ISO/IEC 27002." },
+      { "idx": 3, "benefit": "Conocer la relación entre la Gestión de Riesgos de Seguridad de la Información (ISO 27005) y la Selección de Controles." },
+      { "idx": 4, "benefit": "Comprender los roles y responsabilidades del auditor a un Sistema de Gestión de Seguridad de la Información." },
+      { "idx": 5, "benefit": "Entender cómo diseñar, implementar, madurar, monitorear y mejorar controles de Seguridad de la Información." },
+      { "idx": 6, "benefit": "Conocer cómo aplicar los controles correctamente a partir de la identificación de riesgos." }
+   ],
+   "forwho": [
+      { "idx": 1, "qualities": "Gerentes de Seguridad de la Información." },
+      { "idx": 2, "qualities": "Consultores de Seguridad de la Información." },
+      { "idx": 3, "qualities": "Auditores de Seguridad de la Información." },
+      { "idx": 4, "qualities": "Dueños de Procesos de Seguridad de la Información." },
+      { "idx": 5, "qualities": "Personal encargado de la implementación, administración y quienes participen en un Sistema de Gestión de Seguridad de la Información." },
+      { "idx": 6, "qualities": "Personal a cargo del DRP y BCP." },
+      { "idx": 7, "qualities": "Analistas de Seguridad de la Información." }
+   ],
+   "exam": [
+      { "idx": 1, "characteristics": "Tiempo asignado: 60 minutos" },
+      { "idx": 2, "characteristics": "Cantidad de preguntas: 40 de opción múltiple" },
+      { "idx": 3, "characteristics": "Calificación aprobatoria: 65%" },
+      { "idx": 4, "characteristics": "Formato: En papel el último día del curso" },
+      { "idx": 5, "characteristics": "Prerrequisitos: Se recomienda tener un conocimiento previo de la norma ISO/IEC 27001." }
+   ],
+   "content": [
+      { "idx" : 1, "unit" : "Introducción al Sistema de Gestión de Seguridad de la Información (ISMS)",  "topics" : [] },
+      { "idx" : 2, "unit" : "Beneficios del ISMS",  "topics" : [] },
+      { "idx" : 3, "unit" : "Conceptos de ISO 27001",  "topics" : [] },
+      { "idx" : 4, "unit" : "Requerimientos y Controles dentro de ISO 27001",  "topics" : [] },
+      { "idx" : 5, "unit" : "Comprender ISO 27002 y su relación con ISO 27001",  "topics" : [] },
+      { "idx" : 6, "unit" : "Opciones de implementación para crear un ISMS Certificado",  "topics" : [] },
+      { "idx" : 7, "unit" : "Planeación de Proyectos de Implementación de la norma ISO 27001",  "topics" : [] },
+      { "idx" : 8, "unit" : "Estructura de Trabajo para Implementación de la norma ISO 27001",  "topics" : [] },
+      { "idx" : 9, "unit" : "Riesgos en un ISMS",  "topics" : [] },
+      { "idx" : 10, "unit" : "Monitoreo y control del ISMS",  "topics" : [] },
+      { "idx" : 11, "unit" : "Auditorías a un ISMS",  "topics" : [] },
+      { "idx" : 12, "unit" : "Examen de Certificación",  "topics" : [] }
+   ]
+}

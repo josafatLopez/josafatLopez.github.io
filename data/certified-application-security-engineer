@@ -1,0 +1,85 @@
+{
+   "id": 55,
+   "linkurl": "certified-application-security-engineer",
+   "category": "Ciberseguridad",
+   "course": "Certified Application Security Engineer (CASE) .Net",
+   "schedules": [
+      { "idx": 1, "date": "Contacta a un asesor para saber próximas fechas" },
+      { "idx": 2, "date": "" }
+   ],
+   "modality": "Presencial | En línea con profesor en vivo",
+   "duration": "24 horas",
+   "description": "CASE va más allá de solo las pautas sobre prácticas de codificación segura, incluye recolección de requerimientos segura, diseño robusto de aplicaciones y manejo de problemas de seguridad en fases de posteriores dentro del desarrollo de aplicaciones. Esto hace que CASE sea una de las certificaciones más comprensivas para el desarrollo de software seguro en el mercado actual. El programa de capacitación práctico abarca actividades de seguridad involucradas en todas las fases del Ciclo de Vida del Desarrollo de Software Seguro: planeación, creación, pruebas y despliegue de una aplicación.",
+   "logourl": "",
+   "courseincludes": [
+      { "idx": 1, "include": "Material oficial acreditado para el participante" }
+   ],
+   "benefits": [
+      { "idx": 1, "benefit": "Asegurar que la seguridad de las aplicaciones no sea una idea adicional sino una principal." },
+      { "idx": 2, "benefit": "Establecer los fundamentos requeridos por los desarrolladores de aplicaciones y organizaciones de desarrollo para generar aplicaciones seguras con mayor estabilidad y menores riesgos de seguridad al consumidor." },
+      { "idx": 3, "benefit": "Asegurar que las organizaciones mitiguen el riesgo de perder millones debido a compromisos de seguridad que puedan surgir con cada paso del proceso de desarrollo de la aplicación." },
+      { "idx": 4, "benefit": "Ayudar a los individuos a desarrollar el hábito de dar importancia a la seguridad de su rol de trabajo en el Ciclo de Vida, y por esto abrir la seguridad como el dominio principal para los probadores, desarrolladores, administradores de redes, etc." }
+   ],
+   "forwho": [
+      { "idx": 1, "qualities": "Información pronto disponible" }
+   ],
+   "exam": [
+      { "idx": 1, "characteristics": "Número de Preguntas: 50" },
+      { "idx": 2, "characteristics": "Puntaje de aprobación: 70%" },
+      { "idx": 3, "characteristics": "Duración del examen: 2 Horas" },
+      { "idx": 4, "characteristics": "Formato del examen: Opción Múltiple" },
+      { "idx": 5, "characteristics": "Entrega del examen: Portal de Examen de EC - Council" }
+   ],
+   "content": [
+      {
+         "idx" : 1,
+         "unit" : "Comprender la seguridad de las aplicaciones, las amenazas y los ataques", 
+         "topics" : []
+      },
+      {
+         "idx" : 2,
+         "unit" : "Recopilación de requisitos de seguridad", 
+         "topics" : []
+      },
+      {
+         "idx" : 3,
+         "unit" : "Diseño y arquitectura de aplicaciones seguras", 
+         "topics" : []
+      },
+      {
+         "idx" : 4,
+         "unit" : "Prácticas de codificación seguras para la validación de entradas", 
+         "topics" : []
+      },
+      {
+         "idx" : 5,
+         "unit" : "Prácticas de codificación seguras para la autenticación y autorización", 
+         "topics" : []
+      },
+      {
+         "idx" : 6,
+         "unit" : "Prácticas de codificación seguras para la criptografía", 
+         "topics" : []
+      },
+      {
+         "idx" : 7,
+         "unit" : "Prácticas de codificación seguras para la gestión de sesiones", 
+         "topics" : []
+      },
+      {
+         "idx" : 8,
+         "unit" : "Prácticas de codificación seguras para el manejo de errores", 
+         "topics" : []
+      },
+      {
+         "idx" : 9,
+         "unit" : "Análisis estático y dinámico (SAST & DAST)", 
+         "topics" : []
+      },
+      {
+         "idx" : 10,
+         "unit" : "Despliegue seguro y mantenimiento", 
+         "topics" : []
+      }
+   ]
+}

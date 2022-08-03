@@ -1,0 +1,113 @@
+{
+   "id": 46,
+   "linkurl": "cyber-it-security-foundation",
+   "category": "Ciberseguridad",
+   "course": "Cyber and IT Security Foundation",
+   "schedules": [
+      { "idx": 1, "date": "Contacta a un asesor para saber próximas fechas" },
+      { "idx": 2, "date": "" }
+   ],
+   "modality": "Presencial | En línea con profesor en vivo",
+   "duration": "24 horas",
+   "description": "La seguridad de TI además de ser cada vez más importante, es cada vez más sofisticada. Es por esto que las organizaciones dedican roles a salvaguardar sus datos y sistemas. El programa de EXIN de Ciber Seguridad y Seguridad de TI se genera para proporcionar a los candidatos el conocimiento requerido para comprender el lado técnico de la seguridad de la información. Cubre el fondo teórico y la información detallada sobre infraestructuras de información y trata vulnerabilidades, riesgos y las medidas requeridas.",
+   "logourl": "",
+   "courseincludes": [
+      { "idx": 1, "include": "Material oficial acreditado para el participante" },
+      { "idx": 2, "include": "Ejercicios de revisión" },
+      { "idx": 3, "include": "Diploma de finalización de curso" },
+      { "idx": 4, "include": "Examen de simulación" },
+      { "idx": 5, "include": "Examen de certificación oficial por parte de EXIN" }
+   ],
+   "benefits": [
+      { "idx": 1, "include": "Obtendrás competencias en lo siguiente:" },
+      { "idx": 2, "include": "Redes TCP/IP" },
+      { "idx": 3, "include": "Sistemas computacionales" },
+      { "idx": 4, "include": "Aplicaciones y bases de datos" },
+      { "idx": 5, "include": "Criptografía" },
+      { "idx": 6, "include": "Gestión de Accesos e Identidades" },
+      { "idx": 7, "include": "Cloud Computing" },
+      { "idx": 8, "include": "Explotación de Vulnerabilidades" }
+   ],
+   "forwho": [
+      { "idx": 1, "qualities": "Administrador de Redes" },
+      { "idx": 2, "qualities": "Desarrollador de Aplicaciones" },
+      { "idx": 3, "qualities": "Oficial de Seguridad" },
+      { "idx": 4, "qualities": "Auditores" },
+      { "idx": 5, "qualities": "Gestores de Calidad" },
+      { "idx": 6, "qualities": "Gestores de Operaciones" }
+   ],
+   "exam": [
+      { "idx": 1, "characteristics": "Tiempo asignado: 60 minutos" },
+      { "idx": 2, "characteristics": "Cantidad de preguntas: 40 preguntas opción múltiple" },
+      { "idx": 3, "characteristics": "Calificación aprobatoria: 65%" },
+      { "idx": 4, "characteristics": "Formato: En papel o en línea el último día del curso / a libro cerrado" },
+      { "idx": 5, "characteristics": "Prerrequisitos: No existen prerrequisitos obligatorios para presentar este curso." }
+   ],
+   "content": [
+      {
+         "idx" : 1,
+         "unit" : " Redes Tcp/Ip", 
+         "topics" : [
+           { "idx":"1.1", "topic":"Nodos, conexión de nodos & tratamiento de TCP/IP" },
+           { "idx":"1.2", "topic":"Modelo OSI, modelo TCP/IP, protocolos" }
+         ]
+      },
+      {
+         "idx" : 2,
+         "unit" : "Sistemas Computacionales", 
+         "topics" : [
+           { "idx":"2.1", "topic":"Arquitectura computacional, sistemas operativos" },
+           { "idx":"2.2", "topic":"Vulnerabilidades de los sistemas computacionales" },
+           { "idx":"2.3", "topic":"Medidas de seguridad de los sistemas computacionales" }
+         ]
+      },
+      {
+         "idx" : 3,
+         "unit" : "Aplicaciones & Bases de Datos", 
+         "topics" : [
+           { "idx":"3.1", "topic":"Desarrollo de aplicaciones" },
+           { "idx":"3.2", "topic":"Bases de datos" },
+           { "idx":"3.3", "topic":"Contramedidas y problemas de seguridad" }
+         ]
+      },
+      {
+         "idx" : 4,
+         "unit" : "Criptografía", 
+         "topics" : [
+            { "idx":"4.1", "topic":"Estándares y metodologías de encriptación" },
+            { "idx":"4.2", "topic":"Firmas digital, hashing" },
+            { "idx":"4.3", "topic":"Infraestructura de llave pública, (Pki)" },
+            { "idx":"4.4", "topic":"SSL/TLS, Ipsec" }
+         ]
+      },
+      {
+        "idx" : 5,
+        "unit" : "Gestión de accesos e identidades", 
+        "topics" : [
+          { "idx":"5.1", "topic":"Identificación, autenticación, biométricos, single sing-On (SSO), gestión de contraseñas" },
+          { "idx":"5.2", "topic":"Autorización" }
+        ]
+     },
+     {
+        "idx" : 6,
+        "unit" : "Cloud Computing", 
+        "topics" : [
+          { "idx":"6.1", "topic":"Características & modelos de desarrollo" },
+          { "idx":"6.1", "topic":"Riesgos" }
+        ]
+     },
+     {
+        "idx" : 7,
+        "unit" : "Explotar Vulnerabilidades", 
+        "topics" : [
+          { "idx":"7.1", "topic":"Categorías de ataques y tipos de amenazas" },
+          { "idx":"7.1", "topic":"Actores y herramientas" }
+        ]
+     },
+     {
+        "idx" : 8,
+        "unit" : "Repaso, Evaluación y Examinación", 
+        "topics" : []
+     }
+   ]
+}

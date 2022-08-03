@@ -1,0 +1,84 @@
+{
+   "id": 56,
+   "linkurl": "certified-application-security-engineer-java",
+   "category": "Ciberseguridad",
+   "course": "Certified Application Security Engineer (CASE) Java",
+   "schedules": [
+      { "idx": 1, "date": "Contacta a un asesor para saber próximas fechas" },
+      { "idx": 2, "date": "" }
+   ],
+   "modality": "Presencial | En línea con profesor en vivo",
+   "duration": "24 horas",
+   "description": "El programa de CASE Java está diseñado para ser un curso de seguridad de aplicaciones comprensivo y práctico que ayudará a los profesionales de software a crear aplicaciones seguras. Capacita a desarrolladores de software en conocimiento y habilidades de seguridad críticas requeridas en todo un ciclo de vida de desarrollo de software típico, enfocándose en la importancia de la implementación de metodologías y prácticas requeridas en el ambiente operativo inseguro actual.",
+   "logourl": "",
+   "courseincludes": [
+      { "idx": 1, "include": "Material oficial acreditado para el participante" }
+   ],
+   "benefits": [
+      { "idx": 1, "benefit": "Los estudiantes aprenderán Seguridad más allá de la Codificación segura" },
+      { "idx": 2, "benefit": "Los estudiantes aprenderán a probar y acreditar el desarrollo de aplicaciones seguras en todas las fases del SDLC" },
+      { "idx": 3, "benefit": "Se cubrirán técnicas como Validación de Entrada, Prácticas de Codificación de Defensa, Autenticaciones y Autorizaciones, Ataques Criptográficos, técnicas de Manejo de Errores y Técnicas de Gestión de Sesiones, entre muchas otras" }
+   ],
+   "forwho": [
+      { "idx": 1, "qualities": "Información pronto disponible" }
+   ],
+   "exam": [
+      { "idx": 1, "characteristics": "Número de Preguntas: 50" },
+      { "idx": 2, "characteristics": "Puntaje de aprobación: 70%" },
+      { "idx": 3, "characteristics": "Duración del examen: 2 Horas" },
+      { "idx": 4, "characteristics": "Formato del examen: Opción Múltiple" },
+      { "idx": 5, "characteristics": "Entrega del examen: Portal de Examen de EC - Council" }
+   ],
+   "content": [
+      {
+         "idx" : 1,
+         "unit" : "Comprender la seguridad de las aplicaciones, las amenazas y los ataques", 
+         "topics" : []
+      },
+      {
+         "idx" : 2,
+         "unit" : "Recopilación de requisitos de seguridad", 
+         "topics" : []
+      },
+      {
+         "idx" : 3,
+         "unit" : "Diseño y arquitectura de aplicaciones seguras", 
+         "topics" : []
+      },
+      {
+         "idx" : 4,
+         "unit" : "Prácticas de codificación seguras para la validación de entradas", 
+         "topics" : []
+      },
+      {
+         "idx" : 5,
+         "unit" : "Prácticas de codificación seguras para la autenticación y autorización", 
+         "topics" : []
+      },
+      {
+         "idx" : 6,
+         "unit" : "Prácticas de codificación seguras para la criptografía", 
+         "topics" : []
+      },
+      {
+         "idx" : 7,
+         "unit" : "Prácticas de codificación seguras para la gestión de sesiones", 
+         "topics" : []
+      },
+      {
+         "idx" : 8,
+         "unit" : "Prácticas de codificación seguras para el manejo de errores", 
+         "topics" : []
+      },
+      {
+         "idx" : 9,
+         "unit" : "Análisis estático y dinámico (SAST & DAST)", 
+         "topics" : []
+      },
+      {
+         "idx" : 10,
+         "unit" : "Despliegue seguro y mantenimiento", 
+         "topics" : []
+      }
+   ]
+}

@@ -1,5 +1,5 @@
 {
-   "id": 8,
+   "id": 49,
    "linkurl": "certified-incident-handler",
    "category": "Ciberseguridad",
    "course": "Certified Incident Handler (ECIH)",
@@ -12,7 +12,7 @@
    "description": "SEl programa de Certificación para Administradores de Incidentes de EC - Council está diseñado para proporcionar las habilidades fundamentales para manejar y responder a los incidentes de seguridad informática dentro de un sistema de información. El curso se dirige a diversos principios y técnicas subyacentes para detectar y responder a las actuales y emergentes amenazas a la seguridad informática. Esta certificación proporcionará a los profesionales mayor aceptación en la industria como un administrador de incidentes experimentado. El curso abarca la informática forense y su papel en el manejo y respuesta a incidentes; y también cubre detalladamente los equipos de respuesta a incidentes, métodos de notificación de incidentes, y técnicas de recuperación de incidentes en detalle.",
    "logourl": "",
    "courseincludes": [
-      { "idx": 1, "include": "material didáctico de alta calidad en Inglés desarrollado por EC - Council." }
+      { "idx": 1, "include": "Material didáctico de alta calidad en Inglés desarrollado por EC - Council." }
    ],
    "benefits": [
       { "idx": 1, "benefit": "Los estudiantes aprenderán cómo manejar diferentes tipos de incidentes, metodologías de evaluación de riesgos, y varias leyes y políticas relacionadas con la administración de incidentes." },

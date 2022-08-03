@@ -1,0 +1,171 @@
+{
+   "id": 60,
+   "linkurl": "iso-iec-27001-lead-auditor",
+   "category": "Seguridad de la Información",
+   "course": "SO/IEC 27001 Lead Auditor",
+   "schedules": [
+      { "idx": 1, "date": "Contacta a un asesor para saber próximas fechas" },
+      { "idx": 2, "date": "" }
+   ],
+   "modality": "Presencial | En línea con profesor en vivo",
+   "duration": "40 horas",
+   "description": "El curso de Auditor Líder de ISO/IEC 27001:2013 le enseña las funciones y responsabilidades de un Auditor Líder de ISO 27001, incluyendo la forma de relacionar sus hallazgos de auditoría a la política y objetivos de la organización y presentar su evaluación global a la alta dirección. Enseña los requerimientos de la norma ISO 27001:2013 y explica los principios del sistema de Gestión de Seguridad de la Información y la aplicación de controles de Seguridad basados en ISO/IEC 27002.",
+   "logourl": "",
+   "courseincludes": [
+      { "idx": 1, "include": "Material oficial acreditado para el participante" },
+      { "idx": 2, "include": "Ejercicios de revisión" },
+      { "idx": 3, "include": "Diploma de finalización de curso" },
+      { "idx": 4, "include": "Certificado emitido por ERCA de participación en un curso acreditado" },
+      { "idx": 5, "include": "Examen de certificación oficial por parte de ERCA" }
+   ],
+   "benefits": [
+      { "idx": 1, "benefit": "Comprender los términos, conceptos, definiciones y directrices de la Gestión de la Seguridad de la Información" },
+      { "idx": 2, "benefit": "Entender el objetivo de la serie ISO 27000" },
+      { "idx": 3, "benefit": "Comprender los requerimientos de la norma ISO 27001:2013" },
+      { "idx": 4, "benefit": "Comprender las funciones y responsabilidades del auditor" },
+      { "idx": 5, "benefit": "Aprender a aplicar la norma ISO 19011 definiciones, conceptos y directrices" },
+      { "idx": 6, "benefit": "Reconocer los principios, prácticas y los diferentes tipos de auditorías" },
+      { "idx": 7, "benefit": "Llevar a cabo todas las fases de una auditoría, preparar y presentar reportes efectivos" },
+      { "idx": 8, "benefit": "Aprender a planear las auditorías" },
+      { "idx": 9, "benefit": "Comprender las funciones y responsabilidades de un auditor y auditor líder" },
+      { "idx": 10, "benefit": "Obtener una comunicación eficaz durante la auditoría" },
+      { "idx": 11, "benefit": "Aprender a preparar conclusiones de la auditoría" },
+      { "idx": 12, "benefit": "Aprender a llevar a cabo las reuniones de cierre" },
+      { "idx": 13, "benefit": "Aprender a reportar los resultados de auditoría de manera eficaz" }
+   ],
+   "forwho": [
+      { "idx": 1, "qualities": "Personas interesadas en la realización de auditorías de primera, segunda y tercera parte" },
+      { "idx": 2, "qualities": "Representantes de la dirección" },
+      { "idx": 3, "qualities": "Gerentes de Seguridad" },
+      { "idx": 4, "qualities": "Directores de Seguridad" },
+      { "idx": 5, "qualities": "Consultores de Seguridad" },
+      { "idx": 6, "qualities": "Oficiales de Seguridad de la Información" }
+   ],
+   "exam": [
+      { "idx": 1, "characteristics": "Tiempo asignado: 120 minutos" },
+      { "idx": 2, "characteristics": "Cantidad de preguntas: 10 de opción múltiple, 6 preguntas abiertas y 3 escenarios de caso" },
+      { "idx": 3, "characteristics": "Calificación aprobatoria: 65%" },
+      { "idx": 4, "characteristics": "Formato: En línea; a libro cerrado" },
+      { "idx": 5, "characteristics": "Prerrequisitos: Se recomiendan por lo menos 10 horas de estudio personal durante el curso" }
+   ],
+   "content": [
+      {
+         "idx" : 1,
+         "unit" : "Sistemas de Gestión de Seguridad de la Información", 
+         "topics" : [
+           { "idx":"1.1", "topic":"Introducción a los ISMS" },
+           { "idx":"1.2", "topic":"Seguridad de la Información" },
+           { "idx":"1.3", "topic":"Porqué implementar ISO 27001:2013" },
+           { "idx":"1.4", "topic":"La esencia de la Seguridad de la Información" }
+         ]
+      },
+      {
+         "idx" : 2,
+         "unit" : "Normas de la Seguridad de la Información", 
+         "topics" : [
+           { "idx":"2.1", "topic":"Historia de las Normas ISMS" },
+           { "idx":"2.2", "topic":"ISO 22301" },
+           { "idx":"2.3", "topic":"ISO 27000" }
+         ]
+      },
+      {
+         "idx" : 3,
+         "unit" : "Cumplimiento con los Requerimientos de ISO 27001:2013", 
+         "topics" : [
+           { "idx":"3.1", "topic":"Cumplimiento con los requerimientos de ISO 27001:2013" },
+           { "idx":"3.2", "topic":"Establecimiento y Gestión del ISMS" },
+           { "idx":"3.3", "topic":"Requerimientos de Documentación" },
+           { "idx":"3.4", "topic":"El sistema de Gestión" },
+           { "idx":"3.5", "topic":"Mejora de ISMS" },
+           { "idx":"3.6", "topic":"Controles de Anexo A" },
+           { "idx":"3.7", "topic":"Formalidad" }
+         ]
+      },
+      {
+         "idx" : 4,
+         "unit" : "Los sistemas para auditorías de ISMS", 
+         "topics" : [
+           { "idx":"4.1", "topic":"Metodología de auditoría" },
+           { "idx":"4.2", "topic":"Evaluación del riesgo y tratamiento del riesgo" },
+           { "idx":"4.3", "topic":"El proceso de evaluación del riesgo" },
+           { "idx":"4.4", "topic":"Identificación de necesidades de seguridad" },
+           { "idx":"4.5", "topic":"Proceso de tratamiento de riesgos" },
+           { "idx":"4.6", "topic":"Selección de controles de seguridad" },
+           { "idx":"4.7", "topic":"Enfoques a la evaluación del riesgo" },
+           { "idx":"4.8", "topic":"Evaluación del riesgo y tareas de gestión" },
+           { "idx":"4.9", "topic":"Ejemplos de amenazas y vulnerabilidades" },
+           { "idx":"4.10", "topic":"Herramientas y métodos" }
+         ]
+      },
+      {
+         "idx" : 5,
+         "unit" : "Auditorías", 
+         "topics" : [
+           { "idx":"5.1", "topic":"Qué es una auditoría" },
+           { "idx":"5.2", "topic":"Etapas de la auditoría" },
+           { "idx":"5.3", "topic":"Tipos de auditoría" },
+           { "idx":"5.4", "topic":"Anexo primera, segunda y tercera parte - perspectiva" },
+           { "idx":"5.5", "topic":"El auditor dentro del sistema de auditoría" }
+         ]
+      },
+      {
+         "idx" : 6,
+         "unit" : "Preparación para la auditoría", 
+         "topics" : [
+           { "idx":"6.1", "topic":"Desarrollo del Plan" },
+           { "idx":"6.2", "topic":"Manuales ISMS" },
+           { "idx":"6.3", "topic":"El programa de Auditoría" },
+           { "idx":"6.4", "topic":"Preparación de las Listas de Verificación" }
+         ]
+      },
+      {
+         "idx" : 7,
+         "unit" : "Realización de la Auditoría", 
+         "topics" : [
+           { "idx":"7.1", "topic":"General" },
+           { "idx":"7.2", "topic":"Junta de Apertura" },
+           { "idx":"7.3", "topic":"El proceso de auditoría" },
+           { "idx":"7.4", "topic":"Junta del equipo de auditoría" },
+           { "idx":"7.5", "topic":"Efectividad del sistema" },
+           { "idx":"7.6", "topic":"Opciones para Recomendación" },
+           { "idx":"7.7", "topic":"Junta de Cierre" }
+         ]
+      },
+      {
+         "idx" : 8,
+         "unit" : "Reportes, Registros, Seguimiento y Acción Correctiva", 
+         "topics" : [
+           { "idx":"8.1", "topic":"Reporte de Auditoría" },
+           { "idx":"8.2", "topic":"Seguimiento" },
+           { "idx":"8.3", "topic":"Acción Correctiva" }
+         ]
+      },
+      {
+         "idx" : 9,
+         "unit" : "Esquema de Calificación", 
+         "topics" : [
+           { "idx":"9.1", "topic":"Esquema de Calificación" },
+           { "idx":"9.2", "topic":"Información para contactar a ERCA" }
+         ]
+      },
+      {
+         "idx" : 10,
+         "unit" : "Descripción del Examen", 
+         "topics" : [
+           { "idx":"10.1", "topic":"Formato del examen" },
+           { "idx":"10.2", "topic":"Contenido del examen de ERCA" },
+           { "idx":"10.3", "topic":"Consejos para contestar el examen" }
+         ]
+      },
+      {
+         "idx" : 11,
+         "unit" : "Repaso, Evaluación y Examinación", 
+         "topics" : [
+           { "idx":"11.1", "topic":"Repaso general" },
+           { "idx":"11.2", "topic":"Evaluación del curso" },
+           { "idx":"11.3", "topic":"Constancia del curso" },
+           { "idx":"11.4", "topic":"Examen de certificación" }
+         ]
+      }
+   ]
+}
