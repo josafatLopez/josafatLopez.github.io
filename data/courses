@@ -366,6 +366,42 @@
       "course": "Certified Cloud Security Professional (CCSP®)"
    },
    {
+      "id": 64,
+      "linkurl": "cloud-computing-foundation",
+      "category": "Cloud Computing",
+      "course": "Cloud Computing Foundation"
+   },
+   {
+      "id": 65,
+      "linkurl": "cloud-technology-associate",
+      "category": "Cloud Computing",
+      "course": "Cloud Technology Associate"
+   },
+   {
+      "id": 66,
+      "linkurl": "big-data-foundation",
+      "category": "Cloud Computing",
+      "course": "Big Data Foundation"
+   },
+   {
+      "id": 67,
+      "linkurl": "professional-cloud-administrator",
+      "category": "Cloud Computing",
+      "course": "Professional Cloud Administrator"
+   },
+   {
+      "id": 68,
+      "linkurl": "professional-cloud-service-manager",
+      "category": "Cloud Computing",
+      "course": "Professional Cloud Service Manager"
+   },
+   {
+      "id": 69,
+      "linkurl": "professional-cloud-solutions-architect",
+      "category": "Cloud Computing",
+      "course": "Professional Cloud Solutions Architect"
+   },
+   {
       "id": 101,
       "linkurl": "combo-it-security-risk-and-continuity",
       "category": "Combos",

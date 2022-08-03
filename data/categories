@@ -112,5 +112,16 @@
          { "id": 62, "linkurl": "certified-information-systems-security-professional", "course": "CISSP® Certified Information Systems Security Professional" },
          { "id": 63, "linkurl": "certified-cloud-security-professional", "course": "Certified Cloud Security Professional (CCSP®)" }
       ]
+   },
+   {
+      "category" : "Cloud Computing",
+      "courses": [
+         { "id": 64, "linkurl": "cloud-computing-foundation", "course": "Cloud Computing Foundation" },
+         { "id": 65, "linkurl": "cloud-technology-associate", "course": "Cloud Technology Associate" },
+         { "id": 66, "linkurl": "big-data-foundation", "course": "Big Data Foundation" },
+         { "id": 67, "linkurl": "professional-cloud-administrator", "course": "Professional Cloud Administrator" },
+         { "id": 68, "linkurl": "professional-cloud-service-manager", "course": "Professional Cloud Service Manager" },
+         { "id": 69, "linkurl": "professional-cloud-solutions-architect", "course": "Professional Cloud Solutions Architect" }
+      ]
    }
 ]
