@@ -2,93 +2,136 @@
    "id": 22,
    "linkurl": "scrum-product-owner",
    "category": "Agile",
-   "course": "Scrum Product Owner",
+   "course": "Scrum Product Owner (SPOC®)",
    "schedules": [
       { "idx": 1, "date": "Contacta a un asesor para saber próximas fechas" },
       { "idx": 2, "date": "" }
    ],
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "16 horas",
-   "description": "Scrum es el marco de trabajo ágil más popular, se trata de un método adaptable, rápido, flexible, y eficaz, diseñado para ofrecer un valor significativo de forma rápida y durante todo el proyecto.\n Los Scrum Master Certified (SMC ™) son facilitadores que aseguran que el equipo de Scrum está provisto de un entorno propicio para completar el proyecto con éxito. Los Scrum Master facilitan, y enseñan prácticas de Scrum a todos los involucrados en el proyecto, remueve los impedimentos para el equipo, y asegura que los procesos Scrum se están siguiendo de manera correcta para el logro de objetivos.",
+   "description": "El Dueño del Producto representa los intereses de las partes interesadas para el Equipo de Scrum. El Dueño del Producto es responsable de asegurar una comunicación clara de los requerimientos de la funcionalidad del producto o servicio al Equipo de Scrum, definiendo los Criterios de Aceptación y asegurando que se cumplan dichos criterios. El Dueño del Producto siempre debe mantener una visión dual. Debe comprender y soportar las necesidades y los intereses de todas las partes interesadas y al mismo tiempo entender las necesidades y el trabajo del Equipo de Scrum.",
    "logourl": "",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
-      { "idx": 2, "include": "Diploma de finalización de curso" }
+      { "idx": 2, "include": "Ejercicios de revisión" },
+      { "idx": 3, "include": "Diploma de finalización de curso" },
+      { "idx": 4, "include": "Examen de certificación oficial por parte de SCRUMstudy" }
    ],
    "benefits": [
-      { "idx": 1, "benefit": "Ser capaz de guiar y enseñar prácticas de Scrum a todos los involucrados en el proyecto, eliminar los obstáculos para el equipo y asegurar que los pasos se están siguiendo Scrum." },
-      { "idx": 2, "benefit": "Obtener un entendimiento profundo de la filosofía y principios de Scrum." },
-      { "idx": 3, "benefit": "Obtener un conocimiento práctico de Scrum, incluidos los roles, reuniones y artefactos." },
-      { "idx": 4, "benefit": "Sentirse cómodo de implementar Scrum en las organizaciones, así como en la gestión de los problemas comunes." },
-      { "idx": 5, "benefit": "Obtener el certificado de Scrum." }
+      { "idx": 1, "benefit": "Reconocer, definir y trabajar fácilmente con los conceptos, las ventajas, y los retos del Marco de Scrum." },
+      { "idx": 2, "benefit": "Desempeñar el rol del Dueño del Producto en sus organizaciones y ayudar a sus organizaciones a adoptar el Marco de Scrum." },
+      { "idx": 3, "benefit": "Participar en juegos de rol, durante los cuales realizarán un proyecto de Scrum." },
+      { "idx": 4, "benefit": "Obtener conocimiento referente a, y la habilidad de anticiparse a, problemas relacionados con la implementación práctica de Scrum." },
+      { "idx": 5, "benefit": "Obtener las herramientas apropiadas para tratar, resolver y tomar el control de los asuntos de Scrum en su organización." },
+      { "idx": 6, "benefit": "Obtener el certificado de Scrum Product Owner Certified (SPOC™)." }
    ],
    "forwho": [
-      { "idx": 1, "qualities": "Cualquier persona que esté interesada en trabajar como Scrum Master." },
-      { "idx": 2, "qualities": "Cualquier persona que ya sea un Scrum Master en su organización." },
-      { "idx": 3, "qualities": "Un Scrum Master es un papel importante en cualquier equipo de Scrum y no tiene que ser un experto en tecnología para ser eficaz." },
-      { "idx": 4, "qualities": "A pesar de que Scrum es muy popular en la industria de TI, Scrum puede ser utilizado de manera efectiva en cualquier tipo de industria." }
+      { "idx": 1, "qualities": "Esta certificación es para cualquier persona que interactúe o trabaje como Dueño del Producto en un Equipo de Scrum." }
    ],
    "exam": [
-      { "idx": 1, "characteristics": "Tiempo asignado: 120 minutos" },
-      { "idx": 2, "characteristics": "Cantidad de preguntas: 100 de opción múltiple" },
-      { "idx": 3, "characteristics": "Calificación aprobatoria: 57% (57 respuestas correctas)" },
-      { "idx": 4, "characteristics": "Formato: En línea o Papel; a libro cerrado" },
-      { "idx": 5, "characteristics": "Prerrequisitos: Se recomienda haber completado el curso de Fundamentos de Scrum en línea que es de manera gratuita (acceso proporcionado a inscripción en el curso)." }
+      { "idx": 1, "characteristics": "Tiempo asignado: 180 minutos" },
+      { "idx": 2, "characteristics": "Cantidad de preguntas: 140" },
+      { "idx": 3, "characteristics": "Formato: En línea (El examen se programa después del curso)" },
+      { "idx": 4, "characteristics": "Prerrequisitos: No existe un prerrequisito formal para esta certificación. Sin embargo personas que tengan el certificado de SDC™ o SMC™ podrán comprender mejor los conceptos requeridos para este examen de certificación." }
    ],
    "content": [
       {
          "idx" : 1,
-         "unit" : "Revisión a Agile", 
+         "unit" : "Introducción a Agile y Scrum", 
          "topics" : [
-           { "idx":"1.1", "topic":"El origen de Agile" },
-           { "idx":"1.2", "topic":"El Manifesto de Agile" },
-           { "idx":"1.3", "topic":"Los Principios del Manifesto de Agile" },
-           { "idx":"1.4", "topic":"Declaración de Interdependencia" },
-           { "idx":"1.5", "topic":"Métodos Agiles" },
-           { "idx":"1.6", "topic":"Gestión de proyectos Tradicional vs. Agile" }
+           { "idx":"1.1", "topic":"La Necesidad de Agile" },
+           { "idx":"1.2", "topic":"Gestión de Proyectos Adaptable" },
+           { "idx":"1.3", "topic":"Manifiesto de Agile" },
+           { "idx":"1.4", "topic":"Principios de Agile" },
+           { "idx":"1.5", "topic":"¿Qué Ha Cambiado?" },
+           { "idx":"1.6", "topic":"Métodos de Agile" },
+           { "idx":"1.7", "topic":"Introducción a Scrum" },
+           { "idx":"1.8", "topic":"Principios de Scrum" },
+           { "idx":"1.9", "topic":"Aspectos de Scrum" },
+           { "idx":"1.10", "topic":"Procesos de Scrum" },
+           { "idx":"1.11", "topic":"Resumen de Scrum" }
          ]
       },
       {
          "idx" : 2,
-         "unit" : "Vistazo a Scrum", 
+         "unit" : "Roles de Scrum", 
          "topics" : [
-           { "idx":"2.1", "topic":"Principios de Scrum" },
-           { "idx":"2.2", "topic":"Aspectos de Scrum" },
-           { "idx":"2.3", "topic":"Procesos de Scrum" },
-           { "idx":"2.4", "topic":"Ventajas de Scrum" }
+           { "idx":"2.1", "topic":"Introducción a los Roles de Scrum" },
+           { "idx":"2.2", "topic":"Roles Centrales" },
+           { "idx":"2.3", "topic":"Roles No Centrales" }
          ]
       },
       {
          "idx" : 3,
-         "unit" : "Roles de Scrum", 
-         "topics" : [
-           { "idx":"3.1", "topic":"Roles centrales" },
-           { "idx":"3.2", "topic":"Roles no centrales" }
-         ]
+         "unit" : "Fases del Proyecto de Scrum", 
+         "topics" : []
       },
       {
          "idx" : 4,
-         "unit" : "Fases de Scrum", 
+         "unit" : "Fase de Iniciar", 
          "topics" : [
-           { "idx":"4.1", "topic":"Iniciar" },
-           { "idx":"4.2", "topic":"Planear y Estimar" },
-           { "idx":"4.3", "topic":"Implementar" },
-           { "idx":"4.4", "topic":"Revisar y ver en retrospectiva" },
-           { "idx":"4.5", "topic":"Liberar" }
+           { "idx":"4.1", "topic":"Crear la Visión del Proyecto" },
+           { "idx":"4.2", "topic":"Identificar al Scrum Master y a los Stakeholders" },
+           { "idx":"4.3", "topic":"Formar el Equipo de Scrum" },
+           { "idx":"4.4", "topic":"Desarrollar Epopeyas" },
+           { "idx":"4.5", "topic":"Crear Pendientes del Producto Priorizados" },
+           { "idx":"4.5", "topic":"Conducir la Planeación de la Liberación" }
          ]
       },
       {
          "idx" : 5,
-         "unit" : "Adaptar Scrum", 
+         "unit" : "Fase de Planear y Estimar", 
          "topics" : [
-           { "idx":"5.1", "topic":"Adaptabilidad de Scrum" },
-           { "idx":"5.2", "topic":"Scrum en Programas y Portafolios" },
-           { "idx":"5.3", "topic":"Junta de Scrum de Scrums (SoS)" },
-           { "idx":"5.4", "topic":"Transición a Scrum" },
-           { "idx":"5.5", "topic":"Mapear los Roles Tradicionales a Scrum" },
-           { "idx":"5.6", "topic":"Mantener el Involucramiento de los Stakeholders" },
-           { "idx":"5.7", "topic":"Importancia del Apoyo Ejecutivo" }
+           { "idx":"5.1", "topic":"Crear Historias de Usuario" },
+           { "idx":"5.2", "topic":"Estimar Historias de Usuario" },
+           { "idx":"5.3", "topic":"Comprometer Historias de Usuario" },
+           { "idx":"5.4", "topic":"Identificar Tareas" },
+           { "idx":"5.5", "topic":"Estimar Tareas" },
+           { "idx":"5.6", "topic":"Crear Pendientes del Sprint" }
          ]
-      }
+      },
+      {
+        "idx" : 6,
+        "unit" : "Fase de Implementar", 
+        "topics" : [
+          { "idx":"6.1", "topic":"Crear Entregables" },
+          { "idx":"6.2", "topic":"Llevar a Cabo el Standup Diario" },
+          { "idx":"6.3", "topic":"Depurar los Pendientes del Producto Priorizados" }
+        ]
+     },
+     {
+        "idx" : 7,
+        "unit" : "Fase de Revisar y ver en Retrospectiva", 
+        "topics" : [
+          { "idx":"7.1", "topic":"Demostrar y Validar el Sprint" },
+          { "idx":"7.2", "topic":"Ver el Sprint en Retrospectiva" }
+        ]
+     },
+     {
+        "idx" : 8,
+        "unit" : "Fase de Liberar", 
+        "topics" : [
+          { "idx":"8.1", "topic":"Enviar Entregables" },
+          { "idx":"8.2", "topic":"Ver el Proyecto en Retrospectiva" }
+        ]
+     },
+     {
+        "idx" : 9,
+        "unit" : "Importancia del Valor", 
+        "topics" : [
+          { "idx":"9.1", "topic":"Prácticas para la Entrega Orientada al Valor" },
+          { "idx":"9.2", "topic":"Gestión de Riesgos" }
+        ]
+     },
+     {
+        "idx" : 10,
+        "unit" : "Implementación de Scrum", 
+        "topics" : [
+          { "idx":"10.1", "topic":"Adaptar Scrum a Proyectos Grandes" },
+          { "idx":"10.2", "topic":"Adaptar Scrum para la Empresa" },
+          { "idx":"10.3", "topic":"Scrum en Programas y Portafolios" },
+          { "idx":"10.4", "topic":"Mantener el Involucramiento de los Stakeholders" }
+        ]
+     }
    ]
 }

@@ -8,87 +8,132 @@
       { "idx": 2, "date": "" }
    ],
    "modality": "Presencial | En línea con profesor en vivo",
-   "duration": "16 horas",
-   "description": "Scrum es el marco de trabajo ágil más popular, se trata de un método adaptable, rápido, flexible, y eficaz, diseñado para ofrecer un valor significativo de forma rápida y durante todo el proyecto.\n Los Scrum Master Certified (SMC ™) son facilitadores que aseguran que el equipo de Scrum está provisto de un entorno propicio para completar el proyecto con éxito. Los Scrum Master facilitan, y enseñan prácticas de Scrum a todos los involucrados en el proyecto, remueve los impedimentos para el equipo, y asegura que los procesos Scrum se están siguiendo de manera correcta para el logro de objetivos.",
+   "duration": "24 horas",
+   "description": "El curso de Fundamentos de Lean IT le proporciona al candidato el conocimiento y el entendimiento de Lean IT para soportar una iniciativa Lean en una organización de TI.",
    "logourl": "",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
-      { "idx": 2, "include": "Diploma de finalización de curso" }
+      { "idx": 2, "include": "Ejercicios de revisión" },
+      { "idx": 3, "include": "Examen de simulación" },
+      { "idx": 4, "include": "Diploma de finalización de curso" },
+      { "idx": 5, "include": "Examen de certificación oficial por parte de EXIN" }
    ],
    "benefits": [
-      { "idx": 1, "benefit": "Ser capaz de guiar y enseñar prácticas de Scrum a todos los involucrados en el proyecto, eliminar los obstáculos para el equipo y asegurar que los pasos se están siguiendo Scrum." },
-      { "idx": 2, "benefit": "Obtener un entendimiento profundo de la filosofía y principios de Scrum." },
-      { "idx": 3, "benefit": "Obtener un conocimiento práctico de Scrum, incluidos los roles, reuniones y artefactos." },
-      { "idx": 4, "benefit": "Sentirse cómodo de implementar Scrum en las organizaciones, así como en la gestión de los problemas comunes." },
-      { "idx": 5, "benefit": "Obtener el certificado de Scrum." }
+      { "idx": 1, "benefit": "Comprender los principios de la filosofía Lean." },
+      { "idx": 2, "benefit": "Aprender la importancia del entendimiento y la entrega de valor al cliente." },
+      { "idx": 3, "benefit": "Comprender la manera en la que Lean trata los procesos y el “desperdicio” (waste) dentro de ellos." },
+      { "idx": 4, "benefit": "Aprender a medir el desempeño y los determinantes clave del desempeño." },
+      { "idx": 5, "benefit": "Entender qué son los requerimientos organizacionales al implementar Lean, incluyendo el uso de herramientas visuales de administración." },
+      { "idx": 6, "benefit": "Conocer el modelo DMAIC de resolución de problemas." },
+      { "idx": 7, "benefit": "Comprender qué comportamiento y actitud son necesarias para que Lean tenga éxito dentro de una organización." },
+      { "idx": 8, "benefit": "Aprender cómo los principios de Lean pueden aplicarse dentro de una organización de TI." }
    ],
    "forwho": [
-      { "idx": 1, "qualities": "Cualquier persona que esté interesada en trabajar como Scrum Master." },
-      { "idx": 2, "qualities": "Cualquier persona que ya sea un Scrum Master en su organización." },
-      { "idx": 3, "qualities": "Un Scrum Master es un papel importante en cualquier equipo de Scrum y no tiene que ser un experto en tecnología para ser eficaz." },
-      { "idx": 4, "qualities": "A pesar de que Scrum es muy popular en la industria de TI, Scrum puede ser utilizado de manera efectiva en cualquier tipo de industria." }
+      { "idx": 1, "qualities": "Profesionales de TI." },
+      { "idx": 2, "qualities": "Profesionales de operaciones de TI." },
+      { "idx": 3, "qualities": "Profesionales de desarrollo de TI." },
+      { "idx": 4, "qualities": "Cualquier especialista de TI se puede beneficiar de esta certificación." }
    ],
    "exam": [
-      { "idx": 1, "characteristics": "Tiempo asignado: 120 minutos" },
-      { "idx": 2, "characteristics": "Cantidad de preguntas: 100 de opción múltiple" },
-      { "idx": 3, "characteristics": "Calificación aprobatoria: 57% (57 respuestas correctas)" },
-      { "idx": 4, "characteristics": "Formato: En línea o Papel; a libro cerrado" },
-      { "idx": 5, "characteristics": "Prerrequisitos: Se recomienda haber completado el curso de Fundamentos de Scrum en línea que es de manera gratuita (acceso proporcionado a inscripción en el curso)." }
+      { "idx": 1, "characteristics": "Tiempo asignado: 60' minutos" },
+      { "idx": 2, "characteristics": "Cantidad de preguntas: 40 de opción múltiple, basadas en escenarios" },
+      { "idx": 3, "characteristics": "Calificación aprobatoria: 65% (26 acumulados)" },
+      { "idx": 4, "characteristics": "Formato: En línea; a libro cerrado" },
+      { "idx": 5, "characteristics": "Prerrequisitos: Evidencia de haber participado en un curso de Fundamentos de Lean IT." }
    ],
    "content": [
       {
          "idx" : 1,
-         "unit" : "Revisión a Agile", 
+         "unit" : "Introducción a Lean", 
          "topics" : [
-           { "idx":"1.1", "topic":"El origen de Agile" },
-           { "idx":"1.2", "topic":"El Manifesto de Agile" },
-           { "idx":"1.3", "topic":"Los Principios del Manifesto de Agile" },
-           { "idx":"1.4", "topic":"Declaración de Interdependencia" },
-           { "idx":"1.5", "topic":"Métodos Agiles" },
-           { "idx":"1.6", "topic":"Gestión de proyectos Tradicional vs. Agile" }
+           { "idx":"1.1", "topic":"Introducción a Lean IT" },
+           { "idx":"1.2", "topic":"El Sistema de Producción de Toyota" },
+           { "idx":"1.3", "topic":"Principios Clave" },
+           { "idx":"1.4", "topic":"Desperdicio (Waste)" },
+           { "idx":"1.5", "topic":"Actividades" },
+           { "idx":"1.6", "topic":"Ciclo de Deming" },
+           { "idx":"1.7", "topic":"Dimensiones de Lean IT" },
+           { "idx":"1.8", "topic":"Participantes Clave" },
+           { "idx":"1.9", "topic":"Ser Lean" },
+           { "idx":"1.10", "topic":"Relaciones con otros Modelos" }
          ]
       },
       {
          "idx" : 2,
-         "unit" : "Vistazo a Scrum", 
+         "unit" : "Cliente", 
          "topics" : [
-           { "idx":"2.1", "topic":"Principios de Scrum" },
-           { "idx":"2.2", "topic":"Aspectos de Scrum" },
-           { "idx":"2.3", "topic":"Procesos de Scrum" },
-           { "idx":"2.4", "topic":"Ventajas de Scrum" }
+           { "idx":"2.1", "topic":"El Cliente" },
+           { "idx":"2.2", "topic":"Tipos de Valor del Cliente" },
+           { "idx":"2.3", "topic":"Crítico para la Calidad" },
+           { "idx":"2.4", "topic":"Análisis de la Voz del Cliente" },
+           { "idx":"2.5", "topic":"Fuentes de Oportunidades de Mejora Continua" }
          ]
       },
       {
          "idx" : 3,
-         "unit" : "Roles de Scrum", 
+         "unit" : "Proceso", 
          "topics" : [
-           { "idx":"3.1", "topic":"Roles centrales" },
-           { "idx":"3.2", "topic":"Roles no centrales" }
+           { "idx":"3.1", "topic":"Definición" },
+           { "idx":"3.2", "topic":"Componentes Clave" },
+           { "idx":"3.3", "topic":"Push y Pull" },
+           { "idx":"3.4", "topic":"Modelo SIPOC" },
+           { "idx":"3.5", "topic":"Mapa de Flujo de Valor" },
+           { "idx":"3.6", "topic":"Métricas" },
+           { "idx":"3.7", "topic":"Mejora del Valor" },
+           { "idx":"3.8", "topic":"Demanda de Valor y Demanda de Falla" }
          ]
       },
       {
          "idx" : 4,
-         "unit" : "Fases de Scrum", 
+         "unit" : "Desempeño", 
          "topics" : [
-           { "idx":"4.1", "topic":"Iniciar" },
-           { "idx":"4.2", "topic":"Planear y Estimar" },
-           { "idx":"4.3", "topic":"Implementar" },
-           { "idx":"4.4", "topic":"Revisar y ver en retrospectiva" },
-           { "idx":"4.5", "topic":"Liberar" }
+           { "idx":"4.1", "topic":"Definición" },
+           { "idx":"4.2", "topic":"KPIs" },
+           { "idx":"4.3", "topic":"Eficiencia del Ciclo del Proceso" },
+           { "idx":"4.4", "topic":"Habilidades y Conocimiento" }
          ]
       },
       {
          "idx" : 5,
-         "unit" : "Adaptar Scrum", 
+         "unit" : "Organización Lean", 
          "topics" : [
-           { "idx":"5.1", "topic":"Adaptabilidad de Scrum" },
-           { "idx":"5.2", "topic":"Scrum en Programas y Portafolios" },
-           { "idx":"5.3", "topic":"Junta de Scrum de Scrums (SoS)" },
-           { "idx":"5.4", "topic":"Transición a Scrum" },
-           { "idx":"5.5", "topic":"Mapear los Roles Tradicionales a Scrum" },
-           { "idx":"5.6", "topic":"Mantener el Involucramiento de los Stakeholders" },
-           { "idx":"5.7", "topic":"Importancia del Apoyo Ejecutivo" }
+           { "idx":"5.1", "topic":"Requerimientos" },
+           { "idx":"5.2", "topic":"El principio de Organizar" },
+           { "idx":"5.3", "topic":"Dialogo del Desempeño" },
+           { "idx":"5.4", "topic":"Gestión Visual" },
+           { "idx":"5.5", "topic":"Kanban" }
          ]
-      }
+      },
+      {
+        "idx" : 6,
+        "unit" : "Comportamiento y Actitud", 
+        "topics" : [
+          { "idx":"6.1", "topic":"Mentalidad Lean" },
+          { "idx":"6.2", "topic":"Tipos de Comportamiento Lean" },
+          { "idx":"6.3", "topic":"Liderazgo Lean" }
+        ]
+     },
+     {
+        "idx" : 7,
+        "unit" : "Kaizen / Solución de Problemas", 
+        "topics" : [
+          { "idx":"7.1", "topic":"Kaizen" },
+          { "idx":"7.2", "topic":"Método DMAIC" },
+          { "idx":"7.3", "topic":"Definir" },
+          { "idx":"7.4", "topic":"Medir" },
+          { "idx":"7.5", "topic":"Analizar" },
+          { "idx":"7.6", "topic":"Mejorar" },
+          { "idx":"7.7", "topic":"Controlar" },
+          { "idx":"7.8", "topic":"Herramientas Kaizen" }
+        ]
+     },
+     {
+        "idx" : 8,
+        "unit" : "Esquema de certificación", 
+        "topics" : [
+          { "idx":"8.1", "topic":"Formación en Lean IT" },
+          { "idx":"8.2", "topic":"Información de contacto Exin" }
+        ]
+     }
    ]
 }

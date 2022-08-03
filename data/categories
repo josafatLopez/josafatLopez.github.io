@@ -37,7 +37,7 @@
       "courses": [
          { "id": 21, "linkurl": "agile-scrum-foundation", "course": "Agile SCRUM Foundation" },
          { "id": 2, "linkurl": "scrum-master", "course": "Scrum Master (SMC®)" },
-         { "id": 22, "linkurl": "scrum-product-owner", "course": "Scrum Product Owner" },
+         { "id": 22, "linkurl": "scrum-product-owner", "course": "Scrum Product Owner (SPOC®)" },
          { "id": 23, "linkurl": "scrum-developer", "course": "Scrum Developer" },
          { "id": 24, "linkurl": "lean-it-foundation", "course": "Lean IT Foundation" },
          { "id": 25, "linkurl": "management-3-0", "course": "Management 3.0" },
