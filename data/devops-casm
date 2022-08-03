@@ -12,8 +12,12 @@
    "description": "Al ser equivalente a una persona certificada en Scrum Master de forma operativa, el certificado en Agile Service Manager (CASM) es el responsable de asegurar la gestión del servicio de manera Ágil a través de teoría, prácticas y reglas que son entendibles.",
    "logourl": "",
    "courseincludes": [
-      { "idx": 1, "include": "Material oficial acreditado para el participante" },
-      { "idx": 2, "include": "Diploma de finalización de curso" }
+      { "idx": 1, "include": "Material oficial acreditado para el participante por DevOps Institute" },
+      { "idx": 2, "include": "Ejercicios de revisión" },
+      { "idx": 3, "include": "Exámenes de simulación" },
+      { "idx": 4, "include": "Diploma de finalización de curso" },
+      { "idx": 5, "include": "Examen de certificación oficial por parte de DevOps Institute" },
+      { "idx": 6, "include": "16 PDUs" }
    ],
    "benefits": [
       { "idx": 1, "benefit": "Aplicar e integrar el pensamiento Agile en los procesos de gestión de servicios y proyectos de diseño de procesos." },
@@ -162,67 +166,59 @@
       },
       {
          "idx" : 14,
-         "unit" : "¿Qué es la gestión del servicio Agile (Agile SM)?", 
+         "unit" : "Eventos de la gestión del servicio Agile", 
          "topics" : [
-           { "idx":"14.1", "topic":"Definición y valor" },
-           { "idx":"14.2", "topic":"Dos aspectos de Agile SM" }
+           { "idx":"14.1", "topic":"Reunión de planeación del proceso (Process planning meeting)" },
+           { "idx":"14.2", "topic":"Reunión de la planeación del Sprint (Sprint planning meeting)" }
          ]
       },
       {
          "idx" : 15,
-         "unit" : "Eventos de la gestión del servicio Agile", 
+         "unit" : "Sprint estratégicos y actividades del proceso", 
          "topics" : [
-           { "idx":"15.1", "topic":"Reunión de planeación del proceso (Process planning meeting)" },
-           { "idx":"15.2", "topic":"Reunión de la planeación del Sprint (Sprint planning meeting)" }
+           { "idx":"15.1", "topic":"Definición de Hecho para el proceso de Sprints" },
+           { "idx":"15.2", "topic":"Reunión diaria (Daily Scrum) en un contexto de Agile SM" },
+           { "idx":"15.3", "topic":"Revisión del Sprint (en un contexto Agile SM)" },
+           { "idx":"15.4", "topic":"Retrospectiva del Sprint (en un contexto Agile SM)" }
          ]
       },
       {
          "idx" : 16,
-         "unit" : "Sprint estratégicos y actividades del proceso", 
+         "unit" : "Mejora del proceso Agile", 
          "topics" : [
-           { "idx":"16.1", "topic":"Definición de Hecho para el proceso de Sprints" },
-           { "idx":"16.2", "topic":"Reunión diaria (Daily Scrum) en un contexto de Agile SM" },
-           { "idx":"16.3", "topic":"Revisión del Sprint (en un contexto Agile SM)" },
-           { "idx":"16.4", "topic":"Retrospectiva del Sprint (en un contexto Agile SM)" }
+           { "idx":"16.1", "topic":"Auditoría de mejora para el proceso Agile" },
+           { "idx":"16.2", "topic":"EL Process Backlog como un registro de mejora (CSI)" },
+           { "idx":"16.3", "topic":"CSI, Sprints y el Plan‐Do‐Check‐Act" },
+           { "idx":"16.4", "topic":"Ejercicio: evaluación del proceso de Agile" }
          ]
       },
       {
          "idx" : 17,
-         "unit" : "Mejora del proceso Agile", 
-         "topics" : [
-           { "idx":"17.1", "topic":"Auditoría de mejora para el proceso Agile" },
-           { "idx":"17.2", "topic":"EL Process Backlog como un registro de mejora (CSI)" },
-           { "idx":"17.3", "topic":"CSI, Sprints y el Plan‐Do‐Check‐Act" },
-           { "idx":"17.4", "topic":"Ejercicio: evaluación del proceso de Agile" }
-         ]
-      },
-      {
-         "idx" : 18,
          "unit" : "Tecnologías para la gestión del servicio Agile", 
          "topics" : []
       },
       {
-         "idx" : 19,
+         "idx" : 18,
          "unit" : "Alineación de la gestión del servicio Agile y el desarrollo de software Agile", 
          "topics" : []
       },
       {
-         "idx" : 20,
+         "idx" : 19,
          "unit" : "Empezar con la gestión del servicio Agile", 
          "topics" : []
       },
       {
-         "idx" : 21,
+         "idx" : 20,
          "unit" : "Resumen", 
          "topics" : []
       },
       {
-         "idx" : 22,
+         "idx" : 21,
          "unit" : "Fuentes adicionales de información", 
          "topics" : []
       },
       {
-         "idx" : 23,
+         "idx" : 22,
          "unit" : "Preparación del examen", 
          "topics" : []
       }

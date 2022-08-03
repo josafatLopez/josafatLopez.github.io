@@ -12,8 +12,12 @@
    "description": "Este curso está diseñado para participantes quienes están comprometidos con el diseño, implementación y gestión de canales de despliegue cadenas de herramientas de DevOps que soporten la Integración Continua, la Entrega Continua, las Pruebas Continuas y potencialmente el Despliegue Continuo. El curso resalta los procesos de soporte, métricas, APIs y consideraciones culturales con la Entrega Continua.",
    "logourl": "",
    "courseincludes": [
-      { "idx": 1, "include": "Material oficial acreditado para el participante" },
-      { "idx": 2, "include": "Diploma de finalización de curso" }
+      { "idx": 1, "include": "Material oficial del DevOps Institute" },
+      { "idx": 2, "include": "Ejercicios Prácticos" },
+      { "idx": 3, "include": "Examen de Simulación" },
+      { "idx": 4, "include": "Diploma de finalización de curso" },
+      { "idx": 5, "include": "Examen de certificación oficial por parte del DevOps Institute" },
+      { "idx": 6, "include": "16 PDUs" }
    ],
    "benefits": [
       { "idx": 1, "benefit": "Obtener velocidad aumentada para apoyar a las organizaciones en responder ágilmente a los cambios del mercado" },

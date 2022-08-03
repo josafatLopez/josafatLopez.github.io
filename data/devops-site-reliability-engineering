@@ -13,7 +13,11 @@
    "logourl": "",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
-      { "idx": 2, "include": "Diploma de finalización de curso" }
+      { "idx": 2, "include": "Ejercicios de revisión" },
+      { "idx": 3, "include": "Diploma de finalización de curso" },
+      { "idx": 4, "include": "Exámenes de simulación" },
+      { "idx": 5, "include": "16 PDUs" },
+      { "idx": 6, "include": "Examen de certificación oficial por parte de DevOps Institute" }
    ],
    "benefits": [
       { "idx": 1, "benefit": "Aprender la historia de SRE y su surgimiento en Google." },

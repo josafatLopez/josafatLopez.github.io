@@ -2,7 +2,7 @@
    "id": 13,
    "linkurl": "devsecops-foundation",
    "category": "DevOps",
-   "course": "DevSecOps Foundation",
+   "course": "DevSecOps Foundation (DSOE)",
    "schedules": [
       { "idx": 1, "date": "Contacta a un asesor para saber próximas fechas" },
       { "idx": 2, "date": "" }
@@ -13,7 +13,11 @@
    "logourl": "",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
-      { "idx": 2, "include": "Diploma de finalización de curso" }
+      { "idx": 2, "include": "Ejercicios de revisión" },
+      { "idx": 3, "include": "Exámenes de Simulación" },
+      { "idx": 4, "include": "Diploma de finalización de curso" },
+      { "idx": 5, "include": "Examen de certificación oficial por parte de DevOps Institute" },
+      { "idx": 6, "include": "16 PDUs" }
    ],
    "benefits": [
       { "idx": 1, "benefit": "Aprender de qué manera los roles de DevSecOps se ajustan a la cultura y la organización." },

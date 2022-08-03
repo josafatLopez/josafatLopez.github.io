@@ -13,7 +13,9 @@
    "logourl": "",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
-      { "idx": 2, "include": "Diploma de finalización de curso" }
+      { "idx": 1, "include": "Ejercicios de revisión" },
+      { "idx": 1, "include": "Diploma de finalización de curso" },
+      { "idx": 1, "include": "Examen de certificación oficial por parte de EXIN" }
    ],
    "benefits": [
       { "idx": 1, "benefit": "El objetivo de esta certificación es proporcionar conocimientos básicos, permitiéndole a un profesional trabajar en un entorno DevOps y reconocer los beneficios que DevOps puede aportar a su organización." }

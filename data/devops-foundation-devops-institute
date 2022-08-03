@@ -13,8 +13,11 @@
    "logourl": "",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante por DevOps Institute" },
-      { "idx": 2, "include": "Diploma de finalización de curso" },
-      { "idx": 3, "include": "Examen de certificación oficial por parte de DevOps Institute" }
+      { "idx": 2, "include": "Ejercicios de revisión" },
+      { "idx": 3, "include": "Exámenes de simulación" },
+      { "idx": 4, "include": "Diploma de finalización de curso" },
+      { "idx": 5, "include": "Examen de certificación oficial por parte de DevOps Institute" },
+      { "idx": 6, "include": "16 PDUs" }
    ],
    "benefits": [
       { "idx": 1, "benefit": "Entender los principios y prácticas de DevOps y adoptar el vocabulario de DevOps." },
@@ -114,7 +117,7 @@
         "topics" : [
           { "idx":"7.1", "topic":"La Importancia de la Medición" },
           { "idx":"7.2", "topic":"Métricas de DevOps" },
-          { "idx":"7.3", "topic":"Tiempos de dirigir/ciclos de cambio" },
+          { "idx":"7.3", "topic":"Tiempos de dirigir ciclos de cambio" },
           { "idx":"7.4", "topic":"Métricas Dirigidas por Valor" }
         ]
      },

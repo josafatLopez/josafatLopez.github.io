@@ -12,9 +12,12 @@
    "description": "El curso de Líder de DevOps es una experiencia práctica y única para los participantes que quieren tomar un enfoque de liderazgo transformacional y hacer un impacto dentro de su organización al implementar DevOps. Liderar a la gente a través de la transformación cultural requiere nuevas habilidades, pensamiento innovador y liderazgo transformacional. Los líderes deben alinearse y colaborar para derribar silos y evolucionar a la organización. El curso resalta las dinámicas humanas del cambio cultural y equipa a los participantes con prácticas, métodos y herramientas para comprometer a la gente a través del espectro de DevOps a través del uso de escenarios reales y casos de estudio.",
    "logourl": "",
    "courseincludes": [
-      { "idx": 1, "include": "Material oficial acreditado para el participante por DevOps Institute" },
-      { "idx": 2, "include": "Diploma de finalización de curso" },
-      { "idx": 3, "include": "Examen de certificación oficial por parte de DevOps Institute" }
+      { "idx": 1, "include": "Material oficial del DevOps Institute" },
+      { "idx": 2, "include": "Ejercicios Prácticos" },
+      { "idx": 3, "include": "Examen de Simulación" },
+      { "idx": 4, "include": "Diploma de finalización de curso" },
+      { "idx": 5, "include": "Examen de certificación oficial por parte del DevOps Institute" },
+      { "idx": 6, "include": "16 PDUs" }
    ],
    "benefits": [
       { "idx": 1, "benefit": "Comprender a detalle los aspectos que hacen a DevOps exitoso" },

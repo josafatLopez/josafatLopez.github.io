@@ -13,7 +13,8 @@
    "logourl": "",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
-      { "idx": 2, "include": "Diploma de finalización de curso" }
+      { "idx": 2, "include": "Ejercicios de revisión" },
+      { "idx": 3, "include": "Examen de certificación oficial por parte de Peoplecert" }
    ],
    "benefits": [
       { "idx": 1, "benefit": "La Historia y la Necesidad de DevOps" },
