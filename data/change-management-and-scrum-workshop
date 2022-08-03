@@ -8,86 +8,85 @@
       { "idx": 2, "date": "" }
    ],
    "modality": "Presencial | En línea con profesor en vivo",
-   "duration": "16 horas",
-   "description": "Scrum es el marco de trabajo ágil más popular, se trata de un método adaptable, rápido, flexible, y eficaz, diseñado para ofrecer un valor significativo de forma rápida y durante todo el proyecto.\n Los Scrum Master Certified (SMC ™) son facilitadores que aseguran que el equipo de Scrum está provisto de un entorno propicio para completar el proyecto con éxito. Los Scrum Master facilitan, y enseñan prácticas de Scrum a todos los involucrados en el proyecto, remueve los impedimentos para el equipo, y asegura que los procesos Scrum se están siguiendo de manera correcta para el logro de objetivos.",
+   "duration": "8 horas",
+   "description": "Este taller te permite aprender herramientas fáciles de aplicar, con la intención de afrontar y asumir los cambios a través de la implementación del trabajo con equipos SCRUM, mitigando el proceso de resistencia al cambio.",
    "logourl": "",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
-      { "idx": 2, "include": "Diploma de finalización de curso" }
+      { "idx": 2, "include": "Dinámicas de trabajo" },
+      { "idx": 3, "include": "Evaluación de tipo de liderazgo" },
+      { "idx": 4, "include": "Diploma de finalización de taller" }
    ],
    "benefits": [
-      { "idx": 1, "benefit": "Ser capaz de guiar y enseñar prácticas de Scrum a todos los involucrados en el proyecto, eliminar los obstáculos para el equipo y asegurar que los pasos se están siguiendo Scrum." },
-      { "idx": 2, "benefit": "Obtener un entendimiento profundo de la filosofía y principios de Scrum." },
-      { "idx": 3, "benefit": "Obtener un conocimiento práctico de Scrum, incluidos los roles, reuniones y artefactos." },
-      { "idx": 4, "benefit": "Sentirse cómodo de implementar Scrum en las organizaciones, así como en la gestión de los problemas comunes." },
-      { "idx": 5, "benefit": "Obtener el certificado de Scrum." }
+      { "idx": 1, "benefit": "Herramientas fáciles de aplicar, con la intención de afrontar y asumir los cambios a través de la implementación del trabajo con equipos SCRUM, mitigando el proceso de resistencia al cambio." }
    ],
    "forwho": [
-      { "idx": 1, "qualities": "Cualquier persona que esté interesada en trabajar como Scrum Master." },
-      { "idx": 2, "qualities": "Cualquier persona que ya sea un Scrum Master en su organización." },
-      { "idx": 3, "qualities": "Un Scrum Master es un papel importante en cualquier equipo de Scrum y no tiene que ser un experto en tecnología para ser eficaz." },
-      { "idx": 4, "qualities": "A pesar de que Scrum es muy popular en la industria de TI, Scrum puede ser utilizado de manera efectiva en cualquier tipo de industria." }
+      { "idx": 1, "qualities": "Va dirigido a todo aquel colaborador responsable de gestionar los cambios en la organización, así como a los líderes del Proyecto y equipos Scrum." }
    ],
    "exam": [
-      { "idx": 1, "characteristics": "Tiempo asignado: 120 minutos" },
-      { "idx": 2, "characteristics": "Cantidad de preguntas: 100 de opción múltiple" },
-      { "idx": 3, "characteristics": "Calificación aprobatoria: 57% (57 respuestas correctas)" },
-      { "idx": 4, "characteristics": "Formato: En línea o Papel; a libro cerrado" },
-      { "idx": 5, "characteristics": "Prerrequisitos: Se recomienda haber completado el curso de Fundamentos de Scrum en línea que es de manera gratuita (acceso proporcionado a inscripción en el curso)." }
+      { "idx": 1, "characteristics": "Tiempo asignado: 30 minutos" },
+      { "idx": 2, "characteristics": "Cantidad de preguntas: 12 situaciones" },
+      { "idx": 3, "characteristics": "Formato: En el curso (La evaluación se realiza en el taller)" },
+      { "idx": 4, "characteristics": "Prerrequisitos: No existe un prerrequisito para esta evaluación." }
    ],
    "content": [
       {
          "idx" : 1,
-         "unit" : "Revisión a Agile", 
+         "unit" : "Introducción al Proceso de Cambio", 
          "topics" : [
-           { "idx":"1.1", "topic":"El origen de Agile" },
-           { "idx":"1.2", "topic":"El Manifesto de Agile" },
-           { "idx":"1.3", "topic":"Los Principios del Manifesto de Agile" },
-           { "idx":"1.4", "topic":"Declaración de Interdependencia" },
-           { "idx":"1.5", "topic":"Métodos Agiles" },
-           { "idx":"1.6", "topic":"Gestión de proyectos Tradicional vs. Agile" }
+           { "idx":"1.1", "topic":"¿Qué es el cambio?" },
+           { "idx":"1.2", "topic":"Dinámica “Colores”" },
+           { "idx":"1.3", "topic":"¿Qué es el proceso de cambio?" },
+           { "idx":"1.4", "topic":"¿Cómo se adopta en procesos ágiles?" },
+           { "idx":"1.5", "topic":"¿Cómo se organiza un equipo de Gestión del Cambio para SCRUM?" }
          ]
       },
       {
          "idx" : 2,
-         "unit" : "Vistazo a Scrum", 
+         "unit" : "Proceso de comunicación", 
          "topics" : [
-           { "idx":"2.1", "topic":"Principios de Scrum" },
-           { "idx":"2.2", "topic":"Aspectos de Scrum" },
-           { "idx":"2.3", "topic":"Procesos de Scrum" },
-           { "idx":"2.4", "topic":"Ventajas de Scrum" }
+           { "idx":"2.1", "topic":"Dinámica “Comunicación Asertiva”" },
+           { "idx":"2.2", "topic":"¿Como influye en un equipo de Scrum?" }
          ]
       },
       {
          "idx" : 3,
-         "unit" : "Roles de Scrum", 
+         "unit" : "Liderazgo Situacional", 
          "topics" : [
-           { "idx":"3.1", "topic":"Roles centrales" },
-           { "idx":"3.2", "topic":"Roles no centrales" }
+           { "idx":"3.1", "topic":"Evaluación" },
+           { "idx":"3.2", "topic":"Calificación e interpretación de la evaluación" },
+           { "idx":"3.3", "topic":"El papel del líder para la gestión del cambio" }
          ]
       },
       {
          "idx" : 4,
-         "unit" : "Fases de Scrum", 
+         "unit" : "Confrontación", 
          "topics" : [
-           { "idx":"4.1", "topic":"Iniciar" },
-           { "idx":"4.2", "topic":"Planear y Estimar" },
-           { "idx":"4.3", "topic":"Implementar" },
-           { "idx":"4.4", "topic":"Revisar y ver en retrospectiva" },
-           { "idx":"4.5", "topic":"Liberar" }
+           { "idx":"4.1", "topic":"Efecto “Rodillo”" },
+           { "idx":"4.2", "topic":"Madurez para asumir los cambios" }
          ]
       },
       {
          "idx" : 5,
-         "unit" : "Adaptar Scrum", 
+         "unit" : "Innovación / Creatividad", 
          "topics" : [
-           { "idx":"5.1", "topic":"Adaptabilidad de Scrum" },
-           { "idx":"5.2", "topic":"Scrum en Programas y Portafolios" },
-           { "idx":"5.3", "topic":"Junta de Scrum de Scrums (SoS)" },
-           { "idx":"5.4", "topic":"Transición a Scrum" },
-           { "idx":"5.5", "topic":"Mapear los Roles Tradicionales a Scrum" },
-           { "idx":"5.6", "topic":"Mantener el Involucramiento de los Stakeholders" },
-           { "idx":"5.7", "topic":"Importancia del Apoyo Ejecutivo" }
+           { "idx":"5.1", "topic":"Gestión del talento humano" },
+           { "idx":"5.2", "topic":"Desarrollo de Habilidades Blandas" }
+         ]
+      },
+      {
+         "idx" : 6,
+         "unit" : "Aplicación de lo aprendido", 
+         "topics" : [
+           { "idx":"6.1", "topic":"Dinámica “Conos”" },
+           { "idx":"6.2", "topic":"Interpretación del ejercicio" }
+         ]
+      },
+      {
+         "idx" : 7,
+         "unit" : "Conclusiones", 
+         "topics" : [
+           { "idx":"1.1", "topic":"Video “La ilusión del control”" }
          ]
       }
    ]
