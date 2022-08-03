@@ -26,8 +26,8 @@
       { "idx": 5, "benefit": "Diferenciar COBIT basado en la gestión del desempeño utilizando perspectivas de madurez y capacidad." },
       { "idx": 6, "benefit": "Descubrir de qué manera se diseña un Sistema de Gobierno usando COBIT." },
       { "idx": 7, "benefit": "Explicar los puntos clave del caso de negocio de COBIT." },
-      { "idx": 7, "benefit": "Describir las relaciones entre las Pautas de Diseño e Implementación de COBIT." },
-      { "idx": 8, "benefit": "Prepararse para el examen de Fundamentos de COBIT 2019." }
+      { "idx": 8, "benefit": "Describir las relaciones entre las Pautas de Diseño e Implementación de COBIT." },
+      { "idx": 9, "benefit": "Prepararse para el examen de Fundamentos de COBIT 2019." }
    ],
    "forwho": [
       { "idx": 1, "qualities": "Cualquier interesado con responsabilidades con el gobierno y la gestión de la información y la tecnología de la empresa." }

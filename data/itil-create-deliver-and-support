@@ -8,102 +8,70 @@
       { "idx": 2, "date": "" }
    ],
    "modality": "Presencial | En línea con profesor en vivo",
-   "duration": "20 horas",
-   "description": "ITIL® ha sido por muchos años el principal marco de referencia mundialmente para la Gestión de Servicios de TI. En esta nueva versión, ITIL® 4 agrega temas relevantes a la Transformación Tecnológica, Cloud Computing y DevOps para habilitar las capacidades necesarias en las organizaciones de TI y hacer frente a la Revolución Digital. La Cuarta Revolución Industrial está marcada por tecnologías emergentes en campos como la robótica, la inteligencia artificial, la nanotecnología, el cómputo cuántico, la biotecnología, el Internet de las Cosas (IoT) y muchas más.",
+   "duration": "24 horas",
+   "description": "El curso de ITIL 4 Create, Deliver and Support (CDS) (Crear, Entregar y Soportar) tiene la intención de proporcionar al candidato el entendimiento sobre cómo integrar diferentes flujos de valor y actividades para crear, entregar y soportar servicios y productos de TI y herramientas, métodos y prácticas relevantes.",
    "logourl": "",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
       { "idx": 2, "include": "Ejercicios de revisión" },
-      { "idx": 3, "include": "Examen de simulación" }
+      { "idx": 3, "include": "Examen de simulación" },
+      { "idx": 4, "include": "Examen de certificación oficial por parte de Peoplecert" }
    ],
    "benefits": [
-      { "idx": 1, "benefit": "ITIL® 4 ayudará a las organizaciones a alinear sus recursos humanos, digitales y físicos para competir en el complejo panorama moderno y adoptar estas tecnologías en sus operaciones de TI." },
-      { "idx": 2, "benefit": "A entender los conceptos clave y las cuatro dimensiones de la gestión del servicio." },
-      { "idx": 3, "benefit": "A saber cómo los principios de ITIL® pueden ayudar a una organización a adoptar y adaptar la gestión del servicio." },
-      { "idx": 4, "benefit": "A comprender el propósito y los componentes del sistema de valor del servicio de ITIL®." },
-      { "idx": 5, "benefit": "A determinar las actividades de la cadena de valor del servicio y cómo se interrelacionan." },
-      { "idx": 6, "benefit": "A buscar el propósito y la terminología clave de las 18 prácticas de ITIL® 4." }
+      { "idx": 1, "benefit": "Aumentar el conocimiento sobre la creación de servicios de ITIL." },
+      { "idx": 2, "benefit": "Aprender sobre la integración de diferentes actividades y flujos de valor para crear, entregar y soportar productos y servicios de TI mientras se cubren prácticas, métodos y herramientas de soporte." },
+      { "idx": 3, "benefit": "Conocer sobre el desempeño del servicio y comprender los diferentes métodos de mejora y la calidad del servicio." },
+      { "idx": 4, "benefit": "Permitir a los practicantes entregar a sus clientes servicios de tecnología innovadores y confiables en un mercado altamente competitivo." }
    ],
    "forwho": [
-      { "idx": 1, "qualities": "Individuos iniciándose en la Gestión de Servicios." },
-      { "idx": 2, "qualities": "Gerentes de ITSM y aspirantes a Gerentes de ITSM." },
-      { "idx": 3, "qualities": "Individuos que trabajan en otras partes de “TI” (digital, producto, desarrollo) con una gran interrelación con la entrega del servicio." },
-      { "idx": 4, "qualities": "Personas que actualmente cuentan con una certificación en ITIL® y buscan actualizar su conocimiento." }
+      { "idx": 1, "qualities": "Individuos que desean continuar aprendiendo más sobre la gestión de servicios." },
+      { "idx": 2, "qualities": "Gestores de ITSM y aspirantes a gestores de ITSM." },
+      { "idx": 3, "qualities": "Profesionales en ITSM que gestionan la operación de servicios y productos digitales y de TI, y aquellos responsables de la entrega día a día." },
+      { "idx": 4, "qualities": "Personas que cuenten con una certificación en ITIL y que deseen desarrollar su conocimiento." }
    ],
    "exam": [
-      { "idx": 1, "characteristics": "Tiempo asignado: 60 minutos" },
+      { "idx": 1, "characteristics": "Tiempo asignado: 90 minutos" },
       { "idx": 2, "characteristics": "Cantidad de preguntas: 40 de opción múltiple" },
-      { "idx": 3, "characteristics": "Calificación aprobatoria: 65% (26 respuestas correctas)" },
-      { "idx": 4, "characteristics": "Formato: En línea o Papel; a libro cerrado" },
-      { "idx": 5, "characteristics": "Prerrequisitos: Se recomiendan por lo menos 5 horas de estudio personal durante el curso." }
+      { "idx": 3, "characteristics": "Calificación aprobatoria: 70% - 28 aciertos" },
+      { "idx": 4, "characteristics": "Formato: En papel o en línea el último día del curso / a libro cerrado" },
+      { "idx": 5, "characteristics": "Prerrequisitos: El candidato debe haber pasado el examen de Fundamentos de ITIL 4. Además el candidato debe haber asistido a un curso de capacitación acreditado para este módulo" }
    ],
    "content": [
       {
          "idx" : 1,
-         "unit" : "Conceptos Clave", 
+         "unit" : "Planear y Generar un Flujo de Valor del Servicio", 
          "topics" : [
-           { "idx":"1.1", "topic":"Definiciones" },
-           { "idx":"1.2", "topic":"Conceptos clave sobre crear Valor con Servicios" },
-           { "idx":"1.3", "topic":"Conceptos Clave sobre las Relaciones del Servicio" }
+           { "idx":"1.1", "topic":"Conceptos y Retos" },
+           { "idx":"1.2", "topic":"Enfoque de Mover a la Izquierda" },
+           { "idx":"1.3", "topic":"Planear y Gestionar Recursos" },
+           { "idx":"1.4", "topic":"Uso y Valor de la Información y la Tecnología" }
          ]
       },
       {
          "idx" : 2,
-         "unit" : "Principios Guía de ITIL®", 
+         "unit" : "Prácticas de ITIL", 
          "topics" : [
-           { "idx":"2.1", "topic":"Naturaleza, Uso e Interacción" },
-           { "idx":"2.2", "topic":"El Uso de los Principios Guía" }
+           { "idx":"2.1", "topic":"Flujo de Valor" },
+           { "idx":"2.2", "topic":"Las Prácticas de ITIL Contribuyen a un Flujo de Valor para un Servicio Nuevo" },
+           { "idx":"2.3", "topic":"Proporcionar Soporte al Usuario" },
+           { "idx":"2.3", "topic":"Las Prácticas de ITIL Contribuyen a un Flujo de Valor para el Soporte al Usuario" }
          ]
       },
       {
          "idx" : 3,
-         "unit" : "Las Cuatro Dimensiones de la Gestión de Servicios", 
+         "unit" : "Crear, Entregar y Soportar Servicios", 
          "topics" : [
-           { "idx":"3.1", "topic":"Organizaciones y Gente" },
-           { "idx":"3.2", "topic":"Información y Tecnología" },
-           { "idx":"3.3", "topic":"Socios y Proveedores" },
-           { "idx":"3.4", "topic":"Procesos y Flujos de Valor" }
+           { "idx":"3.1", "topic":"Co-ordinar, Priorizar y Estructurar Trabajo y Actividades" },
+           { "idx":"3.2", "topic":"Uso y Valor de lo siguiente a través del sistema de valor del servicio:" },
+           { "idx":"a)", "topic":"Consideraciones sobre comprar versus construir" },
+           { "idx":"b)", "topic":"Opciones de externalización" },
+           { "idx":"c)", "topic":"Gestión e integración de servicios (SIAM)" }
          ]
       },
       {
          "idx" : 4,
-         "unit" : "Sistema de Valor de ITIL®", 
-         "topics" : [
-           { "idx":"4.1", "topic":"Propósito" },
-           { "idx":"4.2", "topic":"Componentes" }
-         ]
-      },
-      {
-         "idx" : 5,
-         "unit" : "Cadena del Valor del Servicio", 
-         "topics" : [
-           { "idx":"5.1", "topic":"La Naturaleza Interconectada de la Cadena de Valor del Servicio y cómo Soporta a los Flujos de Valor" },
-           { "idx":"5.2", "topic":"Entradas, Salidas y Propósito de Cada Actividad de la Cadena de Valor" }
-         ]
-      },
-      {
-         "idx" : 6,
-         "unit" : "Revisión", 
-         "topics" : [
-           { "idx":"6.1", "topic":"Gestión de la Seguridad de la Información" },
-           { "idx":"6.2", "topic":"Gestión de las Relaciones" },
-           { "idx":"6.3", "topic":"Gestión de Proveedores" },
-           { "idx":"6.4", "topic":"Gestión de la Disponibilidad" },
-           { "idx":"6.5", "topic":"Gestión de la Capacidad y el Desempeño" },
-           { "idx":"6.6", "topic":"Gestión de Activos de TI" },
-           { "idx":"6.7", "topic":"Gestión de la Continuidad del Servicio" },
-           { "idx":"6.8", "topic":"Gestión del Monitoreo y Eventos" },
-           { "idx":"6.9", "topic":"Gestión de Liberaciones" },
-           { "idx":"6.10", "topic":"Gestión de la Configuración del Servicio" },
-           { "idx":"6.11", "topic":"Gestión del Despliegue" },
-           { "idx":"6.12", "topic":"Mejora Continua" },
-           { "idx":"6.13", "topic":"Mejora Continua" },
-           { "idx":"6.14", "topic":"Gestión de Incidentes" },
-           { "idx":"6.15", "topic":"Gestión de Problemas" },
-           { "idx":"6.16", "topic":"Gestión de Solicitudes de Servicio" },
-           { "idx":"6.17", "topic":"Service desk" },
-           { "idx":"6.18", "topic":"Gestión del Nivel del Servicio" }
-         ]
+         "unit" : "Repaso, Evaluación, Examen de preparación y Examen de Certificación", 
+         "topics" : []
       }
    ]
 }
