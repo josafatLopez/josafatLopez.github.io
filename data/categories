@@ -66,13 +66,6 @@
       ]
    },
    {
-      "category" : "Integración de Servicios",
-      "courses": [
-         { "id": 38, "linkurl": "siam-service-integration-and-management", "course": "SIAM Foundation (Service Integration and Management)" },
-         { "id": 39, "linkurl": "it-contracts-and-outsourcing-management", "course": "IT Contracts and Outsourcing Management" }
-      ]
-   },
-   {
       "category" : "ITIL",
       "courses": [
          { "id": 1, "linkurl": "itil-4-foundation", "course": "ITIL® 4 Foundation" },
@@ -99,6 +92,13 @@
          { "id": 55, "linkurl": "certified-application-security-engineer", "course": "Certified Application Security Engineer (CASE) .Net" },
          { "id": 56, "linkurl": "certified-application-security-engineer-java", "course": "Certified Application Security Engineer (CASE) Java" },
          { "id": 57, "linkurl": "certified-chief-information-security-officer", "course": "Certified Chief Information Security Officer (CCISO)" }
+      ]
+   },
+   {
+      "category" : "Integración de Servicios",
+      "courses": [
+         { "id": 38, "linkurl": "siam-service-integration-and-management", "course": "SIAM Foundation (Service Integration and Management)" },
+         { "id": 39, "linkurl": "it-contracts-and-outsourcing-management", "course": "IT Contracts and Outsourcing Management" }
       ]
    },
    {
