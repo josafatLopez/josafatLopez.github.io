@@ -8,86 +8,97 @@
       { "idx": 2, "date": "" }
    ],
    "modality": "Presencial | En línea con profesor en vivo",
-   "duration": "16 horas",
-   "description": "Scrum es el marco de trabajo ágil más popular, se trata de un método adaptable, rápido, flexible, y eficaz, diseñado para ofrecer un valor significativo de forma rápida y durante todo el proyecto.\n Los Scrum Master Certified (SMC ™) son facilitadores que aseguran que el equipo de Scrum está provisto de un entorno propicio para completar el proyecto con éxito. Los Scrum Master facilitan, y enseñan prácticas de Scrum a todos los involucrados en el proyecto, remueve los impedimentos para el equipo, y asegura que los procesos Scrum se están siguiendo de manera correcta para el logro de objetivos.",
+   "duration": "40 horas",
+   "description": "CGEIT es una certificación independiente del marco que se utilice y la única certificación de gobierno de TI para el individuo.",
    "logourl": "",
    "courseincludes": [
-      { "idx": 1, "include": "Material oficial acreditado para el participante" },
-      { "idx": 2, "include": "Diploma de finalización de curso" }
+      { "idx": 1, "include": "Material para el participante" },
+      { "idx": 2, "include": "Libro oficial de preparación “CGEIT Review Manual”" },
+      { "idx": 3, "include": "Ejercicios de revisión" },
+      { "idx": 4, "include": "Diploma de finalización de curso" },
+      { "idx": 5, "include": "Examen de certificación oficial por parte de ISACA (opcional)" }
    ],
    "benefits": [
-      { "idx": 1, "benefit": "Ser capaz de guiar y enseñar prácticas de Scrum a todos los involucrados en el proyecto, eliminar los obstáculos para el equipo y asegurar que los pasos se están siguiendo Scrum." },
-      { "idx": 2, "benefit": "Obtener un entendimiento profundo de la filosofía y principios de Scrum." },
-      { "idx": 3, "benefit": "Obtener un conocimiento práctico de Scrum, incluidos los roles, reuniones y artefactos." },
-      { "idx": 4, "benefit": "Sentirse cómodo de implementar Scrum en las organizaciones, así como en la gestión de los problemas comunes." },
-      { "idx": 5, "benefit": "Obtener el certificado de Scrum." }
+      { "idx": 1, "benefit": "Puede ponerte en el rol de un consejero confiable en tu organización" }
    ],
    "forwho": [
-      { "idx": 1, "qualities": "Cualquier persona que esté interesada en trabajar como Scrum Master." },
-      { "idx": 2, "qualities": "Cualquier persona que ya sea un Scrum Master en su organización." },
-      { "idx": 3, "qualities": "Un Scrum Master es un papel importante en cualquier equipo de Scrum y no tiene que ser un experto en tecnología para ser eficaz." },
-      { "idx": 4, "qualities": "A pesar de que Scrum es muy popular en la industria de TI, Scrum puede ser utilizado de manera efectiva en cualquier tipo de industria." }
+      { "idx": 1, "qualities": "La certificación CGEIT es para aquellos que aspiran a posiciones ejecutivas. CGEIT te ayuda a manejar la gobernanza de una organización entera y trabajar con niveles ejecutivos, si aún no estás ahí. CGEIT reconoce un amplio rango de profesionales por su conociendo y aplicación de principios y prácticas de gobierno de TI empresarial" }
    ],
    "exam": [
-      { "idx": 1, "characteristics": "Tiempo asignado: 120 minutos" },
-      { "idx": 2, "characteristics": "Cantidad de preguntas: 100 de opción múltiple" },
-      { "idx": 3, "characteristics": "Calificación aprobatoria: 57% (57 respuestas correctas)" },
-      { "idx": 4, "characteristics": "Formato: En línea o Papel; a libro cerrado" },
-      { "idx": 5, "characteristics": "Prerrequisitos: Se recomienda haber completado el curso de Fundamentos de Scrum en línea que es de manera gratuita (acceso proporcionado a inscripción en el curso)." }
+      { "idx": 1, "characteristics": "Formato: El examen puede ser tomado vía supervisión remota en línea o en persona en un centro de exámenes." },
+      { "idx": 2, "characteristics": "Prerequisitos: Cinco (5) o más años de experiencia en un rol de asesoramiento o supervisión apoyando la gobernanza de la contribución de TI a la empresa. No hay exenciones de experiencia o sustituciones" },
+      { "idx": 3, "characteristics": "Elegibilidad: La elegibilidad es establecida al tiempo de registro del examen y es buena por 12 meses (365 días). Los pagos se pierden si no se programa y toma el examen durante el periodo de elegibilidad de 12 meses. No se permiten extensiones o aplazamientos de la elegibilidad." }
    ],
    "content": [
       {
          "idx" : 1,
-         "unit" : "Revisión a Agile", 
+         "unit" : "Gobierno de TI Empresarial", 
          "topics" : [
-           { "idx":"1.1", "topic":"El origen de Agile" },
-           { "idx":"1.2", "topic":"El Manifesto de Agile" },
-           { "idx":"1.3", "topic":"Los Principios del Manifesto de Agile" },
-           { "idx":"1.4", "topic":"Declaración de Interdependencia" },
-           { "idx":"1.5", "topic":"Métodos Agiles" },
-           { "idx":"1.6", "topic":"Gestión de proyectos Tradicional vs. Agile" }
+            { "idx":"Parte A:", "topic":"Marco de Gobierno" },
+            { "idx":"1.1", "topic":"Componentes de un Marco de Gobierno" },
+            { "idx":"1.2", "topic":"Estructuras, Roles y Responsabilidades de la Organización" },
+            { "idx":"1.3", "topic":"Desarrollo de Estrategia" },
+            { "idx":"1.4", "topic":"Cumplimiento Regulatorio y Legal" },
+            { "idx":"1.5", "topic":"Cultura Organizacional" },
+            { "idx":"1.6", "topic":"Ética del Negocio" },
+            { "idx":"Parte B:", "topic":"Parte B: Gobierno de Tecnología" },
+            { "idx":"1.7", "topic":"Alineación de la Estrategia de Gobierno con los Objetivos Empresariales" },
+            { "idx":"1.8", "topic":"Proceso de Planeación Estratégica" },
+            { "idx":"1.9", "topic":"Compromiso y Análisis de los Stakeholders" },
+            { "idx":"1.10", "topic":"Estrategia de Comunicación y Concientización" },
+            { "idx":"1.11", "topic":"Arquitectura Empresarial" },
+            { "idx":"1.12", "topic":"Políticas y Normas" },
+            { "idx":"Parte C:", "topic":"Gobierno de Información" },
+            { "idx":"1.13", "topic":"Arquitectura de Información" },
+            { "idx":"1.14", "topic":"Ciclo de Vida de Activos de Información" },
+            { "idx":"1.15", "topic":"Administración y Propiedad de la Información" },
+            { "idx":"1.16", "topic":"Manejo y Clasificación de la Información" }
          ]
       },
       {
          "idx" : 2,
-         "unit" : "Vistazo a Scrum", 
+         "unit" : "Recursos de TI", 
          "topics" : [
-           { "idx":"2.1", "topic":"Principios de Scrum" },
-           { "idx":"2.2", "topic":"Aspectos de Scrum" },
-           { "idx":"2.3", "topic":"Procesos de Scrum" },
-           { "idx":"2.4", "topic":"Ventajas de Scrum" }
+           { "idx":"Parte A:", "topic":"Planeación de Recursos de TI" },
+           { "idx":"2.1", "topic":"Estrategias de Abastecimiento" },
+           { "idx":"2.2", "topic":"Planeación de la Capacidad de los Recursos" },
+           { "idx":"2.3", "topic":"Adquisición de los Recursos" },
+           { "idx":"Parte B:", "topic":"Optimización de Recursos de TI" },
+           { "idx":"2.4", "topic":"Gestión de Activos y Ciclo de Vida del Recurso de TI" },
+           { "idx":"2.5", "topic":"Desarrollo y Valoración de Competencias de Recursos Humanos" },
+           { "idx":"2.6", "topic":"Gestión de Relaciones y Servicios Contratados" }
          ]
       },
       {
          "idx" : 3,
-         "unit" : "Roles de Scrum", 
+         "unit" : "Realización de Beneficios", 
          "topics" : [
-           { "idx":"3.1", "topic":"Roles centrales" },
-           { "idx":"3.2", "topic":"Roles no centrales" }
+           { "idx":"Parte A:", "topic":"Descuidos y Desempeños de TI" },
+           { "idx":"3.1", "topic":"Gestión del Desempeño" },
+           { "idx":"3.2", "topic":"Gestión del Cambio" },
+           { "idx":"3.3", "topic":"Reporteo y Monitoreo del Gobierno" },
+           { "idx":"3.4", "topic":"Aseguramiento de Calidad" },
+           { "idx":"3.5", "topic":"Mejora y Desarrollo de Procesos" },
+           { "idx":"Parte B:", "topic":"Gestión de Inversiones Habilitadas por TI" },
+           { "idx":"3.6", "topic":"Evaluación y Desarrollo del Caso de Negocio" },
+           { "idx":"3.7", "topic":"Reporteo y Gestión de la Inversión en TI" },
+           { "idx":"3.8", "topic":"Métricas de Desempeño" },
+           { "idx":"3.9", "topic":"Métodos de Evaluación de Beneficios" }
          ]
       },
       {
          "idx" : 4,
-         "unit" : "Fases de Scrum", 
+         "unit" : "Optimización de Riesgos", 
          "topics" : [
-           { "idx":"4.1", "topic":"Iniciar" },
-           { "idx":"4.2", "topic":"Planear y Estimar" },
-           { "idx":"4.3", "topic":"Implementar" },
-           { "idx":"4.4", "topic":"Revisar y ver en retrospectiva" },
-           { "idx":"4.5", "topic":"Liberar" }
-         ]
-      },
-      {
-         "idx" : 5,
-         "unit" : "Adaptar Scrum", 
-         "topics" : [
-           { "idx":"5.1", "topic":"Adaptabilidad de Scrum" },
-           { "idx":"5.2", "topic":"Scrum en Programas y Portafolios" },
-           { "idx":"5.3", "topic":"Junta de Scrum de Scrums (SoS)" },
-           { "idx":"5.4", "topic":"Transición a Scrum" },
-           { "idx":"5.5", "topic":"Mapear los Roles Tradicionales a Scrum" },
-           { "idx":"5.6", "topic":"Mantener el Involucramiento de los Stakeholders" },
-           { "idx":"5.7", "topic":"Importancia del Apoyo Ejecutivo" }
+           { "idx":"Parte A:", "topic":"Estrategia de Riesgos" },
+           { "idx":"4.1", "topic":"Normas y Marcos de Riesgos" },
+           { "idx":"4.2", "topic":"Gestión de Riesgos Empresariales" },
+           { "idx":"4.3", "topic":"Tolerancia de Riesgos y Apetito del Riesgo" },
+           { "idx":"Parte B:", "topic":"Gestión de Riesgos" },
+           { "idx":"4.4", "topic":"Servicios, Procesos y Capacidades Habilitadas por TI" },
+           { "idx":"4.5", "topic":"Amenazas, Exposiciones y Riesgos del Negocio" },
+           { "idx":"4.6", "topic":"Ciclo de Vida de la gestión de Riesgos" },
+           { "idx":"4.7", "topic":"Métodos de Valoración de Riesgos" }
          ]
       }
    ]

@@ -9,86 +9,38 @@
    ],
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "16 horas",
-   "description": "Scrum es el marco de trabajo ágil más popular, se trata de un método adaptable, rápido, flexible, y eficaz, diseñado para ofrecer un valor significativo de forma rápida y durante todo el proyecto.\n Los Scrum Master Certified (SMC ™) son facilitadores que aseguran que el equipo de Scrum está provisto de un entorno propicio para completar el proyecto con éxito. Los Scrum Master facilitan, y enseñan prácticas de Scrum a todos los involucrados en el proyecto, remueve los impedimentos para el equipo, y asegura que los procesos Scrum se están siguiendo de manera correcta para el logro de objetivos.",
+   "description": "Este curso provee orientación de alto nivel sobre el rol de un área de Gobierno dentro de una organización. Resalta la importancia de que las organizaciones usen estándares apropiados para soportar su Gobierno de TI. Provee a los participantes un marco de principios para usar en la evaluación, dirección y monitoreo del uso de la TI en sus organizaciones. Provee también un marco para el Gobierno eficaz de TI, para ayudar a los directivos a entender y cumplir sus obligaciones legales, regulatorias y éticas en relación con el uso de la TI en sus organizaciones.",
    "logourl": "",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
-      { "idx": 2, "include": "Diploma de finalización de curso" }
+      { "idx": 2, "include": "Ejercicios de revisión" },
+      { "idx": 3, "include": "Diploma de finalización de curso" },
+      { "idx": 4, "include": "Examen de certificación oficial por parte de ERCA" }
    ],
    "benefits": [
-      { "idx": 1, "benefit": "Ser capaz de guiar y enseñar prácticas de Scrum a todos los involucrados en el proyecto, eliminar los obstáculos para el equipo y asegurar que los pasos se están siguiendo Scrum." },
-      { "idx": 2, "benefit": "Obtener un entendimiento profundo de la filosofía y principios de Scrum." },
-      { "idx": 3, "benefit": "Obtener un conocimiento práctico de Scrum, incluidos los roles, reuniones y artefactos." },
-      { "idx": 4, "benefit": "Sentirse cómodo de implementar Scrum en las organizaciones, así como en la gestión de los problemas comunes." },
-      { "idx": 5, "benefit": "Obtener el certificado de Scrum." }
+      { "idx": 1, "benefit": "Comprender las definiciones, conceptos y directrices de los Servicios de Gestión de TI." },
+      { "idx": 2, "benefit": "Entender el propósito de la norma ISO/IEC 38500." },
+      { "idx": 3, "benefit": "Observar la importancia de las TI en el desempeño de la organización." },
+      { "idx": 4, "benefit": "Conocer el beneficio de operar las TI con base en los principios de Gobierno." }
    ],
    "forwho": [
-      { "idx": 1, "qualities": "Cualquier persona que esté interesada en trabajar como Scrum Master." },
-      { "idx": 2, "qualities": "Cualquier persona que ya sea un Scrum Master en su organización." },
-      { "idx": 3, "qualities": "Un Scrum Master es un papel importante en cualquier equipo de Scrum y no tiene que ser un experto en tecnología para ser eficaz." },
-      { "idx": 4, "qualities": "A pesar de que Scrum es muy popular en la industria de TI, Scrum puede ser utilizado de manera efectiva en cualquier tipo de industria." }
+      { "idx": 1, "qualities": "Directores de TI" },
+      { "idx": 2, "qualities": "Gerentes y mandos medios de TI" },
+      { "idx": 3, "qualities": "Personal de supervisión" },
+      { "idx": 4, "qualities": "Líderes de equipo" },
+      { "idx": 5, "qualities": "Consultores de TI" },
+      { "idx": 6, "qualities": "Gerentes de proyectos" },
+      { "idx": 7, "qualities": "Auditores internos y externos" }
    ],
    "exam": [
-      { "idx": 1, "characteristics": "Tiempo asignado: 120 minutos" },
-      { "idx": 2, "characteristics": "Cantidad de preguntas: 100 de opción múltiple" },
-      { "idx": 3, "characteristics": "Calificación aprobatoria: 57% (57 respuestas correctas)" },
-      { "idx": 4, "characteristics": "Formato: En línea o Papel; a libro cerrado" },
-      { "idx": 5, "characteristics": "Prerrequisitos: Se recomienda haber completado el curso de Fundamentos de Scrum en línea que es de manera gratuita (acceso proporcionado a inscripción en el curso)." }
+      { "idx": 1, "characteristics": "Tiempo asignado: 60 minutos" },
+      { "idx": 2, "characteristics": "Cantidad de preguntas: 30" },
+      { "idx": 3, "characteristics": "En papel, el examen se realiza el último día del curso" }
    ],
    "content": [
-      {
-         "idx" : 1,
-         "unit" : "Revisión a Agile", 
-         "topics" : [
-           { "idx":"1.1", "topic":"El origen de Agile" },
-           { "idx":"1.2", "topic":"El Manifesto de Agile" },
-           { "idx":"1.3", "topic":"Los Principios del Manifesto de Agile" },
-           { "idx":"1.4", "topic":"Declaración de Interdependencia" },
-           { "idx":"1.5", "topic":"Métodos Agiles" },
-           { "idx":"1.6", "topic":"Gestión de proyectos Tradicional vs. Agile" }
-         ]
-      },
-      {
-         "idx" : 2,
-         "unit" : "Vistazo a Scrum", 
-         "topics" : [
-           { "idx":"2.1", "topic":"Principios de Scrum" },
-           { "idx":"2.2", "topic":"Aspectos de Scrum" },
-           { "idx":"2.3", "topic":"Procesos de Scrum" },
-           { "idx":"2.4", "topic":"Ventajas de Scrum" }
-         ]
-      },
-      {
-         "idx" : 3,
-         "unit" : "Roles de Scrum", 
-         "topics" : [
-           { "idx":"3.1", "topic":"Roles centrales" },
-           { "idx":"3.2", "topic":"Roles no centrales" }
-         ]
-      },
-      {
-         "idx" : 4,
-         "unit" : "Fases de Scrum", 
-         "topics" : [
-           { "idx":"4.1", "topic":"Iniciar" },
-           { "idx":"4.2", "topic":"Planear y Estimar" },
-           { "idx":"4.3", "topic":"Implementar" },
-           { "idx":"4.4", "topic":"Revisar y ver en retrospectiva" },
-           { "idx":"4.5", "topic":"Liberar" }
-         ]
-      },
-      {
-         "idx" : 5,
-         "unit" : "Adaptar Scrum", 
-         "topics" : [
-           { "idx":"5.1", "topic":"Adaptabilidad de Scrum" },
-           { "idx":"5.2", "topic":"Scrum en Programas y Portafolios" },
-           { "idx":"5.3", "topic":"Junta de Scrum de Scrums (SoS)" },
-           { "idx":"5.4", "topic":"Transición a Scrum" },
-           { "idx":"5.5", "topic":"Mapear los Roles Tradicionales a Scrum" },
-           { "idx":"5.6", "topic":"Mantener el Involucramiento de los Stakeholders" },
-           { "idx":"5.7", "topic":"Importancia del Apoyo Ejecutivo" }
-         ]
-      }
+      { "idx" : 1, "unit" : "Alcance", "topics" : [] },
+      { "idx" : 2, "unit" : "Términos y Definicioes", "topics" : [] },
+      { "idx" : 3, "unit" : "Beneficios de Buen Gobierno de TI", "topics" : [] },
+      { "idx" : 4, "unit" : "Guía para el Gobierno de TI", "topics" : [] }
    ]
 }

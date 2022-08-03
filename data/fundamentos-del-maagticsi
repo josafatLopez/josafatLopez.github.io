@@ -8,86 +8,63 @@
       { "idx": 2, "date": "" }
    ],
    "modality": "Presencial | En línea con profesor en vivo",
-   "duration": "16 horas",
-   "description": "Scrum es el marco de trabajo ágil más popular, se trata de un método adaptable, rápido, flexible, y eficaz, diseñado para ofrecer un valor significativo de forma rápida y durante todo el proyecto.\n Los Scrum Master Certified (SMC ™) son facilitadores que aseguran que el equipo de Scrum está provisto de un entorno propicio para completar el proyecto con éxito. Los Scrum Master facilitan, y enseñan prácticas de Scrum a todos los involucrados en el proyecto, remueve los impedimentos para el equipo, y asegura que los procesos Scrum se están siguiendo de manera correcta para el logro de objetivos.",
+   "duration": "24 horas",
+   "description": "El propósito del curso es orientar y capacitar al participante a fin de que identifique en MAAGTIC un marco de referencia para el gobierno y gestión de TIC y el impacto de éste dentro de su Institución; esto en lo referente a su terminología, estructura, conceptos básicos y procesos para la gestión de TIC. Durante el curso el participante recibirá el conocimiento e información relacionada al uso de las directrices, principios, lineamientos y normas en las que se basa el Manual (ITIL, COBIT, PMBoK, CMMI, RISK IT, ISO/IEC 20000 e ISO/IEC 27000).",
    "logourl": "",
    "courseincludes": [
-      { "idx": 1, "include": "Material oficial acreditado para el participante" },
-      { "idx": 2, "include": "Diploma de finalización de curso" }
+      { "idx": 1, "include": "Constancia de participación" }
    ],
    "benefits": [
-      { "idx": 1, "benefit": "Ser capaz de guiar y enseñar prácticas de Scrum a todos los involucrados en el proyecto, eliminar los obstáculos para el equipo y asegurar que los pasos se están siguiendo Scrum." },
-      { "idx": 2, "benefit": "Obtener un entendimiento profundo de la filosofía y principios de Scrum." },
-      { "idx": 3, "benefit": "Obtener un conocimiento práctico de Scrum, incluidos los roles, reuniones y artefactos." },
-      { "idx": 4, "benefit": "Sentirse cómodo de implementar Scrum en las organizaciones, así como en la gestión de los problemas comunes." },
-      { "idx": 5, "benefit": "Obtener el certificado de Scrum." }
+      { "idx": 1, "benefit": "Al finalizar exitosamente este curso el participante conocerá los siguientes grupos de procesos de TIC del MAAGTIC: Gobierno, Organización y estrategia, Ejecución y entrega, Soporte" }
    ],
    "forwho": [
-      { "idx": 1, "qualities": "Cualquier persona que esté interesada en trabajar como Scrum Master." },
-      { "idx": 2, "qualities": "Cualquier persona que ya sea un Scrum Master en su organización." },
-      { "idx": 3, "qualities": "Un Scrum Master es un papel importante en cualquier equipo de Scrum y no tiene que ser un experto en tecnología para ser eficaz." },
-      { "idx": 4, "qualities": "A pesar de que Scrum es muy popular en la industria de TI, Scrum puede ser utilizado de manera efectiva en cualquier tipo de industria." }
+      { "idx": 1, "qualities": "Personas que requieran un entendimiento básico del MAAGTIC." },
+      { "idx": 2, "qualities": "Las personas que requieren un conocimiento y entendimiento de las disposiciones oficiales para la gestión de las UTIC en materia de Tecnologías de la Información y Comunicaciones dentro de una Institución." },
+      { "idx": 3, "qualities": "Profesionales de TIC trabajando para alguna dependencia de la Administración Pública Federal que ha adoptado o desea adoptar el MAAGTIC." }
    ],
    "exam": [
-      { "idx": 1, "characteristics": "Tiempo asignado: 120 minutos" },
-      { "idx": 2, "characteristics": "Cantidad de preguntas: 100 de opción múltiple" },
-      { "idx": 3, "characteristics": "Calificación aprobatoria: 57% (57 respuestas correctas)" },
-      { "idx": 4, "characteristics": "Formato: En línea o Papel; a libro cerrado" },
-      { "idx": 5, "characteristics": "Prerrequisitos: Se recomienda haber completado el curso de Fundamentos de Scrum en línea que es de manera gratuita (acceso proporcionado a inscripción en el curso)." }
+      { "idx": 1, "characteristics": "Información pronto disponible" }
    ],
    "content": [
       {
+         "idx" : 0,
+         "unit" : "Introducción al MAAGTIC v3", 
+         "topics" : []
+      },
+      {
          "idx" : 1,
-         "unit" : "Revisión a Agile", 
+         "unit" : "Sección I – Gobierno", 
          "topics" : [
-           { "idx":"1.1", "topic":"El origen de Agile" },
-           { "idx":"1.2", "topic":"El Manifesto de Agile" },
-           { "idx":"1.3", "topic":"Los Principios del Manifesto de Agile" },
-           { "idx":"1.4", "topic":"Declaración de Interdependencia" },
-           { "idx":"1.5", "topic":"Métodos Agiles" },
-           { "idx":"1.6", "topic":"Gestión de proyectos Tradicional vs. Agile" }
+           { "idx":"1.1", "topic":"Dirección  y control de TIC" },
+           { "idx":"1.2", "topic":"Dirección y control de la seguridad de la información" }
          ]
       },
       {
          "idx" : 2,
-         "unit" : "Vistazo a Scrum", 
+         "unit" : "Sección II – Organización y Estrategia", 
          "topics" : [
-           { "idx":"2.1", "topic":"Principios de Scrum" },
-           { "idx":"2.2", "topic":"Aspectos de Scrum" },
-           { "idx":"2.3", "topic":"Procesos de Scrum" },
-           { "idx":"2.4", "topic":"Ventajas de Scrum" }
+           { "idx":"2.1", "topic":"Administración de proyectos" },
+           { "idx":"2.2", "topic":"Administración de procesos" },
+           { "idx":"2.3", "topic":"Administración de recursos" },
+           { "idx":"2.4", "topic":"Administración de servicios" }
          ]
       },
       {
          "idx" : 3,
-         "unit" : "Roles de Scrum", 
+         "unit" : "Sección III – Ejecución y Entrega", 
          "topics" : [
-           { "idx":"3.1", "topic":"Roles centrales" },
-           { "idx":"3.2", "topic":"Roles no centrales" }
+           { "idx":"3.1", "topic":"Administración para el desarrollo de soluciones tecnológicas" },
+           { "idx":"3.2", "topic":"Transición y entrega" },
+           { "idx":"3.3", "topic":"Operación de servicios" }
          ]
       },
       {
          "idx" : 4,
-         "unit" : "Fases de Scrum", 
+         "unit" : "Sección IV – Soporte", 
          "topics" : [
-           { "idx":"4.1", "topic":"Iniciar" },
-           { "idx":"4.2", "topic":"Planear y Estimar" },
-           { "idx":"4.3", "topic":"Implementar" },
-           { "idx":"4.4", "topic":"Revisar y ver en retrospectiva" },
-           { "idx":"4.5", "topic":"Liberar" }
-         ]
-      },
-      {
-         "idx" : 5,
-         "unit" : "Adaptar Scrum", 
-         "topics" : [
-           { "idx":"5.1", "topic":"Adaptabilidad de Scrum" },
-           { "idx":"5.2", "topic":"Scrum en Programas y Portafolios" },
-           { "idx":"5.3", "topic":"Junta de Scrum de Scrums (SoS)" },
-           { "idx":"5.4", "topic":"Transición a Scrum" },
-           { "idx":"5.5", "topic":"Mapear los Roles Tradicionales a Scrum" },
-           { "idx":"5.6", "topic":"Mantener el Involucramiento de los Stakeholders" },
-           { "idx":"5.7", "topic":"Importancia del Apoyo Ejecutivo" }
+           { "idx":"4.1", "topic":"Administración de activos" },
+           { "idx":"4.2", "topic":"Operaciones" },
+           { "idx":"4.3", "topic":"Recomendaciones de implementación" }
          ]
       }
    ]

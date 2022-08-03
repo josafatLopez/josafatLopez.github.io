@@ -8,86 +8,96 @@
       { "idx": 2, "date": "" }
    ],
    "modality": "Presencial | En línea con profesor en vivo",
-   "duration": "16 horas",
-   "description": "Scrum es el marco de trabajo ágil más popular, se trata de un método adaptable, rápido, flexible, y eficaz, diseñado para ofrecer un valor significativo de forma rápida y durante todo el proyecto.\n Los Scrum Master Certified (SMC ™) son facilitadores que aseguran que el equipo de Scrum está provisto de un entorno propicio para completar el proyecto con éxito. Los Scrum Master facilitan, y enseñan prácticas de Scrum a todos los involucrados en el proyecto, remueve los impedimentos para el equipo, y asegura que los procesos Scrum se están siguiendo de manera correcta para el logro de objetivos.",
+   "duration": "40 horas",
+   "description": "El objetivo de CISA® es entender y dominar la metodología y los conceptos que se deben aplicar en una auditoría de sistemas de información. La certificación CISA® de ISACA® prepara a los profesionistas en auditoría de sistemas de información con la metodología, los conceptos básicos que deben dominar y los criterios que deben ser aplicados.",
    "logourl": "",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
       { "idx": 2, "include": "Diploma de finalización de curso" }
    ],
    "benefits": [
-      { "idx": 1, "benefit": "Ser capaz de guiar y enseñar prácticas de Scrum a todos los involucrados en el proyecto, eliminar los obstáculos para el equipo y asegurar que los pasos se están siguiendo Scrum." },
-      { "idx": 2, "benefit": "Obtener un entendimiento profundo de la filosofía y principios de Scrum." },
-      { "idx": 3, "benefit": "Obtener un conocimiento práctico de Scrum, incluidos los roles, reuniones y artefactos." },
-      { "idx": 4, "benefit": "Sentirse cómodo de implementar Scrum en las organizaciones, así como en la gestión de los problemas comunes." },
-      { "idx": 5, "benefit": "Obtener el certificado de Scrum." }
+      { "idx": 1, "benefit": "Dominaa la metodología y los conceptos que se deben aplicar en una auditoría de sistemas de información." }
    ],
    "forwho": [
-      { "idx": 1, "qualities": "Cualquier persona que esté interesada en trabajar como Scrum Master." },
-      { "idx": 2, "qualities": "Cualquier persona que ya sea un Scrum Master en su organización." },
-      { "idx": 3, "qualities": "Un Scrum Master es un papel importante en cualquier equipo de Scrum y no tiene que ser un experto en tecnología para ser eficaz." },
-      { "idx": 4, "qualities": "A pesar de que Scrum es muy popular en la industria de TI, Scrum puede ser utilizado de manera efectiva en cualquier tipo de industria." }
+      { "idx": 1, "qualities": "Este curso está dirigido principalmente a auditores de Sistemas de Información y personal de control interno." }
    ],
    "exam": [
-      { "idx": 1, "characteristics": "Tiempo asignado: 120 minutos" },
-      { "idx": 2, "characteristics": "Cantidad de preguntas: 100 de opción múltiple" },
-      { "idx": 3, "characteristics": "Calificación aprobatoria: 57% (57 respuestas correctas)" },
-      { "idx": 4, "characteristics": "Formato: En línea o Papel; a libro cerrado" },
-      { "idx": 5, "characteristics": "Prerrequisitos: Se recomienda haber completado el curso de Fundamentos de Scrum en línea que es de manera gratuita (acceso proporcionado a inscripción en el curso)." }
+      { "idx": 1, "characteristics": "Información pronto disponible" }
    ],
    "content": [
       {
          "idx" : 1,
-         "unit" : "Revisión a Agile", 
+         "unit" : "Proceso de Auditoría de Sistemas de Información", 
          "topics" : [
-           { "idx":"1.1", "topic":"El origen de Agile" },
-           { "idx":"1.2", "topic":"El Manifesto de Agile" },
-           { "idx":"1.3", "topic":"Los Principios del Manifesto de Agile" },
-           { "idx":"1.4", "topic":"Declaración de Interdependencia" },
-           { "idx":"1.5", "topic":"Métodos Agiles" },
-           { "idx":"1.6", "topic":"Gestión de proyectos Tradicional vs. Agile" }
+           { "idx":"1.0", "topic":"Introducción" },
+           { "idx":"1.1", "topic":"Estándares de Auditoría, Guías y Código de Ética de SI" },
+           { "idx":"1.2", "topic":"Procesos de Negocio" },
+           { "idx":"1.3", "topic":"Tipos de Control" },
+           { "idx":"1.4", "topic":"Planeación de Auditoría Basada en Riesgos" },
+           { "idx":"1.5", "topic":"Tipos de Auditorías y Valoraciones" },
+           { "idx":"1.6", "topic":"Administración de Proyectos de Auditoría" },
+           { "idx":"1.7", "topic":"Metodología de Muestreo" },
+           { "idx":"1.8", "topic":"Técnicas de Recolección de Evidencias de auditoría" },
+           { "idx":"1.9", "topic":"Análisis de Datos" },
+           { "idx":"1.10", "topics":"Técnicas de Reporteo y Comunicación" },
+           { "idx":"1.11", "topics":"Aseguramiento de Calidad y Mejora del Proceso de Auditoría" }
          ]
       },
       {
          "idx" : 2,
-         "unit" : "Vistazo a Scrum", 
+         "unit" : "Gobierno y Gestión de TI ", 
          "topics" : [
-           { "idx":"2.1", "topic":"Principios de Scrum" },
-           { "idx":"2.2", "topic":"Aspectos de Scrum" },
-           { "idx":"2.3", "topic":"Procesos de Scrum" },
-           { "idx":"2.4", "topic":"Ventajas de Scrum" }
+           { "idx":"2.0", "topic":"Introducción" },
+           { "idx":"2.1", "topic":"Gobierno y Estrategia de TI" },
+           { "idx":"2.2", "topic":"Marcos de TI relacionados" },
+           { "idx":"2.3", "topic":"Procedimientos, Políticas y Estándares de TI" },
+           { "idx":"2.4", "topic":"Estructura Organizacional" },
+           { "idx":"2.5", "topic":"Arquitectura Empresarial" },
+           { "idx":"2.6", "topic":"Gestión de Riesgos Empresariales" },
+           { "idx":"2.7", "topic":"Modelos de Madurez " },
+           { "idx":"2.8", "topic":"Leyes, Regulaciones y Estándares de la Industria que afectan a la Organización" },
+           { "idx":"2.9", "topic":"Gestión de Recursos de TI" },
+           { "idx":"2.10", "topic":"Gestión y Adquisición de Prestadores de Servicios de TI" },
+           { "idx":"2.11", "topic":"IT Performance Monitoring and Reporting" },
+           { "idx":"2.12", "topic":"Quality Assurance And Quality" }
          ]
       },
       {
          "idx" : 3,
-         "unit" : "Roles de Scrum", 
+         "unit" : "Adquisición, Desarrollo e Implementación de Sistemas de Información", 
          "topics" : [
-           { "idx":"3.1", "topic":"Roles centrales" },
-           { "idx":"3.2", "topic":"Roles no centrales" }
+           { "idx":"3.0", "topic":"Introducción" },
+           { "idx":"3.1", "topic":"Dirección y Gobierno de Proyectos" },
+           { "idx":"3.2", "topic":"Análisis de Viabilidad y Caso de Negocio" },
+           { "idx":"3.3", "topic":"Metodologías de Desarrollo de Sistemas" },
+           { "idx":"3.4", "topic":"Diseño e Identificación de Controles" },
+           { "idx":"3.5", "topic":"Metodologías de Pruebas" },
+           { "idx":"3.6", "topic":"Gestión de Configuración y Liberaciones" },
+           { "idx":"3.7", "topic":"Conversión de Datos, Migración del Sistema y Despliegue de Infraestructura" },
+           { "idx":"3.8", "topic":"Revisión Post-implementación" }
          ]
       },
       {
          "idx" : 4,
-         "unit" : "Fases de Scrum", 
+         "unit" : "Resiliencia de Negocio y Operaciones de Sistemas de Información", 
          "topics" : [
-           { "idx":"4.1", "topic":"Iniciar" },
-           { "idx":"4.2", "topic":"Planear y Estimar" },
-           { "idx":"4.3", "topic":"Implementar" },
-           { "idx":"4.4", "topic":"Revisar y ver en retrospectiva" },
-           { "idx":"4.5", "topic":"Liberar" }
-         ]
-      },
-      {
-         "idx" : 5,
-         "unit" : "Adaptar Scrum", 
-         "topics" : [
-           { "idx":"5.1", "topic":"Adaptabilidad de Scrum" },
-           { "idx":"5.2", "topic":"Scrum en Programas y Portafolios" },
-           { "idx":"5.3", "topic":"Junta de Scrum de Scrums (SoS)" },
-           { "idx":"5.4", "topic":"Transición a Scrum" },
-           { "idx":"5.5", "topic":"Mapear los Roles Tradicionales a Scrum" },
-           { "idx":"5.6", "topic":"Mantener el Involucramiento de los Stakeholders" },
-           { "idx":"5.7", "topic":"Importancia del Apoyo Ejecutivo" }
+           { "idx":"4.0", "topic":"Introducción" },
+           { "idx":"4.1", "topic":"Componentes Comunes de Tecnología" },
+           { "idx":"4.2", "topic":"Gestión de Activos de TI" },
+           { "idx":"4.3", "topic":"Automatización del Proceso de Producción y Programación de Trabajo" },
+           { "idx":"4.4", "topic":"Interfaces de Sistemas" },
+           { "idx":"4.5", "topic":"Cómputo de Usuario Final" },
+           { "idx":"4.6", "topic":"Gobierno de Datos" },
+           { "idx":"4.7", "topic":"Gestión del Desempeño de los Sistemas" },
+           { "idx":"4.8", "topic":"Gestión de Incidentes y Problemas" },
+           { "idx":"4.9", "topic":"Gestión de Cambios, Configuraciones, liberaciones y Parches" },
+           { "idx":"4.10", "topic":"Gestión del Nivel del Servicio de TI" },
+           { "idx":"4.11", "topic":"Gestión de Base de Datos" },
+           { "idx":"4.12", "topic":"Análisis de Impacto al Negocio" },
+           { "idx":"4.13", "topic":"Resiliencia del Sistema" },
+           { "idx":"4.14", "topic":"Respaldo, Almacenamiento y Restauración de datos" },
+           { "idx":"4.15", "topic":"Plan de Continuidad del Negocio" },
+           { "idx":"4.16", "topic":"Planes de Recuperación ante Desastres" }
          ]
       }
    ]

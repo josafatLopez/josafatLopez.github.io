@@ -8,87 +8,43 @@
       { "idx": 2, "date": "" }
    ],
    "modality": "Presencial | En línea con profesor en vivo",
-   "duration": "16 horas",
-   "description": "Scrum es el marco de trabajo ágil más popular, se trata de un método adaptable, rápido, flexible, y eficaz, diseñado para ofrecer un valor significativo de forma rápida y durante todo el proyecto.\n Los Scrum Master Certified (SMC ™) son facilitadores que aseguran que el equipo de Scrum está provisto de un entorno propicio para completar el proyecto con éxito. Los Scrum Master facilitan, y enseñan prácticas de Scrum a todos los involucrados en el proyecto, remueve los impedimentos para el equipo, y asegura que los procesos Scrum se están siguiendo de manera correcta para el logro de objetivos.",
+   "duration": "40 horas",
+   "description": "El propósito del curso es capacitar y comprobar que el candidato tiene conocimiento sobre las mejores prácticas en el diseño, implementación, integración y gestión de procesos de Servicios de TI. El curso de diseño de procesos tiene como propósito permitir que las personas apliquen un enfoque práctico en el diseño y la implementación de procesos de gestión de Servicios de TI.",
    "logourl": "",
    "courseincludes": [
-      { "idx": 1, "include": "Material oficial acreditado para el participante" },
-      { "idx": 2, "include": "Diploma de finalización de curso" }
+      { "idx": 1, "include": "Material en español e inglés e incluye teoría, ejercicios de práctica temas de discusión e información complementaria." },
+      { "idx": 2, "include": "Se entrega una constancia de asistencia." }
    ],
    "benefits": [
-      { "idx": 1, "benefit": "Ser capaz de guiar y enseñar prácticas de Scrum a todos los involucrados en el proyecto, eliminar los obstáculos para el equipo y asegurar que los pasos se están siguiendo Scrum." },
-      { "idx": 2, "benefit": "Obtener un entendimiento profundo de la filosofía y principios de Scrum." },
-      { "idx": 3, "benefit": "Obtener un conocimiento práctico de Scrum, incluidos los roles, reuniones y artefactos." },
-      { "idx": 4, "benefit": "Sentirse cómodo de implementar Scrum en las organizaciones, así como en la gestión de los problemas comunes." },
-      { "idx": 5, "benefit": "Obtener el certificado de Scrum." }
+      { "idx": 1, "benefit": "Determinar los requerimientos del cliente" },
+      { "idx": 2, "benefit": "Evaluar la madurez de los procesos existentes" },
+      { "idx": 3, "benefit": "Utilizar métodos probados para el diseño (o rediseño) de procesos" },
+      { "idx": 4, "benefit": "Utilizar las mejores prácticas para implementar y mejorar los procesos" },
+      { "idx": 5, "benefit": "Medir y comercializar los beneficios de las mejoras de procesos" },
+      { "idx": 6, "benefit": "Superar la resistencia al cambio organizacional" },
+      { "idx": 7, "benefit": "Usar la tecnología para aumentar la eficacia y la eficiencia" }
    ],
    "forwho": [
-      { "idx": 1, "qualities": "Cualquier persona que esté interesada en trabajar como Scrum Master." },
-      { "idx": 2, "qualities": "Cualquier persona que ya sea un Scrum Master en su organización." },
-      { "idx": 3, "qualities": "Un Scrum Master es un papel importante en cualquier equipo de Scrum y no tiene que ser un experto en tecnología para ser eficaz." },
-      { "idx": 4, "qualities": "A pesar de que Scrum es muy popular en la industria de TI, Scrum puede ser utilizado de manera efectiva en cualquier tipo de industria." }
+      { "idx": 1, "qualities": "Individuos que tienen una certificación a nivel fundamentos en Gestión de Servicios de TI (ITIL®, COBIT, ISO/IEC 20000, Microsoft Operations Framework (MOF). " },
+      { "idx": 2, "qualities": "Individuos que tienen antecedentes en gestión de proyectos y buscan una comprensión de diseño y técnicas de gestión de procesos ." },
+      { "idx": 3, "qualities": "Individuos que requieren una comprensión profunda de evaluación, diseño, implementación, integración y técnicas de gestión de procesos." },
+      { "idx": 4, "qualities": "Profesionales de TI que están trabajando dentro de una organización que ha adoptado uno o más marcos o estándares de Gestión de Servicios de TI o Gestión de calidad y busca comprender cómo usar los marcos como parte de un programa de mejora continua." },
+      { "idx": 5, "qualities": "Individuos que desean mejorar sus capacidades basadas en actividades como gestión de cambio organizacional o la selección de tecnologías que habilitan procesos." }
    ],
    "exam": [
-      { "idx": 1, "characteristics": "Tiempo asignado: 120 minutos" },
-      { "idx": 2, "characteristics": "Cantidad de preguntas: 100 de opción múltiple" },
-      { "idx": 3, "characteristics": "Calificación aprobatoria: 57% (57 respuestas correctas)" },
-      { "idx": 4, "characteristics": "Formato: En línea o Papel; a libro cerrado" },
-      { "idx": 5, "characteristics": "Prerrequisitos: Se recomienda haber completado el curso de Fundamentos de Scrum en línea que es de manera gratuita (acceso proporcionado a inscripción en el curso)." }
+      { "idx": 1, "characteristics": "Información pronto disponible" }
    ],
    "content": [
-      {
-         "idx" : 1,
-         "unit" : "Revisión a Agile", 
-         "topics" : [
-           { "idx":"1.1", "topic":"El origen de Agile" },
-           { "idx":"1.2", "topic":"El Manifesto de Agile" },
-           { "idx":"1.3", "topic":"Los Principios del Manifesto de Agile" },
-           { "idx":"1.4", "topic":"Declaración de Interdependencia" },
-           { "idx":"1.5", "topic":"Métodos Agiles" },
-           { "idx":"1.6", "topic":"Gestión de proyectos Tradicional vs. Agile" }
-         ]
-      },
-      {
-         "idx" : 2,
-         "unit" : "Vistazo a Scrum", 
-         "topics" : [
-           { "idx":"2.1", "topic":"Principios de Scrum" },
-           { "idx":"2.2", "topic":"Aspectos de Scrum" },
-           { "idx":"2.3", "topic":"Procesos de Scrum" },
-           { "idx":"2.4", "topic":"Ventajas de Scrum" }
-         ]
-      },
-      {
-         "idx" : 3,
-         "unit" : "Roles de Scrum", 
-         "topics" : [
-           { "idx":"3.1", "topic":"Roles centrales" },
-           { "idx":"3.2", "topic":"Roles no centrales" }
-         ]
-      },
-      {
-         "idx" : 4,
-         "unit" : "Fases de Scrum", 
-         "topics" : [
-           { "idx":"4.1", "topic":"Iniciar" },
-           { "idx":"4.2", "topic":"Planear y Estimar" },
-           { "idx":"4.3", "topic":"Implementar" },
-           { "idx":"4.4", "topic":"Revisar y ver en retrospectiva" },
-           { "idx":"4.5", "topic":"Liberar" }
-         ]
-      },
-      {
-         "idx" : 5,
-         "unit" : "Adaptar Scrum", 
-         "topics" : [
-           { "idx":"5.1", "topic":"Adaptabilidad de Scrum" },
-           { "idx":"5.2", "topic":"Scrum en Programas y Portafolios" },
-           { "idx":"5.3", "topic":"Junta de Scrum de Scrums (SoS)" },
-           { "idx":"5.4", "topic":"Transición a Scrum" },
-           { "idx":"5.5", "topic":"Mapear los Roles Tradicionales a Scrum" },
-           { "idx":"5.6", "topic":"Mantener el Involucramiento de los Stakeholders" },
-           { "idx":"5.7", "topic":"Importancia del Apoyo Ejecutivo" }
-         ]
-      }
+      { "idx" : 1, "unit" : "Introducción a los Procesos y a los Conceptos de la Gestión de Servicios de TI", "topics" : [] },
+      { "idx" : 2, "unit" : "Definiendo y Analizando los Requerimientos del Cliente", "topics" : [] },
+      { "idx" : 3, "unit" : "Principios de la Gestión de la Calidad", "topics" : [] },
+      { "idx" : 4, "unit" : "Definiendo y Documentando Procesos", "topics" : [] },
+      { "idx" : 5, "unit" : "Valorando la Madurez de un Proceso", "topics" : [] },
+      { "idx" : 6, "unit" : "Pasos de Diseño y Mejora de Procesos", "topics" : [] },
+      { "idx" : 7, "unit" : "Herramientas y Técnicas del Diseño y la Mejora de Procesos", "topics" : [] },
+      { "idx" : 8, "unit" : "Métricas", "topics" : [] },
+      { "idx" : 9, "unit" : "Gestión del Cambio Organizacional", "topics" : [] },
+      { "idx" : 10, "unit" : "Tecnologías para la Gestión del Servicio", "topics" : [] },
+      { "idx" : 11, "unit" : "Revisión, Evaluación", "topics" : [] }
    ]
 }
