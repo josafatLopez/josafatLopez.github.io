@@ -25,6 +25,13 @@
       ]
    },
    {
+      "category" : "Integración de Servicios",
+      "courses": [
+         { "id": 38, "linkurl": "siam-service-integration-and-management", "course": "SIAM Foundation (Service Integration and Management)" },
+         { "id": 39, "linkurl": "it-contracts-and-outsourcing-management", "course": "IT Contracts and Outsourcing Management" }
+      ]
+   },
+   {
       "category" : "Agile",
       "courses": [
          { "id": 21, "linkurl": "agile-scrum-foundation", "course": "Agile SCRUM Foundation" },
@@ -104,13 +111,6 @@
          { "id": 18, "linkurl": "togaf-foundation", "course": "TOGAF® 9 Training Course - Foundation" },
          { "id": 19, "linkurl": "togaf-certified", "course": "TOGAF® 9 Training Course - Certified" },
          { "id": 20, "linkurl": "togaf-bundle", "course": "TOGAF® 9 Training Course - Bundle" }
-      ]
-   },
-   {
-      "category" : "Integración de Servicios",
-      "courses": [
-         { "id": 38, "linkurl": "siam-service-integration-and-management", "course": "SIAM Foundation (Service Integration and Management)" },
-         { "id": 39, "linkurl": "it-contracts-and-outsourcing-management", "course": "IT Contracts and Outsourcing Management" }
       ]
    },
    {

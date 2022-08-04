@@ -8,161 +8,171 @@
       { "idx": 2, "date": "" }
    ],
    "modality": "Presencial | En línea con profesor en vivo",
-   "duration": "40 horas",
-   "description": "CISSP® Certified Information Systems Security Professional es la certificación más reconocida a nivel mundial en el mercado de la seguridad de la información. CISSP valida el profundo conocimiento técnico y de gestión de un profesional de la seguridad de la información para diseñar, construir y gestionar eficazmente la postura general de seguridad de una organización.",
+   "duration": "24 horas",
+   "description": "El curso de Auditor interno en Gestión del Servicio de TI basado en ISO/IEC 20000 se enfoca en la norma desde un punto de vista de los requerimientos de un auditor, resaltando los procesos de auditoría definidos por la norma ISO/IEC 19011 y capacita a los participantes para llevar a cabo auditorías en una organización que ha implementado un sistema de gestión del servicio basado en la norma ISO/IEC 20000.",
    "logourl": "",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
-      { "idx": 2, "include": "Diploma de finalización de curso" }
+      { "idx": 2, "include": "Ejercicios de revisión" },
+      { "idx": 3, "include": "Exámenes de simulación" },
+      { "idx": 4, "include": "Diploma de finalización de curso" },
+      { "idx": 5, "include": "Examen de certificación oficial por parte de EXIN" }
    ],
    "benefits": [
-      { "idx": 1, "benefit": "Seguridad y gestión de riesgos" },
-      { "idx": 2, "benefit": "Seguridad de activos" },
-      { "idx": 3, "benefit": "Arquitectura de seguridad e ingeniería" },
-      { "idx": 4, "benefit": "Comunicación y seguridad de red" },
-      { "idx": 5, "benefit": "Gestión de identidad y acceso (IAM)" },
-      { "idx": 6, "benefit": "Evaluación de seguridad y pruebas" },
-      { "idx": 7, "benefit": "Operaciones de seguridad" },
-      { "idx": 8, "benefit": "Seguridad de desarrollo de software" }
+      { "idx": 1, "benefit": "Obtener los conocimientos y técnicas para auditar proveedores y auditar certificaciones." },
+      { "idx": 2, "benefit": "Llevar a cabo auditorías internas del sistema de gestión del servicio (SMS)." },
+      { "idx": 3, "benefit": "Esté preparado para hacer frente a una auditoría externa del sistema de gestión del servicio de la organización." },
+      { "idx": 4, "benefit": "Describir referente al Plan, Do, Check, Act (PDCA), el propósito, la estructura y los requisitos de la norma ISO/IEC 20000 desde el punto de vista de un auditor." },
+      { "idx": 5, "benefit": "Describir las responsabilidades de un auditor y describir la importancia de una auditoría para el mantenimiento y mejora de los sistemas de gestión." },
+      { "idx": 6, "benefit": "Convertirse en un auditor interno certificado ITSM." }
    ],
    "forwho": [
-      { "idx": 1, "qualities": "Director/Gerente de TI" },
-      { "idx": 2, "qualities": "Director de seguridad de la información" },
-      { "idx": 3, "qualities": "Director de seguridad Informática" },
-      { "idx": 4, "qualities": "Gerente de seguridad" },
-      { "idx": 5, "qualities": "Auditor de seguridad" },
-      { "idx": 6, "qualities": "Arquitecto en redes" },
-      { "idx": 7, "qualities": "Arquitecto de seguridad" },
-      { "idx": 8, "qualities": "Consultor de seguridad" },
-      { "idx": 9, "qualities": "Ingeniero de sistemas de seguridad" },
-      { "idx": 10, "qualities": "Analista de seguridad" }
+      { "idx": 1, "qualities": "Personal interno y externo que proporcionan servicios de TI en un ambiente ISO/IEC 20000 o tienen interés en estas normas." }
    ],
    "exam": [
-      { "idx": "Existen dos tipos de examen:", "characteristics": "" },
-      { "idx": "CAT (Exámenes Adaptativos Computarizados)", "characteristics": "" },
-      { "idx": 1, "characteristics": "Duración del Examen: 3 Horas" },
-      { "idx": 2, "characteristics": "Número de preguntas: 100 a 150" },
-      { "idx": 3, "characteristics": "Formato de Preguntas: Múltiples opciones y preguntas Innovadoras Avanzadas" },
-      { "idx": 4, "characteristics": "Calificación aprobatoria: 700 a 1000 puntos" },
-      { "idx": 5, "characteristics": "Disponibilidad de Idioma del Examen: Inglés" },
-      { "idx": 6, "characteristics": "Centro de Prueba: (ISC) 2 Autorizado y Centros de Exámenes Pearson VUE" },
-      { "idx": "Lineal", "characteristics": "" },
-      { "idx": 7, "characteristics": "Duración del Examen: 6 Horas" },
-      { "idx": 8, "characteristics": "Número de preguntas: 250" },
-      { "idx": 9, "characteristics": "Formato de Preguntas: Múltiples opciones y preguntas Innovadoras Avanzadas" },
-      { "idx": 10, "characteristics": "Calificación aprobatoria: 700 a 1000 puntos" },
-      { "idx": 11, "characteristics": "Disponibilidad de Idioma del Examen: Español" },
-      { "idx": 12, "characteristics": "Centro de Prueba: (ISC) 2 Autorizado y Centros de Exámenes Pearson VUE" }
+      { "idx": 1, "characteristics": "Tiempo asignado: 120 minutos" },
+      { "idx": 2, "characteristics": "Cantidad de preguntas: 60 de opción múltiple" },
+      { "idx": 3, "characteristics": "Calificación aprobatoria: 65% (39 respuestas correctas)" },
+      { "idx": 4, "characteristics": "Formato: En línea o Papel; a libro cerrado" },
+      { "idx": 5, "characteristics": "Prerrequisitos: Tener el certificado de IT Service Management Foundation based on ISO/IEC 20000 (El certificado debe de ser presentado como evidencia para el registro del examen). Se recomiendan por lo menos 8 horas de estudio personal durante el curso." }
    ],
    "content": [
       {
-         "idx" : "Dominio 1:",
-         "unit" : "Seguridad y Gestión de riesgos", 
+         "idx" : 1,
+         "unit" : "El Enfoque de Calidad en la Gestión del Servicio de TI", 
          "topics" : [
-           { "idx":"1.1", "topic":"Comprender y aplicar conceptos de confidencialidad, integridad y disponibilidad" },
-           { "idx":"1.2", "topic":"Evaluar y aplicar principios de gobierno de la seguridad" },
-           { "idx":"1.3", "topic":"Determinar los requisitos de cumplimiento" },
-           { "idx":"1.4", "topic":"Comprender las cuestiones legales y regulatorias relacionadas con la seguridad de la información en un contexto global" },
-           { "idx":"1.5", "topic":"Comprender, adherirse a, y promover la ética profesional" },
-           { "idx":"1.6", "topic":"Desarrollar, documentar e implementar políticas de seguridad, estándares, procedimientos y directrices" },
-           { "idx":"1.7", "topic":"Identificar, analizar y priorizar los requisitos de continuidad del negocio" },
-           { "idx":"1.8", "topic":"Contribuir y hacer cumplir las políticas y procedimientos de seguridad de personal" },
-           { "idx":"1.9", "topic":"Comprender y aplicar conceptos de gestión de riesgos" },
-           { "idx":"1.10", "topic":"Comprender y aplicar conceptos y metodologías de modelado de amenazas" },
-           { "idx":"1.11", "topic":"Aplicar conceptos de gestión basados en el riesgo a la cadena de suministro" },
-           { "idx":"1.12", "topic":"Establecer y mantener un programa de concienciación, educación y capacitación sobre seguridad" }
+           { "idx":"1.1", "topic":"El Concepto de Calidad" },
+           { "idx":"1.2", "topic":"Sistema de Gestión de Calidad" },
+           { "idx":"1.3", "topic":"Servicio de TI" },
+           { "idx":"1.4", "topic":"Gestión del Servicio de TI" },
+           { "idx":"1.5", "topic":"Mejora Continua del Servicio" },
+           { "idx":"1.6", "topic":"Propósito y Beneficios de ISO/IEC 20000" },
+           { "idx":"1.7", "topic":"Otras Normas de la Industria" },
+           { "idx":"1.8", "topic":"Normas Específicas de las Compañías" }
          ]
       },
       {
-         "idx" : "Dominio 2:",
-         "unit" : "Seguridad de activos", 
+         "idx" : 2,
+         "unit" : "Gestión y Mejora de los Procesos de Gestión del Servicio de TI", 
          "topics" : [
-           { "idx":"2.1", "topic":"Identificar y clasificar información y activos" },
-           { "idx":"2.2", "topic":"Determinar y mantener la información y la propiedad de activos" },
-           { "idx":"2.3", "topic":"Proteger la privacidad" },
-           { "idx":"2.4", "topic":"Asegurar la retención adecuada de activos" },
-           { "idx":"2.5", "topic":"Determinar los controles de seguridad de datos" },
-           { "idx":"2.6", "topic":"Establecer requisitos de gestión de activos e información" }
+           { "idx":"2.1", "topic":"Enfoque Basado en Procesos" },
+           { "idx":"2.2", "topic":"Medición y Control de los Procesos" },
+           { "idx":"2.3", "topic":"Roles" },
+           { "idx":"2.4", "topic":"Sistema de Gestión" },
+           { "idx":"2.5", "topic":"Responsabilidad de la Dirección" },
+           { "idx":"2.6", "topic":"Gobierno de los Procesos Operados por Otras Partes" },
+           { "idx":"2.7", "topic":"Gestión de la Documentación" },
+           { "idx":"2.8", "topic":"Gestión de los Recursos" },
+           { "idx":"2.9", "topic":"Establecimiento y Mejora de la Gestión del Servicio" },
+           { "idx":"2.10", "topic":"Planeación, Diseño y Transición de los Servicios Nuevos o Cambiados" }
          ]
       },
       {
-         "idx" : "Dominio 3:",
-         "unit" : "Arquitectura de seguridad e ingeniería", 
+         "idx" : 3,
+         "unit" : "Los Procesos de Entrega del Servicio", 
          "topics" : [
-           { "idx":"3.1", "topic":"Implementar y gestionar procesos de ingeniería utilizando principios de diseño seguro" },
-           { "idx":"3.2", "topic":"Comprender los conceptos fundamentales de los modelos de seguridad" },
-           { "idx":"3.3", "topic":"Seleccionar controles basados en los requisitos de seguridad de los sistemas" },
-           { "idx":"3.4", "topic":"Comprender las capacidades de seguridad de los sistemas de información (por ejemplo, protección de memoria, módulo de plataforma de confianza (TPM), cifrado / descifrado)" },
-           { "idx":"3.5", "topic":"Evaluar y mitigar las vulnerabilidades de arquitecturas de seguridad, diseños y soluciones " },
-           { "idx":"3.6", "topic":"Evaluar y mitigar las vulnerabilidades en sistemas basados en web" },
-           { "idx":"3.7", "topic":"Evaluar y mitigar las vulnerabilidades en sistemas móviles" },
-           { "idx":"3.8", "topic":"Evaluar y mitigar vulnerabilidades en dispositivos integrados" },
-           { "idx":"3.9", "topic":"Aplicar criptografía" },
-           { "idx":"3.10", "topic":"Implementar controles de seguridad en recintos e instalaciones" }
+           { "idx":"3.1", "topic":"estión del Nivel de Servicio" },
+           { "idx":"3.2", "topic":"Reporteo del Servicio" },
+           { "idx":"3.3", "topic":"Presupuesto y Contabilidad de los Servicios" },
+           { "idx":"3.4", "topic":"Gestión de la Capacidad" },
+           { "idx":"3.5", "topic":"Gestión de la Seguridad de la Información" }
          ]
       },
       {
-         "idx" : "Dominio 4:",
-         "unit" : "Comunicación y seguridad de red", 
+         "idx" : 4,
+         "unit" : "Los Procesos de Relación", 
          "topics" : [
-           { "idx":"4.1", "topic":"Implementar principios de diseño seguro en arquitecturas de red" },
-           { "idx":"4.2", "topic":"Componentes de red seguros" },
-           { "idx":"4.3", "topic":"Implementar canales de comunicación seguros según el diseño" }
+           { "idx":"4.1", "topic":"Gestión de la Relación con el Negocio" },
+           { "idx":"4.2", "topic":"Gestión de Proveedores" }
          ]
       },
       {
-         "idx" : "Dominio 5:",
-         "unit" : "Gestión de identidad y acceso (IAM)", 
+         "idx" : 5,
+         "unit" : "Los Procesos de Resolución", 
          "topics" : [
-           { "idx":"5.1", "topic":"Control de acceso físico y lógico a los activos" },
-           { "idx":"5.2", "topic":"Gestionar la identificación y autenticación de personas, dispositivos y servicios" },
-           { "idx":"5.3", "topic":"Integrar la identidad como un servicio de terceros" },
-           { "idx":"5.4", "topic":"Implementar y gestionar mecanismos de autorización" },
-           { "idx":"5.5", "topic":"Gestionar el ciclo de vida de acceso y aprovisionamiento" }
+           { "idx":"5.1", "topic":"Gestión de Incidentes y Solicitudes de Servicio" },
+           { "idx":"5.2", "topic":"Gestión de Problemas" }
          ]
       },
       {
-         "idx" : "Dominio 6:",
-         "unit" : "Evaluación de seguridad y pruebas", 
+         "idx" : 6,
+         "unit" : "Los Procesos de Control", 
          "topics" : [
-           { "idx":"6.1", "topic":"Diseñar y validar estrategias de evaluación, prueba y auditoría" },
-           { "idx":"6.2", "topic":"Realizar pruebas de control de seguridad" },
-           { "idx":"6.3", "topic":"Recopilar datos de procesos de seguridad (por ejemplo, técnicos y administrativos)" },
-           { "idx":"6.4", "topic":"Analizar resultados de prueba y generación de informes" },
-           { "idx":"6.5", "topic":"Realizar o facilitar auditorías de seguridad" }
+           { "idx":"6.1", "topic":"Gestión de la Configuración" },
+           { "idx":"6.2", "topic":"Gestión de Cambios" },
+           { "idx":"6.3", "topic":"Gestión de Liberaciones y Despliegues" }
          ]
       },
       {
-         "idx" : "Dominio 7:",
-         "unit" : "Operaciones de seguridad", 
+         "idx" : 7,
+         "unit" : "Términos y Definiciones", 
          "topics" : [
-           { "idx":"7.1", "topic":"Comprender y apoyar las investigaciones" },
-           { "idx":"7.2", "topic":"Comprender los requisitos para los tipos de investigación" },
-           { "idx":"7.3", "topic":"Realizar actividades de registro y monitorización" },
-           { "idx":"7.4", "topic":"Aprovisionamiento de recursos de forma segura" },
-           { "idx":"7.5", "topic":"Comprender y aplicar conceptos de operaciones de seguridad fundamentales" },
-           { "idx":"7.6", "topic":"Aplicar técnicas de protección de recursos" },
-           { "idx":"7.7", "topic":"Realizar gestión de incidentes" },
-           { "idx":"7.8", "topic":"Operar y mantener medidas de detectivas y preventivas" },
-           { "idx":"7.9", "topic":"Implementar y soportar la gestión de parches y vulnerabilidades" },
-           { "idx":"7.10", "topic":"Comprender y participar en los procesos de gestión de cambios" },
-           { "idx":"7.12", "topic":"Implementar estrategias de recuperación" },
-           { "idx":"7.13", "topic":"Implementar procesos de recuperación de desastres (DR)" },
-           { "idx":"7.14", "topic":"Prueba de Planes de Recuperación ante Desastres (DRP)" },
-           { "idx":"7.15", "topic":"Participar en la planificación y ejercicios de Continuidad del Negocio (BC)" },
-           { "idx":"7.16", "topic":"Implementar y administrar la seguridad física" },
-           { "idx":"7.17", "topic":"Tratar las preocupaciones de seguridad y protección del personal" }
+           { "idx":"7.1", "topic":"Términos y Definiciones" }
          ]
       },
       {
-         "idx" : "Dominio 8:",
-         "unit" : "Seguridad de desarrollo de software", 
+         "idx" : 8,
+         "unit" : "Planeación del programa de auditoría", 
          "topics" : [
-           { "idx":"8.1", "topic":"Comprender e integrar la seguridad en el Ciclo de vida de desarrollo de software (SDLC)" },
-           { "idx":"8.2", "topic":"Identificar y aplicar controles de seguridad en entornos de desarroll" },
-           { "idx":"8.3", "topic":"Evaluar la efectividad de la seguridad del software" },
-           { "idx":"8.4", "topic":"Evaluar el impacto de seguridad del software adquirido" },
-           { "idx":"8.5", "topic":"Definir y aplicar pautas y normas de programación segura" }
+           { "idx":"8.1", "topic":"Programa de Auditoría del Sistema de Gestión de Servicios" },
+           { "idx":"8.2", "topic":"Roles y Responsabilidades" },
+           { "idx":"8.3", "topic":"Documentar procedimientos de auditoría" }
+         ]
+      },
+      {
+         "idx" : 9,
+         "unit" : "Gestión de Auditorías", 
+         "topics" : [
+           { "idx":"9.1", "topic":"Iniciar la Auditoría" },
+           { "idx":"9.2", "topic":"Preparar las Actividades de la Auditoría" },
+           { "idx":"9.3", "topic":"Conducir las Actividades de la Auditoría" }
+         ]
+      },
+      {
+         "idx" : 10,
+         "unit" : "Comunicar y Tratar los Resultados de la Auditoría", 
+         "topics" : [
+           { "idx":"10.1", "topic":"Preparar el Reporte de Auditoría" },
+           { "idx":"10.2", "topic":"Distribuir el Reporte de Auditoría" },
+           { "idx":"10.3", "topic":"Finalizar la Auditoría" },
+           { "idx":"10.4", "topic":"Conducir el Seguimiento de la Auditoría" }
+         ]
+      },
+      {
+         "idx" : 11,
+         "unit" : "Mejorar el plan de auditoría", 
+         "topics" : [
+           { "idx":"11.1", "topic":"Monitorear Programas de Auditoría" },
+           { "idx":"11.2", "topic":"Revisar y Mejorar el Programa de Auditoría" }
+         ]
+      },
+      {
+         "idx" : 12,
+         "unit" : "Esquema de Certificación en ISO/IEC 20000", 
+         "topics" : [
+           { "idx":"12.1", "topic":"Esquema de Certificación en ISO/IEC 20000 para el Personal" }
+         ]
+      },
+      {
+         "idx" : 13,
+         "unit" : "Descripción del Examen", 
+         "topics" : [
+           { "idx":"13.1", "topic":"Formato del examen de EXIN" },
+           { "idx":"13.2", "topic":"Contenido del examen de EXIN" },
+           { "idx":"13.3", "topic":"Consejos para contestar el examen" },
+           { "idx":"13.4", "topic":"Prerrequisitos para el curso" }
+         ]
+      },
+      {
+         "idx" : 14,
+         "unit" : "Repaso, Evaluación y Examinación", 
+         "topics" : [
+           { "idx":"14.1", "topic":"Repaso General" },
+           { "idx":"14.2", "topic":"Examen de Ejemplo" },
+           { "idx":"14.3", "topic":"Revisión del Examen de Ejemplo" },
+           { "idx":"14.4", "topic":"Evaluación del Curso" },
+           { "idx":"14.5", "topic":"Constancia del Curso" },
+           { "idx":"14.6", "topic":"Examen de Certificación" }
          ]
       }
    ]

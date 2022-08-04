@@ -1,0 +1,77 @@
+{
+   "id": 79,
+   "linkurl": "it-risk-management",
+   "category": "Gestión de Riesgos y Antisoborno",
+   "course": "IT Risk Management (based on ISO/IEC 27005, ISO/IEC 31000, ISO/IEC 20000, ISO 22301, COBIT® 5, and ITIL®)",
+   "schedules": [
+      { "idx": 1, "date": "Contacta a un asesor para saber próximas fechas" },
+      { "idx": 2, "date": "" }
+   ],
+   "modality": "Presencial | En línea con profesor en vivo",
+   "duration": "24 horas",
+   "description": "El curso de ITIL 4 Create, Deliver and Support (CDS) (Crear, Entregar y Soportar) tiene la intención de proporcionar al candidato el entendimiento sobre cómo integrar diferentes flujos de valor y actividades para crear, entregar y soportar servicios y productos de TI y herramientas, métodos y prácticas relevantes.",
+   "logourl": "",
+   "courseincludes": [
+      { "idx": 1, "include": "Material oficial acreditado para el participante" },
+      { "idx": 2, "include": "Ejercicios de revisión" },
+      { "idx": 3, "include": "Examen de simulación" },
+      { "idx": 4, "include": "Examen de certificación oficial por parte de Peoplecert" }
+   ],
+   "benefits": [
+      { "idx": 1, "benefit": "Aumentar el conocimiento sobre la creación de servicios de ITIL." },
+      { "idx": 2, "benefit": "Aprender sobre la integración de diferentes actividades y flujos de valor para crear, entregar y soportar productos y servicios de TI mientras se cubren prácticas, métodos y herramientas de soporte." },
+      { "idx": 3, "benefit": "Conocer sobre el desempeño del servicio y comprender los diferentes métodos de mejora y la calidad del servicio." },
+      { "idx": 4, "benefit": "Permitir a los practicantes entregar a sus clientes servicios de tecnología innovadores y confiables en un mercado altamente competitivo." }
+   ],
+   "forwho": [
+      { "idx": 1, "qualities": "Individuos que desean continuar aprendiendo más sobre la gestión de servicios." },
+      { "idx": 2, "qualities": "Gestores de ITSM y aspirantes a gestores de ITSM." },
+      { "idx": 3, "qualities": "Profesionales en ITSM que gestionan la operación de servicios y productos digitales y de TI, y aquellos responsables de la entrega día a día." },
+      { "idx": 4, "qualities": "Personas que cuenten con una certificación en ITIL y que deseen desarrollar su conocimiento." }
+   ],
+   "exam": [
+      { "idx": 1, "characteristics": "Tiempo asignado: 90 minutos" },
+      { "idx": 2, "characteristics": "Cantidad de preguntas: 40 de opción múltiple" },
+      { "idx": 3, "characteristics": "Calificación aprobatoria: 70% - 28 aciertos" },
+      { "idx": 4, "characteristics": "Formato: En papel o en línea el último día del curso / a libro cerrado" },
+      { "idx": 5, "characteristics": "Prerrequisitos: El candidato debe haber pasado el examen de Fundamentos de ITIL 4. Además el candidato debe haber asistido a un curso de capacitación acreditado para este módulo" }
+   ],
+   "content": [
+      {
+         "idx" : 1,
+         "unit" : "Planear y Generar un Flujo de Valor del Servicio", 
+         "topics" : [
+           { "idx":"1.1", "topic":"Conceptos y Retos" },
+           { "idx":"1.2", "topic":"Enfoque de Mover a la Izquierda" },
+           { "idx":"1.3", "topic":"Planear y Gestionar Recursos" },
+           { "idx":"1.4", "topic":"Uso y Valor de la Información y la Tecnología" }
+         ]
+      },
+      {
+         "idx" : 2,
+         "unit" : "Prácticas de ITIL", 
+         "topics" : [
+           { "idx":"2.1", "topic":"Flujo de Valor" },
+           { "idx":"2.2", "topic":"Las Prácticas de ITIL Contribuyen a un Flujo de Valor para un Servicio Nuevo" },
+           { "idx":"2.3", "topic":"Proporcionar Soporte al Usuario" },
+           { "idx":"2.3", "topic":"Las Prácticas de ITIL Contribuyen a un Flujo de Valor para el Soporte al Usuario" }
+         ]
+      },
+      {
+         "idx" : 3,
+         "unit" : "Crear, Entregar y Soportar Servicios", 
+         "topics" : [
+           { "idx":"3.1", "topic":"Co-ordinar, Priorizar y Estructurar Trabajo y Actividades" },
+           { "idx":"3.2", "topic":"Uso y Valor de lo siguiente a través del sistema de valor del servicio:" },
+           { "idx":"a)", "topic":"Consideraciones sobre comprar versus construir" },
+           { "idx":"b)", "topic":"Opciones de externalización" },
+           { "idx":"c)", "topic":"Gestión e integración de servicios (SIAM)" }
+         ]
+      },
+      {
+         "idx" : 4,
+         "unit" : "Repaso, Evaluación, Examen de preparación y Examen de Certificación", 
+         "topics" : []
+      }
+   ]
+}
