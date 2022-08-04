@@ -1,0 +1,29 @@
+{
+   "id": 69,
+   "linkurl": "professional-cloud-solutions-architect",
+   "category": "Cloud Computing",
+   "course": "Professional Cloud Solutions Architect",
+   "schedules": [
+      { "idx": 1, "date": "Contacta a un asesor para saber próximas fechas" },
+      { "idx": 2, "date": "" }
+   ],
+   "modality": "Presencial | En línea con profesor en vivo",
+   "duration": "40 horas",
+   "description": "Información pronto disponible",
+   "logourl": "",
+   "courseincludes": [
+      { "idx": 1, "include": "Información pronto disponible" }
+   ],
+   "benefits": [
+      { "idx": 1, "benefit": "Información pronto disponible" }
+   ],
+   "forwho": [
+      { "idx": 1, "qualities": "Información pronto disponible" }
+   ],
+   "exam": [
+      { "idx": 1, "characteristics": "Información pronto disponible" }
+   ],
+   "content": [
+      { "idx" : "-", "unit" : "Información pronto disponible",  "topics" : [] }
+   ]
+}

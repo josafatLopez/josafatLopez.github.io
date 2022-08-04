@@ -8,272 +8,76 @@
       { "idx": 2, "date": "" }
    ],
    "modality": "Presencial | En línea con profesor en vivo",
-   "duration": "40 horas",
-   "description": "El combo IT SECURITY, RISK AND CONTINUITY incluye los cursos: Business Continuity Management Foundation , Information Security Foundation e Information Security Risk Management. El propósito de este combo es proporcionar al participante un enfoque integral sobre la seguridad de la información de TI, al capacitarlo en los Fundamentos de Seguridad de la Información con base en ISO/IEC 27001, la Gestión de Riesgos de Seguridad de la Información con base en ISO/IEC 27005, y los Sistemas de Gestión de la Continuidad del Negocio conforme a la norma ISO 22301. Es idóneo para todas las personas que deseen obtener un conocimiento amplio sobre los temas asociados con la seguridad de la información en su organización, y la continuidad de los servicios de TI en caso de desastres.",
+   "duration": "16 horas",
+   "description": "Cloud Computing consiste en proporcionar servicios relacionados con TI a través de Internet. Cloud Computing hace posible soluciones de TI flexibles para soportar el negocio, basados en acuerdos de nivel servicios. El certificado EXIN Cloud Computing Foundation requiere una visión general de la materia y su relación con otras áreas de Information Management. Dicha visión se basa en el conocimiento de los conceptos fundamentales de Cloud Computing y la comprensión de la arquitectura, diseño y despliegue de la plataforma de la Cloud Computing y su incorporación en la organización.",
    "logourl": "",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
       { "idx": 2, "include": "Ejercicios de revisión" },
-      { "idx": 3, "include": "Exámenes de simulación" },
-      { "idx": 4, "include": "Diploma de finalización de curso" }
+      { "idx": 3, "include": "Diploma de finalización de curso" },
+      { "idx": 4, "include": "Examen de certificación oficial por parte de EXIN" }
    ],
    "benefits": [
-      { "idx": 1, "benefit": "Aprender los conceptos básicos sobre la seguridad de la información." },
-      { "idx": 2, "benefit": "Comprender la norma ISO/IEC 27005 como el conjunto de guías y lineamientos para la gestión de los riesgos de seguridad de la información." },
-      { "idx": 3, "benefit": "Obtener el conocimiento claro de un Sistema de Gestión de la Continuidad del Negocio (BCMS) y su ciclo de vida." },
-      { "idx": 4, "benefit": "Obtener el certificado en Fundamentos de Seguridad de la Información con base en ISO/IEC 27001 y Fundamentos de la Continuidad del Negocio con base en ISO 22301." }
+      { "idx": 1, "benefit": "Los principios del Cloud Computin" },
+      { "idx": 2, "benefit": "Implementación y gestión de Cloud Computing" },
+      { "idx": 3, "benefit": "Usando Cloud" },
+      { "idx": 4, "benefit": "Seguridad y conformidad" },
+      { "idx": 4, "benefit": "Evaluación de Cloud Computing" }
    ],
    "forwho": [
-      { "idx": 1, "qualities": "Todas las personas en la organización que procesen información." },
-      { "idx": 2, "qualities": "Negocios pequeños e independientes para los cuales es necesario un conocimiento básico de la seguridad de la información." },
-      { "idx": 3, "qualities": "Nuevos profesionales en la seguridad de la información." },
-      { "idx": 4, "qualities": "Responsables de la continuidad del negocio y/o del servicio de TI." }
+      { "idx": 1, "qualities": "Este curso está dirigido a todos los que tienen un rol o que tengan interés en el uso y manejo de servicios basados en Internet. Esto incluye al personal de los proveedores de servicios internos y externos, sus clientes, directivos y auditores." }
    ],
    "exam": [
       { "idx": 1, "characteristics": "Tiempo asignado: 60 minutos" },
-      { "idx": 2, "characteristics": "Cantidad de preguntas: 40 de opción múltiple" },
+      { "idx": 2, "characteristics": "Cantidad de preguntas: 40 preguntas de opción múltiple" },
       { "idx": 3, "characteristics": "Calificación aprobatoria: 65% (26 respuestas correctas)" },
-      { "idx": 4, "characteristics": "Formato: En línea o Papel; a libro cerrado" },
-      { "idx": 5, "characteristics": "Prerrequisitos: Se recomiendan por lo menos 4 horas de estudio personal durante el curso." }
+      { "idx": 4, "characteristics": "Formato de Preguntas: En línea o en papel, se presenta el último día del curso" },
+      { "idx": 5, "characteristics": "Prerequisitos: No existe un prerrequisito para presentar este examen." }
    ],
    "content": [
       {
-         "idx" : "",
-         "unit" : "Días del curso", 
+         "idx" : 1,
+         "unit" : "Los principios del Cloud Computing", 
          "topics" : [
-            { "idx":"1", "topic":"Días 1 y 2" },
-            { "idx":"2", "topic":"Día 3 y 4" },
-            { "idx":"3", "topic":"Día 5" }
+            { "idx":"1.1", "topic":"El concepto de Cloud Computing" },
+            { "idx":"1.2", "topic":"La evolución hacia el Cloud Computing" },
+            { "idx":"1.3", "topic":"Arquitecturas de Cloud Computing" },
+            { "idx":"1.4", "topic":"Beneficios y limitaciones de Cloud Computing" }
          ]
       },
       {
-         "idx" : 1.1,
-         "unit" : "Introducción a la Seguridad de la Información", 
+         "idx" : 2,
+         "unit" : "Implementación y gestión de Cloud Computing", 
          "topics" : [
-            { "idx":"1.1.1", "topic":"Información" },
-            { "idx":"1.1.2", "topic":"Gestión de la Información" },
-            { "idx":"1.1.3", "topic":"Aspectos de Confiabilidad" },
-            { "idx":"1.1.4", "topic":"Diseño de Sistemas de Información Seguros" },
-            { "idx":"1.1.5", "topic":"Información y Procesos Operativos" },
-            { "idx":"1.1.6", "topic":"Arquitectura de la Información" }
+            { "idx":"2.1", "topic":"Construcción de entornos Cloud locales" },
+            { "idx":"2.2", "topic":"Gestión de servicios Cloud" }
          ]
       },
       {
-         "idx" : 1.2,
-         "unit" : "Amenazas y Riesgos", 
+         "idx" : 3,
+         "unit" : "Arquitectura de seguridad e ingeniería", 
          "topics" : [
-            { "idx":"1.2.1", "topic":"Gestión de Riesgos" },
-            { "idx":"1.2.2", "topic":"Análisis de Riesgos" },
-            { "idx":"1.2.3", "topic":"Amenazas" },
-            { "idx":"1.2.4", "topic":"Daño" },
-            { "idx":"1.2.5", "topic":"Estrategias" },
-            { "idx":"1.2.6", "topic":"Pautas para implementar medidas de seguridad" }
+            { "idx":"3.1", "topic":"Acceder al Cloud" },
+            { "idx":"3.2", "topic":"Cloud y los procesos de negocio" },
+            { "idx":"3.3", "topic":"Los proveedores de servicio y el Cloud" }
          ]
       },
       {
-         "idx" : 1.3,
-         "unit" : "Enfoque y Organización", 
+         "idx" : 4,
+         "unit" : "Comunicación y seguridad de red", 
          "topics" : [
-            { "idx":"1.3.1", "topic":"Política de Seguridad" },
-            { "idx":"1.3.2", "topic":"Organización de la Seguridad de la Información" },
-            { "idx":"1.3.3", "topic":"Código de Conducta" },
-            { "idx":"1.3.4", "topic":"Activos de Negocio" },
-            { "idx":"1.3.5", "topic":"Roles" },
-            { "idx":"1.3.6", "topic":"Gestión de Incidentes" }
+            { "idx":"4.1", "topic":"Seguridad en el Cloud" },
+            { "idx":"4.2", "topic":"Identidad y privacidad" }
          ]
       },
       {
-         "idx" : 1.4,
-         "unit" : "Medidas de Seguridad", 
+         "idx" : 5,
+         "unit" : "Gestión de identidad y acceso (IAM)", 
          "topics" : [
-            { "idx":"1.4.1", "topic":"Tipos de Medidas de Seguridad" },
-            { "idx":"1.4.2", "topic":"Riesgos y Medidas de Seguridad" },
-            { "idx":"1.4.3", "topic":"Clasificación de la Información" },
-            { "idx":"1.4.4", "topic":"Medidas de Seguridad Física" },
-            { "idx":"1.4.5", "topic":"Medidas Técnicas" },
-            { "idx":"1.4.6", "topic":"Medidas de Seguridad Organizacional" }
-         ]
-      },
-      {
-         "idx" : 1.5,
-         "unit" : "Legislación y Regulaciones", 
-         "topics" : [
-            { "idx":"1.5.1", "topic":"Conformidad" },
-            { "idx":"1.5.2", "topic":"Importancia de la Legislaciones y las Regulaciones" },
-            { "idx":"1.5.3", "topic":"Legislación de la Seguridad de la Información" },
-            { "idx":"1.5.4", "topic":"Actos Legislativos" },
-            { "idx":"1.5.5", "topic":"Regulaciones de la Seguridad de la Información" },
-            { "idx":"1.5.6", "topic":"Medidas de Legislación y Regulaciones" }
-         ]
-      },
-      {
-         "idx" : 1.6,
-         "unit" : "Normas ISO/IEC 27000", 
-         "topics" : [
-            { "idx":"1.6.1", "topic":"Introducción" },
-            { "idx":"1.6.2", "topic":"ISO/IEC 27001" },
-            { "idx":"1.6.3", "topic":"ISO/IEC 27002" }
-         ]
-      },
-      {
-         "idx" : 1.7,
-         "unit" : "Esquema de Calificación", 
-         "topics" : [
-            { "idx":"1.7.1", "topic":"Esquema de Calificación" },
-            { "idx":"1.7.2", "topic":"Información para contactar a EXIN" }
-         ]
-      },
-      {
-         "idx" : 1.8,
-         "unit" : "Descripción del Examen", 
-         "topics" : [
-            { "idx":"1.8.1", "topic":"Formato del examen" },
-            { "idx":"1.8.2", "topic":"Contenido del examen de EXIN" },
-            { "idx":"1.8.3", "topic":"Consejos para contestar el examen" }
-         ]
-      },
-      {
-         "idx" : 1.9,
-         "unit" : "Repaso, Evaluación y Examinación", 
-         "topics" : [
-            { "idx":"1.9.1", "topic":"Repaso general" },
-            { "idx":"1.9.2", "topic":"Examen de preparación" },
-            { "idx":"1.9.3", "topic":"Revisión del examen de preparación" },
-            { "idx":"1.9.4", "topic":"Evaluación del curso" },
-            { "idx":"1.9.5", "topic":"Constancia del curso" },
-            { "idx":"1.9.6", "topic":"Examen de certificación" }
-         ]
-      },
-      {
-         "idx" : 2.1,
-         "unit" : "Introducción y Definiciones (Continuidad del Negocio)", 
-         "topics" : [
-            { "idx":"2.1.1", "topic":"Introducción" },
-            { "idx":"2.1.2", "topic":"Alcance" },
-            { "idx":"2.1.3", "topic":"Referencias Normativas" },
-            { "idx":"2.1.4", "topic":"Términos y Definiciones" },
-            { "idx":"2.1.5", "topic":"Antecedentes" },
-            { "idx":"2.1.6", "topic":"Beneficios" }
-         ]
-      },
-      {
-         "idx" : 2.2,
-         "unit" : "Proceso de Gestión de Riesgos de Seguridad de la Información", 
-         "topics" : [
-            { "idx":"2.2.1", "topic":"Proceso de Gestión de Riesgos de Seguridad de la Información" },
-            { "idx":"2.2.2", "topic":"Actividades del Proceso de Gestión de Riesgos de Seguridad de la Información" }
-         ]
-      },
-      {
-         "idx" : 2.3,
-         "unit" : "Establecimiento del Contexto de Gestión de Riesgos de Seguridad de la Información", 
-         "topics" : [
-            { "idx":"2.3.1", "topic":"Consideraciones Generales" },
-            { "idx":"2.3.2", "topic":"Criterios" },
-            { "idx":"2.3.3", "topic":"Alcance y Fronteras" },
-            { "idx":"2.3.4", "topic":"Organización para la Gestión de Riesgos de Seguridad de la Información" }
-         ]
-      },
-      {
-         "idx" : 2.4,
-         "unit" : "Valoración de Riesgos de Seguridad de la Información", 
-         "topics" : [
-            { "idx":"2.4.1", "topic":"Descripción General de la Valoración de Riesgos de Seguridad de la Información" },
-            { "idx":"2.4.2", "topic":"Análisis de Riesgos" },
-            { "idx":"2.4.3", "topic":"Evaluación de Riesgos" }
-         ]
-      },
-      {
-         "idx" : 2.5,
-         "unit" : "Tratamiento de Riesgos de Seguridad de la Información", 
-         "topics" : [
-            { "idx":"2.5.1", "topic":"Descripción General del Tratamiento de Riesgos" },
-            { "idx":"2.5.2", "topic":"Reducción de Riesgos" },
-            { "idx":"2.5.3", "topic":"Retención de Riesgos" },
-            { "idx":"2.5.4", "topic":"Evasión de Riesgos" },
-            { "idx":"2.5.5", "topic":"Transferencia de Riesgos" },
-            { "idx":"2.5.6", "topic":"Aceptación de Riesgos" }
-         ]
-      },
-      {
-         "idx" : 2.6,
-         "unit" : "Monitoreo, Revisión y Comunicación de Riesgos de Seguridad de la Información", 
-         "topics" : [
-            { "idx":"2.6.1", "topic":"Monitoreo y Revisión" },
-            { "idx":"2.6.2", "topic":"Comunicación" }
-         ]
-      },
-      {
-         "idx" : 3.1,
-         "unit" : "Introducción a la Gestión de Riesgos de Seguridad de la Información", 
-         "topics" : [
-            { "idx":"3.1.1", "topic":"Objetivo del Sistema de Gestión de la Continuidad del Negocio" },
-            { "idx":"3.1.2", "topic":"El Modelo Planear-Hacer-Verificar-Actuar" },
-            { "idx":"3.1.3", "topic":"Definiciones" }
-         ]
-      },
-      {
-         "idx" : 3.2,
-         "unit" : "Planear el Sistema de Gestión de la Continuidad del Negocio", 
-         "topics" : [
-            { "idx":"3.2.1", "topic":"Entender la Organización y su Contexto" },
-            { "idx":"3.2.2", "topic":"Entender las Necesidades y las Expectativas de las Partes Interesadas" },
-            { "idx":"3.2.3", "topic":"La Importancia de los Requerimientos Regulatorios y Legales" },
-            { "idx":"3.2.4", "topic":"Determinar el Alcance del Sistema de Gestión de la Continuidad del Negocio" },
-            { "idx":"3.2.5", "topic":"Sistema de Gestión de la Continuidad del Negocio" },
-            { "idx":"3.2.6", "topic":"Liderazgo, Compromiso, Roles y Responsabilidades" },
-            { "idx":"3.2.7", "topic":"Gestión de Riesgos" },
-            { "idx":"3.2.8", "topic":"Definición de los Objetivos de Continuidad del Negocio" },
-            { "idx":"3.2.9", "topic":"Provisión de los Recursos" }
-         ]
-      },
-      {
-         "idx" : 3.3,
-         "unit" : "Implementar y Operar el Sistema de Gestión de la Continuidad del Negocio", 
-         "topics" : [
-            { "idx":"3.3.1", "topic":"Planeación y Control Operacional" },
-            { "idx":"3.3.2", "topic":"Análisis de Impacto al Negocio y Valoración de Riesgos" },
-            { "idx":"3.3.3", "topic":"Estrategia de Continuidad del Negocio" },
-            { "idx":"3.3.4", "topic":"Procedimientos de Continuidad del Negocio" },
-            { "idx":"3.3.5", "topic":"Ejercicios y Pruebas" }
-         ]
-      },
-      {
-         "idx" : 3.4,
-         "unit" : "Monitorear y Revisar el Sistema de Gestión de la Continuidad del Negocio", 
-         "topics" : [
-            { "idx":"3.4.1", "topic":"Monitoreo y Evaluación" },
-            { "idx":"3.4.2", "topic":"Auditoría Interna" },
-            { "idx":"3.4.3", "topic":"Revisión de la Dirección" }
-         ]
-      },
-      {
-         "idx" : 3.5,
-         "unit" : "Mantener y Mejorar el Sistema de Gestión de la Continuidad del Negocio", 
-         "topics" : [
-            { "idx":"3.5.1", "topic":"No Conformidad y Acción Correctiva" },
-            { "idx":"3.5.2", "topic":"Mejora Continua" }
-         ]
-      },
-      {
-         "idx" : 3.6,
-         "unit" : "Descripción del Examen", 
-         "topics" : [
-            { "idx":"3.6.1", "topic":"Formato del examen" },
-            { "idx":"3.6.2", "topic":"Consejos para contestar el examen" }
-         ]
-      },
-      {
-         "idx" : 3.7,
-         "unit" : "Revisión, Evaluación y Examinación", 
-         "topics" : [
-            { "idx":"3.7.1", "topic":"Revisión General" },
-            { "idx":"3.7.2", "topic":"Examen de Preparación" },
-            { "idx":"3.7.3", "topic":"Revisión del Examen de Preparación" },
-            { "idx":"3.7.4", "topic":"Evaluación del Curso" },
-            { "idx":"3.7.5", "topic":"Certificado del Curso" },
-            { "idx":"3.7.6", "topic":"Examen de Certificación" }
+            { "idx":"5.1", "topic":"El modelo de negocio" },
+            { "idx":"5.2", "topic":"Evaluación de implementaciones" }
          ]
       }
+      
    ]
 }
