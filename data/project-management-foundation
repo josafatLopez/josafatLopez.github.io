@@ -1,0 +1,40 @@
+{
+   "id": 70,
+   "linkurl": "project-management-foundation",
+   "category": "PMI",
+   "course": "Project Management Foundation",
+   "schedules": [
+      { "idx": 1, "date": "Contacta a un asesor para saber próximas fechas" },
+      { "idx": 2, "date": "" }
+   ],
+   "modality": "Presencial | En línea con profesor en vivo",
+   "duration": "24 horas",
+   "description": "El propósito de este curso es dar a conocer a los participantes las mejores prácticas para la Administración de Proyectos tal como se indica en el A Guide to the Project Management Body of Knowledge, (PMBOK® Guide) - 6th. Edition, Project Management Institute, Inc., 2017. Es idóneo para que el participante desarrolle sus habilidades y competencias laborales en el área de Gestión de Proyectos.",
+   "logourl": "",
+   "courseincludes": [
+      { "idx": 1, "include": "Material en español e inglés e incluye teoría, ejercicios de práctica e información complementaria." },
+      { "idx": 2, "include": "Contiene preguntas tipo examen a lo largo de todo el curso." },
+      { "idx": 3, "include": "Se entrega una constancia de asistencia." }
+   ],
+   "benefits": [
+      { "idx": 1, "benefit": "Al finalizar exitosamente este curso, el participante obtendrá conocimiento sobre las áreas de conocimiento mencionadas en el PMBOK® Guide 6th. Edition y sus procesos." }
+   ],
+   "forwho": [
+      { "idx": 1, "qualities": "Personas interesadas en conocer los fundamentos de la Administración de Proyectos." },
+      { "idx": 2, "qualities": "Personas que deseen conocer las características de un proyecto y las responsabilidades de un administrador de proyectos." },
+      { "idx": 3, "qualities": "Personas interesadas en conocer la estructura del PMBOK® Guide, sus áreas de conocimiento y sus procesos." },
+      { "idx": 4, "qualities": "Personas interesadas en adquirir posteriormente su credencial de PMP® con el PMI®." }
+   ],
+   "exam": [
+      { "idx": 1, "characteristics": "información pronto disponible" }
+   ],
+   "content": [
+      { "idx" : 1, "unit" : "Conceptos clave de la Dirección de Proyectos",  "topics" : [] },
+      { "idx" : 2, "unit" : "Antes de Iniciar el Proyecto",  "topics" : [] },
+      { "idx" : 3, "unit" : "Inicio del Proyecto",  "topics" : [] },
+      { "idx" : 4, "unit" : "Planificación del Proyecto",  "topics" : [] },
+      { "idx" : 5, "unit" : "Ejecución del Proyecto",  "topics" : [] },
+      { "idx" : 6, "unit" : "Monitoreo y Control del Proyecto",  "topics" : [] },
+      { "idx" : 7, "unit" : "Cierre del Proyecto",  "topics" : [] }
+   ]
+}

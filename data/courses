@@ -402,6 +402,12 @@
       "course": "Professional Cloud Solutions Architect"
    },
    {
+      "id": 70,
+      "linkurl": "project-management-foundation",
+      "category": "PMI",
+      "course": "Project Management Foundation"
+   },
+   {
       "id": 101,
       "linkurl": "combo-it-security-risk-and-continuity",
       "category": "Combos",
