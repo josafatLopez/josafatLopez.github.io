@@ -25,14 +25,6 @@
       ]
    },
    {
-      "category" : "Arquitectura",
-      "courses": [
-         { "id": 18, "linkurl": "togaf-foundation", "course": "TOGAF® 9 Training Course - Foundation" },
-         { "id": 19, "linkurl": "togaf-certified", "course": "TOGAF® 9 Training Course - Certified" },
-         { "id": 20, "linkurl": "togaf-bundle", "course": "TOGAF® 9 Training Course - Bundle" }
-      ]
-   },
-   {
       "category" : "Agile",
       "courses": [
          { "id": 21, "linkurl": "agile-scrum-foundation", "course": "Agile SCRUM Foundation" },
@@ -95,13 +87,6 @@
       ]
    },
    {
-      "category" : "Integración de Servicios",
-      "courses": [
-         { "id": 38, "linkurl": "siam-service-integration-and-management", "course": "SIAM Foundation (Service Integration and Management)" },
-         { "id": 39, "linkurl": "it-contracts-and-outsourcing-management", "course": "IT Contracts and Outsourcing Management" }
-      ]
-   },
-   {
       "category" : "Seguridad de la Información",
       "courses": [
          { "id": 5, "linkurl": "information-security-foundation-iso-iec-27001", "course": "Information Security Foundation - ISO/IEC 27001" },
@@ -111,6 +96,21 @@
          { "id": 61, "linkurl": "cism-certified-information-security-manager", "course": "CISM® (Certified Information Security Manager®)" },
          { "id": 62, "linkurl": "certified-information-systems-security-professional", "course": "CISSP® Certified Information Systems Security Professional" },
          { "id": 63, "linkurl": "certified-cloud-security-professional", "course": "Certified Cloud Security Professional (CCSP®)" }
+      ]
+   },
+   {
+      "category" : "Arquitectura",
+      "courses": [
+         { "id": 18, "linkurl": "togaf-foundation", "course": "TOGAF® 9 Training Course - Foundation" },
+         { "id": 19, "linkurl": "togaf-certified", "course": "TOGAF® 9 Training Course - Certified" },
+         { "id": 20, "linkurl": "togaf-bundle", "course": "TOGAF® 9 Training Course - Bundle" }
+      ]
+   },
+   {
+      "category" : "Integración de Servicios",
+      "courses": [
+         { "id": 38, "linkurl": "siam-service-integration-and-management", "course": "SIAM Foundation (Service Integration and Management)" },
+         { "id": 39, "linkurl": "it-contracts-and-outsourcing-management", "course": "IT Contracts and Outsourcing Management" }
       ]
    },
    {
@@ -125,7 +125,7 @@
       ]
    },
    {
-      "category" : "Cloud Computing",
+      "category" : "PMI",
       "courses": [
          { "id": 3, "linkurl": "pmp-exam-preparation", "course": "PMI® Authorized PMP® Exam Prep Course" },
          { "id": 70, "linkurl": "project-management-foundation", "course": "Project Management Foundation" }
