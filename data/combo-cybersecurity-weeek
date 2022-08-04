@@ -1,0 +1,169 @@
+{
+   "id": 72,
+   "linkurl": "combo-cybersecurity-weeek",
+   "category": "Combos",
+   "course": "Combo Cybersecurity Week",
+   "schedules": [
+      { "idx": 1, "date": "Contacta a un asesor para saber próximas fechas" },
+      { "idx": 2, "date": "" }
+   ],
+   "modality": "Presencial | En línea con profesor en vivo",
+   "duration": "40 horas",
+   "description": "El combo CYBERSECURITY WEEK incluye los cursos: Cyber and IT Security Foundation e ISO/IEC 27032 Cybersecurity Professional El propósito de este combo es proporcionar al participante un enfoque integral sobre la ciberseguridad, al capacitarlo en los Fundamentos Ciber Seguridad y Seguridad de TI y como Profesional en Ciberseguridad con base en ISO 27032. Es idóneo para todas las personas que deseen obtener un conocimiento amplio sobre los temas asociados con la ciberseguridad en su organización.",
+   "logourl": "",
+   "courseincludes": [
+      { "idx": 1, "include": "Material oficial acreditado para el participante" },
+      { "idx": 2, "include": "Ejercicios de revisión" },
+      { "idx": 3, "include": "Diploma de finalización de curso" },
+      { "idx": 4, "include": "Exámenes de simulación" },
+      { "idx": 5, "include": "Exámenes de certificación oficial por parte de ERCA (ISO 27032 Cybersecurity Professional) y EXIN (Cyber &IT Security Foundation)" }
+   ],
+   "benefits": [
+      { "idx": 1, "benefit": "Aprender los conceptos básicos sobre la ciber seguridad y seguridad de TI." },
+      { "idx": 2, "benefit": "Comprender la norma ISO 27032 como el conjunto de guías y lineamientos para la gestión de la ciber seguridad y seguridad de TI." },
+      { "idx": 3, "benefit": "Obtener el certificado en Fundamentos de Ciber Seguridad y seguridad de TI y Profesional en Ciber Seguridad con base en ISO 27032." }
+   ],
+   "forwho": [
+      { "idx": 1, "qualities": "Toda persona en la organización que gestione información." },
+      { "idx": 2, "qualities": "El curso también es adecuado para negocios pequeños independientes para los que es necesario un conocimiento básico sobre la ciberseguridad y seguridad de TI." },
+      { "idx": 3, "qualities": "Este curso puede ser un buen inicio para nuevos profesionales en ciberseguridad y seguridad de TI." },
+      { "idx": 4, "qualities": "Responsables de la ciberseguridad o seguridad de TI." }
+   ],
+   "exam": [
+      { "idx": 0, "characteristics": "FUNDAMENTOS DE CIBER SEGURIDAD Y SEGURIDAD DE TI" },
+      { "idx": 1, "characteristics": "Tiempo asignado: 60 minutos" },
+      { "idx": 2, "characteristics": "Número de preguntas: 40 preguntas de opción múltiple" },
+      { "idx": 3, "characteristics": "Calificación aprobatoria: 65%" },
+      { "idx": 4, "characteristics": "Formato: En papel o en línea el último día del curso / a libro cerrado" },
+      { "idx": 5, "characteristics": "Prerrequisitos: No existen prerrequisitos para este curso." },
+      { "idx": 6, "characteristics": "ISO 27032 CYBERSECURITY PROFESSIONAL" },
+      { "idx": 7, "characteristics": "Tiempo asignado: 60 minutos" },
+      { "idx": 8, "characteristics": "Número de preguntas: 35 preguntas de opción múltiple" },
+      { "idx": 9, "characteristics": "Calificación aprobatoria: 75%" },
+      { "idx": 10, "characteristics": "Formato: En papel el último día del curso" },
+      { "idx": 11, "characteristics": "Prerrequisitos: No existen prerrequisitos. Se recomienda tener un conocimiento previo de la norma ISO/IEC 27001:2018." }
+   ],
+   "content": [
+      {
+         "idx" : "",
+         "unit" : "Días del curso", 
+         "topics" : [
+            { "idx":"1", "topic":"Días 1 y 2" },
+            { "idx":"2", "topic":"Día 3, 4 y 5" }
+         ]
+      },
+      {
+         "idx" : 1.1,
+         "unit" : "Redes Tcp/Ip", 
+         "topics" : [
+            { "idx":"1.1.1", "topic":"Nodos, Conexión de Nodos & Tratamiento de TCP/IP" },
+            { "idx":"1.1.2", "topic":"Modelo OSI, Modelo TCP/IP, Protocolos" }
+         ]
+      },
+      {
+         "idx" : 1.2,
+         "unit" : "Sistemas Computacionales", 
+         "topics" : [
+            { "idx":"1.2.1", "topic":"Arquitectura Computacional, Sistemas Operativos" },
+            { "idx":"1.2.2", "topic":"Vulnerabilidades de los Sistemas Computacionales" },
+            { "idx":"1.2.3", "topic":"Entender las Necesidades y las Expectativas de las Partes Interesadas" }
+         ]
+      },
+      {
+         "idx" : 1.3,
+         "unit" :  "Aplicaciones & Bases de Datos", 
+         "topics" : [
+            { "idx":"1.3.1", "topic":"Desarrollo de Aplicaciones" },
+            { "idx":"1.3.2", "topic":"Bases de Datos" },
+            { "idx":"1.3.3", "topic":"Contramedidas y Problemas de Seguridad" }
+         ]
+      },
+      {
+         "idx" : 1.4,
+         "unit" : "Criptografía", 
+         "topics" : [
+            { "idx":"1.4.1", "topic":"Estándares y Metodologías de Encriptación" },
+            { "idx":"1.4.2", "topic":"Firmas Digital, Hashing" },
+            { "idx":"1.4.3", "topic":"Infraestructura de Llave Pública (Pki)" },
+            { "idx":"1.4.4", "topic":"SSL/TLS, Ipsec" }
+         ]
+      },
+      {
+         "idx" : 1.5,
+         "unit" : "Gestión de Accesos e Identidades", 
+         "topics" : [
+            { "idx":"1.5.1", "topic":"Identificación, Autenticación, Biométricos, Single Sign-On (SSO),Gestión de Contraseñas" },
+            { "idx":"1.5.2", "topic":"Autorización" }
+         ]
+      },
+      {
+         "idx" : 1.6,
+         "unit" : "Cloud Computing", 
+         "topics" : [
+            { "idx":"1.6.1", "topic":"Características & Modelos de Desarrollo" },
+            { "idx":"1.6.2", "topic":"Riesgos" }
+         ]
+      },
+      {
+         "idx" : 1.7,
+         "unit" : "Explotar Vulnerabilidades", 
+         "topics" : [
+            { "idx":"1.7.1", "topic":"Categorías de Ataques y Tipos de Amenazas" },
+            { "idx":"1.7.2", "topic":"Actores y Herramientas" }
+         ]
+      },
+      {
+         "idx" : 1.8,
+         "unit" : "Repaso, Evaluación y Examinación", 
+         "topics" : []
+      },
+      {
+         "idx" : 2.1,
+         "unit" : "Introducción a la ciberseguridad de acuerdo con ISO/IEC 27032", 
+         "topics" : [
+            { "idx":"2.1.1", "topic":"Marco de trabajo" },
+            { "idx":"2.1.2", "topic":"Principios ISO" },
+            { "idx":"2.1.3", "topic":"Introducción a ISO 27032" },
+            { "idx":"2.1.4", "topic":"Alcance y conceptos" },
+            { "idx":"2.1.5", "topic":"Programa de ciberseguridad" },
+            { "idx":"2.1.6", "topic":"Analizando la organización" },
+            { "idx":"2.1.7", "topic":"Liderazgo" }
+         ]
+      },
+      {
+         "idx" : 2.2,
+         "unit" : "Políticas, gestión de riesgos y mecanismos de ataque en Ciberseguridad", 
+         "topics" : [
+            { "idx":"2.2.1", "topic":"Políticas de seguridad cibernética" },
+            { "idx":"2.2.2", "topic":"Gestión de riesgos de seguridad" },
+            { "idx":"2.2.3", "topic":"Mecanismos de ataque" }
+         ]
+      },
+      {
+         "idx" : 2.3,
+         "unit" : "Controles de ciberseguridad, intercambio de información y coordinación", 
+         "topics" : [
+            { "idx":"2.3.1", "topic":"Controles de ciberseguridad" },
+            { "idx":"2.3.2", "topic":"Compartir información y coordinación" },
+            { "idx":"2.3.3", "topic":"Formación y sensibilización " }
+         ]
+      },
+      {
+         "idx" : 2.4,
+         "unit" : "Controles de ciberseguridad, intercambio de información y coordinación", 
+         "topics" : [
+            { "idx":"2.4.1", "topic":"Continuidad del negocio" },
+            { "idx":"2.4.2", "topic":"Gestión de incidentes" },
+            { "idx":"2.4.3", "topic":"Respuesta a incidentes" },
+            { "idx":"2.4.4", "topic":"Pruebas de ciberseguridad" },
+            { "idx":"2.4.5", "topic":"Medición del desempeño" },
+            { "idx":"2.4.6", "topic":"Mejora continua" }
+         ]
+      },
+      {
+         "idx" : 2.5,
+         "unit" : "Repaso, Evaluación y Examinación", 
+         "topics" : []
+      }
+   ]
+}

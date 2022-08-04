@@ -1,0 +1,169 @@
+{
+   "id": 75,
+   "linkurl": "itsm-foundation",
+   "category": "ITSM (ISO/IEC 20000)",
+   "course": "ITSM Foundation based on ISO/IEC 20000",
+   "schedules": [
+      { "idx": 1, "date": "Contacta a un asesor para saber próximas fechas" },
+      { "idx": 2, "date": "" }
+   ],
+   "modality": "Presencial | En línea con profesor en vivo",
+   "duration": "40 horas",
+   "description": "CISSP® Certified Information Systems Security Professional es la certificación más reconocida a nivel mundial en el mercado de la seguridad de la información. CISSP valida el profundo conocimiento técnico y de gestión de un profesional de la seguridad de la información para diseñar, construir y gestionar eficazmente la postura general de seguridad de una organización.",
+   "logourl": "",
+   "courseincludes": [
+      { "idx": 1, "include": "Material oficial acreditado para el participante" },
+      { "idx": 2, "include": "Diploma de finalización de curso" }
+   ],
+   "benefits": [
+      { "idx": 1, "benefit": "Seguridad y gestión de riesgos" },
+      { "idx": 2, "benefit": "Seguridad de activos" },
+      { "idx": 3, "benefit": "Arquitectura de seguridad e ingeniería" },
+      { "idx": 4, "benefit": "Comunicación y seguridad de red" },
+      { "idx": 5, "benefit": "Gestión de identidad y acceso (IAM)" },
+      { "idx": 6, "benefit": "Evaluación de seguridad y pruebas" },
+      { "idx": 7, "benefit": "Operaciones de seguridad" },
+      { "idx": 8, "benefit": "Seguridad de desarrollo de software" }
+   ],
+   "forwho": [
+      { "idx": 1, "qualities": "Director/Gerente de TI" },
+      { "idx": 2, "qualities": "Director de seguridad de la información" },
+      { "idx": 3, "qualities": "Director de seguridad Informática" },
+      { "idx": 4, "qualities": "Gerente de seguridad" },
+      { "idx": 5, "qualities": "Auditor de seguridad" },
+      { "idx": 6, "qualities": "Arquitecto en redes" },
+      { "idx": 7, "qualities": "Arquitecto de seguridad" },
+      { "idx": 8, "qualities": "Consultor de seguridad" },
+      { "idx": 9, "qualities": "Ingeniero de sistemas de seguridad" },
+      { "idx": 10, "qualities": "Analista de seguridad" }
+   ],
+   "exam": [
+      { "idx": "Existen dos tipos de examen:", "characteristics": "" },
+      { "idx": "CAT (Exámenes Adaptativos Computarizados)", "characteristics": "" },
+      { "idx": 1, "characteristics": "Duración del Examen: 3 Horas" },
+      { "idx": 2, "characteristics": "Número de preguntas: 100 a 150" },
+      { "idx": 3, "characteristics": "Formato de Preguntas: Múltiples opciones y preguntas Innovadoras Avanzadas" },
+      { "idx": 4, "characteristics": "Calificación aprobatoria: 700 a 1000 puntos" },
+      { "idx": 5, "characteristics": "Disponibilidad de Idioma del Examen: Inglés" },
+      { "idx": 6, "characteristics": "Centro de Prueba: (ISC) 2 Autorizado y Centros de Exámenes Pearson VUE" },
+      { "idx": "Lineal", "characteristics": "" },
+      { "idx": 7, "characteristics": "Duración del Examen: 6 Horas" },
+      { "idx": 8, "characteristics": "Número de preguntas: 250" },
+      { "idx": 9, "characteristics": "Formato de Preguntas: Múltiples opciones y preguntas Innovadoras Avanzadas" },
+      { "idx": 10, "characteristics": "Calificación aprobatoria: 700 a 1000 puntos" },
+      { "idx": 11, "characteristics": "Disponibilidad de Idioma del Examen: Español" },
+      { "idx": 12, "characteristics": "Centro de Prueba: (ISC) 2 Autorizado y Centros de Exámenes Pearson VUE" }
+   ],
+   "content": [
+      {
+         "idx" : "Dominio 1:",
+         "unit" : "Seguridad y Gestión de riesgos", 
+         "topics" : [
+           { "idx":"1.1", "topic":"Comprender y aplicar conceptos de confidencialidad, integridad y disponibilidad" },
+           { "idx":"1.2", "topic":"Evaluar y aplicar principios de gobierno de la seguridad" },
+           { "idx":"1.3", "topic":"Determinar los requisitos de cumplimiento" },
+           { "idx":"1.4", "topic":"Comprender las cuestiones legales y regulatorias relacionadas con la seguridad de la información en un contexto global" },
+           { "idx":"1.5", "topic":"Comprender, adherirse a, y promover la ética profesional" },
+           { "idx":"1.6", "topic":"Desarrollar, documentar e implementar políticas de seguridad, estándares, procedimientos y directrices" },
+           { "idx":"1.7", "topic":"Identificar, analizar y priorizar los requisitos de continuidad del negocio" },
+           { "idx":"1.8", "topic":"Contribuir y hacer cumplir las políticas y procedimientos de seguridad de personal" },
+           { "idx":"1.9", "topic":"Comprender y aplicar conceptos de gestión de riesgos" },
+           { "idx":"1.10", "topic":"Comprender y aplicar conceptos y metodologías de modelado de amenazas" },
+           { "idx":"1.11", "topic":"Aplicar conceptos de gestión basados en el riesgo a la cadena de suministro" },
+           { "idx":"1.12", "topic":"Establecer y mantener un programa de concienciación, educación y capacitación sobre seguridad" }
+         ]
+      },
+      {
+         "idx" : "Dominio 2:",
+         "unit" : "Seguridad de activos", 
+         "topics" : [
+           { "idx":"2.1", "topic":"Identificar y clasificar información y activos" },
+           { "idx":"2.2", "topic":"Determinar y mantener la información y la propiedad de activos" },
+           { "idx":"2.3", "topic":"Proteger la privacidad" },
+           { "idx":"2.4", "topic":"Asegurar la retención adecuada de activos" },
+           { "idx":"2.5", "topic":"Determinar los controles de seguridad de datos" },
+           { "idx":"2.6", "topic":"Establecer requisitos de gestión de activos e información" }
+         ]
+      },
+      {
+         "idx" : "Dominio 3:",
+         "unit" : "Arquitectura de seguridad e ingeniería", 
+         "topics" : [
+           { "idx":"3.1", "topic":"Implementar y gestionar procesos de ingeniería utilizando principios de diseño seguro" },
+           { "idx":"3.2", "topic":"Comprender los conceptos fundamentales de los modelos de seguridad" },
+           { "idx":"3.3", "topic":"Seleccionar controles basados en los requisitos de seguridad de los sistemas" },
+           { "idx":"3.4", "topic":"Comprender las capacidades de seguridad de los sistemas de información (por ejemplo, protección de memoria, módulo de plataforma de confianza (TPM), cifrado / descifrado)" },
+           { "idx":"3.5", "topic":"Evaluar y mitigar las vulnerabilidades de arquitecturas de seguridad, diseños y soluciones " },
+           { "idx":"3.6", "topic":"Evaluar y mitigar las vulnerabilidades en sistemas basados en web" },
+           { "idx":"3.7", "topic":"Evaluar y mitigar las vulnerabilidades en sistemas móviles" },
+           { "idx":"3.8", "topic":"Evaluar y mitigar vulnerabilidades en dispositivos integrados" },
+           { "idx":"3.9", "topic":"Aplicar criptografía" },
+           { "idx":"3.10", "topic":"Implementar controles de seguridad en recintos e instalaciones" }
+         ]
+      },
+      {
+         "idx" : "Dominio 4:",
+         "unit" : "Comunicación y seguridad de red", 
+         "topics" : [
+           { "idx":"4.1", "topic":"Implementar principios de diseño seguro en arquitecturas de red" },
+           { "idx":"4.2", "topic":"Componentes de red seguros" },
+           { "idx":"4.3", "topic":"Implementar canales de comunicación seguros según el diseño" }
+         ]
+      },
+      {
+         "idx" : "Dominio 5:",
+         "unit" : "Gestión de identidad y acceso (IAM)", 
+         "topics" : [
+           { "idx":"5.1", "topic":"Control de acceso físico y lógico a los activos" },
+           { "idx":"5.2", "topic":"Gestionar la identificación y autenticación de personas, dispositivos y servicios" },
+           { "idx":"5.3", "topic":"Integrar la identidad como un servicio de terceros" },
+           { "idx":"5.4", "topic":"Implementar y gestionar mecanismos de autorización" },
+           { "idx":"5.5", "topic":"Gestionar el ciclo de vida de acceso y aprovisionamiento" }
+         ]
+      },
+      {
+         "idx" : "Dominio 6:",
+         "unit" : "Evaluación de seguridad y pruebas", 
+         "topics" : [
+           { "idx":"6.1", "topic":"Diseñar y validar estrategias de evaluación, prueba y auditoría" },
+           { "idx":"6.2", "topic":"Realizar pruebas de control de seguridad" },
+           { "idx":"6.3", "topic":"Recopilar datos de procesos de seguridad (por ejemplo, técnicos y administrativos)" },
+           { "idx":"6.4", "topic":"Analizar resultados de prueba y generación de informes" },
+           { "idx":"6.5", "topic":"Realizar o facilitar auditorías de seguridad" }
+         ]
+      },
+      {
+         "idx" : "Dominio 7:",
+         "unit" : "Operaciones de seguridad", 
+         "topics" : [
+           { "idx":"7.1", "topic":"Comprender y apoyar las investigaciones" },
+           { "idx":"7.2", "topic":"Comprender los requisitos para los tipos de investigación" },
+           { "idx":"7.3", "topic":"Realizar actividades de registro y monitorización" },
+           { "idx":"7.4", "topic":"Aprovisionamiento de recursos de forma segura" },
+           { "idx":"7.5", "topic":"Comprender y aplicar conceptos de operaciones de seguridad fundamentales" },
+           { "idx":"7.6", "topic":"Aplicar técnicas de protección de recursos" },
+           { "idx":"7.7", "topic":"Realizar gestión de incidentes" },
+           { "idx":"7.8", "topic":"Operar y mantener medidas de detectivas y preventivas" },
+           { "idx":"7.9", "topic":"Implementar y soportar la gestión de parches y vulnerabilidades" },
+           { "idx":"7.10", "topic":"Comprender y participar en los procesos de gestión de cambios" },
+           { "idx":"7.12", "topic":"Implementar estrategias de recuperación" },
+           { "idx":"7.13", "topic":"Implementar procesos de recuperación de desastres (DR)" },
+           { "idx":"7.14", "topic":"Prueba de Planes de Recuperación ante Desastres (DRP)" },
+           { "idx":"7.15", "topic":"Participar en la planificación y ejercicios de Continuidad del Negocio (BC)" },
+           { "idx":"7.16", "topic":"Implementar y administrar la seguridad física" },
+           { "idx":"7.17", "topic":"Tratar las preocupaciones de seguridad y protección del personal" }
+         ]
+      },
+      {
+         "idx" : "Dominio 8:",
+         "unit" : "Seguridad de desarrollo de software", 
+         "topics" : [
+           { "idx":"8.1", "topic":"Comprender e integrar la seguridad en el Ciclo de vida de desarrollo de software (SDLC)" },
+           { "idx":"8.2", "topic":"Identificar y aplicar controles de seguridad en entornos de desarroll" },
+           { "idx":"8.3", "topic":"Evaluar la efectividad de la seguridad del software" },
+           { "idx":"8.4", "topic":"Evaluar el impacto de seguridad del software adquirido" },
+           { "idx":"8.5", "topic":"Definir y aplicar pautas y normas de programación segura" }
+         ]
+      }
+   ]
+}

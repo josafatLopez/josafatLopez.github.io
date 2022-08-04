@@ -130,5 +130,23 @@
          { "id": 3, "linkurl": "pmp-exam-preparation", "course": "PMI® Authorized PMP® Exam Prep Course" },
          { "id": 70, "linkurl": "project-management-foundation", "course": "Project Management Foundation" }
       ]
+   },
+   {
+      "category" : "Combos",
+      "courses": [
+         { "id": 71, "linkurl": "combo-business-continuity-week", "course": "Combo Business Continuity Week" },
+         { "id": 72, "linkurl": "combo-cybersecurity-weeek", "course": "Combo Cybersecurity Week" },
+         { "id": 73, "linkurl": "combo-it-security-risk-and-continuity", "course": "Combo IT Security, Risk & Continuity" },
+         { "id": 74, "linkurl": "combo-devops-week", "course": "Combo DevOps Week" }
+      ]
+   },
+   {
+      "category" : "ITSM (ISO/IEC 20000)",
+      "courses": [
+         { "id": 75, "linkurl": "itsm-foundation", "course": "ITSM Foundation based on ISO/IEC 20000" },
+         { "id": 76, "linkurl": "iso-iec-20000-implementation", "course": "ISO/IEC 20000 Implementation" },
+         { "id": 77, "linkurl": "itsm-internal-auditor", "course": "Internal Auditor in ITSM based on ISO/IEC 20000" },
+         { "id": 78, "linkurl": "iso-iec-20000-lead-auditor", "course": "ISO/IEC 20000 Lead Auditor" }
+      ]
    }
 ]

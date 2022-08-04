@@ -408,9 +408,51 @@
       "course": "Project Management Foundation"
    },
    {
-      "id": 101,
+      "id": 71,
+      "linkurl": "combo-business-continuity-week",
+      "category": "Combos",
+      "course": "Combo Business Continuity Week"
+   },
+   {
+      "id": 72,
+      "linkurl": "combo-cybersecurity-weeek",
+      "category": "Combos",
+      "course": "Combo Cybersecurity Week"
+   },
+   {
+      "id": 73,
       "linkurl": "combo-it-security-risk-and-continuity",
       "category": "Combos",
       "course": "Combo IT Security, Risk & Continuity"
+   },
+   {
+      "id": 74,
+      "linkurl": "combo-devops-week",
+      "category": "Combos",
+      "course": "Combo DevOps Week"
+   },
+   {
+      "id": 75,
+      "linkurl": "itsm-foundation",
+      "category": "ITSM (ISO/IEC 20000)",
+      "course": "ITSM Foundation based on ISO/IEC 20000"
+   },
+   {
+      "id": 76,
+      "linkurl": "iso-iec-20000-implementation",
+      "category": "ITSM (ISO/IEC 20000)",
+      "course": "ISO/IEC 20000 Implementation"
+   },
+   {
+      "id": 77,
+      "linkurl": "itsm-internal-auditor",
+      "category": "ITSM (ISO/IEC 20000)",
+      "course": "Internal Auditor in ITSM based on ISO/IEC 20000"
+   },
+   {
+      "id": 78,
+      "linkurl": "iso-iec-20000-lead-auditor",
+      "category": "ITSM (ISO/IEC 20000)",
+      "course": "ISO/IEC 20000 Lead Auditor"
    }
 ]

@@ -1,0 +1,210 @@
+{
+   "id": 71,
+   "linkurl": "combo-business-continuity-week",
+   "category": "Combos",
+   "course": "Combo Business Continuity Week",
+   "schedules": [
+      { "idx": 1, "date": "Contacta a un asesor para saber próximas fechas" },
+      { "idx": 2, "date": "" }
+   ],
+   "modality": "Presencial | En línea con profesor en vivo",
+   "duration": "40 horas",
+   "description": "El combo BUSINESS CONTINUITY WEEK incluye los cursos: Business Continuity Management Foundation , Business Impact Analysis e Implementación de un Sistema de Gestión de la Continuidad del Negocio. El propósito de este combo es proporcionar al participante un enfoque integral sobre la continuidad del negocio. Es idóneo para todas las personas que deseen obtener un conocimiento amplio sobre los temas asociados con la continuidad del negocio en su organización, y la continuidad de los servicios de TI en caso de desastres.",
+   "logourl": "",
+   "courseincludes": [
+      { "idx": 1, "include": "Material oficial acreditado para el participante" },
+      { "idx": 2, "include": "Ejercicios de revisión" },
+      { "idx": 3, "include": "Diploma de finalización de curso" },
+      { "idx": 4, "include": "Exámenes de simulación" },
+      { "idx": 5, "include": "Exámenes de certificación oficial por parte de EXIN (Business Continuity Management Foundation based on ISO 22301, y ERCA (Implementación de ISO 22301)" }
+   ],
+   "benefits": [
+      { "idx": 1, "benefit": "Aprender los conceptos básicos sobre la continuidad del negocio." },
+      { "idx": 2, "benefit": "Comprender la norma ISO 222301 como el conjunto de guías y lineamientos para la gestión de la continuidad del negocio." },
+      { "idx": 3, "benefit": "Obtener el conocimiento claro de un Sistema de Gestión de la Continuidad del Negocio (BCMS) y su ciclo de vida." },
+      { "idx": 4, "benefit": "Conocer los requerimientos de la norma ISO 22301 y la forma de implementarlos." },
+      { "idx": 5, "benefit": "Comprender los roles y responsabilidades del auditor a un Sistema de Gestión de Continuidad del Negocio." },
+      { "idx": 6, "benefit": "Comprender la diferencia entre un DRP y un BCP." },
+      { "idx": 7, "benefit": "Entender cómo diseñar, implementar, madurar, monitorear y mejorar el BCMS." },
+      { "idx": 8, "benefit": "Conocer cómo realizar una gestión de riesgos para un BCMS." }
+   ],
+   "forwho": [
+      { "idx": 1, "qualities": "Todas las personas en la organización que procesen información." },
+      { "idx": 2, "qualities": "Negocios pequeños e independientes para los cuales es necesario un conocimiento básico de la continuidad del negocio." },
+      { "idx": 3, "qualities": "Responsables de la continuidad del negocio y/o del servicio de TI." },
+      { "idx": 4, "qualities": "Gerentes de Continuidad del Negocio." },
+      { "idx": 5, "qualities": "Consultores de Continuidad del Negocio." },
+      { "idx": 6, "qualities": "Auditores de Continuidad del Negocio." },
+      { "idx": 7, "qualities": "Dueños de Procesos de Continuidad del Negocio." },
+      { "idx": 8, "qualities": "Personal encargado de la implementación, administración y quienes participen en un Sistema de Gestión de Continuidad del Negocio." },
+      { "idx": 9, "qualities": "Personal a cargo del DRP y BCP." },
+      { "idx": 10, "qualities": "Analistas de Seguridad de la Información y Continuidad del Negocio." }
+   ],
+   "exam": [
+      { "idx": 0, "characteristics": "FUNDAMENTOS DE CONTINUIDAD DEL NEGOCIO CON BASE EN ISO 22301" },
+      { "idx": 1, "characteristics": "Tiempo asignado: 60 minutos" },
+      { "idx": 2, "characteristics": "Número de preguntas: 40 preguntas de opción múltiple" },
+      { "idx": 3, "characteristics": "Calificación aprobatoria: 65%" },
+      { "idx": 4, "characteristics": "Formato: En papel el último día del curso" },
+      { "idx": 5, "characteristics": "Prerrequisitos: No existen prerrequisitos para este curso." },
+      { "idx": 6, "characteristics": "IMPLEMENTACIÓN ISO 22301" },
+      { "idx": 7, "characteristics": "Tiempo asignado: 60 minutos" },
+      { "idx": 8, "characteristics": "Número de preguntas: 40 preguntas de opción múltiple" },
+      { "idx": 9, "characteristics": "Calificación aprobatoria: 65%" },
+      { "idx": 10, "characteristics": "Formato: En papel el último día del curso" },
+      { "idx": 11, "characteristics": "Prerrequisitos: No existen prerrequisitos para este curso." }
+   ],
+   "content": [
+      {
+         "idx" : "",
+         "unit" : "Días del curso", 
+         "topics" : [
+            { "idx":"1", "topic":"Días 1 y 2" },
+            { "idx":"2", "topic":"Día 3" },
+            { "idx":"3", "topic":"Días 4 y 5" }
+         ]
+      },
+      {
+         "idx" : 1.1,
+         "unit" : "Introducción y Definiciones", 
+         "topics" : [
+            { "idx":"1.1.1", "topic":"Objetivo del Sistema de Gestión de la Continuidad del Negocio" },
+            { "idx":"1.1.2", "topic":"El Modelo Planear-Hacer-Verificar-Actuar" },
+            { "idx":"1.1.3", "topic":"Definiciones" }
+         ]
+      },
+      {
+         "idx" : 1.2,
+         "unit" : "Planear el Sistema de Gestión de la Continuidad del Negocio", 
+         "topics" : [
+            { "idx":"1.2.1", "topic":"Entender la Organización y su Contexto" },
+            { "idx":"1.2.2", "topic":"Entender las Necesidades y las Expectativas de las Partes Interesadas" },
+            { "idx":"1.2.3", "topic":"La Importancia de los Requerimientos Regulatorios y Legales" },
+            { "idx":"1.2.4", "topic":"Determinar el Alcance del Sistema de Gestión de la Continuidad del Negocio" },
+            { "idx":"1.2.5", "topic":"Sistema de Gestión de la Continuidad del Negocio" },
+            { "idx":"1.2.6", "topic":"Liderazgo, Compromiso, Roles y Responsabilidades" },
+            { "idx":"1.2.7", "topic":"Gestión de Riesgos" },
+            { "idx":"1.2.8", "topic":"Definición de los Objetivos de Continuidad del Negocio" },
+            { "idx":"1.2.9", "topic":"Provisión de los Recursos" }
+         ]
+      },
+      {
+         "idx" : 1.3,
+         "unit" : "Implementar y Operar el Sistema de Gestión de la Continuidad del Negocio", 
+         "topics" : [
+            { "idx":"1.3.1", "topic":"Planeación y Control Operacional" },
+            { "idx":"1.3.2", "topic":"Análisis de Impacto al Negocio y Valoración de Riesgos" },
+            { "idx":"1.3.3", "topic":"Estrategia de Continuidad del Negocio" },
+            { "idx":"1.3.4", "topic":"Procedimientos de Continuidad del Negocio" },
+            { "idx":"1.3.5", "topic":"Ejercicios y Pruebas" }
+         ]
+      },
+      {
+         "idx" : 1.4,
+         "unit" : "Monitorear y Revisar el Sistema de Gestión de la Continuidad del Negocio", 
+         "topics" : [
+            { "idx":"1.4.1", "topic":"Monitoreo y Evaluación" },
+            { "idx":"1.4.2", "topic":"Auditoría Interna" },
+            { "idx":"1.4.3", "topic":"Revisión de la Dirección" }
+         ]
+      },
+      {
+         "idx" : 1.5,
+         "unit" : "Mantener y Mejorar el Sistema de Gestión de la Continuidad del Negocio", 
+         "topics" : [
+            { "idx":"1.5.1", "topic":"No Conformidad y Acción Correctiva" },
+            { "idx":"1.5.2", "topic":"Mejora Continua" }
+         ]
+      },
+      {
+         "idx" : 2.1,
+         "unit" : "Introducción al Análisis de Impacto al Negocio", 
+         "topics" : []
+      },
+      {
+         "idx" : 2.2,
+         "unit" : "Entendimiento del Negocio", 
+         "topics" : []
+      },
+      {
+         "idx" : 2.3,
+         "unit" : "Actividades de Misión Crítica", 
+         "topics" : []
+      },
+      {
+         "idx" : 2.4,
+         "unit" : "Requerimientos de Recuperación", 
+         "topics" : []
+      },
+      {
+         "idx" : 2.5,
+         "unit" : "Pérdidas Estimadas y Apetito del Riesgo", 
+         "topics" : []
+      },
+      {
+         "idx" : 2.6,
+         "unit" : "Análisis de Recursos de Recuperación por Impacto al Negocio", 
+         "topics" : []
+      },
+      {
+         "idx" : 2.7,
+         "unit" : "Reporte de Análisis de Impacto al Negocio", 
+         "topics" : []
+      },
+      {
+         "idx" : 3.1,
+         "unit" : "Introducción al Sistema de Gestión de Continuidad del Negocio (BCMS)", 
+         "topics" : []
+      },
+      {
+         "idx" : 3.2,
+         "unit" : "Beneficios del BCMS", 
+         "topics" : []
+      },
+      {
+         "idx" : 3.3,
+         "unit" : "Conceptos de ISO 22301", 
+         "topics" : []
+      },
+      {
+         "idx" : 3.4,
+         "unit" : "Requerimientos dentro de ISO 22301", 
+         "topics" : []
+      },
+      {
+         "idx" : 3.5,
+         "unit" : "Opciones de implementación para crear un BCMS Certificado", 
+         "topics" : []
+      },
+      {
+         "idx" : 3.6,
+         "unit" : "Planeación de Proyectos de Implementación de la norma ISO 22301", 
+         "topics" : []
+      },
+      {
+         "idx" : 3.7,
+         "unit" : "Estructura de Trabajo para Implementación de la norma ISO 22301", 
+         "topics" : []
+      },
+      {
+         "idx" : 3.8,
+         "unit" : "Riesgos en un BCMS", 
+         "topics" : []
+      },
+      {
+         "idx" : 3.9,
+         "unit" : "Monitoreo y control del BCMS", 
+         "topics" : []
+      },
+      {
+         "idx" : 3.10,
+         "unit" : "Auditorías a un BCMS", 
+         "topics" : []
+      },
+      {
+         "idx" : 3.11,
+         "unit" : "Examen de Certificación", 
+         "topics" : []
+      }
+   ]
+}

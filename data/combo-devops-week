@@ -1,0 +1,152 @@
+{
+   "id": 74,
+   "linkurl": "combo-devops-week",
+   "category": "Combos",
+   "course": "Combo DevOps Week",
+   "schedules": [
+      { "idx": 1, "date": "Contacta a un asesor para saber próximas fechas" },
+      { "idx": 2, "date": "" }
+   ],
+   "modality": "Presencial | En línea con profesor en vivo",
+   "duration": "40 horas",
+   "description": "El combo DEVOPS WEEK incluye los cursos: DevOps Fundamentals, DevOps Leadership y Líder ágil. El propósito de este combo es proporcionar al participante un conjunto completo e integral de capacidades de DevOps. El curso de Fundamentos de DevOps cubre el conocimiento fundamental requerido para que el participante construya su conocimiento y sus habilidades con respecto a los principios y las prácticas de DevOps. El curso de Liderazgo de DevOps cubre habilidades, prácticas y conocimiento más avanzados para liderar una iniciativa o un equipo de DevOps.",
+   "logourl": "",
+   "courseincludes": [
+      { "idx": 1, "include": "Material oficial acreditado para el participante" },
+      { "idx": 2, "include": "Ejercicios de repaso y aplicación" },
+      { "idx": 3, "include": "Exámenes de simulación" },
+      { "idx": 4, "include": "Exámenes de certificación oficial por parte de PeopleCert" }
+   ],
+   "benefits": [
+      { "idx": 1, "benefit": "Aprender la historia, los conceptos clave y el valor para el negocio de DevOps." },
+      { "idx": 2, "benefit": "Obtener un entendimiento completo sobre C.A.L.M.S., Las Tres Formas, entrega continua, y otras prácticas de DevOps." },
+      { "idx": 3, "benefit": "Adquirir una perspectiva sobre la cultura de DevOps, el liderazgo transformacional y la estructura y los equipos de DevOps requeridos." },
+      { "idx": 4, "benefit": "Entender a profundidad las 15 Prácticas Esenciales de DevOps." },
+      { "idx": 5, "benefit": "Conocer la forma para guiar a una organización a través de una transformación de DevOps." }
+   ],
+   "forwho": [
+      { "idx": 1, "qualities": "Cualquier persona que quiera convertirse en un miembro eficiente de un entorno de DevOps." },
+      { "idx": 2, "qualities": "Profesionales de TI que busquen una certificación personal en DevOps." },
+      { "idx": 3, "qualities": "Líderes de TI que quieran convertirse en líderes eficientes de una transformación de DevOps." },
+      { "idx": 4, "qualities": "Líderes de áreas de desarrollo de software o de operaciones que busquen mejores prácticas para lograr mayores niveles de agilidad en la organización de TI." }
+   ],
+   "exam": [
+      { "idx": 0, "characteristics": "FUNDAMENTOS DE DEVOPS" },
+      { "idx": 1, "characteristics": "Tiempo asignado: 60 minutos" },
+      { "idx": 2, "characteristics": "Número de preguntas: 40 preguntas de opción múltiple" },
+      { "idx": 3, "characteristics": "Calificación aprobatoria: 70%" },
+      { "idx": 4, "characteristics": "Formato: En papel o en línea el último día del curso / a libro cerrado" },
+      { "idx": 5, "characteristics": "Prerrequisitos: No existen prerrequisitos para este curso." },
+      { "idx": 6, "characteristics": "LIDERAZGO DE DEVOPS" },
+      { "idx": 7, "characteristics": "Tiempo asignado: 60 minutos" },
+      { "idx": 8, "characteristics": "Número de preguntas: 20 preguntas de opción múltiple" },
+      { "idx": 9, "characteristics": "Calificación aprobatoria: 70%" },
+      { "idx": 10, "characteristics": "Formato: En papel o en línea el último día del curso / a libro cerrado" },
+      { "idx": 11, "characteristics": "Tener el certificado de PeopleCert Fundamentos de DevOps." }
+   ],
+   "content": [
+      {
+         "idx" : "",
+         "unit" : "Días del curso", 
+         "topics" : [
+            { "idx":"1", "topic":"Días 1 y 2" },
+            { "idx":"2", "topic":"Día 3, 4 y 5" }
+         ]
+      },
+      {
+         "idx" : 1.1,
+         "unit" : "Introducción a DevOps", 
+         "topics" : [
+            { "idx":"1.1.1", "topic":"Qué es DevOps" }
+         ]
+      },
+      {
+         "idx" : 1.2,
+         "unit" : "La Urgencia de DevOps", 
+         "topics" : [
+            { "idx":"1.2.1", "topic":"El Problema de Entrega de Valor de Negocio" },
+            { "idx":"1.2.2", "topic":"El Problema de Entrega de Valor de TI" }
+         ]
+      },
+      {
+         "idx" : 1.3,
+         "unit" : "Principios y Conceptos Clave de DevOps", 
+         "topics" : [
+            { "idx":"1.3.1", "topic":"C.A.L.M.S. y las Tres Formas" },
+            { "idx":"1.3.2", "topic":"El Canal de Despliegues" },
+            { "idx":"1.3.3", "topic":"El Alcance de DevOps" }
+         ]
+      },
+      {
+         "idx" : 1.4,
+         "unit" : "El Paquete Completo - Gente y Cultura", 
+         "topics" : [
+            { "idx":"1.4.1", "topic":"Definiendo la Cultura de DevOps" },
+            { "idx":"1.4.2", "topic":"Liderazgo Transformacional" },
+            { "idx":"1.4.3", "topic":"Estructuras y Equipos de DevOps" }
+         ]
+      },
+      {
+         "idx" : 1.5,
+         "unit" : "El Paquete Completo - Procesos y Prácticas", 
+         "topics" : [
+            { "idx":"1.5.1", "topic":"La Evolución de las Prácticas de DevOps" },
+            { "idx":"1.5.2", "topic":"Las 15 Prácticas Esenciales de DevOps" }
+         ]
+      },
+      {
+         "idx" : 1.6,
+         "unit" : "El Paquete Completo - Tecnología y Automatización", 
+         "topics" : [
+            { "idx":"1.6.1", "topic":"Automatización para el Canal de Despliegues" },
+            { "idx":"1.6.2", "topic":"Tecnología de Nube y Virtualización" },
+            { "idx":"1.6.3", "topic":"Arquitectura para la Entrega Continua" }
+         ]
+      },
+      {
+         "idx" : 2.1,
+         "unit" : "Introducción al Liderazgo de DevOps", 
+         "topics" : [
+            { "idx":"2.1.1", "topic":"¿Qué es el Liderazgo?" },
+            { "idx":"2.1.2", "topic":"Principios Clave de DevOps" },
+            { "idx":"2.1.3", "topic":"Guiando a la Organización a través de la Transformación" }
+         ]
+      },
+      {
+         "idx" : 2.2,
+         "unit" : "Clarificar y Alinear la Transformación de DevOps con la Entrega de Valor", 
+         "topics" : [
+            { "idx":"2.2.1", "topic":"Establecer la Necesidad de Urgencia de DevOps" },
+            { "idx":"2.2.2", "topic":"Clarificar y Alinear los Objetivos del Negocio" }
+         ]
+      },
+      {
+         "idx" : 2.3,
+         "unit" : "Planear y Abordar la Transformación de DevOps", 
+         "topics" : [
+            { "idx":"2.3.1", "topic":"Crear la Visión y la Estrategia para la Transformación" },
+            { "idx":"2.3.2", "topic":"Identificar e Influenciar a los Stakeholders Vitales" }
+         ]
+      },
+      {
+         "idx" : 2.4,
+         "unit" : "Comprometerse e Implementar el Paquete Completo de DevOps", 
+         "topics" : [
+            { "idx":"2.4.1", "topic":"Dirigir una Cultura de Equipos Multifuncionales Auto-Organizados" },
+            { "idx":"2.4.2", "topic":"Reunir, Transmitir e Implementar la Retroalimentación" },
+            { "idx":"2.4.3", "topic":"Habilitar el Flujo a lo largo de la Cadena de Valor" },
+            { "idx":"2.4.4", "topic":"Dividir el Trabajo en Iteraciones para Acelerar el Aprendizaje y la Experimentación" },
+            { "idx":"2.4.5", "topic":"Liderazgo para la Entrega Continua" }
+         ]
+      },
+      {
+         "idx" : 2.5,
+         "unit" : "Validar los Resultados y Sustentar la Transformación de DevOps", 
+         "topics" : [
+            { "idx":"2.5.1", "topic":"Dirigir una Cultura de Mejora Continua" },
+            { "idx":"2.5.2", "topic":"Conducir a la Innovación" },
+            { "idx":"2.5.3", "topic":"Mejorar la Resiliencia Organizacional y la Sustentabilidad" }
+         ]
+      }
+   ]
+}
