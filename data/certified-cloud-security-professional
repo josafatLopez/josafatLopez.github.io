@@ -1,0 +1,59 @@
+{
+   "id": 63,
+   "linkurl": "certified-cloud-security-professional",
+   "category": "Seguridad de la Información",
+   "course": "Certified Cloud Security Professional (CCSP®)",
+   "schedules": [
+      { "idx": 1, "date": "Contacta a un asesor para saber próximas fechas" },
+      { "idx": 2, "date": "" }
+   ],
+   "modality": "Presencial | En línea con profesor en vivo",
+   "duration": "40 horas",
+   "description": "La capacitación oficial (ISC) ² CCSP proporciona una revisión integral de los conocimientos necesarios para comprender la computación en la nube y sus riesgos de seguridad de la información y estrategias de mitigación. Este curso de capacitación ayudará a los estudiantes a revisar y actualizar sus conocimientos e identificar las áreas que necesitan estudiar para el examen CCSP. Impartido por un instructor autorizado por (ISC) ², el curso incluye:",
+   "logourl": "",
+   "courseincludes": [
+      { "idx": 1, "include": "Material oficial acreditado para el participante" },
+      { "idx": 2, "include": "Ejercicios de revisión" },
+      { "idx": 3, "include": "Diploma de finalización de curso" },
+      { "idx": 4, "include": "Examen de simulación" },
+      { "idx": 5, "include": "Examen de certificación oficial por parte de (ISC) ²" }
+   ],
+   "benefits": [
+      { "idx": 1, "benefit": "Comprender los marcos legales y las pautas que afectan a los servicios en la nube." },
+      { "idx": 2, "benefit": "Reconocer los fundamentos de los mandatos regulatorios / legislativos de privacidad de datos." },
+      { "idx": 3, "benefit": "Evaluar los riesgos, la vulnerabilidad, las amenazas y los ataques en el entorno de la nube." },
+      { "idx": 4, "benefit": "Evaluar el diseño y planificar los controles de seguridad de la infraestructura de la nube." },
+      { "idx": 5, "benefit": "Evaluar qué es necesario para administrar las operaciones de seguridad." },
+      { "idx": 6, "benefit": "Comprender qué controles operativos y estándares implementar." },
+      { "idx": 7, "benefit": "Describir los tipos de modelos de implementación en la nube en los tipos de modelos en la nube “como servicio” actualmente disponibles en la actualidad." },
+      { "idx": 8, "benefit": "Identificar la terminología clave y las definiciones asociadas relacionadas con la tecnología de la nube." },
+      { "idx": 9, "benefit": "Establecer una terminología común para su uso en su equipo o grupo de trabajo." },
+      { "idx": 10, "benefit": "Cree un caso de negocio para la adopción de la nube y determine las unidades de negocio que se benefician de las estrategias de migración a la nube." }
+   ],
+   "forwho": [
+      { "idx": 1, "qualities": "Arquitecto Empresarial" },
+      { "idx": 2, "qualities": "Administrador de seguridad" },
+      { "idx": 3, "qualities": "Ingeniero de sistemas" },
+      { "idx": 4, "qualities": "Arquitecto de seguridad" },
+      { "idx": 5, "qualities": "Consultor de seguridad" },
+      { "idx": 6, "qualities": "Ingeniero de seguridad" },
+      { "idx": 7, "qualities": "Gerente de seguridad" },
+      { "idx": 8, "qualities": "Arquitecto de sistemas" }
+   ],
+   "exam": [
+      { "idx": 1, "characteristics": "Tiempo asignado: 180 minutos" },
+      { "idx": 2, "characteristics": "Numero de preguntas: 125 preguntas de opción múltiple" },
+      { "idx": 3, "characteristics": "Calificación aprobatoria: 700 de 1000 puntos" },
+      { "idx": 4, "characteristics": "Formato: En línea – el examen se programa posterior al curso" },
+      { "idx": 5, "characteristics": "Idioma: Inglés" },
+      { "idx": 6, "characteristics": "Experiencia requerida: Los candidatos deben tener un mínimo de 5 años acumulados de trabajo remunerado o experiencia en prácticas remuneradas / no remuneradas en tecnología de la información, de los cuales 3 años deben ser en seguridad de la información y 1 año en 1 o más de los 6 dominios del CCSP CBK. La obtención del certificado CCSK de CSA se puede sustituir por 1 año de experiencia en 1 o más de los 6 dominios del CCSP CBK. Obtener la credencial CISSP de (ISC) ² se puede sustituir por todo el requisito de experiencia CCSP. Un candidato que no tenga la experiencia requerida para convertirse en CCSP puede convertirse en Asociado de (ISC) ² al aprobar con éxito el examen CCSP. El Asociado de (ISC) ² tendrá entonces 6 años para obtener los 5 años de experiencia requerida." }
+   ],
+   "content": [
+      { "idx" : 1, "unit" : "Conceptos, Arquitectura y Diseño de la nube",  "topics" : [] },
+      { "idx" : 2, "unit" : "Seguridad de los Datos en la Nube",  "topics" : [] },
+      { "idx" : 3, "unit" : "Seguridad de la Infraestructura y la Plataforma en la Nube",  "topics" : [] },
+      { "idx" : 4, "unit" : "Seguridad de las Aplicaciones en la Nube",  "topics" : [] },
+      { "idx" : 5, "unit" : "Operaciones de Seguridad en la Nube",  "topics" : [] },
+      { "idx" : 6, "unit" : "Legal, Riesgo y Cumplimiento",  "topics" : [] }
+   ]
+}

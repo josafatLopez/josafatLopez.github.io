@@ -2,7 +2,7 @@
    "id": 60,
    "linkurl": "iso-iec-27001-lead-auditor",
    "category": "Seguridad de la Información",
-   "course": "SO/IEC 27001 Lead Auditor",
+   "course": "ISO/IEC 27001 Lead Auditor",
    "schedules": [
       { "idx": 1, "date": "Contacta a un asesor para saber próximas fechas" },
       { "idx": 2, "date": "" }
