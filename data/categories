@@ -148,5 +148,16 @@
          { "id": 77, "linkurl": "itsm-internal-auditor", "course": "Internal Auditor in ITSM based on ISO/IEC 20000" },
          { "id": 78, "linkurl": "iso-iec-20000-lead-auditor", "course": "ISO/IEC 20000 Lead Auditor" }
       ]
+   },
+   {
+      "category" : "Gestión de Riesgos y Antisoborno",
+      "courses": [
+         { "id": 79, "linkurl": "it-risk-management", "course": "IT Risk Management (based on ISO/IEC 27005, ISO/IEC 31000, ISO/IEC 20000, ISO 22301, COBIT® 5, and ITIL®)" },
+         { "id": 80, "linkurl": "business-impact-analysis-bia", "course": "Fundamentos de ISO 22317 (Análisis de Impacto al Negocio)" },
+         { "id": 81, "linkurl": "information-security-risk-management", "course": "Information Security Risk Mgmt. - ISO/IEC 27005" },
+         { "id": 82, "linkurl": "crisc-certified-in-risk-and-information-systems-control", "course": "CRISC™ (Certified in Risk and Information Systems Control™)" },
+         { "id": 83, "linkurl": "risk-management-foundation-iso-31000", "course": "Risk Management Foundation - ISO 31000" },
+         { "id": 84, "linkurl": "anti-bribery-fundation-based-on-iso-37001", "course": "Anti-bribery Foundation based on ISO 37001" }
+      ]
    }
 ]

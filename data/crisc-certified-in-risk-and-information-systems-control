@@ -8,70 +8,125 @@
       { "idx": 2, "date": "" }
    ],
    "modality": "Presencial | En línea con profesor en vivo",
-   "duration": "24 horas",
-   "description": "El curso de ITIL 4 Create, Deliver and Support (CDS) (Crear, Entregar y Soportar) tiene la intención de proporcionar al candidato el entendimiento sobre cómo integrar diferentes flujos de valor y actividades para crear, entregar y soportar servicios y productos de TI y herramientas, métodos y prácticas relevantes.",
+   "duration": "40 horas",
+   "description": "En el ambiente del negocio actual, las empresas deben innovar para sobrevivir. Sin embargo, la innovación casi siempre conlleva un riesgo. Para mantener o alcanzar su competitividad, los líderes en las empresas que piensan a futuro reconocen la necesidad de profesionales que comprendan la tecnología, y específicamente cómo implementar y alinear una gestión de riesgos eficaz y marcos de control con los objetivos de negocio de la empresa. Para ayudar a alcanzar la creciente demanda para profesionales con esta combinación de entendimiento técnico y de negocio, ISACA® desarrolló la certificación Certified in Risk and Information Systems Control™ (CRISC™).",
    "logourl": "",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
       { "idx": 2, "include": "Ejercicios de revisión" },
-      { "idx": 3, "include": "Examen de simulación" },
-      { "idx": 4, "include": "Examen de certificación oficial por parte de Peoplecert" }
+      { "idx": 3, "include": "Examen de prueba" },
+      { "idx": 4, "include": "Diploma de finalización de curso" },
+      { "idx": 5, "include": "Examen de certificación oficial por parte de ISACA" }
    ],
    "benefits": [
-      { "idx": 1, "benefit": "Aumentar el conocimiento sobre la creación de servicios de ITIL." },
-      { "idx": 2, "benefit": "Aprender sobre la integración de diferentes actividades y flujos de valor para crear, entregar y soportar productos y servicios de TI mientras se cubren prácticas, métodos y herramientas de soporte." },
-      { "idx": 3, "benefit": "Conocer sobre el desempeño del servicio y comprender los diferentes métodos de mejora y la calidad del servicio." },
-      { "idx": 4, "benefit": "Permitir a los practicantes entregar a sus clientes servicios de tecnología innovadores y confiables en un mercado altamente competitivo." }
+      { "idx": 1, "benefit": "Obtener un símbolo prestigioso de conocimiento y experiencia como un profesional de riesgos." },
+      { "idx": 2, "benefit": "Aumentar el valor de su organización al buscar gestionar riesgos de TI." },
+      { "idx": 3, "benefit": "Obtener un marco organizacional para gestionar y mitigar riesgos a través de la tecnología y los procesos de negocio." },
+      { "idx": 4, "benefit": "Ser capaz de establecer un lenguaje común para comunicarse dentro de TI y las partes interesadas en toda la empresa acerca de los riesgos." },
+      { "idx": 5, "benefit": "Ser capaz de tomar decisiones basadas en riesgos y priorizar recursos hacia las áreas que se encuentran más en riesgo." },
+      { "idx": 6, "benefit": "Afirmar su capacidad de planear e implementar marcos y medidas de control apropiadas que mitiguen los riesgos empresariales." },
+      { "idx": 7, "benefit": "Ser capaz de ayudar a generar un mayor entendimiento acerca del impacto de los riesgos de TI y cómo se relacionan con los riesgos generales." },
+      { "idx": 8, "benefit": "Obtener experiencia en diseñar, implementar y mantener controles para mitigar riesgos." },
+      { "idx": 9, "benefit": "Ser capaz de asegurar una gestión de riesgos eficaz para la organización." }
    ],
    "forwho": [
-      { "idx": 1, "qualities": "Individuos que desean continuar aprendiendo más sobre la gestión de servicios." },
-      { "idx": 2, "qualities": "Gestores de ITSM y aspirantes a gestores de ITSM." },
-      { "idx": 3, "qualities": "Profesionales en ITSM que gestionan la operación de servicios y productos digitales y de TI, y aquellos responsables de la entrega día a día." },
-      { "idx": 4, "qualities": "Personas que cuenten con una certificación en ITIL y que deseen desarrollar su conocimiento." }
+      { "idx": 1, "qualities": "Profesionales de TI" },
+      { "idx": 2, "qualities": "Profesionales de Riesgos" },
+      { "idx": 3, "qualities": "Profesionales en Controles" },
+      { "idx": 4, "qualities": "Analistas de Negocio" },
+      { "idx": 5, "qualities": "Directores de Proyectos" },
+      { "idx": 6, "qualities": "Profesionales en Cumplimiento" }
    ],
    "exam": [
-      { "idx": 1, "characteristics": "Tiempo asignado: 90 minutos" },
-      { "idx": 2, "characteristics": "Cantidad de preguntas: 40 de opción múltiple" },
-      { "idx": 3, "characteristics": "Calificación aprobatoria: 70% - 28 aciertos" },
-      { "idx": 4, "characteristics": "Formato: En papel o en línea el último día del curso / a libro cerrado" },
-      { "idx": 5, "characteristics": "Prerrequisitos: El candidato debe haber pasado el examen de Fundamentos de ITIL 4. Además el candidato debe haber asistido a un curso de capacitación acreditado para este módulo" }
+      { "idx": 1, "characteristics": "Fechas: ISACA programa tres temporadas en el año para programar el examen" },
+      { "idx": 2, "characteristics": "Tiempo asignado: 240 minutos" },
+      { "idx": 3, "characteristics": "Cantidad de preguntas: 150 preguntas de opción múltiple" },
+      { "idx": 4, "characteristics": "Formato: En línea; a libro cerrado" },
+      { "idx": 5, "characteristics": "Requerimientos de Elegibilidad: Tres años de experiencia gestionando riesgos de TI diseñando e implementando controles de Seguridad de la Información, incluyendo experiencia por lo menos en 2 dominios de CRISC, de los cuales uno debe ser el dominio 1 o el dominio 2." },
+      { "idx": 6, "characteristics": "Idiomas disponibles: Inglés y español" },
+      { "idx": 7, "characteristics": "Calificación aprobatoria: La calificación del candidato se reporta como una calificación en escala. Una calificación en escala es una conversión de la calificación en bruto del candidato a una escala común. ISACA utiliza y reporta calificaciones en una escala común de 200 a 800. Por ejemplo, la calificación en escala de 800 representa una calificación perfecta con todas las preguntas contestadas correctamente; una calificación en escala de 200 es la calificación más baja posible y significa que únicamente una pequeña cantidad de preguntas fueron contestadas correctamente. Un candidato debe recibir una calificación de 450 o mayor para aprobar el examen)." }
    ],
    "content": [
       {
          "idx" : 1,
-         "unit" : "Planear y Generar un Flujo de Valor del Servicio", 
+         "unit" : "Gobierno", 
          "topics" : [
-           { "idx":"1.1", "topic":"Conceptos y Retos" },
-           { "idx":"1.2", "topic":"Enfoque de Mover a la Izquierda" },
-           { "idx":"1.3", "topic":"Planear y Gestionar Recursos" },
-           { "idx":"1.4", "topic":"Uso y Valor de la Información y la Tecnología" }
+           { "idx":"A1", "topic":"Gobierno organizacional" },
+           { "idx":"A1.1", "topic":"Estrategia organizacional, metas y objetivos." },
+           { "idx":"A1.2", "topic":"Estructura organizacional, roles y responsabilidades" },
+           { "idx":"A1.3", "topic":"Cultura organizacional" },
+           { "idx":"A1.4", "topic":"Políticas y estándares" },
+           { "idx":"A1.5", "topic":"Procesos de negocio" },
+           { "idx":"A1.6", "topic":"Activos organizacionales" },
+           { "idx":"B", "topic":"Gobierno de riesgos" },
+           { "idx":"B1.1", "topic":"Gestión de riesgos empresariales y plataforma de gestión de riesgos." },
+           { "idx":"B1.2", "topic":"Tres líneas de defensa." },
+           { "idx":"B1.3", "topic":"Perfil de riesgo." },
+           { "idx":"B1.4", "topic":"Apetito de riesgo y tolerancia al riesgo." },
+           { "idx":"B1.5", "topic":"Requerimientos legales, regulatorios y contractuales." },
+           { "idx":"B1.6", "topic":"Ética profesional en la gestión de riesgos." }
          ]
       },
       {
          "idx" : 2,
-         "unit" : "Prácticas de ITIL", 
+         "unit" : "Evaluación de riesgos de Tecnologías de la Información (TI).", 
          "topics" : [
-           { "idx":"2.1", "topic":"Flujo de Valor" },
-           { "idx":"2.2", "topic":"Las Prácticas de ITIL Contribuyen a un Flujo de Valor para un Servicio Nuevo" },
-           { "idx":"2.3", "topic":"Proporcionar Soporte al Usuario" },
-           { "idx":"2.3", "topic":"Las Prácticas de ITIL Contribuyen a un Flujo de Valor para el Soporte al Usuario" }
+           { "idx":"A", "topic":"Identificación de riesgos de TI." },
+           { "idx":"A2.1", "topic":"Eventos de riesgo." },
+           { "idx":"A2.2", "topic":"Modelado de amenazas y panorama de amenazas." },
+           { "idx":"A2.3", "topic":"Análisis de vulnerabilidades y control deficiente." },
+           { "idx":"A2.4", "topic":"Desarrollo de escenarios de riesgo." },
+           { "idx":"B", "topic":"Evaluación y análisis de riesgos de TI" },
+           { "idx":"B2.1", "topic":"Conceptos de evaluación de riesgos, estándares y plataformas." },
+           { "idx":"B2.2", "topic":"Registro de riesgos." },
+           { "idx":"B2.3", "topic":"Metodologías de análisis de riesgos." },
+           { "idx":"B2.4", "topic":"Análisis de impacto al negocio." },
+           { "idx":"B2.5", "topic":"Riesgo inherente y residual." }
          ]
       },
       {
          "idx" : 3,
-         "unit" : "Crear, Entregar y Soportar Servicios", 
+         "unit" : "Respuesta al riesgo y reporteo.", 
          "topics" : [
-           { "idx":"3.1", "topic":"Co-ordinar, Priorizar y Estructurar Trabajo y Actividades" },
-           { "idx":"3.2", "topic":"Uso y Valor de lo siguiente a través del sistema de valor del servicio:" },
-           { "idx":"a)", "topic":"Consideraciones sobre comprar versus construir" },
-           { "idx":"b)", "topic":"Opciones de externalización" },
-           { "idx":"c)", "topic":"Gestión e integración de servicios (SIAM)" }
+           { "idx":"A3", "topic":"Respuesta al riesgo" },
+           { "idx":"A3.1", "topic":"Tratamiento del riesgo / Opciones de respuesta al riesgo." },
+           { "idx":"A3.2", "topic":"Propietario del riesgo y control." },
+           { "idx":"A3.3", "topic":"Gestión de riesgo de terceros." },
+           { "idx":"A3.4", "topic":"Gestión de problemas, hallazgos y excepciones." },
+           { "idx":"A3.5", "topic":"Gestión de riesgos emergentes." },
+           { "idx":"B3", "topic":"Respuesta al riesgo" },
+           { "idx":"B3.1", "topic":"Tipos de controles, estándares y plataformas." },
+           { "idx":"B3.2", "topic":"Diseño, selección y análisis de controles." },
+           { "idx":"B3.3", "topic":"Implementación de controles." },
+           { "idx":"B3.4", "topic":"Revisión de controles y evaluación de efectividad." },
+           { "idx":"C3", "topic":"Respuesta al riesgo" },
+           { "idx":"C3.1", "topic":"Planes de tratamiento del riesgo." },
+           { "idx":"C3.2", "topic":"Colección, agregación, análisis y validación de datos." },
+           { "idx":"C3.3", "topic":"Técnicas de monitoreo de controles y riesgos." },
+           { "idx":"C3.4", "topic":"Técnicas de reporteo de controles y riesgos (mapas de calor, tarjetas de resultados, bleros)." },
+           { "idx":"C3.5", "topic":"Indicadores clave de desempeño." },
+           { "idx":"C3.6", "topic":"Indicadores clave de riesgo (KRIs)." },
+           { "idx":"C3.7", "topic":"Indicadores clave de controles (KCIs)." }
          ]
       },
       {
          "idx" : 4,
-         "unit" : "Repaso, Evaluación, Examen de preparación y Examen de Certificación", 
-         "topics" : []
+         "unit" : "Tecnologías de la Información (TI) y seguridad.", 
+         "topics" : [
+            { "idx":"A4", "topic":"Principios de TI." },
+            { "idx":"A4.1", "topic":"Arquitectura empresarial." },
+            { "idx":"A4.2", "topic":"Gestión de operaciones de TI." },
+            { "idx":"A4.3", "topic":"Gestión de proyectos." },
+            { "idx":"A4.4", "topic":"Gestión de recuperación de desastre (DRM)." },
+            { "idx":"A4.5", "topic":"Gestión del ciclo de vida de datos." },
+            { "idx":"A4.6", "topic":"Ciclo de vida de desarrollo de sistemas (SDLC)." },
+            { "idx":"A4.7", "topic":"Tecnologías emergentes." },
+            { "idx":"B4", "topic":"Principios de seguridad de la información." },
+            { "idx":"7.1", "topic":"Conceptos de seguridad de la información, plataformas y estándares." },
+            { "idx":"7.2", "topic":"Concientización de seguridad de la información." },
+            { "idx":"7.3", "topic":"Gestión de continuidad del negocio." },
+            { "idx":"7.4", "topic":"Privacidad de los datos y principios de protección de los datos." }
+         ]
       }
    ]
 }

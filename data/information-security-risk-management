@@ -8,70 +8,40 @@
       { "idx": 2, "date": "" }
    ],
    "modality": "Presencial | En línea con profesor en vivo",
-   "duration": "24 horas",
-   "description": "El curso de ITIL 4 Create, Deliver and Support (CDS) (Crear, Entregar y Soportar) tiene la intención de proporcionar al candidato el entendimiento sobre cómo integrar diferentes flujos de valor y actividades para crear, entregar y soportar servicios y productos de TI y herramientas, métodos y prácticas relevantes.",
+   "duration": "16 horas",
+   "description": "El propósito del curso de Gestión de Riesgos de Seguridad de la Información es proporcionar las pautas y directrices de la norma internacional ISO/IEC 27005, para que el participante conozca y aprenda a utilizar los fundamentos para gestionar riesgos de seguridad de la información dentro su organización y que le permitan identificar, evaluar y controlar dichos riesgos.",
    "logourl": "",
    "courseincludes": [
-      { "idx": 1, "include": "Material oficial acreditado para el participante" },
-      { "idx": 2, "include": "Ejercicios de revisión" },
-      { "idx": 3, "include": "Examen de simulación" },
-      { "idx": 4, "include": "Examen de certificación oficial por parte de Peoplecert" }
+      { "idx": 1, "include": "Constancia de participación" }
    ],
    "benefits": [
-      { "idx": 1, "benefit": "Aumentar el conocimiento sobre la creación de servicios de ITIL." },
-      { "idx": 2, "benefit": "Aprender sobre la integración de diferentes actividades y flujos de valor para crear, entregar y soportar productos y servicios de TI mientras se cubren prácticas, métodos y herramientas de soporte." },
-      { "idx": 3, "benefit": "Conocer sobre el desempeño del servicio y comprender los diferentes métodos de mejora y la calidad del servicio." },
-      { "idx": 4, "benefit": "Permitir a los practicantes entregar a sus clientes servicios de tecnología innovadores y confiables en un mercado altamente competitivo." }
+      { "idx": 1, "benefit": "Explicar el propósito de la Gestión de Riesgos y los procesos para evaluarlos y gestionarlos con respecto a la implantación y operación de un SGSI." },
+      { "idx": 2, "benefit": "Comprender la norma ISO 27005 como el conjunto de guías y lineamientos para la gestión de los riesgos en la seguridad de la información." },
+      { "idx": 3, "benefit": "Comprender los términos y definiciones de la norma ISO 27005." },
+      { "idx": 4, "benefit": "Proporcionar una Guía como apoyo a la implementación de los requerimientos de la Norma ISO/IEC 27001 con relación a los procesos de gestión de riesgos." },
+      { "idx": 5, "benefit": "Comprender los procesos para el análisis y evaluación de riesgos." },
+      { "idx": 6, "benefit": "Proporcionar lineamientos para la toma de decisiones con base en el análisis de riesgos." }
    ],
    "forwho": [
-      { "idx": 1, "qualities": "Individuos que desean continuar aprendiendo más sobre la gestión de servicios." },
-      { "idx": 2, "qualities": "Gestores de ITSM y aspirantes a gestores de ITSM." },
-      { "idx": 3, "qualities": "Profesionales en ITSM que gestionan la operación de servicios y productos digitales y de TI, y aquellos responsables de la entrega día a día." },
-      { "idx": 4, "qualities": "Personas que cuenten con una certificación en ITIL y que deseen desarrollar su conocimiento." }
+      { "idx": 1, "qualities": "Los profesionales que desean mejorar el desempeño de un Sistema de Gestión de Seguridad de la Información." },
+      { "idx": 2, "qualities": "Los profesionales que desean o están implementando un proceso de Gestión de Riesgos de Seguridad de la Información dentro de su organización." },
+      { "idx": 3, "qualities": "Las personas que requieren conocer y entender técnicas de Gestión y evaluación de riesgos en materia de seguridad de la información." },
+      { "idx": 4, "qualities": "Las personas que requieren conocer y entender los riesgos y criterios de gestión y evaluación de riesgos en materia de seguridad de información." }
    ],
    "exam": [
-      { "idx": 1, "characteristics": "Tiempo asignado: 90 minutos" },
-      { "idx": 2, "characteristics": "Cantidad de preguntas: 40 de opción múltiple" },
-      { "idx": 3, "characteristics": "Calificación aprobatoria: 70% - 28 aciertos" },
-      { "idx": 4, "characteristics": "Formato: En papel o en línea el último día del curso / a libro cerrado" },
-      { "idx": 5, "characteristics": "Prerrequisitos: El candidato debe haber pasado el examen de Fundamentos de ITIL 4. Además el candidato debe haber asistido a un curso de capacitación acreditado para este módulo" }
+      { "idx": 1, "characteristics": "Tiempo asignado: 60 minutos" },
+      { "idx": 2, "characteristics": "Cantidad de preguntas: 30 de opción múltiple" },
+      { "idx": 3, "characteristics": "Calificación aprobatoria: 65% (19 respuestas correctas)" },
+      { "idx": 4, "characteristics": "Formato: En Papel; a libro cerrado" },
+      { "idx": 5, "characteristics": "Prerrequisitos: Se recomiendan por lo menos 4 horas de estudio personal durante el curso así como conocimiento previo sobre un Sistema de Gestión de Seguridad de la Información con base en ISO 27001." }
    ],
    "content": [
-      {
-         "idx" : 1,
-         "unit" : "Planear y Generar un Flujo de Valor del Servicio", 
-         "topics" : [
-           { "idx":"1.1", "topic":"Conceptos y Retos" },
-           { "idx":"1.2", "topic":"Enfoque de Mover a la Izquierda" },
-           { "idx":"1.3", "topic":"Planear y Gestionar Recursos" },
-           { "idx":"1.4", "topic":"Uso y Valor de la Información y la Tecnología" }
-         ]
-      },
-      {
-         "idx" : 2,
-         "unit" : "Prácticas de ITIL", 
-         "topics" : [
-           { "idx":"2.1", "topic":"Flujo de Valor" },
-           { "idx":"2.2", "topic":"Las Prácticas de ITIL Contribuyen a un Flujo de Valor para un Servicio Nuevo" },
-           { "idx":"2.3", "topic":"Proporcionar Soporte al Usuario" },
-           { "idx":"2.3", "topic":"Las Prácticas de ITIL Contribuyen a un Flujo de Valor para el Soporte al Usuario" }
-         ]
-      },
-      {
-         "idx" : 3,
-         "unit" : "Crear, Entregar y Soportar Servicios", 
-         "topics" : [
-           { "idx":"3.1", "topic":"Co-ordinar, Priorizar y Estructurar Trabajo y Actividades" },
-           { "idx":"3.2", "topic":"Uso y Valor de lo siguiente a través del sistema de valor del servicio:" },
-           { "idx":"a)", "topic":"Consideraciones sobre comprar versus construir" },
-           { "idx":"b)", "topic":"Opciones de externalización" },
-           { "idx":"c)", "topic":"Gestión e integración de servicios (SIAM)" }
-         ]
-      },
-      {
-         "idx" : 4,
-         "unit" : "Repaso, Evaluación, Examen de preparación y Examen de Certificación", 
-         "topics" : []
-      }
+      { "idx" : 1, "unit" : "Introducción a la Gestión de Riesgos de Seguridad de Información.",  "topics" : [] },
+      { "idx" : 2, "unit" : "El Proceso de Gestión de Riesgos de Seguridad de Información.",  "topics" : [] },
+      { "idx" : 3, "unit" : "Contexto de la Gestión de Riesgos de Seguridad de Información.",  "topics" : [] },
+      { "idx" : 4, "unit" : "Valoración de Riesgos de Seguridad de Información.",  "topics" : [] },
+      { "idx" : 5, "unit" : "Tratamiento y Aceptación de Riesgos de Seguridad de Información.",  "topics" : [] },
+      { "idx" : 6, "unit" : "Monitoreo, Revisión y Comunicación de Riesgos de Seguridad de Información.",  "topics" : [] },
+      { "idx" : 7, "unit" : "Repaso y Evaluación.",  "topics" : [] }
    ]
 }

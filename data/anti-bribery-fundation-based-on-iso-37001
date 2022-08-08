@@ -8,70 +8,122 @@
       { "idx": 2, "date": "" }
    ],
    "modality": "Presencial | En línea con profesor en vivo",
-   "duration": "24 horas",
-   "description": "El curso de ITIL 4 Create, Deliver and Support (CDS) (Crear, Entregar y Soportar) tiene la intención de proporcionar al candidato el entendimiento sobre cómo integrar diferentes flujos de valor y actividades para crear, entregar y soportar servicios y productos de TI y herramientas, métodos y prácticas relevantes.",
+   "duration": "16 horas",
+   "description": "El soborno es un fenómeno generalizado. Suscita serias preocupaciones sociales, morales, económicas y políticas, socava la buena gobernanza, obstaculiza el desarrollo y distorsiona la competencia. También aumenta el costo de hacer negocio, introduce incertidumbres en las transacciones comerciales, aumenta el costo de los bienes y servicios, disminuye la calidad de los productos y servicios, lo que puede provocar la pérdida de vidas y bienes, destruye la confianza en las instituciones e interfiere con el funcionamiento justo y eficiente de los mercados. Las organizaciones tienen la responsabilidad de contribuir de forma proactiva a la lucha contra el soborno. Esto se puede lograr mediante un sistema de gestión antisoborno. Este curso introduce al participante a los términos básicos, conceptos y principios de un sistema de gestión antisoborno basado en la norma ISO 37001, a través del compromiso de liderazgo para establecer una cultura de integridad, transparencia, apertura y cumplimiento.",
    "logourl": "",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
       { "idx": 2, "include": "Ejercicios de revisión" },
-      { "idx": 3, "include": "Examen de simulación" },
-      { "idx": 4, "include": "Examen de certificación oficial por parte de Peoplecert" }
+      { "idx": 3, "include": "Diploma de finalización de curso" },
+      { "idx": 4, "include": "Examen de certificación oficial por parte de Educert" }
    ],
    "benefits": [
-      { "idx": 1, "benefit": "Aumentar el conocimiento sobre la creación de servicios de ITIL." },
-      { "idx": 2, "benefit": "Aprender sobre la integración de diferentes actividades y flujos de valor para crear, entregar y soportar productos y servicios de TI mientras se cubren prácticas, métodos y herramientas de soporte." },
-      { "idx": 3, "benefit": "Conocer sobre el desempeño del servicio y comprender los diferentes métodos de mejora y la calidad del servicio." },
-      { "idx": 4, "benefit": "Permitir a los practicantes entregar a sus clientes servicios de tecnología innovadores y confiables en un mercado altamente competitivo." }
+      { "idx": 1, "benefit": "Comprender los conceptos, definiciones y principios básicos contra el soborno" },
+      { "idx": 2, "benefit": "Familiarizarse con los requisitos para un sistema de gestión antisoborno con base en ISO 37001" },
+      { "idx": 3, "benefit": "Comprender de manera general la forma de aplicar los requisitos de ISO 37001 en una organización" }
    ],
    "forwho": [
-      { "idx": 1, "qualities": "Individuos que desean continuar aprendiendo más sobre la gestión de servicios." },
-      { "idx": 2, "qualities": "Gestores de ITSM y aspirantes a gestores de ITSM." },
-      { "idx": 3, "qualities": "Profesionales en ITSM que gestionan la operación de servicios y productos digitales y de TI, y aquellos responsables de la entrega día a día." },
-      { "idx": 4, "qualities": "Personas que cuenten con una certificación en ITIL y que deseen desarrollar su conocimiento." }
+      { "idx": 1, "qualities": "Personas que deseen conocer y familiarizarse con los requisitos de ISO 37001 para un sistema de gestión antisoborno" },
+      { "idx": 2, "qualities": "Responsables de practicar la debida diligencia con respecto a los riesgos de soborno" },
+      { "idx": 3, "qualities": "Personas que deseen contribuir en mantener la integridad de la organización apoyando el comportamiento ético." },
+      { "idx": 4, "qualities": "Miembros de los equipos de gobierno, gestión de riesgos y cumplimiento" },
+      { "idx": 5, "qualities": "Personas que quieran convertirse en consultores antisoborno" }
    ],
    "exam": [
       { "idx": 1, "characteristics": "Tiempo asignado: 90 minutos" },
       { "idx": 2, "characteristics": "Cantidad de preguntas: 40 de opción múltiple" },
       { "idx": 3, "characteristics": "Calificación aprobatoria: 70% - 28 aciertos" },
-      { "idx": 4, "characteristics": "Formato: En papel o en línea el último día del curso / a libro cerrado" },
-      { "idx": 5, "characteristics": "Prerrequisitos: El candidato debe haber pasado el examen de Fundamentos de ITIL 4. Además el candidato debe haber asistido a un curso de capacitación acreditado para este módulo" }
+      { "idx": 4, "characteristics": "Formato: En línea o en papel" },
+      { "idx": 5, "characteristics": "Idioma: Español" }
    ],
    "content": [
       {
          "idx" : 1,
-         "unit" : "Planear y Generar un Flujo de Valor del Servicio", 
-         "topics" : [
-           { "idx":"1.1", "topic":"Conceptos y Retos" },
-           { "idx":"1.2", "topic":"Enfoque de Mover a la Izquierda" },
-           { "idx":"1.3", "topic":"Planear y Gestionar Recursos" },
-           { "idx":"1.4", "topic":"Uso y Valor de la Información y la Tecnología" }
-         ]
+         "unit" : "Introducción", 
+         "topics" : []
       },
       {
          "idx" : 2,
-         "unit" : "Prácticas de ITIL", 
-         "topics" : [
-           { "idx":"2.1", "topic":"Flujo de Valor" },
-           { "idx":"2.2", "topic":"Las Prácticas de ITIL Contribuyen a un Flujo de Valor para un Servicio Nuevo" },
-           { "idx":"2.3", "topic":"Proporcionar Soporte al Usuario" },
-           { "idx":"2.3", "topic":"Las Prácticas de ITIL Contribuyen a un Flujo de Valor para el Soporte al Usuario" }
-         ]
+         "unit" : "Referencias Normativas", 
+         "topics" : []
       },
       {
          "idx" : 3,
-         "unit" : "Crear, Entregar y Soportar Servicios", 
-         "topics" : [
-           { "idx":"3.1", "topic":"Co-ordinar, Priorizar y Estructurar Trabajo y Actividades" },
-           { "idx":"3.2", "topic":"Uso y Valor de lo siguiente a través del sistema de valor del servicio:" },
-           { "idx":"a)", "topic":"Consideraciones sobre comprar versus construir" },
-           { "idx":"b)", "topic":"Opciones de externalización" },
-           { "idx":"c)", "topic":"Gestión e integración de servicios (SIAM)" }
-         ]
+         "unit" : "Términos y Definiciones", 
+         "topics" : []
       },
       {
          "idx" : 4,
-         "unit" : "Repaso, Evaluación, Examen de preparación y Examen de Certificación", 
-         "topics" : []
+         "unit" : "Contexto de la Organización", 
+         "topics" : [
+            { "idx":"4.1", "topic":"Comprender la organización y su contexto" },
+            { "idx":"4.2", "topic":"Comprender las necesidades y expectativas de las partes interesadas" },
+            { "idx":"4.3", "topic":"Determinación del alcance del sistema de gestión antisoborno" },
+            { "idx":"4.4", "topic":"Sistema de gestión antisoborno" },
+            { "idx":"4.5", "topic":"Evaluación del riesgo de soborno" }
+         ]
+      },
+      {
+         "idx" : 5,
+         "unit" : "Liderazgo", 
+         "topics" : [
+            { "idx":"5.1", "topic":"Liderazgo y compromiso" },
+            { "idx":"5.2", "topic":"Política antisoborno" },
+            { "idx":"5.3", "topic":"Funciones, responsabilidades y autoridades de la organización" }
+        ]
+      },
+      {
+         "idx" : 6,
+         "unit" : "Planificación", 
+         "topics" : [
+            { "idx":"6.1", "topic":"Acciones para abordar los riesgos y oportunidades" },
+            { "idx":"6.2", "topic":"Objetivos antisoborno y planificación para alcanzarlos" }
+         ]
+      },
+      {
+         "idx" : 7,
+         "unit" : "Soporte", 
+         "topics" : [
+            { "idx":"7.1", "topic":"Recursos" },
+            { "idx":"7.2", "topic":"Competencia" },
+            { "idx":"7.3", "topic":"Sensibilización y formación" },
+            { "idx":"7.4", "topic":"Comunicación" },
+            { "idx":"7.5", "topic":"Información documentada" }
+        ]
+      },
+      {
+         "idx" : 8,
+         "unit" : "Operación", 
+         "topics" : [
+            { "idx":"8.1", "topic":"Planificación y control operacionals" },
+            { "idx":"8.2", "topic":"Debida Diligencia" },
+            { "idx":"8.3", "topic":"Controles financieros" },
+            { "idx":"8.4", "topic":"Controles no financieros" },
+            { "idx":"8.5", "topic":"Implementación de controles antisoborno por parte de organizaciones controladas y por socios comerciales" },
+            { "idx":"8.6", "topic":"Compromisos antisoborno" },
+            { "idx":"8.7", "topic":"Regalos, hospitalidad, donaciones y beneficios similares" },
+            { "idx":"8.8", "topic":"Gestión de la insuficiencia de los controles antisoborno" },
+            { "idx":"8.9", "topic":"Plantear preocupaciones" },
+            { "idx":"8.10", "topic":"Investigar y tratar el soborno" }
+         ]
+      },
+      {
+         "idx" : 9,
+         "unit" : "Evaluación del desempeño", 
+         "topics" : [
+            { "idx":"9.1", "topic":"Seguimiento, medición, análisis y evaluacións" },
+            { "idx":"9.2", "topic":"Auditoría interna" },
+            { "idx":"9.3", "topic":"Revisión de la Dirección" },
+            { "idx":"9.4", "topic":"Revisión por función de cumplimiento antisoborno" }
+         ]
+      },
+      {
+         "idx" : 10,
+         "unit" : "Mejora", 
+         "topics" : [
+            { "idx":"10.1", "topic":"No conformidad y acción correctiva" },
+            { "idx":"10.2", "topic":"Mejora continua" }
+         ]
       }
    ]
 }
