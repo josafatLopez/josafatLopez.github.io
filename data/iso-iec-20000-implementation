@@ -2,13 +2,13 @@
    "id": 76,
    "linkurl": "iso-iec-20000-implementation",
    "category": "ITSM (ISO/IEC 20000)",
-   "course": "ISO/IEC 20000 Implementation",
+   "course": "ISO/IEC 20000 Lead implementer",
    "schedules": [
       { "idx": 1, "date": "Contacta a un asesor para saber próximas fechas" },
       { "idx": 2, "date": "" }
    ],
    "modality": "Presencial | En línea con profesor en vivo",
-   "duration": "24 horas",
+   "duration": "40 horas",
    "description": "El curso de Implementación de un Sistema de Gestión de Servicios con base en ISO/IEC 20000 muestra los pasos a seguir para liderar un proyecto de implementación de los requerimientos de ISO/IEC 20000.",
    "logourl": "",
    "courseincludes": [
