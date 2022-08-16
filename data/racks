@@ -4,7 +4,7 @@
       "idx": 1,
       "pallets": [
          { "id": 1, "idx": 1, "disponibility": "1", "num": 1, "name": "Pierna", "position": [1,1]},
-         { "id": 2, "idx": 2, "disponibility": "1", "num": 2, "name": "Muslo" },
+         { "id": 2, "idx": 2, "disponibility": "1", "num": 2, "name": "Muslo", "position": [1,2] },
          { "id": 3, "idx": 3, "disponibility": "1", "num": 3, "name": "Jamón" }
       ]
    },
