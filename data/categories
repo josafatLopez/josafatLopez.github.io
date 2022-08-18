@@ -114,14 +114,14 @@
       ]
    },
    {
-      "category" : "Cloud Computing",
+      "category" : "Gestión de Riesgos y Antisoborno",
       "courses": [
-         { "id": 64, "linkurl": "cloud-computing-foundation", "course": "Cloud Computing Foundation" },
-         { "id": 65, "linkurl": "cloud-technology-associate", "course": "Cloud Technology Associate" },
-         { "id": 66, "linkurl": "big-data-foundation", "course": "Big Data Foundation" },
-         { "id": 67, "linkurl": "professional-cloud-administrator", "course": "Professional Cloud Administrator" },
-         { "id": 68, "linkurl": "professional-cloud-service-manager", "course": "Professional Cloud Service Manager" },
-         { "id": 69, "linkurl": "professional-cloud-solutions-architect", "course": "Professional Cloud Solutions Architect" }
+         { "id": 79, "linkurl": "it-risk-management", "course": "IT Risk Management" },
+         { "id": 80, "linkurl": "business-impact-analysis-bia", "course": "Business Impact Analysis Foundation based on ISO 22317" },
+         { "id": 81, "linkurl": "information-security-risk-management", "course": "Information Security Risk Mgmt - ISO/IEC 27005" },
+         { "id": 82, "linkurl": "crisc-certified-in-risk-and-information-systems-control", "course": "CRISC™ Certified in Risk and Information Systems Control™" },
+         { "id": 83, "linkurl": "risk-management-foundation-iso-31000", "course": "Risk Management Fdn - ISO 31000" },
+         { "id": 84, "linkurl": "anti-bribery-fundation-based-on-iso-37001", "course": "Anti-bribery Fdn based on ISO 37001" }
       ]
    },
    {
@@ -150,14 +150,14 @@
       ]
    },
    {
-      "category" : "Gestión de Riesgos y Antisoborno",
+      "category" : "Cloud Computing",
       "courses": [
-         { "id": 79, "linkurl": "it-risk-management", "course": "IT Risk Management" },
-         { "id": 80, "linkurl": "business-impact-analysis-bia", "course": "Fundamentos de ISO 22317 (Análisis de Impacto al Negocio)" },
-         { "id": 81, "linkurl": "information-security-risk-management", "course": "Information Security Risk Mgmt - ISO/IEC 27005" },
-         { "id": 82, "linkurl": "crisc-certified-in-risk-and-information-systems-control", "course": "CRISC™ Certified in Risk and Information Systems Control™" },
-         { "id": 83, "linkurl": "risk-management-foundation-iso-31000", "course": "Risk Management Fdn - ISO 31000" },
-         { "id": 84, "linkurl": "anti-bribery-fundation-based-on-iso-37001", "course": "Anti-bribery Fdn based on ISO 37001" }
+         { "id": 64, "linkurl": "cloud-computing-foundation", "course": "Cloud Computing Foundation" },
+         { "id": 65, "linkurl": "cloud-technology-associate", "course": "Cloud Technology Associate" },
+         { "id": 66, "linkurl": "big-data-foundation", "course": "Big Data Foundation" },
+         { "id": 67, "linkurl": "professional-cloud-administrator", "course": "Professional Cloud Administrator" },
+         { "id": 68, "linkurl": "professional-cloud-service-manager", "course": "Professional Cloud Service Manager" },
+         { "id": 69, "linkurl": "professional-cloud-solutions-architect", "course": "Professional Cloud Solutions Architect" }
       ]
    }
 ]
