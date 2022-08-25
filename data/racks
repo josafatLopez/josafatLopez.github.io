@@ -5,8 +5,7 @@
       "pallets": [
          { "id": 1, "name": "Pierna", "position": [1,1]},
          { "id": 2, "name": "Muslo", "position": [2,1]},
-         { "id": 3, "name": "Jamón", "position": [3,1]},
-         { "id": 3, "name": "Jamón", "position": [4,1]}
+         { "id": 3, "name": "Jamón", "position": [3,1]}
       ]
    },
    {
