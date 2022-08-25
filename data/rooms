@@ -1,21 +1,16 @@
 [
    {
-      "room": "A",
+      "room": "BL",
       "frontpallets": [
          {
-            "name": "A1"
+            "name": "B1"
          },
          {
-            "name": "A2"
+            "name": "B2"
          },
          {
-            "name": "A3"
-         }
-      ]
-   },
-   {
-      "room": "B",
-      "frontpallets": [
+            "name": "B3"
+         },
          {
             "name": "B4"
          },
@@ -24,25 +19,88 @@
          },
          {
             "name": "B6"
+         },
+         {
+            "name": "B7"
+         },
+         {
+            "name": "B8"
+         },
+         {
+            "name": "B9"
+         },
+         {
+            "name": "B10"
+         },
+         {
+            "name": "B11"
+         },
+         {
+            "name": "B12"
+         },
+         {
+            "name": "B13"
+         },
+         {
+            "name": "B14"
+         },
+         {
+            "name": "B15"
          }
       ]
    },
    {
-      "room": "C",
+      "room": "BR",
       "frontpallets": [
          {
-            "name": "C1"
+            "name": "B30"
          },
          {
-            "name": "C2"
+            "name": "B29"
          },
          {
-            "name": "C3"
+            "name": "B28"
+         },
+         {
+            "name": "B27"
+         },
+         {
+            "name": "B26"
+         },
+         {
+            "name": "B25"
+         },
+         {
+            "name": "B24"
+         },
+         {
+            "name": "B23"
+         },
+         {
+            "name": "B22"
+         },
+         {
+            "name": "B21"
+         },
+         {
+            "name": "B20"
+         },
+         {
+            "name": "B19"
+         },
+         {
+            "name": "B18"
+         },
+         {
+            "name": "B17"
+         },
+         {
+            "name": "B16"
          }
       ]
    },
    {
-      "room": "D",
+      "room": "DL",
       "frontpallets": [
          {
             "name": "D1"
@@ -52,6 +110,89 @@
          },
          {
             "name": "D3"
+         },
+         {
+            "name": "D4"
+         },
+         {
+            "name": "D5"
+         },
+         {
+            "name": "D6"
+         },
+         {
+            "name": "D7"
+         },
+         {
+            "name": "D8"
+         },
+         {
+            "name": "D9"
+         },
+         {
+            "name": "D10"
+         },
+         {
+            "name": "D11"
+         },
+         {
+            "name": "D12"
+         },
+         {
+            "name": "D13"
+         },
+         {
+            "name": "D14"
+         },
+         {
+            "name": "D15"
+         }
+      ]
+   },
+   {
+      "room": "DR",
+      "frontpallets": [
+         {
+            "name": "D30"
+         },
+         {
+            "name": "D29"
+         },
+         {
+            "name": "D28"
+         },
+         {
+            "name": "D27"
+         },
+         {
+            "name": "D26"
+         },
+         {
+            "name": "D25"
+         },
+         {
+            "name": "D24"
+         },
+         {
+            "name": "D23"
+         },
+         {
+            "name": "D22"
+         },
+         {
+            "name": "D21"
+         },
+         {
+            "name": "D19"
+         },
+         {
+            "name": "D18"
+         },
+         {
+            "name": "D17"
+         },
+         {
+            "name": "D16"
          }
       ]
    }
