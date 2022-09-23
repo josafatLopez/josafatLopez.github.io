@@ -1,6 +1,6 @@
 {
    "id": 2,
-   "linkurl": "itil4--foundation",
+   "linkurl": "itil-4-foundation",
    "category": "ITIL",
    "course": "ITIL® 4 Foundation",
    "schedules": [
@@ -27,10 +27,8 @@
       { "idx": 6, "benefit": "A buscar el propósito y la terminología clave de las 18 prácticas de ITIL® 4." }
    ],
    "forwho": [
-      { "idx": 1, "qualities": "Individuos iniciándose en la Gestión de Servicios." },
-      { "idx": 2, "qualities": "Gerentes de ITSM y aspirantes a Gerentes de ITSM." },
-      { "idx": 3, "qualities": "Individuos que trabajan en otras partes de “TI” (digital, producto, desarrollo) con una gran interrelación con la entrega del servicio." },
-      { "idx": 4, "qualities": "Personas que actualmente cuentan con una certificación en ITIL® y buscan actualizar su conocimiento." }
+      { "idx": 1, "qualities": "ITIL 4 Foundation es para cualquier persona que necesite comprender los conceptos clave de la prestación de servicios digitales y de TI, y que esté interesada en ayudar a su organización a adoptar la nueva cultura de gestión de servicios. " },
+      { "idx": 2, "qualities": "" }
    ],
    "exam": [
       { "idx": 1, "characteristics": "Tiempo asignado: 60 minutos" },
