@@ -27,8 +27,7 @@
       { "idx": 6, "benefit": "A buscar el propósito y la terminología clave de las 18 prácticas de ITIL® 4." }
    ],
    "forwho": [
-      { "idx": 1, "qualities": "ITIL 4 Foundation es para cualquier persona que necesite comprender los conceptos clave de la prestación de servicios digitales y de TI, y que esté interesada en ayudar a su organización a adoptar la nueva cultura de gestión de servicios. " },
-      { "idx": 2, "qualities": "" }
+      { "idx": 1, "qualities": "ITIL 4 Foundation es para cualquier persona que necesite comprender los conceptos clave de la prestación de servicios digitales y de TI, y que esté interesada en ayudar a su organización a adoptar la nueva cultura de gestión de servicios. " }
    ],
    "exam": [
       { "idx": 1, "characteristics": "Tiempo asignado: 60 minutos" },
