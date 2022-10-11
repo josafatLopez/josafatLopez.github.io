@@ -5,7 +5,7 @@
          { "id": 1, "linkurl": "itil-4-foundation", "course": "ITIL® 4 Foundation" },
          { "id": 2, "linkurl": "scrum-master", "course": "Scrum Master (SMC®)" },
          { "id": 3, "linkurl": "pmp-exam-preparation", "course": "PMI® Authorized PMP® Exam Prep Course" },
-         { "id": 4, "linkurl": "certified-ethical-hacker", "course": "CEH - Certified Ethical Hacker v11" },
+         { "id": 4, "linkurl": "certified-ethical-hacker", "course": "CEH - Certified Ethical Hacker v12" },
          { "id": 5, "linkurl": "information-security-foundation-iso-iec-27001", "course": "Information Security Fdn - ISO/IEC 27001" }
       ]
    },
@@ -80,7 +80,7 @@
       "courses": [
          { "id": 46, "linkurl": "cyber-it-security-foundation", "course": "Cyber and IT Security Foundation" },
          { "id": 47, "linkurl": "ethical-hacking-foundation", "course": "Ethical Hacking Foundation" },
-         { "id": 4, "linkurl": "certified-ethical-hacker", "course": "CEH - Certified Ethical Hacker v11" },
+         { "id": 4, "linkurl": "certified-ethical-hacker", "course": "CEH - Certified Ethical Hacker v12" },
          { "id": 48, "linkurl": "certified-network-defender", "course": "CND - Certified Network Defender" },
          { "id": 49, "linkurl": "certified-incident-handler", "course": "ECIH - Certified Incident Handler" },
          { "id": 50, "linkurl": "computer-hacking-forensic-investigator", "course": "CHFI - Computer Hacking Forensic Investigator" },
