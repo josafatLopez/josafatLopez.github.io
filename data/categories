@@ -32,6 +32,13 @@
       ]
    },
    {
+      "category" : "PMI",
+      "courses": [
+         { "id": 3, "linkurl": "pmp-exam-preparation", "course": "PMI® Authorized PMP® Exam Prep Course" },
+         { "id": 70, "linkurl": "project-management-foundation", "course": "Project Management Foundation" }
+      ]
+   },
+   {
       "category" : "Agile",
       "courses": [
          { "id": 21, "linkurl": "agile-scrum-foundation", "course": "Agile SCRUM Foundation" },
@@ -88,8 +95,6 @@
          { "id": 52, "linkurl": "iso-27032-lead-cybersecurity-manager", "course": "ISO/IEC 27032 Lead Cybersecurity Manager" },
          { "id": 53, "linkurl": "iso-27032-lead-cybersecurity-professional", "course": "ISO/IEC 27032 Cybersecurity Professional" },
          { "id": 54, "linkurl": "certified-penetration-testing-professional", "course": "CPENT - Certified Penetration Testing Professional" },
-         { "id": 55, "linkurl": "certified-application-security-engineer", "course": "CASE - Certified Application Security Engineer .Net" },
-         { "id": 56, "linkurl": "certified-application-security-engineer-java", "course": "CASE - Certified Application Security Engineer Java" },
          { "id": 57, "linkurl": "certified-chief-information-security-officer", "course": "CCISO - Certified Chief Information Security Officer" }
       ]
    },
@@ -125,10 +130,11 @@
       ]
    },
    {
-      "category" : "PMI",
+      "category" : "Desarrollo de Software",
       "courses": [
-         { "id": 3, "linkurl": "pmp-exam-preparation", "course": "PMI® Authorized PMP® Exam Prep Course" },
-         { "id": 70, "linkurl": "project-management-foundation", "course": "Project Management Foundation" }
+         { "id": 55, "linkurl": "certified-application-security-engineer", "course": "CASE - Certified Application Security Engineer .Net" },
+         { "id": 56, "linkurl": "certified-application-security-engineer-java", "course": "CASE - Certified Application Security Engineer Java" },
+         { "id": 85, "linkurl": "open-web-application-security-project-owasp", "course": "Open Web Application Security Project (OWASP)"}
       ]
    },
    {

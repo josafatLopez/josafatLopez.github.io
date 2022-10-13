@@ -1,0 +1,202 @@
+{
+   "id": 85,
+   "linkurl": "open-web-application-security-project-owasp",
+   "category": "Desarrollo de Software",
+   "course": "Open Web Application Security Project (OWASP)",
+   "schedules": [
+      { "idx": 1, "date": "Contacta a un asesor para saber próximas fechas" },
+      { "idx": 2, "date": "" }
+   ],
+   "modality": "Presencial | En línea con profesor en vivo",
+   "duration": "16 horas",
+   "description": "El objetivo del curso de desarrollo seguro con OWASP es conocer los aspectos de seguridad en las diferentes etapas del desarrollo de software, alineadas a las buenas prácticas propuestas por OWASP, así como identificar las vulnerabilidades más comunes de las aplicaciones y buscar defenderlas de ataques.",
+   "logourl": "",
+   "courseincludes": [
+      { "idx": 1, "include": "Material oficial acreditado para el participante" },
+      { "idx": 2, "include": "Diploma de finalización de curso" }
+   ],
+   "benefits": [
+      { "idx": 1, "benefit": "Conocer los aspectos de seguridad en las diferentes etapas del desarrollo de software." },
+      { "idx": 2, "benefit": "Identificar las vulnerabilidades más comunes de las aplicaciones y buscar defenderlas de ataques." }
+   ],
+   "forwho": [
+      { "idx": 1, "qualities": "El curso de Desarrollo Seguro con OWASP está dirigido a desarrolladores en busca den asegurar sus aplicaciones y servicios web." }
+   ],
+   "exam": [
+      { "idx": 1, "characteristics": "Información pronto disponible" }
+   ],
+   "content": [
+      {
+         "idx" : 1,
+         "unit" : "Introducción a la Seguridad en el Desarrollo de Software", 
+         "topics" : [
+            { "idx":"1.1", "topic":"¿Qué son las Aplicaciones Web?" },
+            { "idx":"1.2", "topic":"CGI" },
+            { "idx":"1.3", "topic":"Filtros" },
+            { "idx":"1.4", "topic":"Scripting" },
+            { "idx":"1.5", "topic":"Frameworks (Marcos) de Aplicaciones Web" },
+            { "idx":"1.6", "topic":"Aplicaciones de Pequeña a Mediana Escala" },
+            { "idx":"1.7", "topic":"Controlador" },
+            { "idx":"1.8", "topic":"Modelos" },
+            { "idx":"1.9", "topic":"Aplicaciones Seguras" },
+            { "idx":"1.10", "topic":"Programación Segura" },
+            { "idx":"1.11", "topic":"Codificación Segura" },
+            { "idx":"1.12", "topic":"Fase de Pruebas" },
+            { "idx":"1.13", "topic":"Fase de Mantenimiento" }
+         ]
+      },
+      {
+         "idx" : 2,
+         "unit" : "Seguridad en la Etapa de Análisis", 
+         "topics" : [
+            { "idx":"2.1", "topic":"Requisitos De Las PCI DSS" },
+            { "idx":"2.2", "topic":"Procedimientos de Prueba" },
+            { "idx":"2.3", "topic":"Guía" },
+            { "idx":"2.4", "topic":"ISO 27002:2013: Requerimiento 14.2" }
+         ]
+      },
+      {
+         "idx" : 3,
+         "unit" : "OWASP", 
+         "topics" : [
+           { "idx":"3.1", "topic":"Introducción" },
+           { "idx":"3.2", "topic":"Categorías de OWASP" },
+           { "idx":"3.3", "topic":"Proyectos" },
+           { "idx":"3.4", "topic":"Cambios" },
+           { "idx":"3.5", "topic":"Top 10" },
+           { "idx":"3.6", "topic":"Metodología" },
+           { "idx":"3.7", "topic":"Cómo se estructuran las categorías" },
+           { "idx":"3.8", "topic":"Cómo utilizar OWASP Top 10 como estándar" }
+         ]
+      },
+      {
+         "idx" : 4,
+         "unit" : "Cómo iniciar un programa de Seguridad en Aplicaciones (AppSec) con el OWASP Top 10 Introducción", 
+         "topics" : [
+           { "idx":"4.1", "topic":"Etapa 1. Identifique las necesidades y los objetivos de su programa de AppSec" },
+           { "idx":"4.2", "topic":"Etapa 2. Planifique un ciclo de vida de desarrollo seguro de carretera pavimentada (paved road)" },
+           { "idx":"4.3", "topic":"Etapa 3. Implemente la carretera pavimentada con sus equipos de desarrollo." },
+           { "idx":"4.4", "topic":"Etapa 4. Migre todas las aplicaciones existentes y futuras a la carretera pavimentada." },
+           { "idx":"4.5", "topic":"Etapa 5. Pruebe que la carretera pavimentada haya mitigado los problemas encontrados en el Top 10 de OWASP" },
+           { "idx":"4.6", "topic":"Etapa 6. Transforme su programa en un programa de AppSec maduro" }
+         ]
+      },
+      {
+         "idx" : 5,
+         "unit" : "A01:2021 – Pérdida de Control de Acceso", 
+         "topics" : [
+           { "idx":"5.1", "topic":"Descripción" },
+           { "idx":"5.2", "topic":"¿Cómo se previene?" },
+           { "idx":"5.3", "topic":"Ejemplos de Escenarios de Ataque" }
+         ]
+      },
+      {
+         "idx" : 6,
+         "unit" : "A02:2021 – Fallas Criptográficas", 
+         "topics" : [
+           { "idx":"6.1", "topic":"Descripción" },
+           { "idx":"6.2", "topic":"¿Cómo se previene?" },
+           { "idx":"6.3", "topic":"Ejemplos de escenarios de ataque" }
+         ]
+      },
+      {
+         "idx" : 7,
+         "unit" : "A03:2021 – Inyección", 
+         "topics" : [
+           { "idx":"7.1", "topic":"Descripción" },
+           { "idx":"7.2", "topic":"¿Cómo se previene?" },
+           { "idx":"7.3", "topic":"Ejemplos de escenarios de ataque" }
+         ]
+      },
+      {
+         "idx" : 8,
+         "unit" : "A04:2021 – Diseño Inseguro", 
+         "topics" : [
+           { "idx":"8.1", "topic":"Descripción" },
+           { "idx":"8.2", "topic":"Gestión de requerimientos y recursos" },
+           { "idx":"8.3", "topic":"Diseño seguro" },
+           { "idx":"8.4", "topic":"Ciclo de Desarrollo Seguro (S-SDLC)" },
+           { "idx":"8.5", "topic":"¿Cómo se previene?" },
+           { "idx":"8.6", "topic":"Ejemplos de Escenarios de Ataque" }
+         ]
+      },
+      {
+         "idx" : 9,
+         "unit" : "A05:2021 – Configuración de Seguridad Incorrecta", 
+         "topics" : [
+           { "idx":"9.1", "topic":"Descripción" },
+           { "idx":"9.2", "topic":"¿Cómo se previene?" },
+           { "idx":"9.3", "topic":"Ejemplos de escenarios de ataque" }
+         ]
+      },
+      {
+         "idx" : 10,
+         "unit" : "A06:2021 – Componentes Vulnerables y Desactualizados", 
+         "topics" : [
+           { "idx":"10.1", "topic":"Descripción" },
+           { "idx":"10.2", "topic":"¿Cómo se previene?" },
+           { "idx":"10.3", "topic":"Ejemplos de escenarios de ataque" }
+         ]
+      },
+      {
+         "idx" : 11,
+         "unit" : "A07:2021 – Fallas de Identificación y Autenticación", 
+         "topics" : [
+           { "idx":"11.1", "topic":"Descripción" },
+           { "idx":"11.2", "topic":"¿Cómo se previene?" },
+           { "idx":"11.3", "topic":"Ejemplos de escenarios de ataque" }
+         ]
+      },
+      {
+         "idx" : 12,
+         "unit" : "A08:2021 – Fallas en el Software y en la Integridad de los Datos", 
+         "topics" : [
+           { "idx":"12.1", "topic":"Descripción" },
+           { "idx":"12.2", "topic":"¿Cómo se previene?" },
+           { "idx":"12.3", "topic":"Ejemplos de escenarios de ataque" }
+         ]
+      },
+      {
+         "idx" : 13,
+         "unit" : "A09:2021 – Fallas en el Registro y Monitoreo", 
+         "topics" : [
+           { "idx":"13.1", "topic":"Descripción" },
+           { "idx":"13.2", "topic":"¿Cómo se previene?" },
+           { "idx":"13.3", "topic":"Ejemplos de escenarios de ataque" }
+         ]
+      },
+      {
+         "idx" : 14,
+         "unit" : "A10:2021 – Falsificación de Solicitudes del Lado del Servidor (SSRF)", 
+         "topics" : [
+           { "idx":"14.1", "topic":"Descripción" },
+           { "idx":"14.2", "topic":"¿Cómo se previene?" },
+           { "idx":"14.3", "topic":"Ejemplos de escenarios de ataque" }
+         ]
+      },
+      {
+         "idx" : 15,
+         "unit" : "Protección en JDBC y JPA", 
+         "topics" : [
+           { "idx":"15.1", "topic":"JDBC vs JPA" },
+           { "idx":"15.2", "topic":"Previniendo ataques" },
+           { "idx":"15.3", "topic":"¿Estamos seguros ahora?" }
+         ]
+      },
+      {
+         "idx" : 16,
+         "unit" : "Pruebas de Penetración", 
+         "topics" : [
+           { "idx":"16.1", "topic":"¿Qué es una prueba de penetración?" },
+           { "idx":"16.2", "topic":"Seguridad en los Sistemas" },
+           { "idx":"16.3", "topic":"Metodología de una Intrusión" },
+           { "idx":"16.4", "topic":"Objetivos de una Prueba de Penetración" },
+           { "idx":"16.5", "topic":"Alcance de una Prueba de Penetración" },
+           { "idx":"16.6", "topic":"Penetration Test Interno" },
+           { "idx":"16.7", "topic":"¿Quién realiza un Pen Test?" },
+           { "idx":"16.8", "topic":"Metodologías y Estándares" },
+           { "idx":"16.9", "topic":"Etapas" }
+         ]
+      }
+   ]
+}

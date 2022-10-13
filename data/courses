@@ -490,5 +490,11 @@
       "linkurl": "anti-bribery-fundation-based-on-iso-37001",
       "category": "Gestión de Riesgos y Antisoborno",
       "course": "Anti-bribery Foundation based on ISO 37001"
+   },
+   {
+      "id": 85,
+      "linkurl": "open-web-application-security-project-owasp",
+      "category": "Desarrollo de Software",
+      "course": "Open Web Application Security Project (OWASP)"
    }
 ]
