@@ -3,6 +3,48 @@
       "room": "BL",
       "frontpallets": [
          {
+            "name": "AF1"
+         },
+         {
+            "name": "AF2"
+         },
+         {
+            "name": "AF3"
+         },
+         {
+            "name": "AF4"
+         },
+         {
+            "name": "AC6"
+         },
+         {
+            "name": "AC7"
+         },
+         {
+            "name": "AC8"
+         },
+         {
+            "name": "AC9"
+         },
+         {
+            "name": "AC10"
+         },
+         {
+            "name": "AC11"
+         },
+         {
+            "name": "AC12"
+         },
+         {
+            "name": "AC13"
+         },
+         {
+            "name": "AC14"
+         },
+         {
+            "name": "AC15"
+         },
+         {
             "name": "B1"
          },
          {
@@ -46,54 +88,51 @@
          },
          {
             "name": "B15"
-         },
-         {
-            "name": "AC6"
-         },
-         {
-            "name": "AC7"
-         },
-         {
-            "name": "AC8"
-         },
-         {
-            "name": "AC9"
-         },
-         {
-            "name": "AC10"
-         },
-         {
-            "name": "AC11"
-         },
-         {
-            "name": "AC12"
-         },
-         {
-            "name": "AC13"
-         },
-         {
-            "name": "AC14"
-         },
-         {
-            "name": "AC15"
-         },
-         {
-            "name": "AF1"
-         },
-         {
-            "name": "AF2"
-         },
-         {
-            "name": "AF3"
-         },
-         {
-            "name": "AF4"
          }
       ]
    },
    {
       "room": "BR",
       "frontpallets": [
+         {
+            "name": "AF30"
+         },
+         {
+            "name": "AF29"
+         },
+         {
+            "name": "AF28"
+         },
+         {
+            "name": "AF27"
+         },
+         {
+            "name": "AC25"
+         },
+         {
+            "name": "AC24"
+         },
+         {
+            "name": "AC23"
+         },
+         {
+            "name": "AC22"
+         },
+         {
+            "name": "AC21"
+         },
+         {
+            "name": "AC19"
+         },
+         {
+            "name": "AC18"
+         },
+         {
+            "name": "AC17"
+         },
+         {
+            "name": "AC16"
+         },
          {
             "name": "B30"
          },
@@ -138,45 +177,6 @@
          },
          {
             "name": "B16"
-         },
-         {
-            "name": "AC25"
-         },
-         {
-            "name": "AC24"
-         },
-         {
-            "name": "AC23"
-         },
-         {
-            "name": "AC22"
-         },
-         {
-            "name": "AC21"
-         },
-         {
-            "name": "AC19"
-         },
-         {
-            "name": "AC18"
-         },
-         {
-            "name": "AC17"
-         },
-         {
-            "name": "AC16"
-         },
-         {
-            "name": "AF30"
-         },
-         {
-            "name": "AF29"
-         },
-         {
-            "name": "AF28"
-         },
-         {
-            "name": "AF27"
          }
       ]
    },
@@ -184,100 +184,47 @@
       "room": "DL",
       "frontpallets": [
          {
-            "name": "D1"
+            "name": "C30"
          },
          {
-            "name": "D2"
+            "name": "C29"
          },
          {
-            "name": "D3"
+            "name": "C28"
          },
          {
-            "name": "D4"
+            "name": "C27"
          },
          {
-            "name": "D5"
+            "name": "C26"
          },
          {
-            "name": "D6"
+            "name": "C25"
          },
          {
-            "name": "D7"
+            "name": "C24"
          },
          {
-            "name": "D8"
+            "name": "C23"
          },
          {
-            "name": "D9"
+            "name": "C22"
          },
          {
-            "name": "D10"
+            "name": "C21"
          },
          {
-            "name": "D11"
+            "name": "C19"
          },
          {
-            "name": "D12"
+            "name": "C18"
          },
          {
-            "name": "D13"
+            "name": "C17"
          },
          {
-            "name": "D14"
+            "name": "C16"
          },
-         {
-            "name": "D15"
-         },
-         {
-            "name": "C1"
-         },
-         {
-            "name": "C2"
-         },
-         {
-            "name": "C3"
-         },
-         {
-            "name": "C4"
-         },
-         {
-            "name": "C5"
-         },
-         {
-            "name": "C6"
-         },
-         {
-            "name": "C7"
-         },
-         {
-            "name": "C8"
-         },
-         {
-            "name": "C9"
-         },
-         {
-            "name": "C10"
-         },
-         {
-            "name": "C11"
-         },
-         {
-            "name": "C12"
-         },
-         {
-            "name": "C13"
-         },
-         {
-            "name": "C14"
-         },
-         {
-            "name": "C15"
-         }
-      ]
-   },
-   {
-      "room": "DR",
-      "frontpallets": [
          {
             "name": "D30"
          },
@@ -322,48 +269,101 @@
          },
          {
             "name": "D16"
+         }
+      ]
+   },
+   {
+      "room": "DR",
+      "frontpallets": [
+         {
+            "name": "C1"
          },
          {
-            "name": "C30"
+            "name": "C2"
          },
          {
-            "name": "C29"
+            "name": "C3"
          },
          {
-            "name": "C28"
+            "name": "C4"
          },
          {
-            "name": "C27"
+            "name": "C5"
          },
          {
-            "name": "C26"
+            "name": "C6"
          },
          {
-            "name": "C25"
+            "name": "C7"
          },
          {
-            "name": "C24"
+            "name": "C8"
          },
          {
-            "name": "C23"
+            "name": "C9"
          },
          {
-            "name": "C22"
+            "name": "C10"
          },
          {
-            "name": "C21"
+            "name": "C11"
          },
          {
-            "name": "C19"
+            "name": "C12"
          },
          {
-            "name": "C18"
+            "name": "C13"
          },
          {
-            "name": "C17"
+            "name": "C14"
          },
          {
-            "name": "C16"
+            "name": "C15"
+         },
+         {
+            "name": "D1"
+         },
+         {
+            "name": "D2"
+         },
+         {
+            "name": "D3"
+         },
+         {
+            "name": "D4"
+         },
+         {
+            "name": "D5"
+         },
+         {
+            "name": "D6"
+         },
+         {
+            "name": "D7"
+         },
+         {
+            "name": "D8"
+         },
+         {
+            "name": "D9"
+         },
+         {
+            "name": "D10"
+         },
+         {
+            "name": "D11"
+         },
+         {
+            "name": "D12"
+         },
+         {
+            "name": "D13"
+         },
+         {
+            "name": "D14"
+         },
+         {
+            "name": "D15"
          }
       ]
    }
