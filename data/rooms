@@ -46,6 +46,48 @@
          },
          {
             "name": "B15"
+         },
+         {
+            "name": "AC6"
+         },
+         {
+            "name": "AC7"
+         },
+         {
+            "name": "AC8"
+         },
+         {
+            "name": "AC9"
+         },
+         {
+            "name": "AC10"
+         },
+         {
+            "name": "AC11"
+         },
+         {
+            "name": "AC12"
+         },
+         {
+            "name": "AC13"
+         },
+         {
+            "name": "AC14"
+         },
+         {
+            "name": "AC15"
+         },
+         {
+            "name": "AF1"
+         },
+         {
+            "name": "AF2"
+         },
+         {
+            "name": "AF3"
+         },
+         {
+            "name": "AF4"
          }
       ]
    },
@@ -96,6 +138,45 @@
          },
          {
             "name": "B16"
+         },
+         {
+            "name": "AC25"
+         },
+         {
+            "name": "AC24"
+         },
+         {
+            "name": "AC23"
+         },
+         {
+            "name": "AC22"
+         },
+         {
+            "name": "AC21"
+         },
+         {
+            "name": "AC19"
+         },
+         {
+            "name": "AC18"
+         },
+         {
+            "name": "AC17"
+         },
+         {
+            "name": "AC16"
+         },
+         {
+            "name": "AF30"
+         },
+         {
+            "name": "AF29"
+         },
+         {
+            "name": "AF28"
+         },
+         {
+            "name": "AF27"
          }
       ]
    },
@@ -146,59 +227,7 @@
          },
          {
             "name": "D15"
-         }
-      ]
-   },
-   {
-      "room": "DR",
-      "frontpallets": [
-         {
-            "name": "D30"
          },
-         {
-            "name": "D29"
-         },
-         {
-            "name": "D28"
-         },
-         {
-            "name": "D27"
-         },
-         {
-            "name": "D26"
-         },
-         {
-            "name": "D25"
-         },
-         {
-            "name": "D24"
-         },
-         {
-            "name": "D23"
-         },
-         {
-            "name": "D22"
-         },
-         {
-            "name": "D21"
-         },
-         {
-            "name": "D19"
-         },
-         {
-            "name": "D18"
-         },
-         {
-            "name": "D17"
-         },
-         {
-            "name": "D16"
-         }
-      ]
-   },
-   {
-      "room": "CL",
-      "frontpallets": [
          {
             "name": "C1"
          },
@@ -247,8 +276,53 @@
       ]
    },
    {
-      "room": "CR",
+      "room": "DR",
       "frontpallets": [
+         {
+            "name": "D30"
+         },
+         {
+            "name": "D29"
+         },
+         {
+            "name": "D28"
+         },
+         {
+            "name": "D27"
+         },
+         {
+            "name": "D26"
+         },
+         {
+            "name": "D25"
+         },
+         {
+            "name": "D24"
+         },
+         {
+            "name": "D23"
+         },
+         {
+            "name": "D22"
+         },
+         {
+            "name": "D20"
+         },
+         {
+            "name": "D21"
+         },
+         {
+            "name": "D19"
+         },
+         {
+            "name": "D18"
+         },
+         {
+            "name": "D17"
+         },
+         {
+            "name": "D16"
+         },
          {
             "name": "C30"
          },
@@ -290,107 +364,6 @@
          },
          {
             "name": "C16"
-         }
-      ]
-   },
-   {
-      "room": "AFL",
-      "frontpallets": [
-         {
-            "name": "AF1"
-         },
-         {
-            "name": "AF2"
-         },
-         {
-            "name": "AF3"
-         },
-         {
-            "name": "AF4"
-         }
-      ]
-   },
-   {
-      "room": "AFR",
-      "frontpallets": [
-         {
-            "name": "AF30"
-         },
-         {
-            "name": "AF29"
-         },
-         {
-            "name": "AF28"
-         },
-         {
-            "name": "AF27"
-         }
-      ]
-   },
-   {
-      "room": "ACL",
-      "frontpallets": [
-         {
-            "name": "AC6"
-         },
-         {
-            "name": "AC7"
-         },
-         {
-            "name": "AC8"
-         },
-         {
-            "name": "AC9"
-         },
-         {
-            "name": "AC10"
-         },
-         {
-            "name": "AC11"
-         },
-         {
-            "name": "AC12"
-         },
-         {
-            "name": "AC13"
-         },
-         {
-            "name": "AC14"
-         },
-         {
-            "name": "AC15"
-         }
-      ]
-   },
-   {
-      "room": "AC",
-      "frontpallets": [
-         {
-            "name": "AC25"
-         },
-         {
-            "name": "AC24"
-         },
-         {
-            "name": "AC23"
-         },
-         {
-            "name": "AC22"
-         },
-         {
-            "name": "AC21"
-         },
-         {
-            "name": "AC19"
-         },
-         {
-            "name": "AC18"
-         },
-         {
-            "name": "AC17"
-         },
-         {
-            "name": "AC16"
          }
       ]
    }
