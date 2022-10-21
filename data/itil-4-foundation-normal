@@ -7,9 +7,12 @@
       { "idx": 1, "date": "Contacta a un asesor para saber próximas fechas" },
       { "idx": 2, "date": "" }
    ],
-   "modality": "Profesor en Vivo | ELearning",
+   "modality": [
+      { "idx": 1, "date": "Profesor en Vivo" },
+      { "idx": 2, "date": "ELearning" }
+   ],
    "duration": "21 horas",
-   "description": "ITIL® ha sido por muchos años el principal marco de referencia mundialmente para la Gestión de Servicios de TI. En esta nueva versión, ITIL® 4 agrega temas relevantes a la Transformación Tecnológica, Cloud Computing y DevOps para habilitar las capacidades necesarias en las organizaciones de TI y hacer frente a la Revolución Digital. La Cuarta Revolución Industrial está marcada por tecnologías emergentes en campos como la robótica, la inteligencia artificial, la nanotecnología, el cómputo cuántico, la biotecnología, el Internet de las Cosas (IoT) y muchas más.",
+   "description": "ITIL® 4 Foundation es la certificación más reconocida a nivel internacional para la Gestión de Servicios de TI. El curso de certificación de ITIL® 4 Foundation presenta un modelo operativo integral para la creación, entrega y mejora continua de productos y servicios basados en tecnología. El curso te ayudará a entender: Qué es ITIL®, qué elementos contiene, dónde aplicarlo, Conceptos sobre gestión de servicios de TI, Principios Guía de ITIL®, Las Cuatro Dimensiones de la Gestión de Servicios, El Sistema de Valor de ITIL® y la Cadena del Valor del Servicio, Las prácticas de ITIL® y cómo benefician a la organización. Este curso con acreditación oficial de PeopleCert es impartido por nuestros instructores los cuales cuentan con experiencia en implementación de ITIL®.",
    "logourl": "",
    "topcourseincludes" : [
       { "idx": 1, "topinclude": "2 oportunidades de examen" },
@@ -18,11 +21,13 @@
       { "idx": 4, "topinclude": "Infografías, glosario y material adicional" }
    ],
    "courseincludes": [
-      { "idx": 1, "include": "Material oficial acreditado para el participante" },
-      { "idx": 2, "include": "Ejercicios de revisión" },
-      { "idx": 3, "include": "Examen de simulación" },
-      { "idx": 4, "include": "Examen de certificación oficial por parte de PeopleCert (AXELOS)" },
-      { "idx": 5, "include": "21 PDUs" }
+      { "idx": 1, "include": "2 oportunidades de examen" },
+      { "idx": 2, "include": "4 simuladores de examen" },
+      { "idx": 3, "include": "Puedes repetir el curso en caso de no aprobar el examen" },
+      { "idx": 4, "include": "Infografías, glosario y material adicional" },
+      { "idx": 5, "include": "Material oficial acreditado para el participante" },
+      { "idx": 6, "include": "Examen de certificación oficial por parte de PeopleCert (AXELOS)" },
+      { "idx": 7, "include": "21 PDUs" }
    ],
    "benefits": [
       { "idx": 1, "benefit": "ITIL® 4 ayudará a las organizaciones a alinear sus recursos humanos, digitales y físicos para competir en el complejo panorama moderno y adoptar estas tecnologías en sus operaciones de TI." },
