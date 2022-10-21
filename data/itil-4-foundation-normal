@@ -12,6 +12,7 @@
       { "idx": 2, "type": "ELearning" }
    ],
    "elearning": "https://elearning.globallynx.com.mx/course/view.php?id=23",
+   "bannerimg": "https://mrinformatica.es/wp-content/uploads/ITIL-V4-800x400.jpg",
    "duration": "21 horas",
    "description": "ITIL® 4 Foundation es la certificación más reconocida a nivel internacional para la Gestión de Servicios de TI. El curso de certificación de ITIL® 4 Foundation presenta un modelo operativo integral para la creación, entrega y mejora continua de productos y servicios basados en tecnología. El curso te ayudará a entender: Qué es ITIL®, qué elementos contiene, dónde aplicarlo, Conceptos sobre gestión de servicios de TI, Principios Guía de ITIL®, Las Cuatro Dimensiones de la Gestión de Servicios, El Sistema de Valor de ITIL® y la Cadena del Valor del Servicio, Las prácticas de ITIL® y cómo benefician a la organización. Este curso con acreditación oficial de PeopleCert es impartido por nuestros instructores los cuales cuentan con experiencia en implementación de ITIL®.",
    "logourl": "",
