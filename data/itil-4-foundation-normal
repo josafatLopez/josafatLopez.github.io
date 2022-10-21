@@ -1,7 +1,7 @@
 {
    "id": 2,
    "linkurl": "itil-4-foundation",
-   "category": "ITIL",
+   "category": "topCourse",
    "course": "ITIL® 4 Foundation",
    "schedules": [
       { "idx": 1, "date": "Octubre/10 - Octubre/12 (Entre Semana)" },
