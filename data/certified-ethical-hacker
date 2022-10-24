@@ -12,44 +12,29 @@
       { "idx": 2, "type": "En línea con profesor en vivo" }
    ],
    "elearning": "",
-   "bannerimg": "https://banners-diferenciadores.s3.us-east-1.amazonaws.com/dif-ceh.jpg?response-content-disposition=inline&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEOz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCTyT5YoH4rAZupk2P6SGUdKMsd8RVJaxohFczWXP67EQIgUApopP%2BrZiJeTOV4CbuQNCVtz1uDFFXz3e4lUBCnGawqhAMIxf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARABGgwzMTc5Njc4MDc4MzEiDD%2Frhl7eol8g9wTmnirYAvnBWwMUcHrc06LVt%2FvTVKbr8JFNGGl8rDWYq1mUUqRlFJv5onIVpY6Xd7xdnbGdpTKePt8PaQArm0KgICjibHUNjTXXmIe2%2FwH82IFemcgxg567fa0OLFBAYdfGfN5MzYHlo8JnbmlVEqa5C579Xgo9bKWbZ1Yo1p2AVVCDcbuPiY8VlmUJJT7a8hcrFRUufdrlxyxRx2qwasO1g06Qsc7SILCjvFtQm7VsuJGeY9fezpOZdcfe2dHUTcLLaAWhI%2Bon61Ig0eb6D72oKNaQghog4QyCx8%2BCbasZmac0O7a%2B800LL8ercMYmQA7RemKKdR2s3%2BIePgSLnXDzhQDNEfSDIg6qhii146Ln8VeCvymI9zWuhkHDSe7yOihPPJdbDTzcd1RP%2FfCd4r0tvVetks5P95dC9tuOu2Mb3%2BScRzFVZEF2OCJFzsqQAbZxUl8nE834UMKt39I6MOHX25oGOrMCBu5%2BPYpX4Yo6ikII7dkKK396yixhtJT0RzPBuwvp4JnPoipESvtbfI5STd4Gagxswjx9PPgdtUjqeGH22FRo12O40ipnMP5kU2tGZ4D8Foc1Q4FvL3SrW4xJ8cx80hYF9Xta9GXo4HKoy5GniTo%2FwPW0ADmlag9ixyokfv22eMzeY687EhU002nfNxgOtpHE4wgq1BHa%2F0mga4aO0rUoOUJ%2FAOGSov903xvUVOmHhUcMw6hLk8aD2nvYQiYklL7qB53n35A4jQIgVMX1r4%2FGj7FeOA2sGh6GogdsXGKUzk73wGJGjjfdQSQfak1A8SV2K1f8I%2BcSCp7D%2F2k%2BFz4ofeIGyBrEyiml7DzDbbozXLCSwNff6%2BNU2sMp28Gxurh%2FH3w%2FHZs42hs%2FosWcnCK1XdZzfQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221024T211933Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAUUCC3WVLWPPBEM6L%2F20221024%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=00be1369b325ac12215eff63c94cff38f2b49187e6da0a0cec32fb6fc405c7b9",
+   "bannerimg": "https://banners-diferenciadores.s3.amazonaws.com/dif-ceh.jpg",
    "duration": "40 horas",
-   "description": "La credencial de CEH es la certificación más confiable de hackeo ético recomendada por empleadores mundialmente. Es la certificación de seguridad de la información más deseada y representa una de las ciber credenciales de mayor crecimiento requeridas por infraestructuras críticas y prestadores de servicios esenciales. Desde su presentación en 2003, es reconocida como un estándar dentro de la comunidad de seguridad de la información. CEH v11 continúa presentando las técnicas de hackeo más recientes y los exploits y las herramientas de hackeo más avanzadas utilizadas por hackers y profesionales en seguridad de la información actualmente. Las cinco fases de Ethical Hacking y la misión central original de CEH permanece valida y relevante actualmente. “Para vencer al hacker, se debe pensar como un hacker.”",
+   "description": "C|EH v12 es la certificación de Ethical Hacker número 1 del mundo. Desarrolla tu carrera con esta certificación. El curso de Certified Ethical Hacker v12 te enseñará las últimas herramientas, técnicas y metodologías de hackeo de grado comercial que utilizan los hackers y los profesionales de la seguridad de la información para hackear organizaciones de manera legal. C|EH es un excelente lugar para comenzar su carrera en seguridad cibernética. Los ethical hackers pueden evaluar casi cualquier aplicación o infraestructura que se les encomiende, identificar vulnerabilidades potenciales y proporcionar recomendaciones sobre cómo esos las vulnerabilidades pueden ser remediadas.",
    "logourl": "",
    "topcourseincludes" : [
-      { "idx": 1, "topinclude": "2 oportunidades de examen" },
-      { "idx": 2, "topinclude": "4 simuladores de examen" },
-      { "idx": 3, "topinclude": "Puedes repetir el curso en caso de no aprobar el examen" },
-      { "idx": 4, "topinclude": "Infografías, glosario y material adicional" }
+      { "idx": 1, "topinclude": "2 x 1 (Certified Ethical Hacker + Curso online Cybersecurity Essentials)" },
+      { "idx": 2, "topinclude": "Puedes repetir el curso en caso de no aprobar el examen" },
+      { "idx": 3, "topinclude": "Ejercicios de revisión" }
    ],
    "courseincludes": [
-      { "idx": 1, "include": "Material oficial acreditado para el participante" },
-      { "idx": 2, "include": "Ejercicios de revisión" },
-      { "idx": 3, "include": "Diploma de finalización de curso" },
-      { "idx": 4, "include": "Examen de certificación oficial por parte de EcCouncil" }
+      { "idx": 1, "include": "2 x 1 (Certified Ethical Hacker + Curso online Cybersecurity Essentials)" },
+      { "idx": 2, "include": "Material oficial acreditado para el participante" },
+      { "idx": 3, "include": "Puedes repetir el curso en caso de no aprobar el examen" },
+      { "idx": 4, "include": "Ejercicios de revisión" },
+      { "idx": 5, "include": "Diploma de finalización de curso" },
+      { "idx": 6, "include": "Examen de certificación oficial por parte de EcCouncil" }
    ],
    "benefits": [
-      { "idx": 1, "benefit": "Problemas clave incluyendo plagar el mundo de seguridad de la información, hackeo ético, controles de seguridad de la información, leyes y estándares." },
-      { "idx": 2, "benefit": "Llevar a cabo técnicas de recolección de datos y reconocimiento utilizando las técnicas y herramientas más novedosas de recolección de datos como una fase de pre-ataque crítica requerida en el hackeo ético." },
-      { "idx": 3, "benefit": "Medidas de escaneo y técnicas de escaneo de redes." },
-      { "idx": 4, "benefit": "Enumeración de técnicas y enumeración de contramedidas." },
-      { "idx": 5, "benefit": "Análisis de vulnerabilidades para identificar fisuras en la red de la organización, infraestructura de comunicación y sistemas finales." },
-      { "idx": 6, "benefit": "Esteganografía de la metodología del hackeo de sistemas, ataques de estegano-análisis y cubrir huellas para descubrir vulnerabilidades de red y de sistema." },
-      { "idx": 7, "benefit": "Diferentes tipos de malware, auditoría del sistema para ataques de malware, análisis de malware y contramedidas." },
-      { "idx": 8, "benefit": "Técnicas de “packet sniffing” para descubrir vulnerabilidades en la red y contramedidas para defender sniffing." },
-      { "idx": 9, "benefit": "Técnicas de ingeniería social y cómo identificar ataques de robo para auditar vulnerabilidades de nivel del humano y sugerir contramedidas para la ingeniería social." },
-      { "idx": 10, "benefit": "Técnicas de ataques DoS/DDoS y herramientas para auditar un objetivo y contramedidas de DoS/DDoS." },
-      { "idx": 11, "benefit": "Técnicas de secuestro de sesión para descubrir gestión de sesión del nivel de la red, autenticación/autorización, debilidades de criptografía y contramedidas." },
-      { "idx": 12, "benefit": "Ataques al servidor web y una metodología de ataques comprensiva para auditar vulnerabilidades en la infraestructura del servidor web y contramedidas." },
-      { "idx": 13, "benefit": "Ataques a la aplicación web y la metodología comprensiva de hackeo de aplicaciones para auditar vulnerabilidades en aplicaciones web y contramedidas." },
-      { "idx": 14, "benefit": "Técnicas de ataques de inyección SQL, herramientas de detección de inyección para detectar intentos de inyección SQL y contramedidas." },
-      { "idx": 15, "benefit": "Cifrado inalámbrico, metodología de hackeo inalámbrico, herramientas de hackeo inalámbrico y herramientas de seguridad Wi-Fi." },
-      { "idx": 16, "benefit": "Vector de ataques de plataformas móviles, explotaciones de vulnerabilidades de Android y pautas de seguridad móvil y herramientas." },
-      { "idx": 17, "benefit": "Técnicas de evasión de honeypot, IDS y firewall, técnicas y herramientas de evasión para auditar un perímetro de red por debilidades y contramedidas." },
-      { "idx": 18, "benefit": "Conceptos de Cloud Computing, herramientas y técnicas de seguridad y ataques/amenazas." },
-      { "idx": 19, "benefit": "Pruebas de penetración, auditoria de seguridad, valoración de vulnerabilidad y mapa de ruta de pruebas de penetración." },
-      { "idx": 20, "benefit": "Amenazas a la plataforma de IoT y OT y aprender cómo defender dispositivos de IoT y OT de forma segura." },
-      { "idx": 21, "benefit": "Cifrados de criptografía, Infraestructura de Llave Pública (PKI), criptografía." }
+      { "idx": 1, "benefit": "Evaluar los sistemas de destino en busca de vulnerabilidades." },
+      { "idx": 2, "benefit": "Configuraciones incorrectas y debilidades." },
+      { "idx": 3, "benefit": "Encontrar el eslabón más débil en una organización a través de conceptos como la ingeniería social." },
+      { "idx": 4, "benefit": "Cómo operan los Ethical Hackers." },
+      { "idx": 5, "benefit": "Qué tácticas usan y cómo aplicar esas tácticas en un entorno profesional para identificar las debilidades." }
    ],
    "forwho": [
       { "idx": 1, "qualities": "Administrador / Analista de Seguridad de la Información" },
