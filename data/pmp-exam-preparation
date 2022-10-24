@@ -1,21 +1,33 @@
 {
    "id": 3,
    "linkurl": "pmp-exam-preparation",
-   "category": "PMI",
+   "category": "topCourse",
    "course": "PMI® Authorized PMP® Exam Prep Course",
    "schedules": [
       { "idx": 1, "date": "Contacta a un asesor para saber próximas fechas" },
       { "idx": 2, "date": "" }
    ],
-   "modality": "Presencial | En línea con profesor en vivo",
+   "modality": [
+      { "idx": 1, "type": "Presencial" },
+      { "idx": 2, "type": "En línea con profesor en vivo" }
+   ],
+   "elearning": "",
+   "bannerimg": "https://banners-diferenciadores.s3.amazonaws.com/dif-pmp.jpg",
    "duration": "35 horas",
-   "description": "Los directores de proyectos que tienen habilidades y experiencia comprobadas pueden encontrar oportunidades emocionantes y de alta visibilidad en una amplia gama de campos. Este curso está diseñado específicamente para brindarle el cuerpo práctico y comprobado de conocimientos y habilidades de gestión de proyectos que necesita para demostrar el dominio de la administración de proyectos en el trabajo. Este curso puede ser una parte importante de su preparación para el examen de certificación Project Management Professional (PMP) ®. Las habilidades y el conocimiento que gane en este curso lo ayudarán a evitar cometer errores costosos y a aumentar su ventaja competitiva en la profesión de dirección de proyectos. ",
+   "description": "Potencia tus habilidades y trabaja de manera más inteligente... Project Management Professional (PMP®) es la certificación de gestión de proyectos líder en el mundo. La certificación PMP® válida que tiene las habilidades de liderazgo de proyectos que buscan los empleadores. El nuevo PMP® incluye tres enfoques clave: Predictivo (cascada), Ágil e Híbrido. La certificación PMP® está diseñada por profesionales de proyectos, para profesionales de proyectos y valida que usted se encuentra entre los mejores, altamente capacitado en: Personas: enfatizando las habilidades blandas que necesita para liderar de manera efectiva un equipo de proyecto en el entorno cambiante de hoy. Proceso: reforzar los aspectos técnicos de la gestión exitosa de proyectos. Ambiente de Negocios: destacando la conexión entre los proyectos y la estrategia organizacional. Obtén una ventaja competitiva y demuestra que trabajas de manera más inteligente. Haz tus metas una realidad.",
    "logourl": "",
+   "topcourseincludes" : [
+      { "idx": 1, "topinclude": "3 simuladores de examen" },
+      { "idx": 2, "topinclude": "Puedes repetir el curso en caso de no aprobar el examen" },
+      { "idx": 3, "topinclude": "Ejercicios de revisión" }
+   ],
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
-      { "idx": 2, "include": "Ejercicios de revisión" },
-      { "idx": 3, "include": "Diploma de finalización de curso" },
-      { "idx": 4, "include": "Examen de certificación oficial por parte de PMI" }
+      { "idx": 2, "include": "3 Simuladores de examen " },
+      { "idx": 3, "include": "Puedes repetir el curso en caso de no aprobar el examen" },
+      { "idx": 4, "include": "Ejercicios de revisión" },
+      { "idx": 5, "include": "Diploma de finalización de curso" },
+      { "idx": 6, "include": "Examen de certificación oficial por parte de PMI" }
    ],
    "benefits": [
       { "idx": 1, "benefit": "Aumentar sus habilidades de gestión de proyectos" },
