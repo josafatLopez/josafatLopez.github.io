@@ -1,16 +1,27 @@
 {
    "id": 4,
    "linkurl": "certified-ethical-hacker",
-   "category": "Ciberseguridad",
+   "category": "topCourse",
    "course": "Certified Ethical Hacker v12 (CEH)",
    "schedules": [
       { "idx": 1, "date": "Contacta a un asesor para saber próximas fechas" },
       { "idx": 2, "date": "" }
    ],
-   "modality": "Presencial | En línea con profesor en vivo",
+   "modality": [
+      { "idx": 1, "type": "Presencial" },
+      { "idx": 2, "type": "En línea con profesor en vivo" }
+   ],
+   "elearning": "",
+   "bannerimg": "https://banners-diferenciadores.s3.us-east-1.amazonaws.com/dif-ceh.jpg?response-content-disposition=inline&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEOz%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCTyT5YoH4rAZupk2P6SGUdKMsd8RVJaxohFczWXP67EQIgUApopP%2BrZiJeTOV4CbuQNCVtz1uDFFXz3e4lUBCnGawqhAMIxf%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARABGgwzMTc5Njc4MDc4MzEiDD%2Frhl7eol8g9wTmnirYAvnBWwMUcHrc06LVt%2FvTVKbr8JFNGGl8rDWYq1mUUqRlFJv5onIVpY6Xd7xdnbGdpTKePt8PaQArm0KgICjibHUNjTXXmIe2%2FwH82IFemcgxg567fa0OLFBAYdfGfN5MzYHlo8JnbmlVEqa5C579Xgo9bKWbZ1Yo1p2AVVCDcbuPiY8VlmUJJT7a8hcrFRUufdrlxyxRx2qwasO1g06Qsc7SILCjvFtQm7VsuJGeY9fezpOZdcfe2dHUTcLLaAWhI%2Bon61Ig0eb6D72oKNaQghog4QyCx8%2BCbasZmac0O7a%2B800LL8ercMYmQA7RemKKdR2s3%2BIePgSLnXDzhQDNEfSDIg6qhii146Ln8VeCvymI9zWuhkHDSe7yOihPPJdbDTzcd1RP%2FfCd4r0tvVetks5P95dC9tuOu2Mb3%2BScRzFVZEF2OCJFzsqQAbZxUl8nE834UMKt39I6MOHX25oGOrMCBu5%2BPYpX4Yo6ikII7dkKK396yixhtJT0RzPBuwvp4JnPoipESvtbfI5STd4Gagxswjx9PPgdtUjqeGH22FRo12O40ipnMP5kU2tGZ4D8Foc1Q4FvL3SrW4xJ8cx80hYF9Xta9GXo4HKoy5GniTo%2FwPW0ADmlag9ixyokfv22eMzeY687EhU002nfNxgOtpHE4wgq1BHa%2F0mga4aO0rUoOUJ%2FAOGSov903xvUVOmHhUcMw6hLk8aD2nvYQiYklL7qB53n35A4jQIgVMX1r4%2FGj7FeOA2sGh6GogdsXGKUzk73wGJGjjfdQSQfak1A8SV2K1f8I%2BcSCp7D%2F2k%2BFz4ofeIGyBrEyiml7DzDbbozXLCSwNff6%2BNU2sMp28Gxurh%2FH3w%2FHZs42hs%2FosWcnCK1XdZzfQ%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221024T211933Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAUUCC3WVLWPPBEM6L%2F20221024%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=00be1369b325ac12215eff63c94cff38f2b49187e6da0a0cec32fb6fc405c7b9",
    "duration": "40 horas",
    "description": "La credencial de CEH es la certificación más confiable de hackeo ético recomendada por empleadores mundialmente. Es la certificación de seguridad de la información más deseada y representa una de las ciber credenciales de mayor crecimiento requeridas por infraestructuras críticas y prestadores de servicios esenciales. Desde su presentación en 2003, es reconocida como un estándar dentro de la comunidad de seguridad de la información. CEH v11 continúa presentando las técnicas de hackeo más recientes y los exploits y las herramientas de hackeo más avanzadas utilizadas por hackers y profesionales en seguridad de la información actualmente. Las cinco fases de Ethical Hacking y la misión central original de CEH permanece valida y relevante actualmente. “Para vencer al hacker, se debe pensar como un hacker.”",
    "logourl": "",
+   "topcourseincludes" : [
+      { "idx": 1, "topinclude": "2 oportunidades de examen" },
+      { "idx": 2, "topinclude": "4 simuladores de examen" },
+      { "idx": 3, "topinclude": "Puedes repetir el curso en caso de no aprobar el examen" },
+      { "idx": 4, "topinclude": "Infografías, glosario y material adicional" }
+   ],
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
       { "idx": 2, "include": "Ejercicios de revisión" },
