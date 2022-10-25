@@ -1,22 +1,34 @@
 {
    "id": 82,
    "linkurl": "crisc-certified-in-risk-and-information-systems-control",
-   "category": "Gestión de Riesgos y Antisoborno",
+   "category": "topCourse",
    "course": "CRISC™ (Certified in Risk and Information Systems Control™)",
    "schedules": [
       { "idx": 1, "date": "Contacta a un asesor para saber próximas fechas" },
       { "idx": 2, "date": "" }
    ],
-   "modality": "Presencial | En línea con profesor en vivo",
+   "modality": [
+      { "idx": 1, "type": "Presencial" },
+      { "idx": 2, "type": "En línea con profesor en vivo" }
+   ],
+   "elearning": "",
+   "bannerimg": "https://banners-diferenciadores.s3.amazonaws.com/dif-crisc.jpg",
    "duration": "40 horas",
-   "description": "En el ambiente del negocio actual, las empresas deben estar en constante transformación para sobrevivir. Sin embargo, la innovación casi siempre conlleva un riesgo. Para mantener o alcanzar su competitividad, los líderes en las empresas que piensan a futuro reconocen la necesidad de profesionales que comprendan la tecnología, y específicamente cómo implementar y alinear una gestión de riesgos eficaz y marcos de control con los objetivos de negocio de la empresa. Para ayudar a alcanzar la creciente demanda para profesionales con esta combinación de entendimiento técnico y de negocio, ISACA® desarrolló la certificación Certified in Risk and Information Systems Control™ (CRISC™).",
+   "description": "CRISC™ es la única certificación enfocada en la gestión de riesgos de TI. La certificación Certified in Risk and Information Systems Control (CRISC) de ISACA es ideal para profesionales de seguridad, riesgos y auditoría de TI/SI. CRISC™ valida tu experiencia en la creación de un programa de gestión de riesgos ágil y bien definido, basado en las mejores prácticas para identificar, analizar, evaluar, valorar, priorizar y responder a los riesgos. Para ayudar a alcanzar la creciente demanda para profesionales con esta combinación de entendimiento técnico y de negocio, ISACA® desarrolló la certificación Certified in Risk and Information Systems Control™ (CRISC™). Mejore la resiliencia empresarial y el valor de las partes interesadas y obtenga una mayor credibilidad. ",
    "logourl": "",
+   "topcourseincludes" : [
+      { "idx": 1, "topinclude": "Ejercicios de revisión" },
+      { "idx": 2, "topinclude": "Puedes repetir el curso en caso de no aprobar el examen" },
+      { "idx": 3, "topinclude": "Examen de simulación" }
+   ],
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
-      { "idx": 2, "include": "Ejercicios de revisión" },
-      { "idx": 3, "include": "Examen de prueba" },
-      { "idx": 4, "include": "Diploma de finalización de curso" },
-      { "idx": 5, "include": "Examen de certificación oficial por parte de ISACA" }
+      { "idx": 2, "include": "Puedes repetir el curso en caso de no aprobar el examen" },
+      { "idx": 3, "include": "Examen de simulación" },
+      { "idx": 4, "include": "Ejercicios de revisión" },
+      { "idx": 5, "include": "Examen de prueba" },
+      { "idx": 6, "include": "Diploma de finalización de curso" },
+      { "idx": 7, "include": "Examen de certificación oficial por parte de ISACA" }
    ],
    "benefits": [
       { "idx": 1, "benefit": "Obtener un símbolo prestigioso de conocimiento y experiencia como un profesional de riesgos." },

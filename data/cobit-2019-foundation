@@ -1,22 +1,34 @@
 {
    "id": 32,
    "linkurl": "cobit-2019-foundation",
-   "category": "Gobierno de TI y Auditoría",
+   "category": "topCourse",
    "course": "COBIT® 2019 Foundation",
    "schedules": [
       { "idx": 1, "date": "Contacta a un asesor para saber próximas fechas" },
       { "idx": 2, "date": "" }
    ],
-   "modality": "Presencial | En línea con profesor en vivo",
+   "modality": [
+      { "idx": 1, "type": "Presencial" },
+      { "idx": 2, "type": "En línea con profesor en vivo" }
+   ],
+   "elearning": "",
+   "bannerimg": "https://banners-diferenciadores.s3.amazonaws.com/dif-cobit.jpg",
    "duration": "21 horas",
-   "description": "El programa de Certificación de Fundamentos de COBIT 2019 cubre ocho áreas clave: introducción al marco, principios, componentes y sistema de gobierno, objetivos de gestión y gobierno, gestión del desempeño, diseñar un sistema de gobierno a la medida, caso de negocio e implementación. Los candidatos exploran los conceptos, principios y metodologías de COBIT 2019 usadas para establecer, mejorar y mantener un sistema para una gestión y gobierno eficaz de la tecnología de la información en la empresa. El examen pondrá a prueba los conocimientos de los candidatos sobre los temas y aquellos que aprueben el examen de COBIT 2019 recibirán el Certificado de Fundamentos en COBIT 2019.",
+   "description": "COBIT® 2019 es la evolución más reciente del marco COBIT® mundialmente reconocido y utilizado de ISACA. El curso de Certificación de Fundamentos de COBIT® 2019 cubre ocho áreas clave: introducción al marco, principios, componentes y sistema de gobierno, objetivos de gestión y gobierno, gestión del desempeño, diseñar un sistema de gobierno a la medida, caso de negocio e implementación. Los candidatos exploran los conceptos, principios y metodologías de COBIT® 2019 usadas para establecer, mejorar y mantener un sistema para una gestión y gobierno eficaz de la tecnología de la información en la empresa. Este curso con acreditación oficial de ISACA es impartido por nuestros instructores los cuales cuentan con experiencia en implementación de COBIT®.",
    "logourl": "",
+   "topcourseincludes" : [
+      { "idx": 1, "topinclude": "Ejercicios de revisión" },
+      { "idx": 2, "topinclude": "Puedes repetir el curso en caso de no aprobar el examen" },
+      { "idx": 3, "topinclude": "Examen de simulación" }
+   ],
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
-      { "idx": 2, "include": "Ejercicios de revisión" },
-      { "idx": 3, "include": "Diploma de finalización de curso" },
-      { "idx": 4, "include": "Examen prueba" },
-      { "idx": 5, "include": "Examen de certificación oficial por parte de ISACA" }
+      { "idx": 2, "include": "Puedes repetir el curso en caso de no aprobar el examen" },
+      { "idx": 3, "include": "Examen de simulación" },
+      { "idx": 4, "include": "Ejercicios de revisión" },
+      { "idx": 5, "include": "Diploma de finalización de curso" },
+      { "idx": 6, "include": "Examen prueba" },
+      { "idx": 7, "include": "Examen de certificación oficial por parte de ISACA" }
    ],
    "benefits": [
       { "idx": 1, "benefit": "Reconocer el contexto, beneficios y razones clave del porqué COBIT es usado como un marco de gobierno de tecnología e información." },

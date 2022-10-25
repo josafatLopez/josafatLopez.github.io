@@ -14,7 +14,11 @@
    "elearning": "https://elearning.globallynx.com.mx/course/view.php?id=19",
    "bannerimg": "https://banners-diferenciadores.s3.amazonaws.com/dif-scrum.jpg",
    "duration": "16 horas",
-   "description": "Scrum Master Certified (SMC ™) es el marco de trabajo ágil más popular a nivel mundial. El curso de Scrum Master Certified (SMC ™) busca que los participantes sean facilitadores que aseguren que el equipo de Scrum esté provisto de un entorno propicio para completar proyectos con éxito. Este curso con acreditación oficial de SCRUMStudy es impartido por nuestros instructores los cuales cuentan con experiencia y están certificados como SCRUM Master.",
+   "description": [
+      { "idx": 1, "paragraph": "Scrum Master Certified (SMC ™) es el marco de trabajo ágil más popular a nivel mundial." },
+      { "idx": 2, "paragraph": "El curso de Scrum Master Certified (SMC ™) busca que los participantes sean facilitadores que aseguren que el equipo de Scrum esté provisto de un entorno propicio para completar proyectos con éxito." },
+      { "idx": 3, "paragraph": "Este curso con acreditación oficial de SCRUMStudy es impartido por nuestros instructores los cuales cuentan con experiencia y están certificados como SCRUM Master." }
+   ],
    "logourl": "",
    "topcourseincludes" : [
       { "idx": 1, "topinclude": "3x1 (Scrum Master Certified + Scrum fundamentals + Curso online Jira Fundamentos)" },
