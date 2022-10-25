@@ -14,7 +14,15 @@
    "elearning": "",
    "bannerimg": "https://banners-diferenciadores.s3.amazonaws.com/dif-pmp.jpg",
    "duration": "35 horas",
-   "description": "Potencia tus habilidades y trabaja de manera más inteligente... Project Management Professional (PMP®) es la certificación de gestión de proyectos líder en el mundo. La certificación PMP® válida que tiene las habilidades de liderazgo de proyectos que buscan los empleadores. El nuevo PMP® incluye tres enfoques clave: Predictivo (cascada), Ágil e Híbrido. La certificación PMP® está diseñada por profesionales de proyectos, para profesionales de proyectos y valida que usted se encuentra entre los mejores, altamente capacitado en: Personas: enfatizando las habilidades blandas que necesita para liderar de manera efectiva un equipo de proyecto en el entorno cambiante de hoy. Proceso: reforzar los aspectos técnicos de la gestión exitosa de proyectos. Ambiente de Negocios: destacando la conexión entre los proyectos y la estrategia organizacional. Obtén una ventaja competitiva y demuestra que trabajas de manera más inteligente. Haz tus metas una realidad.",
+   "description": [
+      { "idx": 1, "paragraph": "Potencia tus habilidades y trabaja de manera más inteligente... Project Management Professional (PMP®) es la certificación de gestión de proyectos líder en el mundo." },
+      { "idx": 2, "paragraph": "La certificación PMP® válida que tiene las habilidades de liderazgo de proyectos que buscan los empleadores. El nuevo PMP® incluye tres enfoques clave: Predictivo (cascada), Ágil e Híbrido." },
+      { "idx": 3, "paragraph": "La certificación PMP® está diseñada por profesionales de proyectos, para profesionales de proyectos y valida que usted se encuentra entre los mejores, altamente capacitado en:" },
+      { "idx": 4, "paragraph": "• Personas: enfatizando las habilidades blandas que necesita para liderar de manera efectiva un equipo de proyecto en el entorno cambiante de hoy." },
+      { "idx": 5, "paragraph": "• Proceso: reforzar los aspectos técnicos de la gestión exitosa de proyectos." },
+      { "idx": 6, "paragraph": "• Ambiente de Negocios: destacando la conexión entre los proyectos y la estrategia organizacional." },
+      { "idx": 7, "paragraph": "Obtén una ventaja competitiva y demuestra que trabajas de manera más inteligente. Haz tus metas una realidad." }
+   ],
    "logourl": "",
    "topcourseincludes" : [
       { "idx": 1, "topinclude": "3 simuladores de examen" },

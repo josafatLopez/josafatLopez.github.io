@@ -14,7 +14,12 @@
    "elearning": "",
    "bannerimg": "https://banners-diferenciadores.s3.amazonaws.com/dif-ceh.jpg",
    "duration": "40 horas",
-   "description": "C|EH v12 es la certificación de Ethical Hacker número 1 del mundo. Desarrolla tu carrera con esta certificación. El curso de Certified Ethical Hacker v12 te enseñará las últimas herramientas, técnicas y metodologías de hackeo de grado comercial que utilizan los hackers y los profesionales de la seguridad de la información para hackear organizaciones de manera legal. C|EH es un excelente lugar para comenzar su carrera en seguridad cibernética. Los ethical hackers pueden evaluar casi cualquier aplicación o infraestructura que se les encomiende, identificar vulnerabilidades potenciales y proporcionar recomendaciones sobre cómo esos las vulnerabilidades pueden ser remediadas.",
+   "description": [
+      { "idx": 1, "paragraph": "C|EH v12 es la certificación de Ethical Hacker número 1 del mundo. Desarrolla tu carrera con esta certificación." },
+      { "idx": 2, "paragraph": "El curso de Certified Ethical Hacker v12 te enseñará las últimas herramientas, técnicas y metodologías de hackeo de grado comercial que utilizan los hackers y los profesionales de la seguridad de la información para hackear organizaciones de manera legal." },
+      { "idx": 3, "paragraph": "C|EH es un excelente lugar para comenzar su carrera en seguridad cibernética. Los ethical hackers pueden evaluar casi cualquier aplicación o infraestructura que se les encomiende, identificar vulnerabilidades potenciales y proporcionar recomendaciones sobre cómo esos las vulnerabilidades pueden ser remediadas." },
+      { "idx": 4, "paragraph": "Nuestros instructores han recibido el premio EC-Council Instructor (CEI) Circle of Excellence Award en varias ocasiones siendo la última en 2021." }
+   ],
    "logourl": "",
    "topcourseincludes" : [
       { "idx": 1, "topinclude": "2 x 1 (Certified Ethical Hacker + Curso online Cybersecurity Essentials)" },

@@ -14,7 +14,13 @@
    "elearning": "",
    "bannerimg": "https://banners-diferenciadores.s3.amazonaws.com/dif-crisc.jpg",
    "duration": "40 horas",
-   "description": "CRISC™ es la única certificación enfocada en la gestión de riesgos de TI. La certificación Certified in Risk and Information Systems Control (CRISC) de ISACA es ideal para profesionales de seguridad, riesgos y auditoría de TI/SI. CRISC™ valida tu experiencia en la creación de un programa de gestión de riesgos ágil y bien definido, basado en las mejores prácticas para identificar, analizar, evaluar, valorar, priorizar y responder a los riesgos. Para ayudar a alcanzar la creciente demanda para profesionales con esta combinación de entendimiento técnico y de negocio, ISACA® desarrolló la certificación Certified in Risk and Information Systems Control™ (CRISC™). Mejore la resiliencia empresarial y el valor de las partes interesadas y obtenga una mayor credibilidad. ",
+   "description": [
+      { "idx": 1, "paragraph": "CRISC™ es la única certificación enfocada en la gestión de riesgos de TI." },
+      { "idx": 2, "paragraph": "La certificación Certified in Risk and Information Systems Control (CRISC) de ISACA es ideal para profesionales de seguridad, riesgos y auditoría de TI/SI." },
+      { "idx": 3, "paragraph": "CRISC™ valida tu experiencia en la creación de un programa de gestión de riesgos ágil y bien definido, basado en las mejores prácticas para identificar, analizar, evaluar, valorar, priorizar y responder a los riesgos." },
+      { "idx": 4, "paragraph": "Para ayudar a alcanzar la creciente demanda para profesionales con esta combinación de entendimiento técnico y de negocio, ISACA® desarrolló la certificación Certified in Risk and Information Systems Control™ (CRISC™)." },
+      { "idx": 5, "paragraph": "Mejore la resiliencia empresarial y el valor de las partes interesadas y obtenga una mayor credibilidad. " }
+   ],
    "logourl": "",
    "topcourseincludes" : [
       { "idx": 1, "topinclude": "Ejercicios de revisión" },

@@ -51,121 +51,88 @@
    "content": [
       {
          "idx" : 1,
-         "unit" : "Sistemas de Gestión de Seguridad de la Información", 
+         "unit" : "Introducción",
          "topics" : [
-           { "idx":"1.1", "topic":"Introducción a los ISMS" },
-           { "idx":"1.2", "topic":"Seguridad de la Información" },
-           { "idx":"1.3", "topic":"Porqué implementar ISO 27001:2013" },
-           { "idx":"1.4", "topic":"La esencia de la Seguridad de la Información" }
+            { "idx":"1.1", "topic":"Principios de la Seguridad de la Información"},
+            { "idx":"1.2", "topic":"Normas ISO/IEC 27000"},
+            { "idx":"1.3", "topic":"El Enfoque de Procesos"},
+            { "idx":"1.4", "topic":"El ciclo de Planificar-Hacer-Verificar-Actuar"},
+            { "idx":"1.5", "topic":"Términos y Definiciones"}
          ]
       },
       {
          "idx" : 2,
-         "unit" : "Normas de la Seguridad de la Información", 
+         "unit" : "Requerimientos para un Sistema de Gestión de Seguridad de la Información", 
          "topics" : [
-           { "idx":"2.1", "topic":"Historia de las Normas ISMS" },
-           { "idx":"2.2", "topic":"ISO 22301" },
-           { "idx":"2.3", "topic":"ISO 27000" }
+            { "idx":"2.1", "topic":"Contexto del Organización" },
+            { "idx":"2.2", "topic":"Liderazgo" },
+            { "idx":"2.3", "topic":"Planeación" },
+            { "idx":"2.4", "topic":"Soporte" },
+            { "idx":"2.5", "topic":"Operación" },
+            { "idx":"2.5", "topic":"Evaluación del Desempeño" },
+            { "idx":"2.6", "topic":"Mejora" }
          ]
       },
       {
          "idx" : 3,
-         "unit" : "Cumplimiento con los Requerimientos de ISO 27001:2013", 
+         "unit" : "Conceptos Básicos de Auditoría", 
          "topics" : [
-           { "idx":"3.1", "topic":"Cumplimiento con los requerimientos de ISO 27001:2013" },
-           { "idx":"3.2", "topic":"Establecimiento y Gestión del ISMS" },
-           { "idx":"3.3", "topic":"Requerimientos de Documentación" },
-           { "idx":"3.4", "topic":"El sistema de Gestión" },
-           { "idx":"3.5", "topic":"Mejora de ISMS" },
-           { "idx":"3.6", "topic":"Controles de Anexo A" },
-           { "idx":"3.7", "topic":"Formalidad" }
+           { "idx":"3.1", "topic":"Introducción a ISO 19011:2018" },
+           { "idx":"3.1", "topic":"Términos y definiciones" }
          ]
       },
       {
          "idx" : 4,
-         "unit" : "Los sistemas para auditorías de ISMS", 
-         "topics" : [
-           { "idx":"4.1", "topic":"Metodología de auditoría" },
-           { "idx":"4.2", "topic":"Evaluación del riesgo y tratamiento del riesgo" },
-           { "idx":"4.3", "topic":"El proceso de evaluación del riesgo" },
-           { "idx":"4.4", "topic":"Identificación de necesidades de seguridad" },
-           { "idx":"4.5", "topic":"Proceso de tratamiento de riesgos" },
-           { "idx":"4.6", "topic":"Selección de controles de seguridad" },
-           { "idx":"4.7", "topic":"Enfoques a la evaluación del riesgo" },
-           { "idx":"4.8", "topic":"Evaluación del riesgo y tareas de gestión" },
-           { "idx":"4.9", "topic":"Ejemplos de amenazas y vulnerabilidades" },
-           { "idx":"4.10", "topic":"Herramientas y métodos" }
-         ]
+         "unit" : "Principios de Auditoría", 
+         "topics" : []
       },
       {
          "idx" : 5,
-         "unit" : "Auditorías", 
+         "unit" : "Gestionar Programas de Auditoría para un ISMS", 
          "topics" : [
-           { "idx":"5.1", "topic":"Qué es una auditoría" },
-           { "idx":"5.2", "topic":"Etapas de la auditoría" },
-           { "idx":"5.3", "topic":"Tipos de auditoría" },
-           { "idx":"5.4", "topic":"Anexo primera, segunda y tercera parte - perspectiva" },
-           { "idx":"5.5", "topic":"El auditor dentro del sistema de auditoría" }
+            { "idx":"5.1", "topic":"General" },
+            { "idx":"5.2", "topic":"Establecer objetivos del programa de auditoría" },
+            { "idx":"5.3", "topic":"Determinar y evaluar los riesgos y oportunidades del programa de auditoría" },
+            { "idx":"5.4", "topic":"Establecer el programa de auditoría" },
+            { "idx":"5.5", "topic":"Implementar un programa de auditoría" },
+            { "idx":"5.6", "topic":"Monitorear el programa de auditoría" },
+            { "idx":"5.7", "topic":"Revisar y mejorar el programa de auditoría" }
          ]
       },
       {
          "idx" : 6,
-         "unit" : "Preparación para la auditoría", 
+         "unit" : "Conducir una auditoría para un ISMS", 
          "topics" : [
-           { "idx":"6.1", "topic":"Desarrollo del Plan" },
-           { "idx":"6.2", "topic":"Manuales ISMS" },
-           { "idx":"6.3", "topic":"El programa de Auditoría" },
-           { "idx":"6.4", "topic":"Preparación de las Listas de Verificación" }
+            { "idx":"6.1", "topic":"General" },
+            { "idx":"6.2", "topic":"Iniciar auditoría" },
+            { "idx":"6.3", "topic":"Preparar las actividades de la auditoría" },
+            { "idx":"6.4", "topic":"Conducir actividades de auditoría" },
+            { "idx":"6.5", "topic":"Preparar y distribuir el reporte de auditoría" },
+            { "idx":"6.6", "topic":"Completar la auditoría" },
+            { "idx":"6.7", "topic":"Conducir la auditoría de seguimiento" }
          ]
       },
       {
          "idx" : 7,
-         "unit" : "Realización de la Auditoría", 
+         "unit" : "Competencia y evaluación de los auditores", 
          "topics" : [
-           { "idx":"7.1", "topic":"General" },
-           { "idx":"7.2", "topic":"Junta de Apertura" },
-           { "idx":"7.3", "topic":"El proceso de auditoría" },
-           { "idx":"7.4", "topic":"Junta del equipo de auditoría" },
-           { "idx":"7.5", "topic":"Efectividad del sistema" },
-           { "idx":"7.6", "topic":"Opciones para Recomendación" },
-           { "idx":"7.7", "topic":"Junta de Cierre" }
+            { "idx":"7.1", "topic":"General" },
+            { "idx":"7.2", "topic":"Determinar la competencia del auditor" },
+            { "idx":"7.3", "topic":"Establecer los criterios de evaluación del auditor" },
+            { "idx":"7.4", "topic":"Seleccionar el método apropiado de evaluación" },
+            { "idx":"7.5", "topic":"Conducir la evaluación del auditor" },
+            { "idx":"7.6", "topic":"Mantener y mejorar la competencia del auditor" }
          ]
       },
       {
          "idx" : 8,
-         "unit" : "Reportes, Registros, Seguimiento y Acción Correctiva", 
-         "topics" : [
-           { "idx":"8.1", "topic":"Reporte de Auditoría" },
-           { "idx":"8.2", "topic":"Seguimiento" },
-           { "idx":"8.3", "topic":"Acción Correctiva" }
-         ]
+         "unit" : "Esquema de Calificación", 
+         "topics" : []
       },
       {
          "idx" : 9,
-         "unit" : "Esquema de Calificación", 
-         "topics" : [
-           { "idx":"9.1", "topic":"Esquema de Calificación" },
-           { "idx":"9.2", "topic":"Información para contactar a ERCA" }
-         ]
-      },
-      {
-         "idx" : 10,
          "unit" : "Descripción del Examen", 
-         "topics" : [
-           { "idx":"10.1", "topic":"Formato del examen" },
-           { "idx":"10.2", "topic":"Contenido del examen de ERCA" },
-           { "idx":"10.3", "topic":"Consejos para contestar el examen" }
-         ]
-      },
-      {
-         "idx" : 11,
-         "unit" : "Repaso, Evaluación y Examinación", 
-         "topics" : [
-           { "idx":"11.1", "topic":"Repaso general" },
-           { "idx":"11.2", "topic":"Evaluación del curso" },
-           { "idx":"11.3", "topic":"Constancia del curso" },
-           { "idx":"11.4", "topic":"Examen de certificación" }
-         ]
+         "topics" : []
       }
    ]
 }

@@ -67,7 +67,7 @@
          "unit" : "Hackeo de redes inalámbricas", 
          "topics" : [
            { "idx":"3.1", "topic":"Preparación" },
-           { "idx":"3.1", "topic":"Aircrack-NG" }
+           { "idx":"3.2", "topic":"Aircrack-NG" }
          ]
       },
       {

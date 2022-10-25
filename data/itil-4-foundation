@@ -14,7 +14,16 @@
    "elearning": "https://elearning.globallynx.com.mx/course/view.php?id=23",
    "bannerimg": "https://banners-diferenciadores.s3.amazonaws.com/dif-itil.jpg",
    "duration": "21 horas",
-   "description": "ITIL® 4 Foundation es la certificación más reconocida a nivel internacional para la Gestión de Servicios de TI. El curso de certificación de ITIL® 4 Foundation presenta un modelo operativo integral para la creación, entrega y mejora continua de productos y servicios basados en tecnología. El curso te ayudará a entender: Qué es ITIL®, qué elementos contiene, dónde aplicarlo, Conceptos sobre gestión de servicios de TI, Principios Guía de ITIL®, Las Cuatro Dimensiones de la Gestión de Servicios, El Sistema de Valor de ITIL® y la Cadena del Valor del Servicio, Las prácticas de ITIL® y cómo benefician a la organización. Este curso con acreditación oficial de PeopleCert es impartido por nuestros instructores los cuales cuentan con experiencia en implementación de ITIL®.",
+   "description": [
+      { "idx": 1, "paragraph": "ITIL® 4 Foundation es la certificación más reconocida a nivel internacional para la Gestión de Servicios de TI." },
+      { "idx": 2, "paragraph": "El curso de certificación de ITIL® 4 Foundation presenta un modelo operativo integral para la creación, entrega y mejora continua de productos y servicios basados ​​en tecnología." },
+      { "idx": 3, "paragraph": "El curso te ayudará a entender:" },
+      { "idx": 4, "paragraph": "• Cómo operan las organizaciones modernas de TI y servicios digitales" },
+      { "idx": 5, "paragraph": "• Cómo los flujos de valor aumentan la velocidad y la eficiencia" },
+      { "idx": 6, "paragraph": "• Cómo los principios culturales o de comportamiento guían el trabajo que beneficia a la organización en general" },
+      { "idx": 7, "paragraph": "• Cómo utilizar términos y conceptos de gestión de servicios de uso común" },
+      { "idx": 8, "paragraph": "Este curso con acreditación oficial de PeopleCert es impartido por nuestros instructores los cuales cuentan con experiencia en implementación de TI." }
+   ],
    "logourl": "",
    "topcourseincludes" : [
       { "idx": 1, "topinclude": "2 oportunidades de examen" },

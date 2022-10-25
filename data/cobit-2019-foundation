@@ -14,7 +14,12 @@
    "elearning": "",
    "bannerimg": "https://banners-diferenciadores.s3.amazonaws.com/dif-cobit.jpg",
    "duration": "21 horas",
-   "description": "COBIT® 2019 es la evolución más reciente del marco COBIT® mundialmente reconocido y utilizado de ISACA. El curso de Certificación de Fundamentos de COBIT® 2019 cubre ocho áreas clave: introducción al marco, principios, componentes y sistema de gobierno, objetivos de gestión y gobierno, gestión del desempeño, diseñar un sistema de gobierno a la medida, caso de negocio e implementación. Los candidatos exploran los conceptos, principios y metodologías de COBIT® 2019 usadas para establecer, mejorar y mantener un sistema para una gestión y gobierno eficaz de la tecnología de la información en la empresa. Este curso con acreditación oficial de ISACA es impartido por nuestros instructores los cuales cuentan con experiencia en implementación de COBIT®.",
+   "description": [
+      { "idx": 1, "paragraph": "COBIT® 2019 es la evolución más reciente del marco COBIT® mundialmente reconocido y utilizado de ISACA." },
+      { "idx": 2, "paragraph": "El curso de Certificación de Fundamentos de COBIT® 2019 cubre ocho áreas clave: introducción al marco, principios, componentes y sistema de gobierno, objetivos de gestión y gobierno, gestión del desempeño, diseñar un sistema de gobierno a la medida, caso de negocio e implementación." },
+      { "idx": 3, "paragraph": "Los candidatos exploran los conceptos, principios y metodologías de COBIT® 2019 usadas para establecer, mejorar y mantener un sistema para una gestión y gobierno eficaz de la tecnología de la información en la empresa." },
+      { "idx": 4, "paragraph": "Este curso con acreditación oficial de ISACA es impartido por nuestros instructores los cuales cuentan con experiencia en implementación de COBIT®." }
+   ],
    "logourl": "",
    "topcourseincludes" : [
       { "idx": 1, "topinclude": "Ejercicios de revisión" },

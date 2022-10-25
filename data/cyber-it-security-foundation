@@ -93,7 +93,7 @@
         "unit" : "Cloud Computing", 
         "topics" : [
           { "idx":"6.1", "topic":"Características & modelos de desarrollo" },
-          { "idx":"6.1", "topic":"Riesgos" }
+          { "idx":"6.2", "topic":"Riesgos" }
         ]
      },
      {
@@ -101,7 +101,7 @@
         "unit" : "Explotar Vulnerabilidades", 
         "topics" : [
           { "idx":"7.1", "topic":"Categorías de ataques y tipos de amenazas" },
-          { "idx":"7.1", "topic":"Actores y herramientas" }
+          { "idx":"7.2", "topic":"Actores y herramientas" }
         ]
      },
      {
