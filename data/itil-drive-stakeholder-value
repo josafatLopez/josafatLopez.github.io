@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "24 horas",
    "description": "El curso de ITIL® 4 Drive Stakeholder Value (DSV) (Conducir el Valor de los Stakeholders) proporciona a los candidatos el entendimiento de todos los tipos de compromiso e interacciones entre un prestador de servicios y sus clientes, usuarios, proveedores y socios.",
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/itil.png",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
       { "idx": 2, "include": "Ejercicios de revisión" },

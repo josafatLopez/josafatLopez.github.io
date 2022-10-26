@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "20 horas",
    "description": "ITIL® ha sido por muchos años el principal marco de referencia mundialmente para la Gestión de Servicios de TI. En esta nueva versión, ITIL® 4 agrega temas relevantes a la Transformación Tecnológica, Cloud Computing y DevOps para habilitar las capacidades necesarias en las organizaciones de TI y hacer frente a la Revolución Digital. La Cuarta Revolución Industrial está marcada por tecnologías emergentes en campos como la robótica, la inteligencia artificial, la nanotecnología, el cómputo cuántico, la biotecnología, el Internet de las Cosas (IoT) y muchas más.",
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/itil.png",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
       { "idx": 2, "include": "Ejercicios de revisión" },

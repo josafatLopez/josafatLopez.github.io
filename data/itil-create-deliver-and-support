@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "24 horas",
    "description": "El curso de ITIL 4 Create, Deliver and Support (CDS) (Crear, Entregar y Soportar) tiene la intención de proporcionar al candidato el entendimiento sobre cómo integrar diferentes flujos de valor y actividades para crear, entregar y soportar servicios y productos de TI y herramientas, métodos y prácticas relevantes.",
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/itil.png",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
       { "idx": 2, "include": "Ejercicios de revisión" },

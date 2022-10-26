@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "24 horas",
    "description": "El curso de ITIL® 4 Leader – Digital & IT Strategy (DITS) se enfoca en la importancia y los retos de crear una estrategia digital apropiada para garantizar el éxito del negocio y la forma en que debería ser integrada en la estrategia de TI y estar alineada con las metas de la organización",
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/itil.png",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
       { "idx": 2, "include": "Ejercicios de revisión" },

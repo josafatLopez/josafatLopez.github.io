@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "24 horas",
    "description": "El curso de ITIL® 4 Direct, Plan and Improve (DPI) (Dirigir, Planear y Mejorar) tiene la intención de proporcionar al candidato las habilidades necesarias para crear una organización de TI de ‘aprendizaje y mejora’, con una dirección estratégica eficaz y fuerte. Además, proporciona a los profesionales un método práctico y estratégico para planear y entregar mejora continua con la agilidad necesaria.",
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/itil.png",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
       { "idx": 2, "include": "Ejercicios de revisión" },

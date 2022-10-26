@@ -24,7 +24,7 @@
       { "idx": 7, "paragraph": "• Cómo utilizar términos y conceptos de gestión de servicios de uso común" },
       { "idx": 8, "paragraph": "Este curso con acreditación oficial de PeopleCert es impartido por nuestros instructores los cuales cuentan con experiencia en implementación de TI." }
    ],
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/itil.png",
    "topcourseincludes" : [
       { "idx": 1, "topinclude": "2 oportunidades de examen" },
       { "idx": 2, "topinclude": "4 simuladores de examen" },

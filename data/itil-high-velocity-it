@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "24 horas",
    "description": "El curso de ITIL® 4 High Velocity IT (HVIT) (TI de Alta Velocidad) proporciona a los candidatos el entendimiento de las formas en las cuales las organizaciones digitales y los modelos operativos digitales funcionan en ambientes de alta velocidad, enfocándose en una entrega rápida de servicios y productos para obtener el máximo valor.",
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/itil.png",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
       { "idx": 2, "include": "Ejercicios de revisión" },
