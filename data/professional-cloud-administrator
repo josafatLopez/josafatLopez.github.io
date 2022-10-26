@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "24 horas",
    "description": "La certificación CCC Professional Cloud Administrator de EXIN, otorga los conocimientos acerca del aprovisionamiento y de la administración en la nube, del estallamiento de la nube, además de la interoperabilidad, diseño de estrategias y políticas para el uso y el cumplimiento en la nube, así como la recuperación de desastres y estrategias de Continuidad del negocio y la medición del desempeño y monitoreo de la misma.",
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/EXIN_Badge_ModuleAdministrator_CCC_CloudComputing.png",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
       { "idx": 2, "include": "Ejercicios de revisión" },

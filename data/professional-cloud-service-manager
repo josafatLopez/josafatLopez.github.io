@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "24 horas",
    "description": "La certificación CCC Professional Cloud Service Manager de EXIN es globalmente reconocida por los profesionales de gestión del servicio. Al obtener la certificación CCC Professional Cloud Service Manager, demuestras experiencia en la gestión del servicio en entornos sobre la nube, además de tener habilidades y conocimientos relevantes demuestras que eres capaz de administrar varios clientes en la organización.",
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/EXIN_Badge_ModuleServiceManager_CCC_CloudComputing.png",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
       { "idx": 2, "include": "Ejercicios de revisión" },

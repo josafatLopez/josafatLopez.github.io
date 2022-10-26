@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "24 horas",
    "description": "Este curso describe información clave y los conceptos para la gestión del Servicio de TI, así como sus relaciones con otras áreas de gestión de la información. Este curso ayuda a construir habilidades y conocimientos fundamentales que permiten al estudiante participar en equipos de la organización que trabajan en la Gestión del Servicio. Haciendo énfasis en el sistema de gestión de servicios (SMS) y los procesos de gestión de servicios, específicamente en los conceptos básicos y la terminología básica de la norma ISO/IEC 20000: 2018.",
-   "logourl": "https://entes-certificadores.s3.amazonaws.com/exin.png",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/GL_ITServiceManagement_ProgramBadge_112018.png",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
       { "idx": 2, "include": "Ejercicios de revisión" },

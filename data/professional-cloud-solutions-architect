@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "40 horas",
    "description": "Información pronto disponible",
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/GL_CCCCloud_ProgramBadge_112018.png",
    "courseincludes": [
       { "idx": 1, "include": "Información pronto disponible" }
    ],
