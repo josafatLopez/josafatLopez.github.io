@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "40 horas",
    "description": "El combo DEVOPS WEEK incluye los cursos: DevOps Fundamentals, DevOps Leadership y Líder ágil. El propósito de este combo es proporcionar al participante un conjunto completo e integral de capacidades de DevOps. El curso de Fundamentos de DevOps cubre el conocimiento fundamental requerido para que el participante construya su conocimiento y sus habilidades con respecto a los principios y las prácticas de DevOps. El curso de Liderazgo de DevOps cubre habilidades, prácticas y conocimiento más avanzados para liderar una iniciativa o un equipo de DevOps.",
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/peoplecert-devops.jpg",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
       { "idx": 2, "include": "Ejercicios de repaso y aplicación" },

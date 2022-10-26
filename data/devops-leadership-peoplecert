@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "24 horas",
    "description": "La certificación PeopleCert Liderazgo de DevOps cubre las habilidades, prácticas y conocimiento avanzado sobre DevOps. El cuerpo de conocimiento que respalda estas habilidades se presenta en el material del curso oficial proporcionado por PeopleCert a las ATOs acreditadas. El propósito principal del syllabus es proveer una base para la acreditación de las personas involucradas con DevOps. Éste documenta los resultados de aprendizaje relacionados con la certificación y describe los requerimientos que se espera que un candidato cubra para demostrar que estos resultados de aprendizaje han sido logrados en el nivel de certificación específico.",
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/peoplecert-devops.jpg",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
       { "idx": 2, "include": "Ejercicios de revisión" },
