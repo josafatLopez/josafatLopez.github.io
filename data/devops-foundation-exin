@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "16 horas",
    "description": "Esta certificación ha sido realizada para proporcionar a profesionales de TI y de negocios una comprensión y conocimientos básicos de DevOps. Creada como un primer paso para obtener la certificación EXIN DevOps Professional, la EXIN DevOps Foundation confirma la comprensión de los orígenes de DevOps y de los beneficios que ofrecen los principios y prácticas de DevOps para una organización. El término “DevOps” es una contracción de las palabras “Desarrollo” (Development) y “Operaciones” (Operations). DevOps es un conjunto de mejores prácticas que hacen énfasis en la colaboración y comunicación entre los profesionales de TI y de negocios durante el ciclo de vida de aplicaciones y servicios. DevOps cambia la manera en que los individuos piensan sobre su trabajo. DevOps valora la diversidad del trabajo realizado, así como la diversidad de las personas que lo realizan. DevOps promueve procesos intencionales que aceleran el ritmo al que las organizaciones generan valor y DevOps mide el efecto del cambio social y tecnológico. DevOps es una filosofía y una metodología de trabajo que permite a los individuos y organizaciones desarrollar y mantener prácticas de trabajo sostenibles.",
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/exin.png",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
       { "idx": 2, "include": "Ejercicios de revisión" },

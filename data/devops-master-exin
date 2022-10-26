@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "24 horas",
    "description": "La palabra DevOps es una abreviación de ‘Desarrollo’ y ‘Operaciones’. DevOps es un conjunto de mejores prácticas que hace énfasis en la colaboración y comunicación de profesionales de TI en el ciclo de vida de los servicios y aplicaciones, llevando a: Integración Continua, Despliegue Continuo, Retroalimentación Continua. DevOps es una forma de pensar y una forma de trabajar que permite a los individuos y a la organización desarrollar y mantener prácticas de trabajo sustentables.",
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/exin.png",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
       { "idx": 2, "include": "Ejercicios de revisión" },

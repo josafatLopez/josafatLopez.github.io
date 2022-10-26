@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "16 horas",
    "description": "La tecnología se está transformando rápidamente y está cambiando la forma en que hacemos negocios. Las empresas digitalizan toda su información de forma predeterminada, almacenan sus datos en la nube y utilizan software de código abierto. Esto plantea cuestiones de seguridad de la información relacionadas con la infraestructura de redes y sistemas. El módulo de Ethical Hacking Foundation de EXIN cubre los pasos básicos del hackeo ético: recolección de inteligencia, escaneo de redes / sistemas informáticos y penetración a sistemas. Se espera que los candidatos estén muy conscientes de la diferencia entre Hackeo legal e ilegal, y las consecuencias de su mal uso.Este curso incrementará su conocimiento y entendimiento sobre una filosofía enfocada a la ciberseguridad, así como su entusiasmo, dedicación y confianza en aplicar nuevas mejores prácticas en la ciberseguridad para mejorar su trabajo diario.",
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/exin.png",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
       { "idx": 2, "include": "Ejercicios de revisión" },

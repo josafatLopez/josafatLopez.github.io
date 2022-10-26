@@ -23,7 +23,7 @@
       { "idx": 6, "paragraph": "• Ambiente de Negocios: destacando la conexión entre los proyectos y la estrategia organizacional." },
       { "idx": 7, "paragraph": "Obtén una ventaja competitiva y demuestra que trabajas de manera más inteligente. Haz tus metas una realidad." }
    ],
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/pmi.png",
    "topcourseincludes" : [
       { "idx": 1, "topinclude": "3 simuladores de examen" },
       { "idx": 2, "topinclude": "Puedes repetir el curso en caso de no aprobar el examen" },

@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "16 horas",
    "description": "La certificación de EXIN CCC Cloud Technology Associate permite a los profesionales en TI operar eficazmente en un ambiente de cloud ya que puede demostrar un entendimiento de los conceptos básicos y la terminología relevante. También proporciona los fundamentos necesarios para terminar satisfactoriamente los programas de capacitación subsecuentes de nivel Profesional de EXIN CCC.",
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/exin.png",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
       { "idx": 2, "include": "Ejercicios de revisión" },
