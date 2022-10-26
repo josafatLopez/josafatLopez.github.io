@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "16 horas",
    "description": "Scrum Developer es un nivel introductorio para los miembros de los equipos de Scrum y aquellos que interactúan con el Equipo de Scrum. El objetivo de esta certificación es asegurar que los miembros del Equipo de Scrum conozcan lo suficiente sobre Scrum para contribuir eficazmente al proyecto de Scrum.",
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/scrumstudy.png",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
       { "idx": 2, "include": "Ejercicios de revisión" },

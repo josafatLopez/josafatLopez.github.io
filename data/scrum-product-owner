@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "16 horas",
    "description": "El Dueño del Producto representa los intereses de las partes interesadas para el Equipo de Scrum. El Dueño del Producto es responsable de asegurar una comunicación clara de los requerimientos de la funcionalidad del producto o servicio al Equipo de Scrum, definiendo los Criterios de Aceptación y asegurando que se cumplan dichos criterios. El Dueño del Producto siempre debe mantener una visión dual. Debe comprender y soportar las necesidades y los intereses de todas las partes interesadas y al mismo tiempo entender las necesidades y el trabajo del Equipo de Scrum.",
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/scrumstudy.png",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
       { "idx": 2, "include": "Ejercicios de revisión" },
