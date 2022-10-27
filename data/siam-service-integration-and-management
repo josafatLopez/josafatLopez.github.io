@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "24 horas",
    "description": "EXIN BCS SIAM™ Foundation es una certificación de nivel fundamentos. SIAM es una metodología utilizada para gestionar múltiples prestadores de servicios e integrarlos para proporcionar una única organización de TI orientada al negocio. El curso de EXIN BCS SIAM™ Foundation pone a prueba el conocimiento y entendimiento del candidato sobre la terminología y los principios básicos.",
-   "logourl": "https://entes-certificadores.s3.amazonaws.com/EXIN_Badge_ModuleFoundation_SIAM.png",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/siam-foundation-exin.png",
    "courseincludes": [
       { "idx": 2, "include": "Ejercicios de revisión" },
       { "idx": 3, "include": "Exámenes de simulación™" },

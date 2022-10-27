@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "16 horas",
    "description": "El curso de DevOps Foundation del DevOps Institute está diseñado para personas y equipos que desean aprender los movimientos organizacionales y profesionales que hacen hincapié en la comunicación, colaboración, integración y automatización con el fin de mejorar el flujo de trabajo entre los equipos de desarrollo de software y profesionales de operaciones de TI.",
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/devops-foundation-devops-institute.png",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante por DevOps Institute" },
       { "idx": 2, "include": "Ejercicios de revisión" },

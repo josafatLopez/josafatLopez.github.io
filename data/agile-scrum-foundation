@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "16 horas",
    "description": "El programa de certificación de Agile Scrum de EXIN soporta a los profesionales en el desarrollo de las competencias requeridas en Agile y Scrum para la era digital. El programa cubre tanto el pensamiento, principios y valores Agile, necesarios para soportar el desarrollo de un espíritu Agile; y el marco de Scrum, de tal manera que los profesionales estén equipados con las prácticas y estructura correctos para ser capaces de aplicar un enfoque Agile con base en Scrum. Esto marca una diferencia en la certificación de EXIN con otros programas, que tienen a enfocarse únicamente en los principios Agile o el marco de Scrum, no combinados.",
-   "logourl": "https://entes-certificadores.s3.amazonaws.com/GL_AgileScrum_FNDBadge_112018.png",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/agile-scrum-foundation-exin.png",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
       { "idx": 2, "include": "Ejercicios de revisión" },

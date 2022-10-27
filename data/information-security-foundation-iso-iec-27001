@@ -18,7 +18,7 @@
       { "idx": 1, "paragraph": "El curso Information Security Foundation ISO 27001 de EXIN proporciona una buena comprensión del marco de gestión de seguridad de la información ISO / IEC 27001, conceptos básicos, beneficios y consideraciones relacionadas con la creación de un Sistema de Gestión de Seguridad de la Información (SGSI). Al finalizar el curso los participantes están listos para obtener su certificado." },
       { "idx": 2, "paragraph": "Este programa de formación hace que la gente en la organización esté consciente de su papel en la protección y gestión de información de forma segura, proporcionando las habilidades para identificar amenazas a la seguridad de la información y reaccionar a ellos correctamente." }
    ],
-   "logourl": "https://entes-certificadores.s3.amazonaws.com/EXIN_Badge_ModuleFoundation_InformationSM_ISO.png",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/information-security-management-foundation-exin.png",
    "topcourseincludes" : [
       { "idx": 1, "topinclude": "Insignia Digital de EXIN" },
       { "idx": 2, "topinclude": "Puedes repetir el curso en caso de no aprobar el examen" },

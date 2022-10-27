@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "16 horas",
    "description": "Al ser equivalente a una persona certificada en Scrum Master de forma operativa, el certificado en Agile Service Manager (CASM) es el responsable de asegurar la gestión del servicio de manera Ágil a través de teoría, prácticas y reglas que son entendibles.",
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/agile-service-manager-devops-institute.png",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante por DevOps Institute" },
       { "idx": 2, "include": "Ejercicios de revisión" },

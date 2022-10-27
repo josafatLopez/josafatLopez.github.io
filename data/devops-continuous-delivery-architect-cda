@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "16 horas",
    "description": "Este curso está diseñado para participantes quienes están comprometidos con el diseño, implementación y gestión de canales de despliegue cadenas de herramientas de DevOps que soporten la Integración Continua, la Entrega Continua, las Pruebas Continuas y potencialmente el Despliegue Continuo. El curso resalta los procesos de soporte, métricas, APIs y consideraciones culturales con la Entrega Continua.",
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/devops-institute.png",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial del DevOps Institute" },
       { "idx": 2, "include": "Ejercicios Prácticos" },

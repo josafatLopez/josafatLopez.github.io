@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "16 horas",
    "description": "Este curso es una introducción a los principios y prácticas que permiten a una organización escalar servicios críticos de forma económica y confiable. Presentar una dimensión de “site-reliability” requiere realineación organizacional, un nuevo enfoque en automatización e ingeniería y la adopción de una gama de nuevos paradigmas. El curso resalta la evolución de la SRE y su futura dirección, y equipa a los participantes con las prácticas, métodos y herramientas para involucrar a la gente de la organización en la confiabilidad y estabilidad evidenciada a través del uso de historias y escenarios de la vida real.",
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/sre-foundation-devops-institute.png",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
       { "idx": 2, "include": "Ejercicios de revisión" },

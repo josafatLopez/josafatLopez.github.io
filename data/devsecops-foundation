@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "16 horas",
    "description": "A las organizaciones de TI cada vez se les pide hacer más con menos. DevOps ha mostrado un valor inmenso para los negocios y la seguridad es un componente integral que debe ser incorporado en la estrategia. Este curso explica cómo las prácticas de seguridad de DevOps difieren de otros enfoques de seguridad.",
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/devsecops-foundation-devops-institute.png",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
       { "idx": 2, "include": "Ejercicios de revisión" },

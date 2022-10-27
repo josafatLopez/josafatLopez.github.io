@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "24 horas",
    "description": "Este es un curso básico con ejercicios prácticos diseñados para proporcionarle a usted un grado de experiencia práctica en el uso de dos de las más populares tecnologías en el procesamiento de Big Data –Hadoop y MongoDB. Usted tendrá la oportunidad de practicar instalando estas dos tecnologías a través de nuestros talleres. El curso expone a usted las tecnologías de Big Data en un escenario de la vida real con el fin de obtener resultados de conjuntos de datos reales de Twitter. Después de completar el curso, usted estará equipado no únicamente en el conocimiento básico de Big Data, también será introducido al ambiente de trabajo de desarrollo dentro de Hadoop y MongoDB, instalado por usted mismo. El conocimiento práctico puede ser utilizado como punto de inicio en el viaje de Big Data dentro de la organización.",
-   "logourl": "https://entes-certificadores.s3.amazonaws.com/EXIN_Badge_ModuleFoundation_CCC_BigData.png",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/ccc-big-data-foundation-exin.png",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" }
    ],
