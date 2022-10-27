@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "16 horas",
    "description": "El soborno es un fenómeno generalizado. Suscita serias preocupaciones sociales, morales, económicas y políticas, socava la buena gobernanza, obstaculiza el desarrollo y distorsiona la competencia. También aumenta el costo de hacer negocio, introduce incertidumbres en las transacciones comerciales, aumenta el costo de los bienes y servicios, disminuye la calidad de los productos y servicios, lo que puede provocar la pérdida de vidas y bienes, destruye la confianza en las instituciones e interfiere con el funcionamiento justo y eficiente de los mercados. Las organizaciones tienen la responsabilidad de contribuir de forma proactiva a la lucha contra el soborno. Esto se puede lograr mediante un sistema de gestión antisoborno. Este curso introduce al participante a los términos básicos, conceptos y principios de un sistema de gestión antisoborno basado en la norma ISO 37001, a través del compromiso de liderazgo para establecer una cultura de integridad, transparencia, apertura y cumplimiento.",
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/educert.png",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
       { "idx": 2, "include": "Ejercicios de revisión" },
