@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "40 horas",
    "description": "CGEIT es una certificación independiente del marco que se utilice y la única certificación de gobierno de TI para el individuo.",
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/cgeit-isaca.png",
    "courseincludes": [
       { "idx": 1, "include": "Material para el participante" },
       { "idx": 2, "include": "Libro oficial de preparación “CGEIT Review Manual”" },

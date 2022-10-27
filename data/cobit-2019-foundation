@@ -11,7 +11,7 @@
       { "idx": 1, "type": "Presencial" },
       { "idx": 2, "type": "En línea con profesor en vivo" }
    ],
-   "elearning": "",
+   "elearning": "https://entes-certificadores.s3.amazonaws.com/cobit-isaca.png",
    "bannerimg": "https://banners-diferenciadores.s3.amazonaws.com/dif-cobit.jpg",
    "duration": "21 horas",
    "description": [

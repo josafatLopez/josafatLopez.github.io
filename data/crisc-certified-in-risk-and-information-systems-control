@@ -21,7 +21,7 @@
       { "idx": 4, "paragraph": "Para ayudar a alcanzar la creciente demanda para profesionales con esta combinación de entendimiento técnico y de negocio, ISACA® desarrolló la certificación Certified in Risk and Information Systems Control™ (CRISC™)." },
       { "idx": 5, "paragraph": "Mejore la resiliencia empresarial y el valor de las partes interesadas y obtenga una mayor credibilidad. " }
    ],
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/crisc-isaca.png",
    "topcourseincludes" : [
       { "idx": 1, "topinclude": "Ejercicios de revisión" },
       { "idx": 2, "topinclude": "Puedes repetir el curso en caso de no aprobar el examen" },
