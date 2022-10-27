@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "20 horas",
    "description": "Este curso proporciona una validación de que el candidato ha obtenido conocimiento sobre la terminología y los conceptos básicos de TOGAF® 9, y comprende los principios básicos de la Arquitectura Empresarial y de TOGAF®.",
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/opengroup.png",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial para el participante" },
       { "idx": 2, "include": "Ejercicios de revisión" },

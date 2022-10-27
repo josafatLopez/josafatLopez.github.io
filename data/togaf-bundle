@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "40 horas",
    "description": "Este curso prepara a los candidatos para tomar los exámenes de TOGAF® 9 Training course; Foundation y TOGAF® 9 Training course; Certified (Nivel 1 & 2). Durante este curso los candidatos recibirán apoyo simultáneo para presentar estos dos exámenes.",
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/opengroup.png",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial para el participante" },
       { "idx": 2, "include": "Ejercicios de revisión" },

@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "20 horas",
    "description": "Este curso proporciona la validación de que el candidato además del conocimiento y la comprensión, cuenta con la capacidad de analizar y aplicar el conocimiento de TOGAF®.",
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/opengroup.png",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial para el participante" },
       { "idx": 2, "include": "Ejercicios de revisión" },
