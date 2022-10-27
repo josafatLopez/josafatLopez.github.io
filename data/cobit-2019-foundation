@@ -11,7 +11,7 @@
       { "idx": 1, "type": "Presencial" },
       { "idx": 2, "type": "En línea con profesor en vivo" }
    ],
-   "elearning": "https://entes-certificadores.s3.amazonaws.com/cobit-isaca.png",
+   "elearning": "",
    "bannerimg": "https://banners-diferenciadores.s3.amazonaws.com/dif-cobit.jpg",
    "duration": "21 horas",
    "description": [
@@ -20,7 +20,7 @@
       { "idx": 3, "paragraph": "Los candidatos exploran los conceptos, principios y metodologías de COBIT® 2019 usadas para establecer, mejorar y mantener un sistema para una gestión y gobierno eficaz de la tecnología de la información en la empresa." },
       { "idx": 4, "paragraph": "Este curso con acreditación oficial de ISACA es impartido por nuestros instructores los cuales cuentan con experiencia en implementación de COBIT®." }
    ],
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/cobit-isaca.png",
    "topcourseincludes" : [
       { "idx": 1, "topinclude": "Ejercicios de revisión" },
       { "idx": 2, "topinclude": "Puedes repetir el curso en caso de no aprobar el examen" },
