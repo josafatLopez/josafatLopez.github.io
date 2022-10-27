@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "24 horas",
    "description": "El curso de Profesional en Ciberseguridad con base en ISO/IEC ISO 27032 ayudará a incrementar su conocimiento y entendimiento de una filosofía enfocada a ciberseguridad así como su entusiasmo, dedicación y confianza en aplicar nuevas mejores prácticas en la ciberseguridad para mejorar su trabajo diario.",
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/erca.png",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
       { "idx": 2, "include": "Ejercicios de revisión" },

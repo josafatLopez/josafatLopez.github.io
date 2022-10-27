@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "40 horas",
    "description": "El curso de Auditor Líder de ISO 22301 le enseña las funciones y responsabilidades de un Auditor Interno, Auditor Externo y un Auditor Líder de ISO 22301, incluyendo la forma de relacionar sus hallazgos de auditoría a la política y objetivos de la organización y presentar su evaluación global a la alta dirección. Enseña los requerimientos de la norma ISO 22301 y explica los principios del sistema de Gestión de Continuidad del Negocio.",
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/erca.png",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
       { "idx": 2, "include": "Ejercicios de revisión" },

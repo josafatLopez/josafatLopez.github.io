@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "40 horas",
    "description": "El curso de Auditor Líder de ISO/IEC 27001:2013 le enseña las funciones y responsabilidades de un Auditor Líder de ISO 27001, incluyendo la forma de relacionar sus hallazgos de auditoría a la política y objetivos de la organización y presentar su evaluación global a la alta dirección. Enseña los requerimientos de la norma ISO 27001:2013 y explica los principios del sistema de Gestión de Seguridad de la Información y la aplicación de controles de Seguridad basados en ISO/IEC 27002.",
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/erca.png",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
       { "idx": 2, "include": "Ejercicios de revisión" },

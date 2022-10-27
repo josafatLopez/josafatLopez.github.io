@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "16 horas",
    "description": "El propósito del curso de Fundamentos de ISO 22317 (Análisis de Impacto al Negocio) es enseñar a los participantes sobre los conceptos y técnicas para el desarrollo de un BIA que les permita conocer las actividades críticas de su organización y su impacto en caso de falla. Los participantes conocerán el proceso y los elementos principales para el desarrollo de un BIA, que es la base para un plan de Continuidad de Negocio y de Recuperación de Desastres de cualquier organización.",
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/erca.png",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
       { "idx": 2, "include": "Ejercicios de revisión" },

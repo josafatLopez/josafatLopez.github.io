@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "40 horas",
    "description": "El curso de Implementación de un Sistema de Gestión de Servicios con base en ISO/IEC 20000 muestra los pasos a seguir para liderar un proyecto de implementación de los requerimientos de ISO/IEC 20000.",
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/erca.png",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
       { "idx": 2, "include": "Ejercicios de revisión" },

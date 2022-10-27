@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "16 horas",
    "description": "Este curso provee orientación de alto nivel sobre el rol de un área de Gobierno dentro de una organización. Resalta la importancia de que las organizaciones usen estándares apropiados para soportar su Gobierno de TI. Provee a los participantes un marco de principios para usar en la evaluación, dirección y monitoreo del uso de la TI en sus organizaciones. Provee también un marco para el Gobierno eficaz de TI, para ayudar a los directivos a entender y cumplir sus obligaciones legales, regulatorias y éticas en relación con el uso de la TI en sus organizaciones.",
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/erca.png",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
       { "idx": 2, "include": "Ejercicios de revisión" },
