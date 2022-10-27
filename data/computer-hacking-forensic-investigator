@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "24 horas",
    "description": "CHFI es un curso comprensivo que cubre escenarios de investigación importantes, que permite a los estudiantes adquirir experiencia práctica. El programa proporciona una fuerte base de conocimiento de los conceptos clave y las prácticas en los dominios forenses relevantes en las organizaciones actualmente. Además, CHFI proporciona un firme entendimiento sobre los dominios de forense digital.",
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/chfi-ec-council.png",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" }
    ],

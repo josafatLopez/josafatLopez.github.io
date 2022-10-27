@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "24 horas",
    "description": "El programa de CASE Java está diseñado para ser un curso de seguridad de aplicaciones comprensivo y práctico que ayudará a los profesionales de software a crear aplicaciones seguras. Capacita a desarrolladores de software en conocimiento y habilidades de seguridad críticas requeridas en todo un ciclo de vida de desarrollo de software típico, enfocándose en la importancia de la implementación de metodologías y prácticas requeridas en el ambiente operativo inseguro actual.",
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/case-java-ec-council.png",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" }
    ],
