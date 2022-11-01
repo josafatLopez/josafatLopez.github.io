@@ -10,13 +10,13 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "40 horas",
    "description": "El combo BUSINESS CONTINUITY WEEK incluye los cursos: Business Continuity Management Foundation , Business Impact Analysis e Implementación de un Sistema de Gestión de la Continuidad del Negocio. El propósito de este combo es proporcionar al participante un enfoque integral sobre la continuidad del negocio. Es idóneo para todas las personas que deseen obtener un conocimiento amplio sobre los temas asociados con la continuidad del negocio en su organización, y la continuidad de los servicios de TI en caso de desastres.",
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/erca.png",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
       { "idx": 2, "include": "Ejercicios de revisión" },
       { "idx": 3, "include": "Diploma de finalización de curso" },
       { "idx": 4, "include": "Exámenes de simulación" },
-      { "idx": 5, "include": "Exámenes de certificación oficial por parte de EXIN (Business Continuity Management Foundation based on ISO 22301, y ERCA (Implementación de ISO 22301)" }
+      { "idx": 5, "include": "Exámenes de certificación oficial por parte de Erca (Business Continuity Management Foundation based on ISO 22301 e Implementación de ISO 22301)" }
    ],
    "benefits": [
       { "idx": 1, "benefit": "Aprender los conceptos básicos sobre la continuidad del negocio." },

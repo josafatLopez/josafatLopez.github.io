@@ -10,13 +10,13 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "24 horas",
    "description": "Este curso ayuda a comprender de manera amplia el ciclo de vida de implementación de un Sistema de Gestión de la Continuidad del Negocio (BCMS), con base en los requerimientos especificados por la norma ISO 22301. Ayuda a los participantes a comprender, mediante el uso de escenarios y casos prácticos, la importancia de contar con un Sistema de Gestión de la Continuidad del Negocio que permita continuar con la operación del negocio en caso de que ocurra un desastre o cualquier contingencia que impida la ejecución normal del negocio.",
-   "logourl": "https://entes-certificadores.s3.amazonaws.com/exin.png",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/erca.png",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
       { "idx": 2, "include": "Ejercicios de revisión" },
       { "idx": 3, "include": "Examen de simulación" },
       { "idx": 4, "include": "Diploma de finalización de curso" },
-      { "idx": 5, "include": "Examen de certificación oficial por parte de EXIN" }
+      { "idx": 5, "include": "Examen de certificación oficial por parte de Erca" }
    ],
    "benefits": [
       { "idx": 1, "benefit": "Aprender los conceptos básicos sobre la continuidad del negocio." },

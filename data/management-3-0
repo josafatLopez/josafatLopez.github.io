@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "16 horas",
    "description": "El curso de Management 3.0 te permite comprender los aspectos y principios de una mentalidad de trabajo basada en la administración 3.0 sobre las relaciones Organización – Empleado y la forma de lograr equipos de trabajo empoderados por encima de procesos controlados.",
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/management.png",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
       { "idx": 2, "include": "Ejercicios de revisión" },

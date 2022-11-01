@@ -10,9 +10,9 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "24 horas",
    "description": "Este curso prepara a los participantes para realizar auditorías de primera y segunda parte de Sistemas de Gestión de Seguridad de la Información basados en ISO/IEC 27001. Este programa de capacitación ayuda a los candidatos a mejorar continuamente sus capacidades personales, soportando así su desarrollo profesional continuo dentro de su organización.",
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/erca.png",
    "courseincludes": [
-      { "idx": 1, "include": "Material en español e inglés e incluye teoría, ejercicios de práctica e información complementaria." },
+      { "idx": 1, "include": "Material en español e inglés e incluye teoría, ejercicios de práctica e información complementaria por parte de Erca." },
       { "idx": 2, "include": "Incluye un examen de conocimiento aplicado por Global Lynx." },
       { "idx": 3, "include": "Se entrega una constancia de asistencia." }
    ],

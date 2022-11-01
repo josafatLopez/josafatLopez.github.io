@@ -10,9 +10,10 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "16 horas",
    "description": "El propósito del curso de Gestión de Riesgos de Seguridad de la Información es proporcionar las pautas y directrices de la norma internacional ISO/IEC 27005, para que el participante conozca y aprenda a utilizar los fundamentos para gestionar riesgos de seguridad de la información dentro su organización y que le permitan identificar, evaluar y controlar dichos riesgos.",
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/erca.png",
    "courseincludes": [
-      { "idx": 1, "include": "Constancia de participación" }
+      { "idx": 1, "include": "Constancia de participación" },
+      { "idx": 2, "include": "Examen de certificación oficial por parte de ERCA" }
    ],
    "benefits": [
       { "idx": 1, "benefit": "Explicar el propósito de la Gestión de Riesgos y los procesos para evaluarlos y gestionarlos con respecto a la implantación y operación de un SGSI." },

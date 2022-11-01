@@ -10,13 +10,13 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "24 horas",
    "description": "El curso de Auditor interno en Gestión del Servicio de TI basado en ISO/IEC 20000 se enfoca en la norma desde un punto de vista de los requerimientos de un auditor, resaltando los procesos de auditoría definidos por la norma ISO/IEC 19011 y capacita a los participantes para llevar a cabo auditorías en una organización que ha implementado un sistema de gestión del servicio basado en la norma ISO/IEC 20000.",
-   "logourl": "https://entes-certificadores.s3.amazonaws.com/it-service-management-exin.png",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/erca.png",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
       { "idx": 2, "include": "Ejercicios de revisión" },
       { "idx": 3, "include": "Exámenes de simulación" },
       { "idx": 4, "include": "Diploma de finalización de curso" },
-      { "idx": 5, "include": "Examen de certificación oficial por parte de EXIN" }
+      { "idx": 5, "include": "Examen de certificación oficial por parte de ERCA" }
    ],
    "benefits": [
       { "idx": 1, "benefit": "Obtener los conocimientos y técnicas para auditar proveedores y auditar certificaciones." },
@@ -157,8 +157,8 @@
          "idx" : 13,
          "unit" : "Descripción del Examen", 
          "topics" : [
-           { "idx":"13.1", "topic":"Formato del examen de EXIN" },
-           { "idx":"13.2", "topic":"Contenido del examen de EXIN" },
+           { "idx":"13.1", "topic":"Formato del examen de ERCA" },
+           { "idx":"13.2", "topic":"Contenido del examen de ERCA" },
            { "idx":"13.3", "topic":"Consejos para contestar el examen" },
            { "idx":"13.4", "topic":"Prerrequisitos para el curso" }
          ]
