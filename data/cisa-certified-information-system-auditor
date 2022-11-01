@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "40 horas",
    "description": "El objetivo de CISA® es entender y dominar la metodología y los conceptos que se deben aplicar en una auditoría de sistemas de información. La certificación CISA® de ISACA® prepara a los profesionistas en auditoría de sistemas de información con la metodología, los conceptos básicos que deben dominar y los criterios que deben ser aplicados.",
-   "logourl": "https://entes-certificadores.s3.amazonaws.com/cisa-isaca.png",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/cisa-isaca.jpg",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
       { "idx": 2, "include": "Diploma de finalización de curso" }
