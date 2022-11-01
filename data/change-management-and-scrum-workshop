@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "8 horas",
    "description": "Este taller te permite aprender herramientas fáciles de aplicar, con la intención de afrontar y asumir los cambios a través de la implementación del trabajo con equipos SCRUM, mitigando el proceso de resistencia al cambio.",
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/globallynx.png",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
       { "idx": 2, "include": "Dinámicas de trabajo" },

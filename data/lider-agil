@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "8 horas",
    "description": "Un Líder Ágil requiere un conjunto de habilidades blandas para poder realizar su misión como facilitador para el equipo. Este curso ayuda a desarrollar, de manera práctica, habilidades de liderazgo y gestión de equipos, en concordancia con los principios de Ágil.",
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/globallynx.png",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
       { "idx": 2, "include": "Diploma de finalización de curso" }

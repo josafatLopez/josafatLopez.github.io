@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "40 horas",
    "description": "El propósito del curso es capacitar y comprobar que el candidato tiene conocimiento sobre las mejores prácticas en el diseño, implementación, integración y gestión de procesos de Servicios de TI. El curso de diseño de procesos tiene como propósito permitir que las personas apliquen un enfoque práctico en el diseño y la implementación de procesos de gestión de Servicios de TI.",
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/globallynx.png",
    "courseincludes": [
       { "idx": 1, "include": "Material en español e inglés e incluye teoría, ejercicios de práctica temas de discusión e información complementaria." },
       { "idx": 2, "include": "Se entrega una constancia de asistencia." }

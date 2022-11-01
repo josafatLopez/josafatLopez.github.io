@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "8 horas",
    "description": "Logra influir y movilizar a otros hacia la implementación de cambios que sustenten el crecimiento de la organización.",
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/globallynx.png",
    "courseincludes": [
       { "idx": 1, "include": "Material para el participante" },
       { "idx": 2, "include": "Ejercicios de revisión" },

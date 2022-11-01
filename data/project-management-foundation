@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "24 horas",
    "description": "El propósito de este curso es dar a conocer a los participantes las mejores prácticas para la Administración de Proyectos tal como se indica en el A Guide to the Project Management Body of Knowledge, (PMBOK® Guide) - 6th. Edition, Project Management Institute, Inc., 2017. Es idóneo para que el participante desarrolle sus habilidades y competencias laborales en el área de Gestión de Proyectos.",
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/globallynx.png",
    "courseincludes": [
       { "idx": 1, "include": "Material en español e inglés e incluye teoría, ejercicios de práctica e información complementaria." },
       { "idx": 2, "include": "Contiene preguntas tipo examen a lo largo de todo el curso." },

@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "24 horas",
    "description": "El propósito del curso es orientar y capacitar al participante a fin de que identifique en MAAGTIC un marco de referencia para el gobierno y gestión de TIC y el impacto de éste dentro de su Institución; esto en lo referente a su terminología, estructura, conceptos básicos y procesos para la gestión de TIC. Durante el curso el participante recibirá el conocimiento e información relacionada al uso de las directrices, principios, lineamientos y normas en las que se basa el Manual (ITIL, COBIT, PMBoK, CMMI, RISK IT, ISO/IEC 20000 e ISO/IEC 27000).",
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/globallynx.png",
    "courseincludes": [
       { "idx": 1, "include": "Constancia de participación" }
    ],

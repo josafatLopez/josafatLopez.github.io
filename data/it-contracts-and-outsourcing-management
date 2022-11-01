@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "24 horas",
    "description": "Este curso ayuda a comprender detalladamente el proceso de Outsourcing y la gestión de los contratos de TI, a fin de asegurar que éstos soporten los objetivos de negocio de la organización. Se basa en el cuerpo de conocimiento de la International Association of Outsourcing Professionals® (IAOP®) y adopta las mejores prácticas de la Information Technology Infrastructure Library (ITIL®) referentes a la gestión de proveedores y contratos de TI, proporcionando una guía adecuada para llevar a cabo una buena gestión del Outsourcing de TI en una organización.",
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/globallynx.png",
    "courseincludes": [
       { "idx": 1, "include": "Constancia de participación" }
    ],

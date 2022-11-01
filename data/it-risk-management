@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "24 horas",
    "description": "El propósito del curso Gestión de Riesgos de TI es capacitar al participante en los fundamentos para decidir qué referencia o estándar internacional utilizará para desarrollar e implementar dentro su organización, los procesos de Gestión de Riesgos de TI que le permitan identificar, evaluar y controlar riesgos relacionados con la seguridad de información y con el uso de la tecnología que conforman los Servicios de TI. Analiza los riesgos y compara las perspectivas de los marcos de riesgos para TI reconocidos internacionalmente ISO/IEC 27005, ISO/IEC 31000, ISO/IEC 20000, ISO 22301, COBIT® 5, e ITIL.",
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/globallynx.png",
    "courseincludes": [
       { "idx": 1, "include": "Constancia de participación" }
    ],
