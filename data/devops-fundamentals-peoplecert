@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "24 horas",
    "description": "DevOps, un juego de palabras de “development” (desarrollo) y “operations” (operaciones), es una metodología de desarrollo de software que combina el desarrollo de software (Dev) con las operaciones (Ops) de tecnología de la información. La meta de DevOps es acortar el ciclo de vida del desarrollo de sistemas mientras se entregan liberaciones de software frecuentemente en alineación estrecha con los objetivos del negocio de manera más rápida, mejor y más barata. El enfoque de DevOps para trabajar cubre tres factores críticos de éxito: cambio cultural, mejora de prácticas y procesos, y aprovechamiento de las tecnologías de automatización. La certificación de PeopleCert Fundamentos de DevOps cubre el conocimiento fundamental requerido para que un candidato construya su conocimiento y sus habilidades con respecto a los principios y las prácticas de DevOps. Además, la certificación de PeopleCert Liderazgo de DevOps (que es el siguiente nivel de certificación) cubre habilidades, prácticas y conocimiento más avanzados sobre DevOps.",
-   "logourl": "https://entes-certificadores.s3.amazonaws.com/peoplecert-devops.jpg",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/devops-fundamentals.jpg",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
       { "idx": 2, "include": "Ejercicios de revisión" },
