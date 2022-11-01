@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "40 horas",
    "description": "CISSP® Certified Information Systems Security Professional es la certificación más reconocida a nivel mundial en el mercado de la seguridad de la información. CISSP valida el profundo conocimiento técnico y de gestión de un profesional de la seguridad de la información para diseñar, construir y gestionar eficazmente la postura general de seguridad de una organización.",
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/cissp.png",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
       { "idx": 2, "include": "Diploma de finalización de curso" }

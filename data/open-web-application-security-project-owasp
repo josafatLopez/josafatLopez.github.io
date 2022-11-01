@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "16 horas",
    "description": "El objetivo del curso de desarrollo seguro con OWASP es conocer los aspectos de seguridad en las diferentes etapas del desarrollo de software, alineadas a las buenas prácticas propuestas por OWASP, así como identificar las vulnerabilidades más comunes de las aplicaciones y buscar defenderlas de ataques.",
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/owasp.png",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
       { "idx": 2, "include": "Diploma de finalización de curso" }

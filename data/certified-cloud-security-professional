@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "40 horas",
    "description": "La capacitación oficial (ISC) ² CCSP proporciona una revisión integral de los conocimientos necesarios para comprender la computación en la nube y sus riesgos de seguridad de la información y estrategias de mitigación. Este curso de capacitación ayudará a los estudiantes a revisar y actualizar sus conocimientos e identificar las áreas que necesitan estudiar para el examen CCSP. Impartido por un instructor autorizado por (ISC) ², el curso incluye:",
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/ccsp.png",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
       { "idx": 2, "include": "Ejercicios de revisión" },
