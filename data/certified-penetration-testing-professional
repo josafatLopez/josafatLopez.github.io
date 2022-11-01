@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "40 horas",
    "description": "Certified Penetration Testing Professional o CPENT, reescribe los estándares de Desarrollo de habilidades de pruebas de penetración. El programa CPENT le enseña cómo llevar a cabo una prueba de penetración eficaz en el ambiente de red de una empresa que debe ser atacada, explotada, evadida y defendida. Si únicamente ha trabajado en redes planas, la práctica en vivo de CPENT le enseñará la forma de llevar sus habilidades al siguiente nivel mostrándole cómo hacer pruebas de penetración en sistemas IoT, sistemas OT, cómo programar sus propios exploits, crear sus propias herramientas, conducir explotaciones binarias avanzadas y personalizar scripts/exploits para convertirlos en los segmentos más recónditos de una red. El programa CPENT es el siguiente paso después de Certified Ethical Hacker (CEH) en la ruta para convertirse en Licensed Penetration Tester (LPT) Master. CPENT y sus predecesores, ahora retirados, EC-Council Certified Security Analyst (ECSA) y Advanced Penetration Tester (APT), son cursos que fueron diseñados para tomar los conceptos aprendidos en CEH y aplicarlos en metodologías probadas.",
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/cpent-ec-council.png",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
       { "idx": 2, "include": "Ejercicios de revisión" },

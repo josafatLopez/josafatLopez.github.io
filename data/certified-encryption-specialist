@@ -10,7 +10,7 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "24 horas",
    "description": "El curso ECES introduce a los estudiantes a la criptografía moderna de clave simétrica incluyendo los detalles de algoritmos tales como Feistel Networks, DES, y AES así como también una visión general de muchos otros algoritmos tales como Blowfish, Twofish, Skipjack, y otros. El curso también cubre criptografía asimétrica incluyendo descripciones minuciosas de RSA, Elgamal, Elliptic Curve, y DSA.",
-   "logourl": "",
+   "logourl": "https://entes-certificadores.s3.amazonaws.com/eces-ec-council.jpg",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" }
    ],
