@@ -10,7 +10,10 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "40 horas",
    "description": "El combo CYBERSECURITY WEEK incluye los cursos: Cyber and IT Security Foundation e ISO/IEC 27032 Cybersecurity Professional El propósito de este combo es proporcionar al participante un enfoque integral sobre la ciberseguridad, al capacitarlo en los Fundamentos Ciber Seguridad y Seguridad de TI y como Profesional en Ciberseguridad con base en ISO 27032. Es idóneo para todas las personas que deseen obtener un conocimiento amplio sobre los temas asociados con la ciberseguridad en su organización.",
-   "logourl": "",
+   "doublelogourl": [
+      {"idx": 1, "link": "https://entes-certificadores.s3.amazonaws.com/exin.png"},
+      {"idx": 1, "link": "https://entes-certificadores.s3.amazonaws.com/erca.png"}
+   ],
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
       { "idx": 2, "include": "Ejercicios de revisión" },
