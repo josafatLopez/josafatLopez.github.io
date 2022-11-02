@@ -10,7 +10,10 @@
    "modality": "Presencial | En línea con profesor en vivo ",
    "duration": "24 horas",
    "description": "SEl programa de Certificación para Administradores de Incidentes de EC - Council está diseñado para proporcionar las habilidades fundamentales para manejar y responder a los incidentes de seguridad informática dentro de un sistema de información. El curso se dirige a diversos principios y técnicas subyacentes para detectar y responder a las actuales y emergentes amenazas a la seguridad informática. Esta certificación proporcionará a los profesionales mayor aceptación en la industria como un administrador de incidentes experimentado. El curso abarca la informática forense y su papel en el manejo y respuesta a incidentes; y también cubre detalladamente los equipos de respuesta a incidentes, métodos de notificación de incidentes, y técnicas de recuperación de incidentes en detalle.",
-   "logourl": "https://entes-certificadores.s3.amazonaws.com/ecih-ec-council.png",
+   "doublelogourl": [
+      {"idx": 1, "link": "https://entes-certificadores.s3.amazonaws.com/ecih-ec-council.png"},
+      {"idx": 2, "link": "https://entes-certificadores.s3.amazonaws.com/ecCouncil.png"}
+   ],
    "courseincludes": [
       { "idx": 1, "include": "Material didáctico de alta calidad en Inglés desarrollado por EC - Council." }
    ],

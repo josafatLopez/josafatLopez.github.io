@@ -20,7 +20,10 @@
       { "idx": 3, "paragraph": "C|EH es un excelente lugar para comenzar su carrera en seguridad cibernética. Los ethical hackers pueden evaluar casi cualquier aplicación o infraestructura que se les encomiende, identificar vulnerabilidades potenciales y proporcionar recomendaciones sobre cómo esos las vulnerabilidades pueden ser remediadas." },
       { "idx": 4, "paragraph": "Nuestros instructores han recibido el premio EC-Council Instructor (CEI) Circle of Excellence Award en varias ocasiones siendo la última en 2021." }
    ],
-   "logourl": "https://entes-certificadores.s3.amazonaws.com/ceh-ec-council.png",
+   "doublelogourl": [
+      {"idx": 1, "link": "https://entes-certificadores.s3.amazonaws.com/ceh-ec-council.png"},
+      {"idx": 2, "link": "https://entes-certificadores.s3.amazonaws.com/ecCouncil.png"}
+   ],
    "topcourseincludes" : [
       { "idx": 1, "topinclude": "2 x 1 (Certified Ethical Hacker + Curso online Cybersecurity Essentials)" },
       { "idx": 2, "topinclude": "Puedes repetir el curso en caso de no aprobar el examen" },

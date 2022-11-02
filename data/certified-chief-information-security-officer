@@ -10,7 +10,10 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "40 horas",
    "description": "El programa de CISO está diseñado para llevar a gerentes medios a un nivel de Líderes Ejecutivos y perfeccionar las habilidades de líderes existentes en seguridad de la información. CCISO no es un curso técnico, sino un curso de liderazgo diseñado específicamente para profesionales experimentados en Seguridad de la Información. El curso de CCISO cubre los cinco dominios de CCISO con escenarios tomados de la experiencia de CISOs que contribuyeron a la creación del Cuerpo de Conocimiento, curso y examen. Se espera que los candidatos estén muy conscientes de la diferencia entre Hackeo legal e ilegal, y las consecuencias de su mal uso. Este curso incrementará su conocimiento y entendimiento sobre una filosofía enfocada a la ciberseguridad, así como su entusiasmo, dedicación y confianza en aplicar nuevas mejores prácticas en la ciberseguridad para mejorar su trabajo diario.",
-   "logourl": "https://entes-certificadores.s3.amazonaws.com/cciso-ec-council.png",
+   "doublelogourl": [
+      {"idx": 1, "link": "https://entes-certificadores.s3.amazonaws.com/cciso-ec-council.png"},
+      {"idx": 2, "link": "https://entes-certificadores.s3.amazonaws.com/ecCouncil.png"}
+   ],
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
       { "idx": 2, "include": "Ejercicios de revisión" },

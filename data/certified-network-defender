@@ -10,7 +10,10 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "40 horas",
    "description": "El programa de certificación CND se enfoca en capacitar a Administradores de Redes para proteger, detectar, responder y predecir amenazas en la red. Esto se basa en el conocimiento típico y las habilidades de los Administradores de Redes sobre las políticas de seguridad, ubicaciones de sistemas, topología de redes, utilización y desempeño, tráfico y componentes de red.",
-   "logourl": "https://entes-certificadores.s3.amazonaws.com/cnd-ec-council.png",
+   "doublelogourl": [
+      {"idx": 1, "link": "https://entes-certificadores.s3.amazonaws.com/cnd-ec-council.png"},
+      {"idx": 2, "link": "https://entes-certificadores.s3.amazonaws.com/ecCouncil.png"}
+   ],
    "courseincludes": [
       { "idx": 1, "include": "Material oficial de EcCouncil para el participante" },
       { "idx": 2, "include": "Ejercicios de revisión" },

@@ -10,7 +10,10 @@
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "24 horas",
    "description": "CASE va más allá de solo las pautas sobre prácticas de codificación segura, incluye recolección de requerimientos segura, diseño robusto de aplicaciones y manejo de problemas de seguridad en fases de posteriores dentro del desarrollo de aplicaciones. Esto hace que CASE sea una de las certificaciones más comprensivas para el desarrollo de software seguro en el mercado actual. El programa de capacitación práctico abarca actividades de seguridad involucradas en todas las fases del Ciclo de Vida del Desarrollo de Software Seguro: planeación, creación, pruebas y despliegue de una aplicación.",
-   "logourl": "https://entes-certificadores.s3.amazonaws.com/case-net-ec-council.png",
+   "doublelogourl": [
+      {"idx": 1, "link": "https://entes-certificadores.s3.amazonaws.com/case-net-ec-council.png"},
+      {"idx": 2, "link": "https://entes-certificadores.s3.amazonaws.com/ecCouncil.png"}
+   ],
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" }
    ],
