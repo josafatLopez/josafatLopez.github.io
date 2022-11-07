@@ -69,8 +69,8 @@
             { "idx":"2.3", "topic":"Planeación" },
             { "idx":"2.4", "topic":"Soporte" },
             { "idx":"2.5", "topic":"Operación" },
-            { "idx":"2.5", "topic":"Evaluación del Desempeño" },
-            { "idx":"2.6", "topic":"Mejora" }
+            { "idx":"2.6", "topic":"Evaluación del Desempeño" },
+            { "idx":"2.7", "topic":"Mejora" }
          ]
       },
       {
@@ -78,7 +78,7 @@
          "unit" : "Conceptos Básicos de Auditoría", 
          "topics" : [
            { "idx":"3.1", "topic":"Introducción a ISO 19011:2018" },
-           { "idx":"3.1", "topic":"Términos y definiciones" }
+           { "idx":"3.2", "topic":"Términos y definiciones" }
          ]
       },
       {
