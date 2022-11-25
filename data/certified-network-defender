@@ -34,10 +34,10 @@
       { "idx": 2, "qualities": "Administradores de seguridad de redes" },
       { "idx": 3, "qualities": "Ingenieros de Seguridad de Redes" },
       { "idx": 4, "qualities": "Técnicos de Defensa de Redes" },
-      { "idx": 1, "qualities": "Analistas de CND" },
-      { "idx": 2, "qualities": "Analistas de Seguridad" },
-      { "idx": 3, "qualities": "Operadores de Seguridad" },
-      { "idx": 4, "qualities": "Cualquiera que esté involucrado en operaciones de redes" }
+      { "idx": 5, "qualities": "Analistas de CND" },
+      { "idx": 6, "qualities": "Analistas de Seguridad" },
+      { "idx": 7, "qualities": "Operadores de Seguridad" },
+      { "idx": 8, "qualities": "Cualquiera que esté involucrado en operaciones de redes" }
    ],
    "exam": [
       { "idx": 1, "characteristics": "Cantidad de preguntas: 100" },
