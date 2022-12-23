@@ -63,7 +63,7 @@
    {
       "category" : "Gobierno de TI y Auditoría",
       "courses": [
-         { "id": 32, "linkurl": "cobit-2019-foundation", "course": "COBIT® 2019 Foundation" },
+         { "id": 32, "linkurl": "cobit-2019-foundation", "course": "COBIT® 2019 Foundation", "new": true },
          { "id": 33, "linkurl": "it-governance-foundation-iso-iec-38500", "course": "IT Governance Fdn - ISO/IEC 38500" },
          { "id": 34, "linkurl": "cgeit-certified-in-the-governance-of-enterprise-it", "course": "CGEIT® Certified in the Governance of Enterprise IT" },
          { "id": 35, "linkurl": "cisa-certified-information-system-auditor", "course": "CISA® (Certified Information System Auditor)" },
@@ -94,8 +94,8 @@
          { "id": 51, "linkurl": "certified-encryption-specialist", "course": "ECES - Certified Encryption Specialist" },
          { "id": 52, "linkurl": "iso-27032-lead-cybersecurity-manager", "course": "ISO/IEC 27032 Lead Cybersecurity Manager" },
          { "id": 53, "linkurl": "iso-27032-lead-cybersecurity-professional", "course": "ISO/IEC 27032 Cybersecurity Professional" },
-         { "id": 54, "linkurl": "certified-penetration-testing-professional", "course": "CPENT - Certified Penetration Testing Professional" },
-         { "id": 57, "linkurl": "certified-chief-information-security-officer", "course": "CCISO - Certified Chief Information Security Officer" }
+         { "id": 54, "linkurl": "certified-penetration-testing-professional", "course": "CPENT - Certified Penetration Testing Professional", "new": true },
+         { "id": 57, "linkurl": "certified-chief-information-security-officer", "course": "CCISO - Certified Chief Information Security Officer", "new": true }
       ]
    },
    {
@@ -106,8 +106,8 @@
          { "id": 59, "linkurl": "iso-iec-27001-internal-auditor", "course": "ISO/IEC 27001 Internal Auditor" },
          { "id": 60, "linkurl": "iso-iec-27001-lead-auditor", "course": "ISO/IEC 27001 Lead Auditor" },
          { "id": 61, "linkurl": "cism-certified-information-security-manager", "course": "CISM® Certified Information Security Manager®" },
-         { "id": 62, "linkurl": "certified-information-systems-security-professional", "course": "CISSP® Certified Information Systems Security Professional" },
-         { "id": 63, "linkurl": "certified-cloud-security-professional", "course": "CCSP® Certified Cloud Security Professional" }
+         { "id": 62, "linkurl": "certified-information-systems-security-professional", "course": "CISSP® Certified Information Systems Security Professional", "new": true },
+         { "id": 63, "linkurl": "certified-cloud-security-professional", "course": "CCSP® Certified Cloud Security Professional", "new": true }
       ]
    },
    {
@@ -126,7 +126,7 @@
          { "id": 81, "linkurl": "information-security-risk-management", "course": "Information Security Risk Mgmt - ISO/IEC 27005" },
          { "id": 82, "linkurl": "crisc-certified-in-risk-and-information-systems-control", "course": "CRISC™ Certified in Risk and Information Systems Control™" },
          { "id": 83, "linkurl": "risk-management-foundation-iso-31000", "course": "Risk Management Fdn - ISO 31000" },
-         { "id": 84, "linkurl": "anti-bribery-fundation-based-on-iso-37001", "course": "Anti-bribery Fdn based on ISO 37001" }
+         { "id": 84, "linkurl": "anti-bribery-fundation-based-on-iso-37001", "course": "Anti-bribery Fdn based on ISO 37001", "new": true }
       ]
    },
    {
@@ -134,7 +134,7 @@
       "courses": [
          { "id": 55, "linkurl": "certified-application-security-engineer", "course": "CASE - Certified Application Security Engineer .Net" },
          { "id": 56, "linkurl": "certified-application-security-engineer-java", "course": "CASE - Certified Application Security Engineer Java" },
-         { "id": 85, "linkurl": "open-web-application-security-project-owasp", "course": "Open Web Application Security Project (OWASP)"}
+         { "id": 85, "linkurl": "open-web-application-security-project-owasp", "course": "Open Web Application Security Project (OWASP)", "new": true}
       ]
    },
    {
