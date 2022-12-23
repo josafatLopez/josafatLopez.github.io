@@ -177,7 +177,8 @@
       "id": 32,
       "linkurl": "cobit-2019-foundation",
       "category": "Gobierno de TI y Auditoría",
-      "course": "COBIT® 2019 Foundation"
+      "course": "COBIT® 2019 Foundation",
+      "new" : true
    },
    {
       "id": 33,
@@ -309,7 +310,8 @@
       "id": 54,
       "linkurl": "certified-penetration-testing-professional",
       "category": "Ciberseguridad",
-      "course": "Certified Penetration Testing Professional (CPENT)"
+      "course": "Certified Penetration Testing Professional (CPENT)",
+      "new" : true
    },
    {
       "id": 55,
@@ -327,7 +329,8 @@
       "id": 57,
       "linkurl": "certified-chief-information-security-officer",
       "category": "Ciberseguridad",
-      "course": "Certified Chief Information Security Officer (CCISO)"
+      "course": "Certified Chief Information Security Officer (CCISO)",
+      "new" : true
    },
    {
       "id": 58,
@@ -357,13 +360,15 @@
       "id": 62,
       "linkurl": "certified-information-systems-security-professional",
       "category": "Seguridad de la Información",
-      "course": "CISSP® Certified Information Systems Security Professional"
+      "course": "CISSP® Certified Information Systems Security Professional",
+      "new" : true
    },
    {
       "id": 63,
       "linkurl": "certified-cloud-security-professional",
       "category": "Seguridad de la Información",
-      "course": "Certified Cloud Security Professional (CCSP®)"
+      "course": "Certified Cloud Security Professional (CCSP®)",
+      "new" : true
    },
    {
       "id": 64,
@@ -489,12 +494,14 @@
       "id": 84,
       "linkurl": "anti-bribery-fundation-based-on-iso-37001",
       "category": "Gestión de Riesgos y Antisoborno",
-      "course": "Anti-bribery Foundation based on ISO 37001"
+      "course": "Anti-bribery Foundation based on ISO 37001",
+      "new" : true
    },
    {
       "id": 85,
       "linkurl": "open-web-application-security-project-owasp",
       "category": "Desarrollo de Software",
-      "course": "Open Web Application Security Project (OWASP)"
+      "course": "Open Web Application Security Project (OWASP)",
+      "new" : true
    }
 ]
