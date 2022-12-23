@@ -3,505 +3,581 @@
       "id": 1,
       "linkurl": "itil-4-foundation",
       "category": "ITIL",
-      "course": "ITIL® 4 Foundation"
+      "course": "ITIL® 4 Foundation Entró Cambio",
+      "new": false
    },
    {
       "id": 2,
       "linkurl": "scrum-master",
       "category": "Agile",
-      "course": "Scrum Master (SMC®)"
+      "course": "Scrum Master (SMC®)",
+      "new": false
    },
    {
       "id": 3,
       "linkurl": "pmp-exam-preparation",
       "category": "PMI",
-      "course": "PMI® Authorized PMP® Exam Prep Course"
+      "course": "PMI® Authorized PMP® Exam Prep Course",
+      "new": false
    },
    {
       "id": 4,
       "linkurl": "certified-ethical-hacker",
       "category": "Ciberseguridad",
-      "course": "Certified Ethical Hacker v12 (CEH)"
+      "course": "Certified Ethical Hacker v12 (CEH)",
+      "new": false
    },
    {
       "id": 5,
       "linkurl": "information-security-foundation-iso-iec-27001",
       "category": "Seguridad de la Información",
-      "course": "Information Security Foundation - ISO/IEC 27001"
+      "course": "Information Security Foundation - ISO/IEC 27001",
+      "new": false
    },
    {
       "id": 6,
       "linkurl": "devops-fundamentals-peoplecert",
       "category": "DevOps",
-      "course": "DevOps Fundamentals - PeopleCert"
+      "course": "DevOps Fundamentals - PeopleCert",
+      "new": false
    },
    {
       "id": 7,
       "linkurl": "devops-leadership-peoplecert",
       "category": "DevOps",
-      "course": "DevOps Leadership - PeopleCert"
+      "course": "DevOps Leadership - PeopleCert",
+      "new": false
    },
    {
       "id": 8,
       "linkurl": "devops-foundation-exin",
       "category": "DevOps",
-      "course": "DevOps Foundation - EXIN"
+      "course": "DevOps Foundation - EXIN",
+      "new": false
    },
    {
       "id": 9,
       "linkurl": "devops-master-exin",
       "category": "DevOps",
-      "course": "DevOps Master - EXIN"
+      "course": "DevOps Master - EXIN",
+      "new": false
    },
    {
       "id": 10,
       "linkurl": "devops-foundation-devops-institute",
       "category": "DevOps",
-      "course": "DevOps Foundation - DevOps Institute"
+      "course": "DevOps Foundation - DevOps Institute",
+      "new": false
    },
    {
       "id": 11,
       "linkurl": "devops-leader-devops-institute",
       "category": "DevOps",
-      "course": "Devops Leader - DevOps Institute"
+      "course": "Devops Leader - DevOps Institute",
+      "new": false
    },
    {
       "id": 12,
       "linkurl": "devops-site-reliability-engineering",
       "category": "DevOps",
-      "course": "Site Reliability Engineering Foundation (SRE)"
+      "course": "Site Reliability Engineering Foundation (SRE)",
+      "new": false
    },
    {
       "id": 13,
       "linkurl": "devsecops-foundation",
       "category": "DevOps",
-      "course": "DevSecOps Foundation (DSOE)"
+      "course": "DevSecOps Foundation (DSOE)",
+      "new": false
    },
    {
       "id": 16,
       "linkurl": "devops-casm",
       "category": "DevOps",
-      "course": "Certified Agile Service Manager (CASM)"
+      "course": "Certified Agile Service Manager (CASM)",
+      "new": false
    },
    {
       "id": 17,
       "linkurl": "devops-continuous-delivery-architect-cda",
       "category": "DevOps",
-      "course": "Continuous Delivery Architect (CDA)"
+      "course": "Continuous Delivery Architect (CDA)",
+      "new": false
    },
    {
       "id": 18,
       "linkurl": "togaf-foundation",
       "category": "Arquitectura",
-      "course": "TOGAF® 9 Training Course - Foundation"
+      "course": "TOGAF® 9 Training Course - Foundation",
+      "new": false
    },
    {
       "id": 19,
       "linkurl": "togaf-certified",
       "category": "Arquitectura",
-      "course": "TOGAF® 9 Training Course - Certified"
+      "course": "TOGAF® 9 Training Course - Certified",
+      "new": false
    },
    {
       "id": 20,
       "linkurl": "togaf-bundle",
       "category": "Arquitectura",
-      "course": "TOGAF® 9 Training Course - Bundle"
+      "course": "TOGAF® 9 Training Course - Bundle",
+      "new": false
    },
    {
       "id": 21,
       "linkurl": "agile-scrum-foundation",
       "category": "Agile",
-      "course": "Agile SCRUM Foundation"
+      "course": "Agile SCRUM Foundation",
+      "new": false
    },
    {
       "id": 22,
       "linkurl": "scrum-product-owner",
       "category": "Agile",
-      "course": "Scrum Product Owner (SPOC®)"
+      "course": "Scrum Product Owner (SPOC®)",
+      "new": false
    },
    {
       "id": 23,
       "linkurl": "scrum-developer",
       "category": "Agile",
-      "course": "Scrum Developer (SDC®)"
+      "course": "Scrum Developer (SDC®)",
+      "new": false
    },
    {
       "id": 24,
       "linkurl": "lean-it-foundation",
       "category": "Agile",
-      "course": "Lean IT Foundation"
+      "course": "Lean IT Foundation",
+      "new": false
    },
    {
       "id": 25,
       "linkurl": "management-3-0",
       "category": "Agile",
-      "course": "Management 3.0"
+      "course": "Management 3.0",
+      "new": false
    },
    {
       "id": 26,
       "linkurl": "change-management-and-scrum-workshop",
       "category": "Agile",
-      "course": "Change Management & SCRUM Workshop"
+      "course": "Change Management & SCRUM Workshop",
+      "new": false
    },
    {
       "id": 27,
       "linkurl": "organizational-change-management",
       "category": "Agile",
-      "course": "Organizational Change Management"
+      "course": "Organizational Change Management",
+      "new": false
    },
    {
       "id": 28,
       "linkurl": "lider-agil",
       "category": "Agile",
-      "course": "Líder Ágil"
+      "course": "Líder Ágil",
+      "new": false
    },
    {
       "id": 29,
       "linkurl": "business-continuity-management-foundation",
       "category": "Continuidad del Negocio",
-      "course": "Business Continuity Management Foundation"
+      "course": "Business Continuity Management Foundation",
+      "new": false
    },
    {
       "id": 30,
       "linkurl": "iso-22301-lead-implementer",
       "category": "Continuidad del Negocio",
-      "course": "ISO 22301 Lead Implementer"
+      "course": "ISO 22301 Lead Implementer",
+      "new": false
    },
    {
       "id": 31,
       "linkurl": "iso-22301-lead-auditor",
       "category": "Continuidad del Negocio",
-      "course": "ISO 22301 Lead Auditor"
+      "course": "ISO 22301 Lead Auditor",
+      "new": false
    },
    {
       "id": 32,
       "linkurl": "cobit-2019-foundation",
       "category": "Gobierno de TI y Auditoría",
       "course": "COBIT® 2019 Foundation",
-      "new" : true
+      "new": true
    },
    {
       "id": 33,
       "linkurl": "it-governance-foundation-iso-iec-38500",
       "category": "Gobierno de TI y Auditoría",
-      "course": "IT Governance Foundation - ISO/IEC 38500"
+      "course": "IT Governance Foundation - ISO/IEC 38500",
+      "new": false
    },
    {
       "id": 34,
       "linkurl": "cgeit-certified-in-the-governance-of-enterprise-it",
       "category": "Gobierno de TI y Auditoría",
-      "course": "CGEIT® Certified in the Governance of Enterprise IT"
+      "course": "CGEIT® Certified in the Governance of Enterprise IT",
+      "new": false
    },
    {
       "id": 35,
       "linkurl": "cisa-certified-information-system-auditor",
       "category": "Gobierno de TI y Auditoría",
-      "course": "CISA® (Certified Information System Auditor)"
+      "course": "CISA® (Certified Information System Auditor)",
+      "new": false
    },
    {
       "id": 36,
       "linkurl": "fundamentos-del-maagticsi",
       "category": "Gobierno de TI y Auditoría",
-      "course": "Fundamentos del MAAGTICSI"
+      "course": "Fundamentos del MAAGTICSI",
+      "new": false
    },
    {
       "id": 37,
       "linkurl": "process-design-and-implementation",
       "category": "Gobierno de TI y Auditoría",
-      "course": "Process Design and Implementation"
+      "course": "Process Design and Implementation",
+      "new": false
    },
    {
       "id": 38,
       "linkurl": "siam-service-integration-and-management",
       "category": "Integración de Servicios",
-      "course": "SIAM Foundation (Service Integration and Management)"
+      "course": "SIAM Foundation (Service Integration and Management)",
+      "new": false
    },
    {
       "id": 39,
       "linkurl": "it-contracts-and-outsourcing-management",
       "category": "Integración de Servicios",
-      "course": "IT Contracts and Outsourcing Management"
+      "course": "IT Contracts and Outsourcing Management",
+      "new": false
    },
    {
       "id": 40,
       "linkurl": "itil-4-mp-transition",
       "category": "ITIL",
-      "course": "ITIL® 4 Managing Professional - Transition"
+      "course": "ITIL® 4 Managing Professional - Transition",
+      "new": false
    },
    {
       "id": 41,
       "linkurl": "itil-create-deliver-and-support",
       "category": "ITIL",
-      "course": "ITIL® 4 - Create, Deliver and Support"
+      "course": "ITIL® 4 - Create, Deliver and Support",
+      "new": false
    },
    {
       "id": 42,
       "linkurl": "itil-drive-stakeholder-value",
       "category": "ITIL",
-      "course": "ITIL® 4 Drive Stakeholder Value"
+      "course": "ITIL® 4 Drive Stakeholder Value",
+      "new": false
    },
    {
       "id": 43,
       "linkurl": "itil-high-velocity-it",
       "category": "ITIL",
-      "course": "ITIL® 4 High Velocity IT"
+      "course": "ITIL® 4 High Velocity IT",
+      "new": false
    },
    {
       "id": 44,
       "linkurl": "itil-direct-plan-and-improve",
       "category": "ITIL",
-      "course": "ITIL® 4 Direct, Plan and Improve"
+      "course": "ITIL® 4 Direct, Plan and Improve",
+      "new": false
    },
    {
       "id": 45,
       "linkurl": "itil-leader-digital-and-it-strategy",
       "category": "ITIL",
-      "course": "ITIL® 4 Leader - Digital & IT Strategy"
+      "course": "ITIL® 4 Leader - Digital & IT Strategy",
+      "new": false
    },
    {
       "id": 46,
       "linkurl": "cyber-it-security-foundation",
       "category": "Ciberseguridad",
-      "course": "Cyber and IT Security Foundation"
+      "course": "Cyber and IT Security Foundation",
+      "new": false
    },
    {
       "id": 47,
       "linkurl": "ethical-hacking-foundation",
       "category": "Ciberseguridad",
-      "course": "Ethical Hacking Foundation"
+      "course": "Ethical Hacking Foundation",
+      "new": false
    },
    {
       "id": 48,
       "linkurl": "certified-network-defender",
       "category": "Ciberseguridad",
-      "course": "Certified Network Defender (CND)"
+      "course": "Certified Network Defender (CND)",
+      "new": false
    },
    {
       "id": 49,
       "linkurl": "certified-incident-handler",
       "category": "Ciberseguridad",
-      "course": "Certified Incident Handler (ECIH)"
+      "course": "Certified Incident Handler (ECIH)",
+      "new": false
    },
    {
       "id": 50,
       "linkurl": "computer-hacking-forensic-investigator",
       "category": "Ciberseguridad",
-      "course": "Computer Hacking Forensic Investigator (CHFI)"
+      "course": "Computer Hacking Forensic Investigator (CHFI)",
+      "new": false
    },
    {
       "id": 51,
       "linkurl": "certified-encryption-specialist",
       "category": "Ciberseguridad",
-      "course": "Certified Encryption Specialist (ECES)"
+      "course": "Certified Encryption Specialist (ECES)",
+      "new": false
    },
    {
       "id": 52,
       "linkurl": "iso-27032-lead-cybersecurity-manager",
       "category": "Ciberseguridad",
-      "course": "ISO/IEC 27032 Lead Cybersecurity Manager"
+      "course": "ISO/IEC 27032 Lead Cybersecurity Manager",
+      "new": false
    },
    {
       "id": 53,
       "linkurl": "iso-27032-lead-cybersecurity-professional",
       "category": "Ciberseguridad",
-      "course": "ISO/IEC 27032 Cybersecurity Professional"
+      "course": "ISO/IEC 27032 Cybersecurity Professional",
+      "new": false
    },
    {
       "id": 54,
       "linkurl": "certified-penetration-testing-professional",
       "category": "Ciberseguridad",
       "course": "Certified Penetration Testing Professional (CPENT)",
-      "new" : true
+      "new": true
    },
    {
       "id": 55,
       "linkurl": "certified-application-security-engineer",
       "category": "Ciberseguridad",
-      "course": "Certified Application Security Engineer (CASE) .Net"
+      "course": "Certified Application Security Engineer (CASE) .Net",
+      "new": false
    },
    {
       "id": 56,
       "linkurl": "certified-application-security-engineer-java",
       "category": "Ciberseguridad",
-      "course": "Certified Application Security Engineer (CASE) Java"
+      "course": "Certified Application Security Engineer (CASE) Java",
+      "new": false
    },
    {
       "id": 57,
       "linkurl": "certified-chief-information-security-officer",
       "category": "Ciberseguridad",
       "course": "Certified Chief Information Security Officer (CCISO)",
-      "new" : true
+      "new": true
    },
    {
       "id": 58,
       "linkurl": "iso-iec-27001-lead-implementer",
       "category": "Seguridad de la Información",
-      "course": "ISO/IEC 27001 Lead Implementer"
+      "course": "ISO/IEC 27001 Lead Implementer",
+      "new": false
    },
    {
       "id": 59,
       "linkurl": "iso-iec-27001-internal-auditor",
       "category": "Seguridad de la Información",
-      "course": "ISO/IEC 27001 Internal Auditor"
+      "course": "ISO/IEC 27001 Internal Auditor",
+      "new": false
    },
    {
       "id": 60,
       "linkurl": "iso-iec-27001-lead-auditor",
       "category": "Seguridad de la Información",
-      "course": "ISO/IEC 27001 Lead Auditor"
+      "course": "ISO/IEC 27001 Lead Auditor",
+      "new": false
    },
    {
       "id": 61,
       "linkurl": "cism-certified-information-security-manager",
       "category": "Seguridad de la Información",
-      "course": "CISM® (Certified Information Security Manager®)"
+      "course": "CISM® (Certified Information Security Manager®)",
+      "new": false
    },
    {
       "id": 62,
       "linkurl": "certified-information-systems-security-professional",
       "category": "Seguridad de la Información",
       "course": "CISSP® Certified Information Systems Security Professional",
-      "new" : true
+      "new": true
    },
    {
       "id": 63,
       "linkurl": "certified-cloud-security-professional",
       "category": "Seguridad de la Información",
       "course": "Certified Cloud Security Professional (CCSP®)",
-      "new" : true
+      "new": true
    },
    {
       "id": 64,
       "linkurl": "cloud-computing-foundation",
       "category": "Cloud Computing",
-      "course": "Cloud Computing Foundation"
+      "course": "Cloud Computing Foundation",
+      "new": false
    },
    {
       "id": 65,
       "linkurl": "cloud-technology-associate",
       "category": "Cloud Computing",
-      "course": "Cloud Technology Associate"
+      "course": "Cloud Technology Associate",
+      "new": false
    },
    {
       "id": 66,
       "linkurl": "big-data-foundation",
       "category": "Cloud Computing",
-      "course": "Big Data Foundation"
+      "course": "Big Data Foundation",
+      "new": false
    },
    {
       "id": 67,
       "linkurl": "professional-cloud-administrator",
       "category": "Cloud Computing",
-      "course": "Professional Cloud Administrator"
+      "course": "Professional Cloud Administrator",
+      "new": false
    },
    {
       "id": 68,
       "linkurl": "professional-cloud-service-manager",
       "category": "Cloud Computing",
-      "course": "Professional Cloud Service Manager"
+      "course": "Professional Cloud Service Manager",
+      "new": false
    },
    {
       "id": 69,
       "linkurl": "professional-cloud-solutions-architect",
       "category": "Cloud Computing",
-      "course": "Professional Cloud Solutions Architect"
+      "course": "Professional Cloud Solutions Architect",
+      "new": false
    },
    {
       "id": 70,
       "linkurl": "project-management-foundation",
       "category": "PMI",
-      "course": "Project Management Foundation"
+      "course": "Project Management Foundation",
+      "new": false
    },
    {
       "id": 71,
       "linkurl": "combo-business-continuity-week",
       "category": "Combos",
-      "course": "Combo Business Continuity Week"
+      "course": "Combo Business Continuity Week",
+      "new": false
    },
    {
       "id": 72,
       "linkurl": "combo-cybersecurity-weeek",
       "category": "Combos",
-      "course": "Combo Cybersecurity Week"
+      "course": "Combo Cybersecurity Week",
+      "new": false
    },
    {
       "id": 73,
       "linkurl": "combo-it-security-risk-and-continuity",
       "category": "Combos",
-      "course": "Combo IT Security, Risk & Continuity"
+      "course": "Combo IT Security, Risk & Continuity",
+      "new": false
    },
    {
       "id": 74,
       "linkurl": "combo-devops-week",
       "category": "Combos",
-      "course": "Combo DevOps Week"
+      "course": "Combo DevOps Week",
+      "new": false
    },
    {
       "id": 75,
       "linkurl": "itsm-foundation",
       "category": "ITSM (ISO/IEC 20000)",
-      "course": "ITSM Foundation based on ISO/IEC 20000"
+      "course": "ITSM Foundation based on ISO/IEC 20000",
+      "new": false
    },
    {
       "id": 76,
       "linkurl": "iso-iec-20000-lead-implementer",
       "category": "ITSM (ISO/IEC 20000)",
-      "course": "ISO/IEC 20000 Lead Implementer"
+      "course": "ISO/IEC 20000 Lead Implementer",
+      "new": false
    },
    {
       "id": 77,
       "linkurl": "itsm-internal-auditor",
       "category": "ITSM (ISO/IEC 20000)",
-      "course": "Internal Auditor in ITSM based on ISO/IEC 20000"
+      "course": "Internal Auditor in ITSM based on ISO/IEC 20000",
+      "new": false
    },
    {
       "id": 78,
       "linkurl": "iso-iec-20000-lead-auditor",
       "category": "ITSM (ISO/IEC 20000)",
-      "course": "ISO/IEC 20000 Lead Auditor"
+      "course": "ISO/IEC 20000 Lead Auditor",
+      "new": false
    },
    {
       "id": 79,
       "linkurl": "it-risk-management",
       "category": "Gestión de Riesgos y Antisoborno",
-      "course": "IT Risk Management (based on ISO/IEC 27005, ISO/IEC 31000, ISO/IEC 20000, ISO 22301, COBIT® 5, and ITIL®)"
+      "course": "IT Risk Management (based on ISO/IEC 27005, ISO/IEC 31000, ISO/IEC 20000, ISO 22301, COBIT® 5, and ITIL®)",
+      "new": false
    },
    {
       "id": 80,
       "linkurl": "business-impact-analysis-bia",
       "category": "Gestión de Riesgos y Antisoborno",
-      "course": "Fundamentos de ISO 22317 (Análisis de Impacto al Negocio)"
+      "course": "Fundamentos de ISO 22317 (Análisis de Impacto al Negocio)",
+      "new": false
    },
    {
       "id": 81,
       "linkurl": "information-security-risk-management",
       "category": "Gestión de Riesgos y Antisoborno",
-      "course": "Information Security Risk Mgmt. - ISO/IEC 27005"
+      "course": "Information Security Risk Mgmt. - ISO/IEC 27005",
+      "new": false
    },
    {
       "id": 82,
       "linkurl": "crisc-certified-in-risk-and-information-systems-control",
       "category": "Gestión de Riesgos y Antisoborno",
-      "course": "CRISC™ (Certified in Risk and Information Systems Control™)"
+      "course": "CRISC™ (Certified in Risk and Information Systems Control™)",
+      "new": false
    },
    {
       "id": 83,
       "linkurl": "risk-management-foundation-iso-31000",
       "category": "Gestión de Riesgos y Antisoborno",
-      "course": "Risk Management Foundation - ISO 31000"
+      "course": "Risk Management Foundation - ISO 31000",
+      "new": false
    },
    {
       "id": 84,
       "linkurl": "anti-bribery-fundation-based-on-iso-37001",
       "category": "Gestión de Riesgos y Antisoborno",
       "course": "Anti-bribery Foundation based on ISO 37001",
-      "new" : true
+      "new": true
    },
    {
       "id": 85,
       "linkurl": "open-web-application-security-project-owasp",
       "category": "Desarrollo de Software",
       "course": "Open Web Application Security Project (OWASP)",
-      "new" : true
+      "new": true
    }
 ]
