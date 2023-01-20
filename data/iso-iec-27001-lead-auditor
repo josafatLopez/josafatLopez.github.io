@@ -9,7 +9,7 @@
    ],
    "modality": "Presencial | En línea con profesor en vivo",
    "duration": "40 horas",
-   "description": "El curso de Auditor Líder de ISO/IEC 27001:2013 le enseña las funciones y responsabilidades de un Auditor Líder de ISO 27001, incluyendo la forma de relacionar sus hallazgos de auditoría a la política y objetivos de la organización y presentar su evaluación global a la alta dirección. Enseña los requerimientos de la norma ISO 27001:2013 y explica los principios del sistema de Gestión de Seguridad de la Información y la aplicación de controles de Seguridad basados en ISO/IEC 27002.",
+   "description": "El curso de Auditor Líder de ISO/IEC 27001:2022 le enseña las funciones y responsabilidades de un Auditor Líder de ISO 27001, incluyendo la forma de relacionar sus hallazgos de auditoría a la política y objetivos de la organización y presentar su evaluación global a la alta dirección. Enseña los requerimientos de la norma ISO 27001:2022 y explica los principios del sistema de Gestión de Seguridad de la Información y la aplicación de controles de Seguridad basados en ISO/IEC 27002.",
    "logourl": "https://entes-certificadores.s3.amazonaws.com/erca.png",
    "courseincludes": [
       { "idx": 1, "include": "Material oficial acreditado para el participante" },
@@ -21,7 +21,7 @@
    "benefits": [
       { "idx": 1, "benefit": "Comprender los términos, conceptos, definiciones y directrices de la Gestión de la Seguridad de la Información" },
       { "idx": 2, "benefit": "Entender el objetivo de la serie ISO 27000" },
-      { "idx": 3, "benefit": "Comprender los requerimientos de la norma ISO 27001:2013" },
+      { "idx": 3, "benefit": "Comprender los requerimientos de la norma ISO 27001:2022" },
       { "idx": 4, "benefit": "Comprender las funciones y responsabilidades del auditor" },
       { "idx": 5, "benefit": "Aprender a aplicar la norma ISO 19011 definiciones, conceptos y directrices" },
       { "idx": 6, "benefit": "Reconocer los principios, prácticas y los diferentes tipos de auditorías" },

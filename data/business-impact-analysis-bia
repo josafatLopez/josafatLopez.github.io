@@ -30,7 +30,7 @@
       { "idx": 1, "qualities": "Las personas que requieren comprender mejor las actividades críticas de la organización y el impacto adverso en caso de una interrupción." },
       { "idx": 2, "qualities": "Las personas que se encuentran en proceso de desarrollo de un Plan de Continuidad de Negocio o un Plan de Recuperación de Desastres." },
       { "idx": 3, "qualities": "Las personas que requieren entender y adquirir nuevos conocimientos en el desarrollo de un BIA." },
-      { "idx": 4, "qualities": "Los profesionales de TI que aplican ISO 22301, ISO/IEC 27001:2013 o ISO/TS 22317." }
+      { "idx": 4, "qualities": "Los profesionales de TI que aplican ISO 22301, ISO/IEC 27001:2022 o ISO/TS 22317." }
    ],
    "exam": [
       { "idx": 1, "characteristics": "Tiempo asignado: 60 minutos" },
