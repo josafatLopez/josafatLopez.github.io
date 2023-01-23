@@ -102,7 +102,7 @@
       "category" : "Seguridad de la Información",
       "courses": [
          { "id": 5, "linkurl": "information-security-foundation-iso-iec-27001", "course": "Information Security Fdn - ISO/IEC 27001" },
-         { "id": 58, "linkurl": "iso-iec-27001-lead-implementer", "course": "ISO/IEC 27001 Lead Implementer" },
+         { "id": 58, "linkurl": "iso-iec-27001-lead-implementer", "course": "ISO/IEC 27001:2022 Lead Implementer" },
          { "id": 59, "linkurl": "iso-iec-27001-internal-auditor", "course": "ISO/IEC 27001 Internal Auditor" },
          { "id": 60, "linkurl": "iso-iec-27001-lead-auditor", "course": "ISO/IEC 27001 Lead Auditor" },
          { "id": 61, "linkurl": "cism-certified-information-security-manager", "course": "CISM® Certified Information Security Manager®" },
