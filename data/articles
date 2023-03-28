@@ -1,11 +1,7 @@
 [
-   {
-      "articles": [
-         { "id": 1, "linkurl": "it-service-management-the-ground-rules-for-the-game", "article": "IT Service Management: The Ground Rules for the Game" },
-         { "id": 2, "linkurl": "attaining-visibility-in-an-it-devops-environment", "article": "Attaining Visibility in an IT-DevOps Environment" },
-         { "id": 3, "linkurl": "the-best-first-step-to-take-when-adopting-devops", "article": "The Best First Step to Take when Adopting DevOps" },
-         { "id": 4, "linkurl": "global-lynx-to-finish-2021-strong-tripling-revenue-from-previous-years", "article": "Global Lynx to finish 2021 strong, tripling revenue from previous years" },
-         { "id": 5, "linkurl": "an-advice-for-devops-adopters-avoid-the-cultural-debt", "article": "An Advice for DevOps Adopters: Avoid the Cultural Debt" }
-      ]
-   }
+   { "id": 1, "linkurl": "it-service-management-the-ground-rules-for-the-game", "article": "IT Service Management: The Ground Rules for the Game" },
+   { "id": 2, "linkurl": "attaining-visibility-in-an-it-devops-environment", "article": "Attaining Visibility in an IT-DevOps Environment" },
+   { "id": 3, "linkurl": "the-best-first-step-to-take-when-adopting-devops", "article": "The Best First Step to Take when Adopting DevOps" },
+   { "id": 4, "linkurl": "global-lynx-to-finish-2021-strong-tripling-revenue-from-previous-years", "article": "Global Lynx to finish 2021 strong, tripling revenue from previous years" },
+   { "id": 5, "linkurl": "an-advice-for-devops-adopters-avoid-the-cultural-debt", "article": "An Advice for DevOps Adopters: Avoid the Cultural Debt" }
 ]
