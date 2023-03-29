@@ -3,8 +3,8 @@
       "linkurl": "it-service-management-the-ground-rules-for-the-game",
       "image": "https://blog.globallynx.com/wp-content/uploads/2022/11/football-beach-game-2.jpg",
       "article": "IT Service Management: The Ground Rules for the Game",
-      "category": "28 Mar 2023",
-      "date": "IT Service Management",
+      "category": "IT Service Management",
+      "date": "28 Mar 2023",
       "author": "Manuel Garcia",
       "info": "You are at the beach with friends, the sun is high, the sea is calm, and the environment is inviting…."
    },
@@ -21,7 +21,7 @@
       "linkurl": "the-best-first-step-to-take-when-adopting-devops",
       "image": "https://blog.globallynx.com/wp-content/uploads/2020/10/AdobeStock_340607159-2-scaled.jpeg",
       "article": "The Best First Step to Take when Adopting DevOps",
-      "category": "DevOps, Digital Transformation",
+      "category": "Digital Transformation",
       "date": "5 Mar 2023",
       "author": "Manuel Garcia",
       "info": "DevOps adoptions are certainly something going trendy; not really because of being popular, but rather because our times demand it…."
@@ -30,18 +30,18 @@
       "linkurl": "global-lynx-to-finish-2021-strong-tripling-revenue-from-previous-years",
       "image": "https://blog.globallynx.com/wp-content/uploads/2021/12/ohio-city.jpg",
       "article": "Global Lynx to finish 2021 strong, tripling revenue from previous years",
-      "category": "Global Lynx",
+      "category": "Workforce Development",
       "date": "20 Feb 2023",
-      "author": "Workforce Development",
+      "author": "Global Lynx",
       "info": "Columbus, Ohio, based IT consulting and training provider, Global Lynx, USA, will finish 2021 in the black, nearly tripling revenue…"
    },
    {  "id": 5,
       "linkurl": "an-advice-for-devops-adopters-avoid-the-cultural-debt",
       "image": "https://blog.globallynx.com/wp-content/uploads/2023/03/An-Advice-for-DevOps-Adopters-Avoid-the-Cultural-Debt.jpg",
       "article": "An Advice for DevOps Adopters: Avoid the Cultural Debt",
-      "category": "GlobalLynx",
+      "category": "DevOps",
       "date": "10 Feb 2023",
-      "author": "DevOps",
+      "author": "Global Lynx",
       "info": "As IT organizations embrace DevOps, there is a very high risk of falling into one of the darkest—yet most common—pitfalls:…"
    }
 ]
