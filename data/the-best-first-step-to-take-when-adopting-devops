@@ -9,62 +9,58 @@
    "content": [
       {
          "idx" : 1,
-         "unit" : "Prácticas",
-         "topics" : [
-           { "idx":"1.1", "topic":"Definiciones" },
-           { "idx":"1.2", "topic":"Definiciones" },
-           { "idx":"1.3", "topic":"Definiciones" }
+         "title" : "",
+         "paragraphs" : [
+           { "idx":"1.1", "info":"DevOps adoptions are certainly something going trendy; not really because of being popular, but rather because our times demand it. The digital era has pushed businesses to embrace digital transformation, and part of that is being able to create a wide offering of digital products and services, for which DevOps provides the capabilities to streamline a software delivery pipeline and to continuously deliver quality software products to customers." },
+           { "idx":"1.2", "info":"However, the question many people ask themselves when adopting DevOps is: “What is the first step I should take?”, especially with DevOps involving many things, from tools to practices and capabilities, and from infrastructure and code to culture." }
          ]
       },
       {
          "idx" : 2,
-         "unit" : "Prácticas",
-         "topics" : [
-            { "idx":"2.1", "topic":"Definiciones" },
-            { "idx":"2.2", "topic":"Definiciones" },
-            { "idx":"2.3", "topic":"Definiciones" }
+         "title" : "What Does Your Business Need?",
+         "paragraphs" : [
+            { "idx":"2.1", "info":"Having a strategy in place is key (though this might not be the very first step to take), and in order to build a good strategy we need to know what the business’ needs are. In the end, DevOps is necessary because businesses need to deliver better software products faster to their customers, but there will be other specific requirements in every business that drive a DevOps adoption." },
+            { "idx":"2.2", "info":"Having clarity about this will allow us to set the right vision for DevOps, identify the elements and stakeholders that need to be involved, define targets for the program and guide the adoption or implementation path in the right direction. But let’s get right to the point." }
          ]
       },
       {
          "idx" : 3,
-         "unit" : "Prácticas",
-         "topics" : [
-            { "idx":"3.1", "topic":"Definiciones" },
-            { "idx":"3.2", "topic":"Definiciones" },
-            { "idx":"3.3", "topic":"Definiciones" }
+         "title" : "Beyond “What”: “Why”",
+         "paragraphs" : [
+            { "idx":"3.1", "info":"You may be familiar with Simon Sinek’s book “Know Your Why” (you may also recall the famous video “Start With Why”), and that’s precisely what I’m talking about here. Beyond understanding “what your business needs”, we need to ask ourselves (and explain to all the stakeholders of course!) “Why” DevOps is necessary. If you cannot answer this question, then it’s very likely you don’t really need DevOps. You may still adopt it even if you don’t know “why” it is necessary, but I’m afraid you won’t be able to inspire most people to embrace it, and moreover demonstrate too much strategic or business value from the initiative or program." },
+            { "idx":"3.2", "info":"People’s engagement is key for DevOps to be successful. As Simon says (literally), and I quote: “If you don’t know why you do what you do … how will you ever get people to vote for you or buy something from you, or more importantly, be loyal?”. Even before thinking what your business needs, ask yourself why your organization needs DevOps. That’s probably the ultimate first step to take when adopting DevOps." },
+            { "idx":"3.3", "info":"The answer to “Why” will give you the reasons to change; these are your business drivers. Now you need to build everything from here, linking your strategy to your drivers, your plans to your strategy, your operational targets to your plans, and your practices and tools to your targets, and then develop people’s capabilities and skills based on the practices and tools you need to have in place. Only then you will be able to deliver actual business value from DevOps." }
          ]
       },
       {
          "idx" : 4,
-         "unit" : "Prácticas",
-         "topics" : [
-            { "idx":"4.1", "topic":"Definiciones" },
-            { "idx":"4.2", "topic":"Definiciones" },
-            { "idx":"4.3", "topic":"Definiciones" }
+         "title" : "The Risk of Maintaining an Operational Focus",
+         "paragraphs" : [
+            { "idx":"4.1", "info":"You may be familiar with Simon Sinek’s book “Know Your Why” (you may also recall the famous video “Start With Why”), and that’s precisely what I’m talking about here. Beyond understanding “what your business needs”, we need to ask ourselves (and explain to all the stakeholders of course!) “Why” DevOps is necessary. If you cannot answer this question, then it’s very likely you don’t really need DevOps. You may still adopt it even if you don’t know “why” it is necessary, but I’m afraid you won’t be able to inspire most people to embrace it, and moreover demonstrate too much strategic or business value from the initiative or program." },
+            { "idx":"4.2", "info":"People’s engagement is key for DevOps to be successful. As Simon says (literally), and I quote: “If you don’t know why you do what you do … how will you ever get people to vote for you or buy something from you, or more importantly, be loyal?”. Even before thinking what your business needs, ask yourself why your organization needs DevOps. That’s probably the ultimate first step to take when adopting DevOps." },
+            { "idx":"4.3", "info":"The answer to “Why” will give you the reasons to change; these are your business drivers. Now you need to build everything from here, linking your strategy to your drivers, your plans to your strategy, your operational targets to your plans, and your practices and tools to your targets, and then develop people’s capabilities and skills based on the practices and tools you need to have in place. Only then you will be able to deliver actual business value from DevOps." }
          ]
       },
       {
          "idx" : 5,
-         "unit" : "Prácticas",
-         "topics" : [
-            { "idx":"5.1", "topic":"Definiciones" },
-            { "idx":"5.2", "topic":"Definiciones" },
-            { "idx":"5.3", "topic":"Definiciones" }
+         "title" : "The Risk of Maintaining an Operational Focus",
+         "paragraphs" : [
+            { "idx":"5.1", "info":"If you just focus on the operational aspects of DevOps, you might find yourself implementing CI/CD tools as the first step in your overall adoption, which is not necessarily bad; however, the business value you might be getting from this could be very low, or even null, regardless of the operational benefits you may perceive with such an effort. Operational practices and tools are necessary, but linking them all the way up to a strategy and business drivers will definitely increase the success of your overall DevOps program, even at the most operational and technical levels." }
          ]
       },
       {
          "idx" : 6,
-         "unit" : "Prácticas",
-         "topics" : [
-            { "idx":"6.1", "topic":"Definiciones" },
-            { "idx":"6.2", "topic":"Definiciones" },
-            { "idx":"6.3", "topic":"Definiciones" }
+         "title" : "The DevOps Must-Haves",
+         "paragraphs" : [
+            { "idx":"6.1", "info":"Despite what first step you decide to take, there are certain practices that need to be present in every DevOps adoption initiative, regardless of the particularities of each industry and organization." },
+            { "idx":"6.2", "info":"CI/CD, DevSecOps and Test Automation are the common denominators that must be adopted in any new-generation software delivery pipeline. New DevOps adoptions usually start by implementing a CI/CD tool, and then build on it as experience is gained. The good news is that all these items can be implemented relatively easily and quickly, in such a way that the organizations starts reaping benefits within 3 to 4 months." },
+            { "idx":"6.3", "info":"Next October 29, at 1:30 p.m. ET, Global Lynx will be hosting a live session titled “How to Quickly Enable DevOps must-haves: CI/CD, DevSecOps and Test Automation”, where we will discuss these mandatory capabilities with the community of DevOps professionals and listen to your input and feedback. Be sure to register to this event by visiting https://globallynx.com/ITLIVE." }
          ]
       }
    ],
-   "prev": "alsdijas",
-   "prevlink": "alsdijas",
-   "next": "asdkjasd",
-   "nextlink": "loasijd",
-   "tags": "dalksj"
+   "prev": "Attaining Visibility in an IT-DevOps Environment",
+   "prevlink": "attaining-visibility-in-an-it-devops-environment",
+   "next": "Global Lynx to finish 2021 strong, tripling revenue from previous years",
+   "nextlink": "global-lynx-to-finish-2021-strong-tripling-revenue-from-previous-years",
+   "tags": "DevOps, Digital Transformation"
 }

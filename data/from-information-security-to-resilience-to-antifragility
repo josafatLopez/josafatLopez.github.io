@@ -9,56 +9,56 @@
    "content": [
       {
          "idx" : 1,
-         "unit" : "Prácticas",
-         "topics" : [
-           { "idx":"1.1", "topic":"Definiciones" },
-           { "idx":"1.2", "topic":"Definiciones" },
-           { "idx":"1.3", "topic":"Definiciones" }
+         "title" : "Prácticas",
+         "paragraphs" : [
+           { "idx":"1.1", "info":"Definiciones" },
+           { "idx":"1.2", "info":"Definiciones" },
+           { "idx":"1.3", "info":"Definiciones" }
          ]
       },
       {
          "idx" : 2,
-         "unit" : "Prácticas",
-         "topics" : [
-            { "idx":"2.1", "topic":"Definiciones" },
-            { "idx":"2.2", "topic":"Definiciones" },
-            { "idx":"2.3", "topic":"Definiciones" }
+         "title" : "Prácticas",
+         "paragraphs" : [
+            { "idx":"2.1", "info":"Definiciones" },
+            { "idx":"2.2", "info":"Definiciones" },
+            { "idx":"2.3", "info":"Definiciones" }
          ]
       },
       {
          "idx" : 3,
-         "unit" : "Prácticas",
-         "topics" : [
-            { "idx":"3.1", "topic":"Definiciones" },
-            { "idx":"3.2", "topic":"Definiciones" },
-            { "idx":"3.3", "topic":"Definiciones" }
+         "title" : "Prácticas",
+         "paragraphs" : [
+            { "idx":"3.1", "info":"Definiciones" },
+            { "idx":"3.2", "info":"Definiciones" },
+            { "idx":"3.3", "info":"Definiciones" }
          ]
       },
       {
          "idx" : 4,
-         "unit" : "Prácticas",
-         "topics" : [
-            { "idx":"4.1", "topic":"Definiciones" },
-            { "idx":"4.2", "topic":"Definiciones" },
-            { "idx":"4.3", "topic":"Definiciones" }
+         "title" : "Prácticas",
+         "paragraphs" : [
+            { "idx":"4.1", "info":"Definiciones" },
+            { "idx":"4.2", "info":"Definiciones" },
+            { "idx":"4.3", "info":"Definiciones" }
          ]
       },
       {
          "idx" : 5,
-         "unit" : "Prácticas",
-         "topics" : [
-            { "idx":"5.1", "topic":"Definiciones" },
-            { "idx":"5.2", "topic":"Definiciones" },
-            { "idx":"5.3", "topic":"Definiciones" }
+         "title" : "Prácticas",
+         "paragraphs" : [
+            { "idx":"5.1", "info":"Definiciones" },
+            { "idx":"5.2", "info":"Definiciones" },
+            { "idx":"5.3", "info":"Definiciones" }
          ]
       },
       {
          "idx" : 6,
-         "unit" : "Prácticas",
-         "topics" : [
-            { "idx":"6.1", "topic":"Definiciones" },
-            { "idx":"6.2", "topic":"Definiciones" },
-            { "idx":"6.3", "topic":"Definiciones" }
+         "title" : "Prácticas",
+         "paragraphs" : [
+            { "idx":"6.1", "info":"Definiciones" },
+            { "idx":"6.2", "info":"Definiciones" },
+            { "idx":"6.3", "info":"Definiciones" }
          ]
       }
    ],

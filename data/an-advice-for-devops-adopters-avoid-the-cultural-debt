@@ -9,62 +9,46 @@
    "content": [
       {
          "idx" : 1,
-         "unit" : "Prácticas",
-         "topics" : [
-           { "idx":"1.1", "topic":"Definiciones" },
-           { "idx":"1.2", "topic":"Definiciones" },
-           { "idx":"1.3", "topic":"Definiciones" }
+         "title" : "",
+         "paragraphs" : [
+           { "idx":"1.1", "info":"As IT organizations embrace DevOps, there is a very high risk of falling into one of the darkest—yet most common—pitfalls: ignoring the cultural implications of it. The risk? A technical DevOps initiative that consumes a lot of time and budget but falls short of delivering the expected benefits to the business." }
          ]
       },
       {
          "idx" : 2,
-         "unit" : "Prácticas",
-         "topics" : [
-            { "idx":"2.1", "topic":"Definiciones" },
-            { "idx":"2.2", "topic":"Definiciones" },
-            { "idx":"2.3", "topic":"Definiciones" }
+         "title" : "Tools and Technology are not Everything in DevOps",
+         "paragraphs" : [
+            { "idx":"2.1", "info":"Due to the very technical nature of a DevOps adoption, it is often believed that tools for optimizing, integrating, testing and deploying code, and technology that enables virtual infrastructure where applications can run smoothly and automatically recover from an incident is everything that is needed for a DevOps approach to succeed; however, experience has proven different. According to Gartner, around 75% of DevOps initiatives fail to deliver the expected results." },
+            { "idx":"2.2", "info":"It is true that without tools and technology, DevOps simply cannot be, but there is much more to it than just that. Being around in the industry for almost 10 years, DevOps has proven to deliver successful results to some organizations, but nothing more than a painful journey to many others. Why is that?" }
          ]
       },
       {
          "idx" : 3,
-         "unit" : "Prácticas",
-         "topics" : [
-            { "idx":"3.1", "topic":"Definiciones" },
-            { "idx":"3.2", "topic":"Definiciones" },
-            { "idx":"3.3", "topic":"Definiciones" }
+         "title" : "The Importance of Practices",
+         "paragraphs" : [
+            { "idx":"3.1", "info":"An effective DevOps approach is a set of practices developed by the organization that span across software development and IT operations teams, allowing them to work in collaboration and integration for the sake of developing software faster and maintaining more efficient and stable applications, allowing innovation and delivering many other benefits that we already know. These practices are of course enabled by tools and technology, but they are adopted by people. What makes teams effective is not the tools or the infrastructure assets they use, but the practices they adopt and how well those are defined, tailored to the specific context of the organization." },
+            { "idx":"3.2", "info":"This is more complicated than it sounds, since adopting a new practice involves changing mindsets and paradigms, and encouraging people to exercise creativity and innovation." }
          ]
       },
       {
          "idx" : 4,
-         "unit" : "Prácticas",
-         "topics" : [
-            { "idx":"4.1", "topic":"Definiciones" },
-            { "idx":"4.2", "topic":"Definiciones" },
-            { "idx":"4.3", "topic":"Definiciones" }
+         "title" : "The Key to Adopting and Sustaining Solid Practices",
+         "paragraphs" : [
+            { "idx":"4.1", "info":"Adopting a practice in an organization requires a culture of safety, experimentation and learning, which, in many cases (if not most), is something organizations lack of. What is the challenge then? Developing the culture within the IT organization that allows for the necessary change in people’s mindsets, and hence in their practices, to support a successful DevOps approach. That is what makes DevOps successful for only a few!" }
          ]
       },
       {
          "idx" : 5,
-         "unit" : "Prácticas",
-         "topics" : [
-            { "idx":"5.1", "topic":"Definiciones" },
-            { "idx":"5.2", "topic":"Definiciones" },
-            { "idx":"5.3", "topic":"Definiciones" }
-         ]
-      },
-      {
-         "idx" : 6,
-         "unit" : "Prácticas",
-         "topics" : [
-            { "idx":"6.1", "topic":"Definiciones" },
-            { "idx":"6.2", "topic":"Definiciones" },
-            { "idx":"6.3", "topic":"Definiciones" }
+         "title" : "The Cost of Bypassing the Cultural Aspects of DevOps",
+         "paragraphs" : [
+            { "idx":"5.1", "info":"Ignoring this reality will take teams and entire organizations into a situation that is more common than it should be (over 75% of the cases!), where thousands of dollars are spent on tools and technology, but the business value obtained from DevOps remains limited. The effect that this creates is better known as a “cultural debt”. As a financial debt, the longer it accumulates, the higher the cost a cultural debt will bring to the organization for not having addressed the cultural implications on time." },
+            { "idx":"5.2", "info":"A solid and effective DevOps adoption requires setting the right culture, guiding people—through awareness and training—to embrace the right mindset, defining the right practices and selecting the right technology to support it. Only then will DevOps be what it is meant to be." }
          ]
       }
    ],
-   "prev": "alsdijas",
-   "prevlink": "alsdijas",
-   "next": "asdkjasd",
-   "nextlink": "loasijd",
-   "tags": "dalksj"
+   "prev": "Global Lynx to finish 2021 strong, tripling revenue from previous years",
+   "prevlink": "global-lynx-to-finish-2021-strong-tripling-revenue-from-previous-years",
+   "next": "IT Service Management: The Ground Rules for the Game",
+   "nextlink": "it-service-management-the-ground-rules-for-the-game",
+   "tags": "Business, DevOps, Digital Transformation"
 }

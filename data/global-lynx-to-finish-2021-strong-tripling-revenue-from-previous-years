@@ -9,62 +9,77 @@
    "content": [
       {
          "idx" : 1,
-         "unit" : "Prácticas",
-         "topics" : [
-           { "idx":"1.1", "topic":"Definiciones" },
-           { "idx":"1.2", "topic":"Definiciones" },
-           { "idx":"1.3", "topic":"Definiciones" }
+         "title" : "",
+         "paragraphs" : [
+           { "idx":"1.1", "info":"Columbus, Ohio, based IT consulting and training provider, Global Lynx, USA, will finish 2021 in the black, nearly tripling revenue from all previous operating years. Global Lynx pivoted during the pandemic in 2020 to focus more on Workforce Development in Ohio, Florida, and California. Creating strong partnerships with both non-profit and for-profit enterprises, Global Lynx has become a leader in Workforce Development in IT for the State of Ohio." }
          ]
       },
       {
          "idx" : 2,
-         "unit" : "Prácticas",
-         "topics" : [
-            { "idx":"2.1", "topic":"Definiciones" },
-            { "idx":"2.2", "topic":"Definiciones" },
-            { "idx":"2.3", "topic":"Definiciones" }
+         "title" : "Global Lynx trained 112 individuals and awarding 165 micro-credentials through the IMAP program becoming one of the leading providers in the program.",
+         "paragraphs" : [
+            { "idx":"2.1", "info":"Working closely with the Governor’s Office of Workforce Transformation, Global Lynx hosted Lt. Governor Jon Husted in October for an IMAP roundtable discussion and official announcement of the program’s continuation into 2022. " },
+            { "idx":"2.2", "info":"Through our IMAP partners, Global Lynx IMAP training will serve members of the workforce in underserved populations in Ohio, in particular: people of color; recipients of social services programs who have faced barriers to education or employment; and veterans." }
          ]
       },
       {
          "idx" : 3,
-         "unit" : "Prácticas",
-         "topics" : [
-            { "idx":"3.1", "topic":"Definiciones" },
-            { "idx":"3.2", "topic":"Definiciones" },
-            { "idx":"3.3", "topic":"Definiciones" }
+         "title" : "Global Lynx was also an active provider of Ohio’s TechCred Program.",
+         "paragraphs" : [
+            { "idx":"3.1", "info":"Training organizations (i.e. The Ohio State University and Columbus City Schools) through the grant program that is paid for by the state of Ohio. " },
+            { "idx":"3.2", "info":"Global Lynx’s marketing team was active promoting both the IMAP and TechCred program. Global Lynx has well-developed outreach and recruitment channels for marketing and delivering IT certifications to Ohio companies and workers. We have leveraged our team of social media (LinkedIn, Facebook, Twitter, Instagram, YouTube), digital advertising (Google, Facebook, Instagram), mobile behavioral, email, and database-marketing specialists to recruit individuals for training. Our IT trainers are networked among influential IT professionals and organizations across Ohio. " },
+            { "idx":"3.3", "info":"Definiciones" }
          ]
       },
       {
          "idx" : 4,
-         "unit" : "Prácticas",
-         "topics" : [
-            { "idx":"4.1", "topic":"Definiciones" },
-            { "idx":"4.2", "topic":"Definiciones" },
-            { "idx":"4.3", "topic":"Definiciones" }
+         "title" : "Workforce Development Platform",
+         "paragraphs" : [
+            { "idx":"4.1", "info":"Global Lynx recently released an online workforce development platform (wde.globallynx.com) to help both individuals who are seeking employment and technology training, as well as employers are looking for the talent they need to fill their open IT positions. " },
+            { "idx":"4.2", "info":"Individuals can take free training courses from Cisco and Intel through the platform, as well as look for job, internship, volunteering, training, and other opportunities. " },
+            { "idx":"4.3", "info":"Global Lynx further developed our live, online-podcast, “IT LIVE”, hosting over 15 episodes with IT professionals from around the United States. IT LIVE is a space to learn new skills and best practices from IT professionals and leverage on workforce development opportunities. In IT LIVE we focus on building the capabilities of the future,  supporting IT talent development through live sessions with our Xperts™ and other partners in Global Lynx’s Workforce Development Ecosystem. Episodes have hosted professionals from local organizations up to national, including ServiceNow." },
+            { "idx":"4.4", "info":"In 2021, Global Lynx also partnered with ByLight Professional IT Services to train over 200 employees at the U.S. Department of Veterans Affairs in CompTIA training courses. " },
+            { "idx":"4.5", "info":"In late November 2021, Global Lynx partnered with LACI (Los Angeles Cleantech Incubator) to deliver Workforce Development training in Technical IT to 20 women in the Los Angeles region. " }
          ]
       },
       {
          "idx" : 5,
-         "unit" : "Prácticas",
-         "topics" : [
-            { "idx":"5.1", "topic":"Definiciones" },
-            { "idx":"5.2", "topic":"Definiciones" },
-            { "idx":"5.3", "topic":"Definiciones" }
+         "title" : "Global Lynx partnered with additional vendors to help reach companies goals including: ",
+         "paragraphs" : [
+            { "idx":"5.1", "info":"• The StrategyOps Institute" },
+            { "idx":"5.2", "info":"• EduCert Institute" },
+            { "idx":"5.3", "info":"• The Ohio Computer Academy" },
+            { "idx":"5.4", "info":"• MindCraft" },
+            { "idx":"5.5", "info":"• Intel" },
+            { "idx":"5.6", "info":"• Cisco" },
+            { "idx":"5.7", "info":"• CompTIA" }
          ]
       },
       {
          "idx" : 6,
-         "unit" : "Prácticas",
-         "topics" : [
-            { "idx":"6.1", "topic":"Definiciones" },
-            { "idx":"6.2", "topic":"Definiciones" },
-            { "idx":"6.3", "topic":"Definiciones" }
+         "title" : "Other notable initiatives in 2021 that will continue into 2022 include: ",
+         "paragraphs" : [
+            { "idx":"6.1", "info":"• Workforce Development opportunities in other states, including Florida and California." },
+            { "idx":"6.2", "info":"• MaturixIT capability assessment delivery" },
+            { "idx":"6.3", "info":"• Exploration of partnership opportunities with community colleges, universities, and high schools" },
+            { "idx":"6.4", "info":"• ITSM implementation at smaller universities" },
+            { "idx":"6.5", "info":"Since 1996, Global Lynx experts have helped organizations in five different countries improving, and often transforming their IT operations, through the implementation of effective frameworks for IT governance, ITSM, PMO, and IT security. As an Accredited Training Organization (ATO), Global Lynx also offers a wide variety of IT courseware, covering different areas, standards, frameworks, and methodologies; and at various levels of expertise." },
+            { "idx":"6.6", "info":"Please visit www.globallynx.com to learn more about Global Lynx." }
+         ]
+      },
+      {
+         "idx" : 7,
+         "title" : "Contact Information",
+         "paragraphs" : [
+            { "idx":"7.1", "info":"Global Lynx" },
+            { "idx":"7.2", "info":"(614) 347-1994" },
+            { "idx":"7.3", "info":"administration@globallynx.com" }
          ]
       }
    ],
-   "prev": "alsdijas",
-   "prevlink": "alsdijas",
-   "next": "asdkjasd",
-   "nextlink": "loasijd",
-   "tags": "dalksj"
+   "prev": "The Best First Step to Take when Adopting DevOps",
+   "prevlink": "the-best-first-step-to-take-when-adopting-devops",
+   "next": "An Advice for DevOps Adopters: Avoid the Cultural Debt",
+   "nextlink": "an-advice-for-devops-adopters-avoid-the-cultural-debt",
+   "tags": "Workforce Development"
 }
