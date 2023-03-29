@@ -4,29 +4,39 @@
       "article": "IT Service Management: The Ground Rules for the Game",
       "category": "28 Mar 2023",
       "date": "IT Service Management",
-      "author": "Manuel Garcia" },
+      "author": "Manuel Garcia",
+      "info": "You are at the beach with friends, the sun is high, the sea is calm, and the environment is inviting…."
+   },
    {  "id": 2,
       "linkurl": "attaining-visibility-in-an-it-devops-environment",
       "article": "Attaining Visibility in an IT-DevOps Environment",
       "category": "DevOps, Digital Transformation",
       "date": "17 Mar 2023",
-      "author": "Jack Maher" },
+      "author": "Jack Maher",
+      "info": "Many people dream of being invisible, a superpower that has intrigued man since time immemorial. In today’s world of business and…"
+   },
    {  "id": 3,
       "linkurl": "the-best-first-step-to-take-when-adopting-devops",
       "article": "The Best First Step to Take when Adopting DevOps",
       "category": "DevOps, Digital Transformation",
       "date": "5 Mar 2023",
-      "author": "Manuel Garcia" },
+      "author": "Manuel Garcia",
+      "info": "DevOps adoptions are certainly something going trendy; not really because of being popular, but rather because our times demand it…."
+   },
    {  "id": 4,
       "linkurl": "global-lynx-to-finish-2021-strong-tripling-revenue-from-previous-years",
       "article": "Global Lynx to finish 2021 strong, tripling revenue from previous years",
       "category": "Global Lynx",
       "date": "20 Feb 2023",
-      "author": "Workforce Development" },
+      "author": "Workforce Development",
+      "info": "Columbus, Ohio, based IT consulting and training provider, Global Lynx, USA, will finish 2021 in the black, nearly tripling revenue…"
+   },
    {  "id": 5,
       "linkurl": "an-advice-for-devops-adopters-avoid-the-cultural-debt",
       "article": "An Advice for DevOps Adopters: Avoid the Cultural Debt",
       "category": "GlobalLynx",
       "date": "10 Feb 2023",
-      "author": "DevOps" }
+      "author": "DevOps",
+      "info": "As IT organizations embrace DevOps, there is a very high risk of falling into one of the darkest—yet most common—pitfalls:…"
+   }
 ]
