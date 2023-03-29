@@ -19,7 +19,7 @@
          "idx" : 2,
          "title" : "How is your IT Game Being Played?",
          "paragraphs" : [
-            { "idx":"2.1", "info":"This is an analogy of what your IT organization might be doing while delivering services to the business—your customer—**without having an IT Service Management (ITSM) framework defined.** I'm not talking about having a resource such as a ticketing tool (like ServiceNow™) or how roles and departments are organized; I'm referring to the definition of practices and measurements that will set the rules for how the IT game should be played." }
+            { "idx":"2.1", "info":"This is an analogy of what your IT organization might be doing while delivering services to the business—your customer—without having an IT Service Management (ITSM) framework defined. I'm not talking about having a resource such as a ticketing tool (like ServiceNow™) or how roles and departments are organized; I'm referring to the definition of practices and measurements that will set the rules for how the IT game should be played." }
          ]
       },
       {
@@ -53,5 +53,10 @@
             { "idx":"6.1", "info":"If you want to learn how Global Lynx can help your IT organization define or assess your ITSM framework, contact us today." }
          ]
       }
-   ]
+   ],
+   "prev": "alsdijas",
+   "prevlink": "alsdijas",
+   "next": "asdkjasd",
+   "nextlink": "loasijd",
+   "tags": "dalksj"
 }

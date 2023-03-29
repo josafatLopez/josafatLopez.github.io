@@ -1,0 +1,70 @@
+{
+   "id": 2,
+   "linkurl": "attaining-visibility-in-an-it-devops-environment",
+   "image": "https://blog.globallynx.com/wp-content/uploads/2021/01/visibility.jpg",
+   "article": "Attaining Visibility in an IT-DevOps Environment",
+   "category": "DevOps, Digital Transformation",
+   "date": "17 Mar 2023",
+   "author": "Jack Maher",
+   "content": [
+      {
+         "idx" : 1,
+         "unit" : "Prácticas",
+         "topics" : [
+           { "idx":"1.1", "topic":"Definiciones" },
+           { "idx":"1.2", "topic":"Definiciones" },
+           { "idx":"1.3", "topic":"Definiciones" }
+         ]
+      },
+      {
+         "idx" : 2,
+         "unit" : "Prácticas",
+         "topics" : [
+            { "idx":"2.1", "topic":"Definiciones" },
+            { "idx":"2.2", "topic":"Definiciones" },
+            { "idx":"2.3", "topic":"Definiciones" }
+         ]
+      },
+      {
+         "idx" : 3,
+         "unit" : "Prácticas",
+         "topics" : [
+            { "idx":"3.1", "topic":"Definiciones" },
+            { "idx":"3.2", "topic":"Definiciones" },
+            { "idx":"3.3", "topic":"Definiciones" }
+         ]
+      },
+      {
+         "idx" : 4,
+         "unit" : "Prácticas",
+         "topics" : [
+            { "idx":"4.1", "topic":"Definiciones" },
+            { "idx":"4.2", "topic":"Definiciones" },
+            { "idx":"4.3", "topic":"Definiciones" }
+         ]
+      },
+      {
+         "idx" : 5,
+         "unit" : "Prácticas",
+         "topics" : [
+            { "idx":"5.1", "topic":"Definiciones" },
+            { "idx":"5.2", "topic":"Definiciones" },
+            { "idx":"5.3", "topic":"Definiciones" }
+         ]
+      },
+      {
+         "idx" : 6,
+         "unit" : "Prácticas",
+         "topics" : [
+            { "idx":"6.1", "topic":"Definiciones" },
+            { "idx":"6.2", "topic":"Definiciones" },
+            { "idx":"6.3", "topic":"Definiciones" }
+         ]
+      }
+   ],
+   "prev": "alsdijas",
+   "prevlink": "alsdijas",
+   "next": "asdkjasd",
+   "nextlink": "loasijd",
+   "tags": "dalksj"
+}
