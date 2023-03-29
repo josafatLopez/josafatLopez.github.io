@@ -1,0 +1,70 @@
+{
+   "id": 7,
+   "linkurl": "ai-solutions-justification-not-your-typical-tco",
+   "image": "https://blog.globallynx.com/wp-content/uploads/2020/12/Key-elements-for-an-AI-business-solution-value-plan.png",
+   "article": "AI Solutions Justification - Not Your Typical TCO",
+   "category": "Digital Transformation",
+   "date": "25 Ene 2023",
+   "author": "Ruben Melendez",
+   "content": [
+      {
+         "idx" : 1,
+         "unit" : "Prácticas",
+         "topics" : [
+           { "idx":"1.1", "topic":"Definiciones" },
+           { "idx":"1.2", "topic":"Definiciones" },
+           { "idx":"1.3", "topic":"Definiciones" }
+         ]
+      },
+      {
+         "idx" : 2,
+         "unit" : "Prácticas",
+         "topics" : [
+            { "idx":"2.1", "topic":"Definiciones" },
+            { "idx":"2.2", "topic":"Definiciones" },
+            { "idx":"2.3", "topic":"Definiciones" }
+         ]
+      },
+      {
+         "idx" : 3,
+         "unit" : "Prácticas",
+         "topics" : [
+            { "idx":"3.1", "topic":"Definiciones" },
+            { "idx":"3.2", "topic":"Definiciones" },
+            { "idx":"3.3", "topic":"Definiciones" }
+         ]
+      },
+      {
+         "idx" : 4,
+         "unit" : "Prácticas",
+         "topics" : [
+            { "idx":"4.1", "topic":"Definiciones" },
+            { "idx":"4.2", "topic":"Definiciones" },
+            { "idx":"4.3", "topic":"Definiciones" }
+         ]
+      },
+      {
+         "idx" : 5,
+         "unit" : "Prácticas",
+         "topics" : [
+            { "idx":"5.1", "topic":"Definiciones" },
+            { "idx":"5.2", "topic":"Definiciones" },
+            { "idx":"5.3", "topic":"Definiciones" }
+         ]
+      },
+      {
+         "idx" : 6,
+         "unit" : "Prácticas",
+         "topics" : [
+            { "idx":"6.1", "topic":"Definiciones" },
+            { "idx":"6.2", "topic":"Definiciones" },
+            { "idx":"6.3", "topic":"Definiciones" }
+         ]
+      }
+   ],
+   "prev": "alsdijas",
+   "prevlink": "alsdijas",
+   "next": "asdkjasd",
+   "nextlink": "loasijd",
+   "tags": "dalksj"
+}

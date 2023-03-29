@@ -1,0 +1,70 @@
+{
+   "id": 6,
+   "linkurl": "innovative-it-talent-pipeline-management-platform-to-help-reduce-ohios-technology-talent-shortage",
+   "image": "https://blog.globallynx.com/wp-content/uploads/2021/11/wde-1-1.jpg",
+   "article": "New IT Talent Pipeline Management Platform to help reduce Ohio's technology talent shortage",
+   "category": "Workforce Development",
+   "date": "1 Feb 2023",
+   "author": "Global Lynx",
+   "content": [
+      {
+         "idx" : 1,
+         "unit" : "Prácticas",
+         "topics" : [
+           { "idx":"1.1", "topic":"Definiciones" },
+           { "idx":"1.2", "topic":"Definiciones" },
+           { "idx":"1.3", "topic":"Definiciones" }
+         ]
+      },
+      {
+         "idx" : 2,
+         "unit" : "Prácticas",
+         "topics" : [
+            { "idx":"2.1", "topic":"Definiciones" },
+            { "idx":"2.2", "topic":"Definiciones" },
+            { "idx":"2.3", "topic":"Definiciones" }
+         ]
+      },
+      {
+         "idx" : 3,
+         "unit" : "Prácticas",
+         "topics" : [
+            { "idx":"3.1", "topic":"Definiciones" },
+            { "idx":"3.2", "topic":"Definiciones" },
+            { "idx":"3.3", "topic":"Definiciones" }
+         ]
+      },
+      {
+         "idx" : 4,
+         "unit" : "Prácticas",
+         "topics" : [
+            { "idx":"4.1", "topic":"Definiciones" },
+            { "idx":"4.2", "topic":"Definiciones" },
+            { "idx":"4.3", "topic":"Definiciones" }
+         ]
+      },
+      {
+         "idx" : 5,
+         "unit" : "Prácticas",
+         "topics" : [
+            { "idx":"5.1", "topic":"Definiciones" },
+            { "idx":"5.2", "topic":"Definiciones" },
+            { "idx":"5.3", "topic":"Definiciones" }
+         ]
+      },
+      {
+         "idx" : 6,
+         "unit" : "Prácticas",
+         "topics" : [
+            { "idx":"6.1", "topic":"Definiciones" },
+            { "idx":"6.2", "topic":"Definiciones" },
+            { "idx":"6.3", "topic":"Definiciones" }
+         ]
+      }
+   ],
+   "prev": "alsdijas",
+   "prevlink": "alsdijas",
+   "next": "asdkjasd",
+   "nextlink": "loasijd",
+   "tags": "dalksj"
+}
