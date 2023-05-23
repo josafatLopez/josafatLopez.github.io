@@ -25,10 +25,12 @@
       ]
    },
    {
-      "category" : "Integración de Servicios",
+      "category" : "Desarrollo de Software",
       "courses": [
-         { "id": 38, "linkurl": "siam-service-integration-and-management", "course": "SIAM Foundation (Service Integration and Management)" },
-         { "id": 39, "linkurl": "it-contracts-and-outsourcing-management", "course": "IT Contracts and Outsourcing Mgmt" }
+         { "id": 55, "linkurl": "certified-application-security-engineer", "course": "CASE - Certified Application Security Engineer .Net" },
+         { "id": 56, "linkurl": "certified-application-security-engineer-java", "course": "CASE - Certified Application Security Engineer Java" },
+         { "id": 85, "linkurl": "open-web-application-security-project-owasp", "course": "Open Web Application Security Project (OWASP)", "new": true},
+         { "id": 86, "linkurl": "blockchain-fundamentals", "course": "Blockchain Fundamental Certified", "new": true}
       ]
    },
    {
@@ -123,15 +125,6 @@
       ]
    },
    {
-      "category" : "Desarrollo de Software",
-      "courses": [
-         { "id": 55, "linkurl": "certified-application-security-engineer", "course": "CASE - Certified Application Security Engineer .Net" },
-         { "id": 56, "linkurl": "certified-application-security-engineer-java", "course": "CASE - Certified Application Security Engineer Java" },
-         { "id": 85, "linkurl": "open-web-application-security-project-owasp", "course": "Open Web Application Security Project (OWASP)", "new": true},
-         { "id": 86, "linkurl": "blockchain-fundamentals", "course": "Blockchain Fundamental Certified", "new": true}
-      ]
-   },
-   {
       "category" : "Combos",
       "courses": [
          { "id": 71, "linkurl": "combo-business-continuity-week", "course": "Combo Business Continuity Week" },
@@ -160,6 +153,13 @@
       "courses": [
          { "id": 3, "linkurl": "pmp-exam-preparation", "course": "PMI® Authorized PMP® Exam Prep Course" },
          { "id": 70, "linkurl": "project-management-foundation", "course": "Project Management Foundation" }
+      ]
+   },
+   {
+      "category" : "Integración de Servicios",
+      "courses": [
+         { "id": 38, "linkurl": "siam-service-integration-and-management", "course": "SIAM Foundation (Service Integration and Management)" },
+         { "id": 39, "linkurl": "it-contracts-and-outsourcing-management", "course": "IT Contracts and Outsourcing Mgmt" }
       ]
    }
 ]
