@@ -32,13 +32,6 @@
       ]
    },
    {
-      "category" : "PMI",
-      "courses": [
-         { "id": 3, "linkurl": "pmp-exam-preparation", "course": "PMI® Authorized PMP® Exam Prep Course" },
-         { "id": 70, "linkurl": "project-management-foundation", "course": "Project Management Foundation" }
-      ]
-   },
-   {
       "category" : "Agile",
       "courses": [
          { "id": 21, "linkurl": "agile-scrum-foundation", "course": "Agile SCRUM Foundation" },
@@ -160,6 +153,13 @@
       "category" : "Cloud Computing",
       "courses": [
          { "id": 64, "linkurl": "cloud-computing-foundation", "course": "Cloud Computing Foundation" }
+      ]
+   },
+   {
+      "category" : "PMI",
+      "courses": [
+         { "id": 3, "linkurl": "pmp-exam-preparation", "course": "PMI® Authorized PMP® Exam Prep Course" },
+         { "id": 70, "linkurl": "project-management-foundation", "course": "Project Management Foundation" }
       ]
    }
 ]
