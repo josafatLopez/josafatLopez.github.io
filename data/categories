@@ -59,6 +59,7 @@
       "category" : "Gobierno de TI y Auditoría",
       "courses": [
          { "id": 32, "linkurl": "cobit-2019-foundation", "course": "COBIT® 2019 Foundation" },
+         { "id": 88, "linkurl": "cobit-design-and-implementation", "course": "COBIT® 2019 Design & Implementation" },
          { "id": 33, "linkurl": "it-governance-foundation-iso-iec-38500", "course": "IT Governance Fdn - ISO/IEC 38500" },
          { "id": 34, "linkurl": "cgeit-certified-in-the-governance-of-enterprise-it", "course": "CGEIT® Certified in the Governance of Enterprise IT" },
          { "id": 35, "linkurl": "cisa-certified-information-system-auditor", "course": "CISA® (Certified Information System Auditor)" },
@@ -160,6 +161,12 @@
       "courses": [
          { "id": 38, "linkurl": "siam-service-integration-and-management", "course": "SIAM Foundation (Service Integration and Management)" },
          { "id": 39, "linkurl": "it-contracts-and-outsourcing-management", "course": "IT Contracts and Outsourcing Mgmt" }
+      ]
+   },
+   {
+      "category" : "Data Management",
+      "courses" : [
+         { "id": 87, "linkurl": "data-management", "course": "Certified Data Management Professional (CDMP®)"  }
       ]
    }
 ]
