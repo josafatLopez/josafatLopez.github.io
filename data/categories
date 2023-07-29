@@ -136,7 +136,6 @@
       "category" : "ITSM (ISO/IEC 20000)",
       "courses": [
          { "id": 75, "linkurl": "itsm-foundation", "course": "ITSM Fdn based on ISO/IEC 20000" },
-         { "id": 76, "linkurl": "iso-iec-20000-lead-implementer", "course": "ISO/IEC 20000 Lead Implementer" },
          { "id": 77, "linkurl": "itsm-internal-auditor", "course": "Internal Auditor in ITSM based on ISO/IEC 20000" },
          { "id": 78, "linkurl": "iso-iec-20000-lead-auditor", "course": "ISO/IEC 20000 Lead Auditor" }
       ]
