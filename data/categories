@@ -62,7 +62,8 @@
          { "id": 33, "linkurl": "it-governance-foundation-iso-iec-38500", "course": "IT Governance Fdn - ISO/IEC 38500" },
          { "id": 34, "linkurl": "cgeit-certified-in-the-governance-of-enterprise-it", "course": "CGEIT® Certified in the Governance of Enterprise IT" },
          { "id": 35, "linkurl": "cisa-certified-information-system-auditor", "course": "CISA® (Certified Information System Auditor)" },
-         { "id": 37, "linkurl": "process-design-and-implementation", "course": "Process Design and Implementation" }
+         { "id": 37, "linkurl": "process-design-and-implementation", "course": "Process Design and Implementation" },
+         { "id": 36, "linkurl": "cgrc", "course": "CGRC - Governance, Risk and Compliance" }
       ]
    },
    {
@@ -101,7 +102,8 @@
          { "id": 60, "linkurl": "iso-iec-27001-lead-auditor", "course": "ISO/IEC 27001 Lead Auditor" },
          { "id": 61, "linkurl": "cism-certified-information-security-manager", "course": "CISM® Certified Information Security Manager®" },
          { "id": 62, "linkurl": "certified-information-systems-security-professional", "course": "CISSP® Certified Information Systems Security Professional", "new": true },
-         { "id": 63, "linkurl": "certified-cloud-security-professional", "course": "CCSP® Certified Cloud Security Professional", "new": true }
+         { "id": 63, "linkurl": "certified-cloud-security-professional", "course": "CCSP® Certified Cloud Security Professional", "new": true },
+         { "id": 65, "linkurl": "security-plus", "course": "CompTIA Security+", "new": true }
       ]
    },
    {
