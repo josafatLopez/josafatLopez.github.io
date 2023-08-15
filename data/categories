@@ -12,8 +12,6 @@
    {
       "category" : "DevOps",
       "courses": [
-         { "id": 6, "linkurl": "devops-fundamentals-peoplecert", "course": "DevOps Fundamentals - Peoplecert" },
-         { "id": 7, "linkurl": "devops-leadership-peoplecert", "course": "DevOps Leadership - Peoplecert" },
          { "id": 8, "linkurl": "devops-foundation-exin", "course": "DevOps Foundation - EXIN" },
          { "id": 9, "linkurl": "devops-master-exin", "course": "DevOps Master - EXIN" },
          { "id": 10, "linkurl": "devops-foundation-devops-institute", "course": "DevOps Foundation - DevOps Institute" },
